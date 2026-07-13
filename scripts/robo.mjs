@@ -1,0 +1,166 @@
+// Robô Acerto Games — coleta notícias, escreve com personalidade e salva RASCUNHOS.
+// Nada vai ao ar sem aprovação humana (npm run publicar <slug>).
+//
+// Uso:  ANTHROPIC_API_KEY=sk-... node scripts/robo.mjs
+
+import fs from "fs";
+import path from "path";
+
+const RAIZ = process.cwd();
+const CONFIG = JSON.parse(fs.readFileSync(path.join(RAIZ, "scripts/fontes.json"), "utf-8"));
+const PERSONA = fs.readFileSync(path.join(RAIZ, "scripts/persona.md"), "utf-8");
+const DIR_RASCUNHOS = path.join(RAIZ, "content/rascunhos");
+const DIR_PUBLICADOS = path.join(RAIZ, "content/publicados");
+
+const API_KEY = process.env.ANTHROPIC_API_KEY;
+if (!API_KEY) {
+  console.error("❌ Defina a variável ANTHROPIC_API_KEY antes de rodar.");
+  process.exit(1);
+}
+
+// ---------- 1. Coleta ----------
+
+function extrair(xml, tag) {
+  const tagEsc = tag.replace(":", "\\:");
+  const m = xml.match(new RegExp(`<${tagEsc}[^>]*>([\\s\\S]*?)</${tagEsc}>`, "i"));
+  if (!m) return "";
+  return m[1]
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&#\d+;/g, "")
+    .trim();
+}
+
+async function coletarFeed(fonte) {
+  try {
+    const res = await fetch(fonte.url, {
+      headers: { "User-Agent": "AcertoGamesBot/1.0" },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const xml = await res.text();
+    const itens = [...xml.matchAll(/<item[\s\S]*?<\/item>/gi)].map((m) => m[0]);
+    return itens.map((item) => ({
+      fonte: fonte.nome,
+      pais: fonte.pais,
+      idioma: fonte.idioma,
+      titulo: extrair(item, "title"),
+      link: extrair(item, "link"),
+      data: extrair(item, "pubDate") || extrair(item, "dc:date"),
+      resumo: extrair(item, "description").slice(0, 2000),
+    }));
+  } catch (err) {
+    console.warn(`⚠️  Falha ao coletar "${fonte.nome}": ${err.message}`);
+    return [];
+  }
+}
+
+function dentroDaJanela(pubDate, horas) {
+  const d = new Date(pubDate);
+  if (isNaN(d)) return true; // sem data válida, deixa passar para triagem
+  return Date.now() - d.getTime() <= horas * 3600 * 1000;
+}
+
+function slugsExistentes() {
+  const slugs = new Set();
+  for (const dir of [DIR_RASCUNHOS, DIR_PUBLICADOS]) {
+    if (!fs.existsSync(dir)) continue;
+    for (const f of fs.readdirSync(dir)) {
+      if (f.endsWith(".json")) slugs.add(f.replace(/\.json$/, ""));
+    }
+  }
+  return slugs;
+}
+
+// ---------- 2. Redação com Claude ----------
+
+async function escreverMateria(item) {
+  const hoje = new Date().toLocaleDateString("pt-BR", {
+    day: "2-digit", month: "short", year: "numeric",
+  });
+
+  const material = [
+    `FONTE: ${item.fonte} (${item.pais || "?"} — material original em ${item.idioma || "?"})`,
+    `LINK ORIGINAL: ${item.link}`,
+    `DATA DE PUBLICAÇÃO DA FONTE: ${item.data}`,
+    `TÍTULO ORIGINAL: ${item.titulo}`,
+    `RESUMO/CONTEÚDO DISPONÍVEL: ${item.resumo}`,
+    ``,
+    `DATA DE HOJE: ${hoje}`,
+    `Escreva a matéria seguindo a persona e as regras. Lembre: se o material for insuficiente, sinalize na "observacao".`,
+  ].join("\n");
+
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "x-api-key": API_KEY,
+      "anthropic-version": "2023-06-01",
+    },
+    body: JSON.stringify({
+      model: "claude-sonnet-4-6",
+      max_tokens: 2000,
+      system: PERSONA,
+      messages: [{ role: "user", content: material }],
+    }),
+  });
+
+  if (!res.ok) throw new Error(`API ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  const texto = data.content
+    .filter((c) => c.type === "text")
+    .map((c) => c.text)
+    .join("\n")
+    .replace(/```json|```/g, "")
+    .trim();
+
+  return JSON.parse(texto);
+}
+
+// ---------- 3. Rodada ----------
+
+async function main() {
+  console.log("🤖 Robô Acerto Games iniciando rodada...\n");
+  fs.mkdirSync(DIR_RASCUNHOS, { recursive: true });
+
+  const coletas = await Promise.all(CONFIG.fontes.map(coletarFeed));
+  let itens = coletas.flat().filter((i) => i.titulo && dentroDaJanela(i.data, CONFIG.horasJanela));
+  console.log(`📡 ${itens.length} itens coletados dentro da janela de ${CONFIG.horasJanela}h.`);
+
+  const existentes = slugsExistentes();
+  itens = itens.slice(0, CONFIG.maxMateriasPorRodada);
+
+  let novos = 0;
+  for (const item of itens) {
+    try {
+      console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
+      const materia = await escreverMateria(item);
+
+      if (!materia.slug || !materia.title || !Array.isArray(materia.body)) {
+        console.warn("   ⚠️  JSON incompleto, pulando.");
+        continue;
+      }
+      if (existentes.has(materia.slug)) {
+        console.log("   ↩️  Já existe, pulando.");
+        continue;
+      }
+
+      const destino = path.join(DIR_RASCUNHOS, `${materia.slug}.json`);
+      fs.writeFileSync(destino, JSON.stringify(materia, null, 2), "utf-8");
+      existentes.add(materia.slug);
+      novos++;
+      console.log(`   ✅ Rascunho salvo: content/rascunhos/${materia.slug}.json`);
+      if (materia.observacao) console.log(`   📝 Obs do robô: ${materia.observacao}`);
+    } catch (err) {
+      console.warn(`   ❌ Erro nesta matéria: ${err.message}`);
+    }
+  }
+
+  console.log(`\n🏁 Rodada concluída: ${novos} rascunho(s) novo(s).`);
+  console.log("👀 Revise em content/rascunhos/ e aprove com: npm run publicar <slug>");
+}
+
+main();

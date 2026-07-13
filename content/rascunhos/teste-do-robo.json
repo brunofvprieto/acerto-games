@@ -1,0 +1,19 @@
+{
+  "slug": "teste-do-robo",
+  "category": "notícia",
+  "title": "Teste: o robô do Acerto Games acaba de nascer (e já chegou chegando)",
+  "excerpt": "Primeira matéria de teste do sistema automatizado. Se você está lendo isso, o fluxo funcionou.",
+  "author": "Robô Acerto Games",
+  "date": "13 jul 2026",
+  "readTime": "1 min",
+  "cover": [
+    "#2EE86C",
+    "#0B3D91"
+  ],
+  "fonte": "Teste interno",
+  "fonteUrl": "https://example.com",
+  "body": [
+    "Papo reto, galera: essa matéria existe só pra testar o fluxo de rascunho → aprovação → publicação. Pode apagar sem dó.",
+    "Segundo apurou nossa redação (de um robô só), está tudo funcionando lindamente."
+  ]
+}

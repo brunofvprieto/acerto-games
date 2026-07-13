@@ -1,0 +1,16 @@
+{
+  "fontes": [
+    { "nome": "IGN", "pais": "EUA", "idioma": "inglês", "url": "https://feeds.ign.com/ign/all" },
+    { "nome": "GameSpot", "pais": "EUA", "idioma": "inglês", "url": "https://www.gamespot.com/feeds/news/" },
+    { "nome": "Polygon", "pais": "EUA", "idioma": "inglês", "url": "https://www.polygon.com/rss/index.xml" },
+    { "nome": "Eurogamer", "pais": "Reino Unido", "idioma": "inglês", "url": "https://www.eurogamer.net/feed" },
+    { "nome": "VGC", "pais": "Reino Unido", "idioma": "inglês", "url": "https://www.videogameschronicle.com/feed/" },
+    { "nome": "Famitsu", "pais": "Japão", "idioma": "japonês", "url": "https://www.famitsu.com/rss/famitsu_all.rdf" },
+    { "nome": "4Gamer", "pais": "Japão", "idioma": "japonês", "url": "https://www.4gamer.net/rss/index.xml" },
+    { "nome": "Game Watch", "pais": "Japão", "idioma": "japonês", "url": "https://game.watch.impress.co.jp/data/rss/1.0/gmw/feed.rdf" },
+    { "nome": "PlayStation Blog Brasil", "pais": "Brasil", "idioma": "português", "url": "https://blog.br.playstation.com/feed/" },
+    { "nome": "Xbox Wire Brasil", "pais": "Brasil", "idioma": "português", "url": "https://news.xbox.com/pt-br/feed/" }
+  ],
+  "maxMateriasPorRodada": 3,
+  "horasJanela": 24
+}

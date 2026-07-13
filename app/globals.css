@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-ink text-paper font-body antialiased;
+}
+
+/* Ticker de últimas notícias */
+.ticker-track {
+  display: flex;
+  gap: 3rem;
+  width: max-content;
+  animation: ticker 32s linear infinite;
+}
+
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track { animation: none; }
+}
+
+/* Capa em gradiente com scanlines sutis, clima arcade */
+.cover {
+  position: relative;
+  overflow: hidden;
+}
+.cover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.14) 0px,
+    rgba(0, 0, 0, 0.14) 1px,
+    transparent 1px,
+    transparent 4px
+  );
+  pointer-events: none;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #ffd60a;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Logo estilo letreiro arcade */
+.logo-arcade {
+  font-family: "Bungee", "Archivo Black", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: #fff;
+  line-height: 1;
+  text-shadow:
+    0 0.045em 0 #0a0d10,
+    0 0.075em 0 #2ee86c,
+    0 0.105em 0 #0a0d10,
+    0 0.135em 0 #2ee86c,
+    0 0.165em 0 #0a0d10,
+    0 0.195em 0 rgba(46, 232, 108, 0.55);
+  padding-bottom: 0.2em;
+}
