@@ -50,7 +50,12 @@ export default function Noticia({ params }) {
           Por {post.author} · {post.date} · {post.readTime} de leitura
         </p>
 
-        <Cover colors={post.cover} className="mt-6 h-64 md:h-80" />
+        <Cover colors={post.cover} image={post.image} className="mt-6 h-64 md:h-80" />
+        {post.imageCredit && (
+          <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">
+            📷 {post.imageCredit}
+          </p>
+        )}
 
         {post.nota !== undefined && (
           <div className="mt-6 flex items-center gap-4 border border-edge bg-surface p-4">

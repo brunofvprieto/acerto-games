@@ -1,11 +1,11 @@
 import Link from "next/link";
 
-export function Cover({ colors, className = "", children }) {
+export function Cover({ colors, image, className = "", children }) {
+  const fundo = image
+    ? `url(${image}) center / cover no-repeat, linear-gradient(135deg, ${colors[0]}, ${colors[1]})`
+    : `linear-gradient(135deg, ${colors[0]}, ${colors[1]})`;
   return (
-    <div
-      className={`cover ${className}`}
-      style={{ background: `linear-gradient(135deg, ${colors[0]}, ${colors[1]})` }}
-    >
+    <div className={`cover ${className}`} style={{ background: fundo }}>
       {children}
     </div>
   );
@@ -47,7 +47,7 @@ export function NewsCard({ post }) {
       href={`/noticia/${post.slug}`}
       className="group block border border-edge bg-surface transition-colors hover:border-arcade"
     >
-      <Cover colors={post.cover} className="h-40" />
+      <Cover colors={post.cover} image={post.image} className="h-40" />
       <div className="space-y-2 p-4">
         <CategoryTag category={post.category} />
         <h3 className="font-display text-lg leading-snug group-hover:text-arcade">
@@ -68,7 +68,7 @@ export function ReviewCard({ post }) {
       href={`/noticia/${post.slug}`}
       className="group relative block border border-edge bg-surface transition-colors hover:border-violet"
     >
-      <Cover colors={post.cover} className="h-40" />
+      <Cover colors={post.cover} image={post.image} className="h-40" />
       <div className="absolute right-4 top-28">
         <Nota value={post.nota} />
       </div>

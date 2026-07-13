@@ -17,7 +17,7 @@ export default function Home() {
           href={`/noticia/${destaque.slug}`}
           className="group grid overflow-hidden border border-edge bg-surface md:grid-cols-2"
         >
-          <Cover colors={destaque.cover} className="min-h-56 md:min-h-full" />
+          <Cover colors={destaque.cover} image={destaque.image} className="min-h-56 md:min-h-full" />
           <div className="flex flex-col justify-center gap-3 p-6 md:p-10">
             <CategoryTag category={destaque.category} />
             <h1 className="font-display text-3xl leading-tight group-hover:text-arcade md:text-4xl">
@@ -67,7 +67,7 @@ export default function Home() {
               href={`/noticia/${p.slug}`}
               className="group flex gap-4 border border-edge bg-surface p-4 transition-colors hover:border-retro"
             >
-              <Cover colors={p.cover} className="h-24 w-24 shrink-0" />
+              <Cover colors={p.cover} image={p.image} className="h-24 w-24 shrink-0" />
               <div className="space-y-1.5">
                 <CategoryTag category={p.category} />
                 <h3 className="font-display leading-snug group-hover:text-retro">
