@@ -38,7 +38,7 @@ Responda SOMENTE com um JSON válido, sem markdown, sem texto antes ou depois:
   "category": "notícia",
   "title": "Título da matéria",
   "excerpt": "Resumo de 1-2 frases com a personalidade da casa.",
-  "author": "Robô Acerto Games",
+  "author": "Bruno Vazquez",
   "date": "DD mmm AAAA",
   "readTime": "X min",
   "cover": ["#2EE86C", "#0B3D91"],

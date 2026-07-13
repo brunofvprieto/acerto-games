@@ -34,6 +34,21 @@ function extrair(xml, tag) {
     .trim();
 }
 
+function extrairImagem(itemXml) {
+  const padroes = [
+    /<media:content[^>]*url="([^"]+)"/i,
+    /<media:thumbnail[^>]*url="([^"]+)"/i,
+    /<enclosure[^>]*type="image[^"]*"[^>]*url="([^"]+)"/i,
+    /<enclosure[^>]*url="([^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"/i,
+    /<img[^>]*src="([^"]+)"/i,
+  ];
+  for (const p of padroes) {
+    const m = itemXml.match(p);
+    if (m) return m[1];
+  }
+  return "";
+}
+
 async function coletarFeed(fonte) {
   try {
     const res = await fetch(fonte.url, {
@@ -47,6 +62,8 @@ async function coletarFeed(fonte) {
       fonte: fonte.nome,
       pais: fonte.pais,
       idioma: fonte.idioma,
+      imagem: fonte.imagensLiberadas ? extrairImagem(item) : "",
+      credito: fonte.credito || "Reprodução",
       titulo: extrair(item, "title"),
       link: extrair(item, "link"),
       data: extrair(item, "pubDate") || extrair(item, "dc:date"),
@@ -123,8 +140,10 @@ async function escreverMateria(item) {
 // ---------- 3. Rodada ----------
 
 async function main() {
-  console.log("🤖 Robô Acerto Games iniciando rodada...\n");
-  fs.mkdirSync(DIR_RASCUNHOS, { recursive: true });
+  const AUTO = CONFIG.publicacaoAutomatica === true;
+  const DIR_DESTINO = AUTO ? DIR_PUBLICADOS : DIR_RASCUNHOS;
+  console.log(`🤖 Robô Acerto Games iniciando rodada... (modo: ${AUTO ? "PUBLICAÇÃO DIRETA" : "rascunho"})\n`);
+  fs.mkdirSync(DIR_DESTINO, { recursive: true });
 
   const coletas = await Promise.all(CONFIG.fontes.map(coletarFeed));
   let itens = coletas.flat().filter((i) => i.titulo && dentroDaJanela(i.data, CONFIG.horasJanela));
@@ -148,19 +167,26 @@ async function main() {
         continue;
       }
 
-      const destino = path.join(DIR_RASCUNHOS, `${materia.slug}.json`);
+      if (item.imagem) {
+        materia.image = item.imagem;
+        materia.imageCredit = `${item.credito}/${item.fonte}`;
+      }
+
+      if (materia.observacao) console.log(`   📝 Obs do robô: ${materia.observacao}`);
+      if (AUTO) delete materia.observacao; // nota interna não vai ao ar
+
+      const destino = path.join(DIR_DESTINO, `${materia.slug}.json`);
       fs.writeFileSync(destino, JSON.stringify(materia, null, 2), "utf-8");
       existentes.add(materia.slug);
       novos++;
-      console.log(`   ✅ Rascunho salvo: content/rascunhos/${materia.slug}.json`);
-      if (materia.observacao) console.log(`   📝 Obs do robô: ${materia.observacao}`);
+      console.log(`   ✅ ${AUTO ? "Publicado" : "Rascunho salvo"}: ${AUTO ? "content/publicados" : "content/rascunhos"}/${materia.slug}.json`);
     } catch (err) {
       console.warn(`   ❌ Erro nesta matéria: ${err.message}`);
     }
   }
 
-  console.log(`\n🏁 Rodada concluída: ${novos} rascunho(s) novo(s).`);
-  console.log("👀 Revise em content/rascunhos/ e aprove com: npm run publicar <slug>");
+  console.log(`\n🏁 Rodada concluída: ${novos} matéria(s) nova(s).`);
+  if (!AUTO) console.log("👀 Revise em content/rascunhos/ e aprove com: npm run publicar <slug>");
 }
 
 main();
