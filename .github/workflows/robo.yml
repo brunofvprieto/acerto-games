@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "Robô Acerto Games"
           git config user.email "robo@acertogames.local"
-          git add content/rascunhos
+          git add content/rascunhos content/publicados
           if git diff --cached --quiet; then
             echo "Nenhum rascunho novo."
           else
