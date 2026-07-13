@@ -1,8 +1,12 @@
 import Link from "next/link";
-import { ticker } from "../data/posts";
+import { getAllPosts } from "../lib/posts";
 
 function Ticker() {
-  const items = [...ticker, ...ticker]; // duplicado para loop contínuo
+  const titulos = getAllPosts().slice(0, 5).map((p) => p.title);
+  const base = titulos.length
+    ? titulos
+    : ["Acerto Games no ar — as primeiras matérias chegam em instantes"];
+  const items = [...base, ...base]; // duplicado para loop contínuo
   return (
     <div className="bg-arcade text-ink overflow-hidden">
       <div className="flex items-stretch">

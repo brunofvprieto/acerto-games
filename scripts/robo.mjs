@@ -49,6 +49,30 @@ function extrairImagem(itemXml) {
   return "";
 }
 
+async function buscarOgImage(link) {
+  try {
+    const res = await fetch(link, {
+      headers: { "User-Agent": "Mozilla/5.0 (compatible; AcertoGamesBot/1.0)" },
+      signal: AbortSignal.timeout(12000),
+      redirect: "follow",
+    });
+    if (!res.ok) return "";
+    const html = (await res.text()).slice(0, 300000);
+    const padroes = [
+      /<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i,
+      /<meta[^>]*content=["']([^"']+)["'][^>]*property=["']og:image["']/i,
+      /<meta[^>]*name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i,
+    ];
+    for (const p of padroes) {
+      const m = html.match(p);
+      if (m && m[1].startsWith("http")) return m[1];
+    }
+    return "";
+  } catch {
+    return "";
+  }
+}
+
 async function coletarFeed(fonte) {
   try {
     const res = await fetch(fonte.url, {
@@ -156,6 +180,10 @@ async function main() {
   let novos = 0;
   for (const item of itens) {
     try {
+      if (!item.imagem && item.link) {
+        console.log(`🖼️  Buscando imagem na página...`);
+        item.imagem = await buscarOgImage(item.link);
+      }
       console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
       const materia = await escreverMateria(item);
 
