@@ -118,6 +118,18 @@ function slugsExistentes() {
 
 // ---------- 2. Redação com Claude ----------
 
+function titulosJaPublicados() {
+  if (!fs.existsSync(DIR_PUBLICADOS)) return [];
+  return fs.readdirSync(DIR_PUBLICADOS)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => {
+      try { return JSON.parse(fs.readFileSync(path.join(DIR_PUBLICADOS, f), "utf-8")).title; }
+      catch { return null; }
+    })
+    .filter(Boolean)
+    .slice(-20);
+}
+
 async function escreverMateria(item) {
   const hoje = new Date().toLocaleDateString("pt-BR", {
     day: "2-digit", month: "short", year: "numeric",
@@ -131,6 +143,10 @@ async function escreverMateria(item) {
     `RESUMO/CONTEÚDO DISPONÍVEL: ${item.resumo}`,
     ``,
     `DATA DE HOJE: ${hoje}`,
+    ``,
+    `MATÉRIAS JÁ PUBLICADAS NO SITE (não repita estas notícias; se o material for a MESMA notícia de alguma delas, responda {"pular": true, "motivo": "notícia já publicada"}):`,
+    ...titulosJaPublicados().map((t) => `- ${t}`),
+    ``,
     `Escreva a matéria seguindo a persona e as regras. Lembre: se o material for insuficiente, sinalize na "observacao".`,
   ].join("\n");
 
@@ -171,14 +187,23 @@ async function main() {
   fs.mkdirSync(DIR_PUBLICADOS, { recursive: true });
 
   const coletas = await Promise.all(CONFIG.fontes.map(coletarFeed));
-  let itens = coletas.flat().filter((i) => i.titulo && dentroDaJanela(i.data, CONFIG.horasJanela));
+  // Rodízio: intercala 1 item de cada fonte para diversificar a pauta
+  const filas = coletas.map((c) => c.filter((i) => i.titulo && dentroDaJanela(i.data, CONFIG.horasJanela)));
+  let itens = [];
+  for (let rodada = 0; filas.some((f) => f.length > rodada); rodada++) {
+    for (const fila of filas) if (fila[rodada]) itens.push(fila[rodada]);
+  }
   console.log(`📡 ${itens.length} itens coletados dentro da janela de ${CONFIG.horasJanela}h.`);
 
   const existentes = slugsExistentes();
-  itens = itens.slice(0, CONFIG.maxMateriasPorRodada);
+  const meta = CONFIG.maxMateriasPorRodada;
+  const maxTentativas = meta * 4; // pautas recusadas não desperdiçam a rodada
+  let tentativas = 0;
 
   let novos = 0;
   for (const item of itens) {
+    if (novos >= meta || tentativas >= maxTentativas) break;
+    tentativas++;
     try {
       if (!item.imagem && item.link) {
         console.log(`🖼️  Buscando imagem na página...`);
@@ -186,6 +211,11 @@ async function main() {
       }
       console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
       const materia = await escreverMateria(item);
+
+      if (materia.pular) {
+        console.log(`   ⛔ Fora do escopo (${materia.motivo || "não é pauta de games"}), próxima pauta...`);
+        continue;
+      }
 
       if (!materia.slug || !materia.title || !Array.isArray(materia.body)) {
         console.warn("   ⚠️  JSON incompleto, pulando.");
