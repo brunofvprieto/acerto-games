@@ -2,7 +2,7 @@ name: Robô Acerto Games
 
 on:
   schedule:
-    - cron: "0 12,17,22 * * *"
+    - cron: "0 12,17,22,0 * * *"
   workflow_dispatch: {}
 
 permissions:
