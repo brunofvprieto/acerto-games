@@ -19,7 +19,7 @@ export function CategoryTag({ category }) {
   };
   return (
     <span
-      className={`inline-block px-2 py-0.5 font-mono text-[10px] font-bold uppercase tracking-widest ${styles[category]}`}
+      className={`inline-block px-2 py-0.5 font-mono text-[10px] font-bold uppercase tracking-widest ${styles[category] || styles["notícia"]}`}
     >
       {category}
     </span>

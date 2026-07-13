@@ -5,7 +5,7 @@ import { Cover, CategoryTag, NewsCard, ReviewCard, Nota } from "../components/Ca
 export default function Home() {
   const posts = getAllPosts();
   const [destaque, ...resto] = posts;
-  const noticias = resto.filter((p) => p.category === "notícia");
+  const noticias = resto.filter((p) => p.category !== "review" && p.category !== "retrô");
   const reviews = posts.filter((p) => p.category === "review");
   const retro = posts.filter((p) => p.category === "retrô");
 

@@ -143,7 +143,8 @@ async function main() {
   const AUTO = CONFIG.publicacaoAutomatica === true;
   const DIR_DESTINO = AUTO ? DIR_PUBLICADOS : DIR_RASCUNHOS;
   console.log(`🤖 Robô Acerto Games iniciando rodada... (modo: ${AUTO ? "PUBLICAÇÃO DIRETA" : "rascunho"})\n`);
-  fs.mkdirSync(DIR_DESTINO, { recursive: true });
+  fs.mkdirSync(DIR_RASCUNHOS, { recursive: true });
+  fs.mkdirSync(DIR_PUBLICADOS, { recursive: true });
 
   const coletas = await Promise.all(CONFIG.fontes.map(coletarFeed));
   let itens = coletas.flat().filter((i) => i.titulo && dentroDaJanela(i.data, CONFIG.horasJanela));
@@ -189,4 +190,8 @@ async function main() {
   if (!AUTO) console.log("👀 Revise em content/rascunhos/ e aprove com: npm run publicar <slug>");
 }
 
-main();
+main().catch((err) => {
+  console.error("❌ ERRO FATAL DO ROBÔ:", err.message);
+  console.error(err.stack);
+  process.exit(1);
+});
