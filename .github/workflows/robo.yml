@@ -1,0 +1,36 @@
+name: Robô Acerto Games
+
+on:
+  schedule:
+    - cron: "0 12,17,22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  coletar-e-escrever:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Rodar o robô
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/robo.mjs
+
+      - name: Commitar rascunhos novos
+        run: |
+          git config user.name "Robô Acerto Games"
+          git config user.email "robo@acertogames.local"
+          git add content/rascunhos
+          if git diff --cached --quiet; then
+            echo "Nenhum rascunho novo."
+          else
+            git commit -m "🤖 Novos rascunhos do robô"
+            git push
+          fi
