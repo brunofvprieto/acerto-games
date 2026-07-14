@@ -17,7 +17,7 @@ const schemaWebSite = {
   "@type": "WebSite",
   name: "Acerto Games",
   description: "Portal brasileiro de games: notícias, reviews e retrô.",
-  url: "https://acertogames.vercel.app",
+  url: "https://acertogames.com.br",
   inLanguage: "pt-BR",
 };
 
