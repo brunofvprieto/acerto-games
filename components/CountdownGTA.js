@@ -15,10 +15,10 @@ function calcular() {
   };
 }
 
-function Bloco({ valor, rotulo }) {
+function Bloco({ valor, rotulo, compact }) {
   return (
-    <div className="flex flex-col items-center border border-[#FF2E97]/40 bg-ink/60 px-4 py-3 min-w-[72px]">
-      <span className="font-display text-3xl text-paper md:text-4xl">
+    <div className={`flex flex-col items-center border border-[#FF2E97]/40 bg-ink/60 ${compact ? "px-2.5 py-1.5 min-w-[52px]" : "px-4 py-3 min-w-[72px]"}`}>
+      <span className={`font-display text-paper ${compact ? "text-xl" : "text-3xl md:text-4xl"}`}>
         {String(valor).padStart(2, "0")}
       </span>
       <span className="font-mono text-[10px] uppercase tracking-widest text-[#FF9AD1]">
@@ -28,7 +28,7 @@ function Bloco({ valor, rotulo }) {
   );
 }
 
-export default function CountdownGTA() {
+export default function CountdownGTA({ compact = false }) {
   const [t, setT] = useState(null);
 
   useEffect(() => {
@@ -46,11 +46,11 @@ export default function CountdownGTA() {
   }
 
   return (
-    <div className="flex flex-wrap gap-3">
-      <Bloco valor={t.dias} rotulo="dias" />
-      <Bloco valor={t.horas} rotulo="horas" />
-      <Bloco valor={t.min} rotulo="min" />
-      <Bloco valor={t.seg} rotulo="seg" />
+    <div className={`flex flex-wrap ${compact ? "gap-2" : "gap-3"}`}>
+      <Bloco valor={t.dias} rotulo="dias" compact={compact} />
+      <Bloco valor={t.horas} rotulo="horas" compact={compact} />
+      <Bloco valor={t.min} rotulo="min" compact={compact} />
+      <Bloco valor={t.seg} rotulo="seg" compact={compact} />
     </div>
   );
 }

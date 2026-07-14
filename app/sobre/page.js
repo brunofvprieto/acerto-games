@@ -33,21 +33,6 @@ export default function Sobre() {
           memória afetiva de quem soprou cartucho — que dá o tom do Acerto Games.
         </p>
 
-        <h2 className="font-display text-xl text-arcade pt-2">Como trabalhamos</h2>
-        <p>
-          Nossa redação apura notícias diretamente das fontes internacionais mais
-          respeitadas — imprensa especializada dos Estados Unidos, Reino Unido e Japão,
-          além dos canais oficiais de PlayStation e Xbox — e escreve cada matéria em
-          português, com texto próprio e fonte citada ao final.
-        </p>
-        <p>
-          Utilizamos tecnologia de inteligência artificial como ferramenta de apuração
-          e redação, sob responsabilidade editorial de Bruno Vazquez.
-        </p>
-        <p>
-          Nossa linha editorial é simples: aqui só se fala de games. Se a notícia
-          sobrevive sem o game, ela não é nossa.
-        </p>
       </div>
     </main>
   );
