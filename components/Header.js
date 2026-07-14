@@ -36,6 +36,7 @@ export default function Header() {
           ACERTO<span className="text-arcade">GAMES</span>
         </Link>
         <nav className="flex gap-5 font-mono text-xs uppercase tracking-widest text-dim">
+          <Link href="/gta6" className="text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
           <Link href="/#noticias" className="hover:text-paper">Notícias</Link>
           <Link href="/#reviews" className="hover:text-paper">Reviews</Link>
           <Link href="/#retro" className="hover:text-retro">Retrô</Link>
