@@ -3,6 +3,11 @@ import { notFound } from "next/navigation";
 import { getAllPosts, getPost } from "../../../lib/posts";
 import { Cover, CategoryTag, Nota } from "../../../components/Cards";
 
+function youTubeId(texto) {
+  const m = texto.match(/(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([\w-]{11})/) || texto.match(/^([\w-]{11})$/);
+  return m ? m[1] : null;
+}
+
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
 }
@@ -67,9 +72,31 @@ export default function Noticia({ params }) {
         )}
 
         <div className="mt-8 space-y-5 text-lg leading-relaxed">
-          {post.body.map((paragraph, i) => (
-            <p key={i}>{paragraph}</p>
-          ))}
+          {post.body.map((paragraph, i) => {
+            if (paragraph.startsWith("## ")) {
+              return (
+                <h2 key={i} className="font-display text-xl text-arcade pt-3">
+                  {paragraph.slice(3)}
+                </h2>
+              );
+            }
+            if (paragraph.startsWith("video:")) {
+              const id = youTubeId(paragraph.slice(6).trim());
+              if (!id) return null;
+              return (
+                <div key={i} className="aspect-video">
+                  <iframe
+                    className="h-full w-full border border-edge"
+                    src={`https://www.youtube.com/embed/${id}`}
+                    title="Vídeo do YouTube"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  />
+                </div>
+              );
+            }
+            return <p key={i}>{paragraph}</p>;
+          })}
         </div>
 
         {post.fonte && (

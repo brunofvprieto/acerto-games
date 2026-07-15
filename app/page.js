@@ -95,9 +95,17 @@ export default function Home() {
             <span className="text-arcade">▸</span> Notícias
           </h2>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {noticias.map((p) => (
+            {noticias.slice(0, 12).map((p) => (
               <NewsCard key={p.slug} post={p} />
             ))}
+          </div>
+          <div className="mt-6 text-center">
+            <Link
+              href="/noticias"
+              className="inline-block border border-edge bg-surface px-6 py-3 font-mono text-xs uppercase tracking-widest text-arcade hover:border-arcade"
+            >
+              Ver todas as notícias ▸
+            </Link>
           </div>
         </section>
       )}

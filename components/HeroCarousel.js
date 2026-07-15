@@ -33,15 +33,15 @@ export default function HeroCarousel({ posts }) {
     >
       <Link
         href={`/noticia/${p.slug}`}
-        className="group grid overflow-hidden border border-edge bg-surface md:grid-cols-2"
+        className="group grid overflow-hidden border border-edge bg-surface md:h-80 md:grid-cols-2"
       >
-        <Cover colors={p.cover} image={p.image} className="min-h-56 md:min-h-full" />
-        <div className="flex flex-col justify-center gap-3 p-6 md:p-10">
+        <Cover colors={p.cover} image={p.image} className="h-52 md:h-full" />
+        <div className="flex h-60 flex-col justify-center gap-3 overflow-hidden p-6 md:h-full md:p-10">
           <CategoryTag category={p.category} />
-          <h1 className="font-display text-2xl leading-tight group-hover:text-arcade md:text-4xl">
+          <h1 className="line-clamp-3 font-display text-2xl leading-tight group-hover:text-arcade md:text-3xl">
             {p.title}
           </h1>
-          <p className="text-dim">{p.excerpt}</p>
+          <p className="line-clamp-2 text-dim">{p.excerpt}</p>
           <p className="font-mono text-xs uppercase tracking-widest text-dim">
             {p.date} · {p.readTime} de leitura
           </p>

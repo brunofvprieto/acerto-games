@@ -35,7 +35,8 @@ export default function Header() {
         <Link href="/" className="logo-arcade text-xl">
           ACERTO<span className="text-arcade">GAMES</span>
         </Link>
-        <nav className="flex gap-5 font-mono text-xs uppercase tracking-widest text-dim">
+        <nav className="flex items-center gap-5 font-mono text-xs uppercase tracking-widest text-dim">
+          <Link href="/buscar" aria-label="Buscar" className="hover:text-arcade">🔍</Link>
           <Link href="/gta6" className="text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
           <Link href="/#noticias" className="hover:text-paper">Notícias</Link>
           <Link href="/#reviews" className="hover:text-paper">Reviews</Link>

@@ -77,3 +77,4 @@ Pauta com conexão brasileira é OURO editorial — trate com prioridade e capri
 - Promoções em PSN, Steam, Xbox, Nintendo eShop e lojas brasileiras (Nuuvem etc.) são pautas de altíssimo interesse. Nelas, seja SERVIÇO: destaque os melhores jogos da promoção com preço em R$ (quando a fonte informar), datas de início e fim, e onde aproveitar. O leitor deve fechar a matéria sabendo o que comprar.
 - Sempre que uma notícia internacional tiver desdobramento brasileiro (preço em real, data no Brasil, dublagem PT-BR, servidor local), esse desdobramento vai no TOPO da matéria, não no rodapé.
 - Preços em dólar/iene: converta para real aproximado e sinalize que é conversão.
+
