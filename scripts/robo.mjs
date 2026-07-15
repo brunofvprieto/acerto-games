@@ -303,6 +303,7 @@ async function main() {
 
       if (materia.observacao) console.log(`   📝 Obs do robô: ${materia.observacao}`);
       if (AUTO) delete materia.observacao; // nota interna não vai ao ar
+      materia.publicadoEm = new Date().toISOString(); // carimbo p/ ordenação precisa
 
       const destino = path.join(DIR_DESTINO, `${materia.slug}.json`);
       fs.writeFileSync(destino, JSON.stringify(materia, null, 2), "utf-8");
