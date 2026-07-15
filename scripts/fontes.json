@@ -189,5 +189,9 @@
     "fortnite",
     "witcher",
     "cyberpunk"
-  ]
+  ],
+  "cotaGTA": {
+    "ativa": true,
+    "janelaHoras": 72
+  }
 }

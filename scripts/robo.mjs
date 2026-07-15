@@ -242,6 +242,26 @@ async function main() {
     return quentes.some((p) => texto.includes(p));
   };
   itens = [...itens.filter(ehQuente), ...itens.filter((i) => !ehQuente(i))];
+
+  // Cota GTA: se houver pauta de GTA (janela estendida), ela garante vaga no topo da rodada
+  const cota = CONFIG.cotaGTA || {};
+  if (cota.ativa && !PAUTA) {
+    const REGEX_GTA_COTA = /gta\s*(6|vi)?\b|grand theft auto|rockstar/i;
+    const ehGTA = (i) => REGEX_GTA_COTA.test(`${i.titulo} ${i.resumo}`);
+    const jaTemGTA = itens.slice(0, CONFIG.maxMateriasPorRodada).some(ehGTA);
+    if (!jaTemGTA) {
+      const candidatasGTA = coletas
+        .flat()
+        .filter((i) => i.titulo && ehGTA(i) && dentroDaJanela(i.data, cota.janelaHoras || 72))
+        .filter((i) => !itens.slice(0, CONFIG.maxMateriasPorRodada).some((x) => x.link === i.link));
+      if (candidatasGTA.length) {
+        console.log(`🎯 Cota GTA: garantindo pauta "${candidatasGTA[0].titulo.slice(0, 60)}..."`);
+        itens = [candidatasGTA[0], ...itens.filter((i) => i.link !== candidatasGTA[0].link)];
+      } else {
+        console.log("🎯 Cota GTA: nenhuma pauta de GTA nas fontes (janela de " + (cota.janelaHoras || 72) + "h) — rodada segue normal.");
+      }
+    }
+  }
   console.log(`📡 ${itens.length} itens coletados dentro da janela de ${CONFIG.horasJanela}h.`);
 
   const existentes = slugsExistentes();

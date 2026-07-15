@@ -5,12 +5,12 @@ import CountdownGTA from "../components/CountdownGTA";
 import HeroCarousel from "../components/HeroCarousel";
 
 const ARTE_GTA6 = "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg";
-const REGEX_GTA = /gta\s*(6|vi)\b|grand theft auto/i;
+const REGEX_GTA = /gta\s*(6|vi)?\b|grand theft auto|rockstar/i;
 const ehSobreGTA = (p) =>
   REGEX_GTA.test([p.title, p.excerpt, ...(Array.isArray(p.body) ? p.body : [])].join(" "));
 
 function SecaoGTA6({ posts }) {
-  const materias = posts.filter(ehSobreGTA).slice(0, 3);
+  const materias = posts.filter(ehSobreGTA); // TODA matéria GTA aparece na capa
   return (
     <section className="py-8">
       <div className="overflow-hidden border border-[#FF2E97]/50">

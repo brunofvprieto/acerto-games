@@ -9,7 +9,7 @@ export const metadata = {
     "Tudo sobre GTA 6 em um só lugar: contagem regressiva, notícias, trailers e o que sabemos sobre Vice City, Jason e Lucia.",
 };
 
-const REGEX_GTA = /gta\s*(6|vi)\b|grand theft auto/i;
+const REGEX_GTA = /gta\s*(6|vi)?\b|grand theft auto|rockstar/i;
 
 function ehSobreGTA(p) {
   const texto = [p.title, p.excerpt, ...(Array.isArray(p.body) ? p.body : [])].join(" ");
