@@ -179,6 +179,32 @@ async function escreverMateria(item) {
 
 // ---------- 3. Rodada ----------
 
+async function pautaManual(url) {
+  console.log(`📌 PAUTA MANUAL: ${url}`);
+  try {
+    const res = await fetch(url, {
+      headers: { "User-Agent": "Mozilla/5.0 (compatible; AcertoGamesBot/1.0)" },
+      signal: AbortSignal.timeout(15000),
+      redirect: "follow",
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const html = (await res.text()).slice(0, 400000);
+    const pegar = (re) => { const m = html.match(re); return m ? m[1].trim() : ""; };
+    return {
+      fonte: new URL(url).hostname.replace("www.", ""),
+      pais: "?", idioma: "?", credito: "Reprodução",
+      link: url,
+      data: new Date().toUTCString(),
+      titulo: pegar(/<meta[^>]*property=["']og:title["'][^>]*content=["']([^"']+)["']/i) || pegar(/<title[^>]*>([^<]+)<\/title>/i),
+      resumo: pegar(/<meta[^>]*property=["']og:description["'][^>]*content=["']([^"']+)["']/i) || pegar(/<meta[^>]*name=["']description["'][^>]*content=["']([^"']+)["']/i),
+      imagem: pegar(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i),
+    };
+  } catch (err) {
+    console.error(`❌ Não consegui apurar a pauta manual: ${err.message}`);
+    return null;
+  }
+}
+
 async function main() {
   const AUTO = CONFIG.publicacaoAutomatica === true;
   const DIR_DESTINO = AUTO ? DIR_PUBLICADOS : DIR_RASCUNHOS;
@@ -186,13 +212,32 @@ async function main() {
   fs.mkdirSync(DIR_RASCUNHOS, { recursive: true });
   fs.mkdirSync(DIR_PUBLICADOS, { recursive: true });
 
-  const coletas = await Promise.all(CONFIG.fontes.map(coletarFeed));
+  // Pauta manual tem passagem VIP: escreve só ela e encerra
+  const PAUTA = (process.env.PAUTA || "").trim();
+  let coletas;
+  if (PAUTA) {
+    if (!PAUTA.startsWith("http")) {
+      console.error("❌ A pauta manual precisa ser o LINK da notícia (regra da casa: sem fonte, sem matéria).");
+      return;
+    }
+    const item = await pautaManual(PAUTA);
+    coletas = item && item.titulo ? [[item]] : [[]];
+  } else {
+    coletas = await Promise.all(CONFIG.fontes.map(coletarFeed));
+  }
   // Rodízio: intercala 1 item de cada fonte para diversificar a pauta
   const filas = coletas.map((c) => c.filter((i) => i.titulo && dentroDaJanela(i.data, CONFIG.horasJanela)));
   let itens = [];
   for (let rodada = 0; filas.some((f) => f.length > rodada); rodada++) {
     for (const fila of filas) if (fila[rodada]) itens.push(fila[rodada]);
   }
+  // Prioridade editorial: pautas com palavras quentes furam a fila
+  const quentes = (CONFIG.palavrasPrioritarias || []).map((p) => p.toLowerCase());
+  const ehQuente = (i) => {
+    const texto = `${i.titulo} ${i.resumo}`.toLowerCase();
+    return quentes.some((p) => texto.includes(p));
+  };
+  itens = [...itens.filter(ehQuente), ...itens.filter((i) => !ehQuente(i))];
   console.log(`📡 ${itens.length} itens coletados dentro da janela de ${CONFIG.horasJanela}h.`);
 
   const existentes = slugsExistentes();
