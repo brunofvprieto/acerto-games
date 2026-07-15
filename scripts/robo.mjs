@@ -52,7 +52,11 @@ function extrairImagem(itemXml) {
 async function buscarOgImage(link) {
   try {
     const res = await fetch(link, {
-      headers: { "User-Agent": "Mozilla/5.0 (compatible; AcertoGamesBot/1.0)" },
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9,pt-BR;q=0.8",
+      },
       signal: AbortSignal.timeout(12000),
       redirect: "follow",
     });
@@ -253,6 +257,7 @@ async function main() {
       if (!item.imagem && item.link) {
         console.log(`🖼️  Buscando imagem na página...`);
         item.imagem = await buscarOgImage(item.link);
+        console.log(item.imagem ? `   📷 Imagem encontrada` : `   ⬜ Sem imagem (site pode ter bloqueado) — capa em gradiente`);
       }
       console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
       const materia = await escreverMateria(item);

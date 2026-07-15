@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getAllPosts } from "../lib/posts";
 import { Cover, CategoryTag, NewsCard, ReviewCard } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
+import HeroCarousel from "../components/HeroCarousel";
 
 const ARTE_GTA6 = "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg";
 const REGEX_GTA = /gta\s*(6|vi)\b|grand theft auto/i;
@@ -74,32 +75,15 @@ export default function Home() {
   const posts = getAllPosts();
   if (posts.length === 0) return <SiteZerado />;
 
-  const [destaque, ...resto] = posts;
+  const resto = posts.slice(5); // as 5 primeiras vivem no carrossel
   const noticias = resto.filter((p) => p.category !== "review" && p.category !== "retrô");
   const reviews = posts.filter((p) => p.category === "review");
   const retro = posts.filter((p) => p.category === "retrô");
 
   return (
     <main className="mx-auto max-w-6xl px-4">
-      {/* Manchete */}
-      <section className="py-8">
-        <Link
-          href={`/noticia/${destaque.slug}`}
-          className="group grid overflow-hidden border border-edge bg-surface md:grid-cols-2"
-        >
-          <Cover colors={destaque.cover} image={destaque.image} className="min-h-56 md:min-h-full" />
-          <div className="flex flex-col justify-center gap-3 p-6 md:p-10">
-            <CategoryTag category={destaque.category} />
-            <h1 className="font-display text-3xl leading-tight group-hover:text-arcade md:text-4xl">
-              {destaque.title}
-            </h1>
-            <p className="text-dim">{destaque.excerpt}</p>
-            <p className="font-mono text-xs uppercase tracking-widest text-dim">
-              {destaque.date} · {destaque.readTime} de leitura
-            </p>
-          </div>
-        </Link>
-      </section>
+      {/* Carrossel de manchetes */}
+      <HeroCarousel posts={posts.slice(0, 5)} />
 
       {/* GTA 6 — seção fixa */}
       <SecaoGTA6 posts={posts} />
