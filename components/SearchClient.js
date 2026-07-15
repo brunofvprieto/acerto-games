@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { CategoryTag } from "./Cards";
 
@@ -9,7 +10,8 @@ function normalizar(s) {
 }
 
 export default function SearchClient({ posts }) {
-  const [termo, setTermo] = useState("");
+  const params = useSearchParams();
+  const [termo, setTermo] = useState(params.get("q") || "");
 
   const resultados = useMemo(() => {
     const q = normalizar(termo.trim());

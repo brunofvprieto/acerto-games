@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllPosts } from "../lib/posts";
+import HeaderSearch from "./HeaderSearch";
 
 function Ticker() {
   const titulos = getAllPosts().slice(0, 5).map((p) => p.title);
@@ -35,13 +36,16 @@ export default function Header() {
         <Link href="/" className="logo-arcade text-xl">
           ACERTO<span className="text-arcade">GAMES</span>
         </Link>
+        <div className="flex items-center gap-5">
+        <HeaderSearch />
         <nav className="flex items-center gap-5 font-mono text-xs uppercase tracking-widest text-dim">
-          <Link href="/buscar" aria-label="Buscar" className="hover:text-arcade">🔍</Link>
+          <Link href="/buscar" aria-label="Buscar" className="md:hidden hover:text-arcade">🔍</Link>
           <Link href="/gta6" className="text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
           <Link href="/#noticias" className="hover:text-paper">Notícias</Link>
           <Link href="/#reviews" className="hover:text-paper">Reviews</Link>
           <Link href="/#retro" className="hover:text-retro">Retrô</Link>
         </nav>
+        </div>
       </div>
     </header>
   );
