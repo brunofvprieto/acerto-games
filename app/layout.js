@@ -3,6 +3,8 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 
 export const metadata = {
+  metadataBase: new URL("https://acertogames.com.br"),
+  alternates: { canonical: "/" },
   title: "Acerto Games — Notícias, reviews e retrô",
   description:
     "Portal brasileiro de games: notícias em tempo real, reviews com nota e a memória dos clássicos.",
