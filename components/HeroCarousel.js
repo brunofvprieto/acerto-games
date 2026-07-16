@@ -36,12 +36,12 @@ export default function HeroCarousel({ posts }) {
         className="group grid overflow-hidden border border-edge bg-surface md:h-80 md:grid-cols-2"
       >
         <Cover colors={p.cover} image={p.image} className="h-52 md:h-full" />
-        <div className="flex h-60 flex-col justify-center gap-3 overflow-hidden p-6 md:h-full md:p-10">
+        <div className="flex h-[272px] flex-col justify-center gap-2.5 overflow-hidden p-5 md:h-full md:gap-3 md:p-10">
           <CategoryTag category={p.category} />
-          <h1 className="line-clamp-3 font-display text-2xl leading-tight group-hover:text-arcade md:text-3xl">
+          <h1 className="line-clamp-3 font-display text-xl leading-snug group-hover:text-arcade md:text-3xl md:leading-tight">
             {p.title}
           </h1>
-          <p className="line-clamp-2 text-dim">{p.excerpt}</p>
+          <p className="line-clamp-2 text-sm text-dim md:text-base">{p.excerpt}</p>
           <p className="font-mono text-xs uppercase tracking-widest text-dim">
             {p.date} · {p.readTime} de leitura
           </p>

@@ -49,6 +49,38 @@ function extrairImagem(itemXml) {
   return "";
 }
 
+async function buscarTextoCompleto(link) {
+  try {
+    const res = await fetch(link, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9,pt-BR;q=0.8",
+      },
+      signal: AbortSignal.timeout(15000),
+      redirect: "follow",
+    });
+    if (!res.ok) return "";
+    let html = (await res.text()).slice(0, 600000);
+    // Remover blocos que não são conteúdo
+    html = html.replace(/<(script|style|noscript|nav|header|footer|aside|form|svg)[\s\S]*?<\/\1>/gi, " ");
+    // Preferir o miolo da matéria quando existir
+    const art = html.match(/<article[\s\S]*?<\/article>/i);
+    if (art) html = art[0];
+    const texto = html
+      .replace(/<(h[1-6]|li|p|br|tr)[^>]*>/gi, "\n")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+      .replace(/&#\d+;|&\w+;/g, " ")
+      .replace(/[ \t]+/g, " ")
+      .replace(/\n\s*\n+/g, "\n")
+      .trim();
+    return texto.length > 400 ? texto.slice(0, 8000) : "";
+  } catch {
+    return "";
+  }
+}
+
 async function buscarOgImage(link) {
   try {
     const res = await fetch(link, {
@@ -144,7 +176,8 @@ async function escreverMateria(item) {
     `LINK ORIGINAL: ${item.link}`,
     `DATA DE PUBLICAÇÃO DA FONTE: ${item.data}`,
     `TÍTULO ORIGINAL: ${item.titulo}`,
-    `RESUMO/CONTEÚDO DISPONÍVEL: ${item.resumo}`,
+    `RESUMO DO FEED: ${item.resumo}`,
+    item.textoCompleto ? `\nCONTEÚDO COMPLETO DA MATÉRIA (texto extraído da página original — sua principal fonte de apuração):\n${item.textoCompleto}` : "",
     ``,
     `DATA DE HOJE: ${hoje}`,
     ``,
@@ -274,6 +307,11 @@ async function main() {
     if (novos >= meta || tentativas >= maxTentativas) break;
     tentativas++;
     try {
+      if (item.link) {
+        console.log(`📄 Lendo a matéria completa na fonte...`);
+        item.textoCompleto = await buscarTextoCompleto(item.link);
+        console.log(item.textoCompleto ? `   ✓ ${item.textoCompleto.length} caracteres apurados` : `   ⚠ Página bloqueou a leitura — usando só o resumo do feed`);
+      }
       if (!item.imagem && item.link) {
         console.log(`🖼️  Buscando imagem na página...`);
         item.imagem = await buscarOgImage(item.link);

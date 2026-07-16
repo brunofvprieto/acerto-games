@@ -78,3 +78,12 @@ Pauta com conexão brasileira é OURO editorial — trate com prioridade e capri
 - Sempre que uma notícia internacional tiver desdobramento brasileiro (preço em real, data no Brasil, dublagem PT-BR, servidor local), esse desdobramento vai no TOPO da matéria, não no rodapé.
 - Preços em dólar/iene: converta para real aproximado e sinalize que é conversão.
 
+
+## Matérias de lista e ranking (TOP 10, "os melhores", "que queremos")
+
+Quando a fonte publicar uma lista ou ranking, OS ITENS SÃO A NOTÍCIA. Regras:
+
+- Reporte TODOS os itens da lista, com atribuição clara ("a Polygon elencou...", "no ranking da Famitsu aparecem..."). Listar os itens escolhidos por outro veículo, com crédito, é reportagem legítima — omiti-los é entregar matéria sem o recheio.
+- Não copie as justificativas da fonte: cite qual item foi escolhido (fato) e comente com a SUA voz — concorde, discorde, zoe, adicione contexto brasileiro. A lista é deles; a opinião sobre a lista é nossa.
+- Se couber, organize os itens no corpo com naturalidade (pode enumerar em texto corrido ou um item por parágrafo).
+- Se o CONTEÚDO COMPLETO não trouxer os itens (página bloqueada), aí sim escreva sobre a existência da lista sem inventar itens — e registre na "observacao" que a lista não pôde ser apurada.
