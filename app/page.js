@@ -82,13 +82,15 @@ export default function Home() {
   const retro = posts.filter((p) => p.category === "retrô");
 
   return (
-    <main className="mx-auto max-w-7xl px-4 lg:grid lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-8">
-    <div className="min-w-0">
+    <main className="mx-auto max-w-6xl px-4">
       {/* Carrossel de manchetes */}
       <HeroCarousel posts={posts.slice(0, 5)} />
 
       {/* GTA 6 — seção fixa */}
       <SecaoGTA6 posts={posts} />
+
+      {/* Em alta na semana */}
+      <EmAlta />
 
       {/* Notícias */}
       {noticias.length > 0 && (
@@ -154,10 +156,6 @@ export default function Home() {
           </div>
         </section>
       )}
-    </div>
-    <div className="py-8">
-      <EmAlta />
-    </div>
     </main>
   );
 }
