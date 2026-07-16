@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getAllPosts, getPost } from "../../../lib/posts";
 import { Cover, CategoryTag, Nota, NewsCard } from "../../../components/Cards";
 import ShareButtons from "../../../components/ShareButtons";
+import EmAlta from "../../../components/EmAlta";
 
 function youTubeId(texto) {
   const m = texto.match(/(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([\w-]{11})/) || texto.match(/^([\w-]{11})$/);
@@ -72,7 +73,17 @@ export default function Noticia({ params }) {
   const leiaTambem = relacionadas(post);
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-8">
+    <main className="mx-auto max-w-7xl px-4 py-8 xl:grid xl:grid-cols-[260px_minmax(0,1fr)_300px] xl:gap-8">
+      {/* Imagem vertical (desktop largo) */}
+      <div className="hidden xl:block">
+        <Cover
+          colors={post.cover}
+          image={post.image}
+          className="sticky top-24 h-[75vh] border border-edge"
+        />
+      </div>
+
+      <div className="min-w-0 xl:max-w-3xl">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaArtigo) }}
@@ -94,7 +105,7 @@ export default function Noticia({ params }) {
           Por {post.author} · {post.date} · {post.readTime} de leitura
         </p>
 
-        <Cover colors={post.cover} image={post.image} className="mt-6 h-64 md:h-80" />
+        <Cover colors={post.cover} image={post.image} className="mt-6 h-64 md:h-80 xl:hidden" />
         {post.imageCredit && (
           <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">
             📷 {post.imageCredit}
@@ -154,6 +165,13 @@ export default function Noticia({ params }) {
         )}
       </article>
 
+      </div>
+
+      <div>
+        <EmAlta excetoSlug={post.slug} />
+      </div>
+
+      <div className="xl:col-span-3">
       {leiaTambem.length > 0 && (
         <section className="mt-12 border-t border-edge pt-8">
           <h2 className="mb-4 font-display text-lg uppercase">
@@ -166,6 +184,7 @@ export default function Noticia({ params }) {
           </div>
         </section>
       )}
+      </div>
     </main>
   );
 }

@@ -3,6 +3,7 @@ import { getAllPosts } from "../lib/posts";
 import { Cover, CategoryTag, NewsCard, ReviewCard } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
 import HeroCarousel from "../components/HeroCarousel";
+import EmAlta from "../components/EmAlta";
 
 const ARTE_GTA6 = "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg";
 const REGEX_GTA = /gta\s*(6|vi)?\b|grand theft auto|rockstar/i;
@@ -81,7 +82,8 @@ export default function Home() {
   const retro = posts.filter((p) => p.category === "retrô");
 
   return (
-    <main className="mx-auto max-w-6xl px-4">
+    <main className="mx-auto max-w-7xl px-4 lg:grid lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-8">
+    <div className="min-w-0">
       {/* Carrossel de manchetes */}
       <HeroCarousel posts={posts.slice(0, 5)} />
 
@@ -152,6 +154,10 @@ export default function Home() {
           </div>
         </section>
       )}
+    </div>
+    <div className="py-8">
+      <EmAlta />
+    </div>
     </main>
   );
 }
