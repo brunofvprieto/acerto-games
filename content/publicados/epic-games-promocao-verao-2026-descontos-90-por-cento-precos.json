@@ -6,7 +6,10 @@
   "author": "Bruno Vazquez",
   "date": "17 jul 2026",
   "readTime": "7 min",
-  "cover": ["#2EE86C", "#0B3D91"],
+  "cover": [
+    "#2EE86C",
+    "#0B3D91"
+  ],
   "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
   "imageCredit": "Divulgação/Rockstar Games",
   "publicadoEm": "2026-07-17T16:05:00Z",
@@ -37,7 +40,7 @@
     "img: https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg | Divulgação/CD Projekt RED",
     "De R$ 99,96 por R$ 19,99. TODAS as expansões inclusas (e Blood and Wine sozinha vale mais que muito jogo completo). Menos de vinte reais por 200 horas de Geralt. É o melhor custo-hora da história dos games.",
     "## Battlefield 6 — 50% de desconto",
-    "img: https://cdn.cloudflare.steamstatic.com/steam/apps/2807960/header.jpg | Divulgação/Electronic Arts",
+    "img: /img/battlefield-6.jpg | Divulgação/Electronic Arts",
     "De R$ 299 por R$ 149,50. O FPS que devolveu o respeito à franquia, com a Season 4 chegando dia 21 trazendo guerra no Pacífico. Meia entrada pro caos de 64 jogadores.",
     "## EA SPORTS FC 26 — 80% de desconto",
     "img: https://cdn.cloudflare.steamstatic.com/steam/apps/3405690/header.jpg | Divulgação/Electronic Arts",

@@ -6,7 +6,7 @@ import { CategoryTag } from "./Cards";
 
 function Slide({ p, ativo }) {
   const fundo = p.image
-    ? `url(${p.image}) center / cover no-repeat, linear-gradient(135deg, ${p.cover[0]}, ${p.cover[1]})`
+    ? `url(${p.image}) ${p.imagePos || "center"} / cover no-repeat, linear-gradient(135deg, ${p.cover[0]}, ${p.cover[1]})`
     : `linear-gradient(135deg, ${p.cover[0]}, ${p.cover[1]})`;
   return (
     <div

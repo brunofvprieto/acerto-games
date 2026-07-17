@@ -133,7 +133,7 @@ export default function Home() {
                 href={`/noticia/${p.slug}`}
                 className="group flex gap-4 border border-edge bg-surface p-4 transition-colors hover:border-retro"
               >
-                <Cover colors={p.cover} image={p.image} className="h-24 w-24 shrink-0" />
+                <Cover colors={p.cover} image={p.image} position={p.imagePos} className="h-24 w-24 shrink-0" />
                 <div className="space-y-1.5">
                   <CategoryTag category={p.category} />
                   <h3 className="font-display leading-snug group-hover:text-retro">

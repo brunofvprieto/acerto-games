@@ -94,7 +94,7 @@ export default function Noticia({ params }) {
           Por {post.author} · {post.date} · {post.readTime} de leitura
         </p>
 
-        <Cover colors={post.cover} image={post.image} className="mt-6 h-72 md:h-96 lg:h-[480px]" />
+        <Cover colors={post.cover} image={post.image} position={post.imagePos} className="mt-6 h-72 md:h-96 lg:h-[480px]" />
         {post.imageCredit && (
           <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">
             📷 {post.imageCredit}
