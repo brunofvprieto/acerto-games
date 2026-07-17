@@ -185,6 +185,7 @@ async function escreverMateria(item) {
   });
 
   const material = [
+    item.manual ? `⚠️ PAUTA MANUAL DO EDITOR — já aprovada na linha editorial; não recuse por escopo.` : "",
     `FONTE: ${item.fonte} (${item.pais || "?"} — material original em ${item.idioma || "?"})`,
     `LINK ORIGINAL: ${item.link}`,
     `DATA DE PUBLICAÇÃO DA FONTE: ${item.data}`,
@@ -241,6 +242,7 @@ async function pautaManual(url) {
     const html = (await res.text()).slice(0, 400000);
     const pegar = (re) => { const m = html.match(re); return m ? m[1].trim() : ""; };
     return {
+      manual: true,
       fonte: new URL(url).hostname.replace("www.", ""),
       pais: "?", idioma: "?", credito: "Reprodução",
       link: url,
