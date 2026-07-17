@@ -33,15 +33,15 @@ export default function HeroCarousel({ posts }) {
     >
       <Link
         href={`/noticia/${p.slug}`}
-        className="group grid overflow-hidden border border-edge bg-surface md:h-80 md:grid-cols-2"
+        className="group grid overflow-hidden border border-edge bg-surface md:h-[500px] md:grid-cols-2"
       >
-        <Cover colors={p.cover} image={p.image} className="h-52 md:h-full" />
-        <div className="flex h-[272px] flex-col justify-center gap-2.5 overflow-hidden p-5 md:h-full md:gap-3 md:p-10">
+        <Cover colors={p.cover} image={p.image} className="h-64 md:h-full" />
+        <div className="flex h-[272px] flex-col justify-center gap-2.5 overflow-hidden p-5 md:h-full md:gap-4 md:p-12">
           <CategoryTag category={p.category} />
-          <h1 className="line-clamp-3 font-display text-xl leading-snug group-hover:text-arcade md:text-3xl md:leading-tight">
+          <h1 className="line-clamp-3 font-display text-xl leading-snug group-hover:text-arcade md:text-4xl md:leading-tight lg:text-5xl">
             {p.title}
           </h1>
-          <p className="line-clamp-2 text-sm text-dim md:text-base">{p.excerpt}</p>
+          <p className="line-clamp-2 text-sm text-dim md:line-clamp-3 md:text-lg">{p.excerpt}</p>
           <p className="font-mono text-xs uppercase tracking-widest text-dim">
             {p.date} · {p.readTime} de leitura
           </p>

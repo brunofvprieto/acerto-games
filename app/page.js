@@ -10,8 +10,7 @@ const REGEX_GTA = /gta\s*(6|vi)?\b|grand theft auto|rockstar/i;
 const ehSobreGTA = (p) =>
   REGEX_GTA.test([p.title, p.excerpt, ...(Array.isArray(p.body) ? p.body : [])].join(" "));
 
-function SecaoGTA6({ posts }) {
-  const materias = posts.filter(ehSobreGTA); // TODA matéria GTA aparece na capa
+function SecaoGTA6() {
   return (
     <section className="py-8">
       <div className="overflow-hidden border border-[#FF2E97]/50">
@@ -43,13 +42,6 @@ function SecaoGTA6({ posts }) {
             </Link>
           </div>
         </div>
-        {materias.length > 0 && (
-          <div className="grid gap-4 border-t border-[#FF2E97]/30 bg-surface/50 p-4 sm:grid-cols-2 lg:grid-cols-3">
-            {materias.map((p) => (
-              <NewsCard key={p.slug} post={p} />
-            ))}
-          </div>
-        )}
       </div>
     </section>
   );
@@ -87,7 +79,7 @@ export default function Home() {
       <HeroCarousel posts={posts.slice(0, 5)} />
 
       {/* GTA 6 — seção fixa */}
-      <SecaoGTA6 posts={posts} />
+      <SecaoGTA6 />
 
       {/* Em alta na semana */}
       <EmAlta />

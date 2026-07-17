@@ -10,6 +10,19 @@ const RAIZ = process.cwd();
 const CONFIG = JSON.parse(fs.readFileSync(path.join(RAIZ, "scripts/fontes.json"), "utf-8"));
 const PERSONA = fs.readFileSync(path.join(RAIZ, "scripts/persona.md"), "utf-8");
 const DIR_RASCUNHOS = path.join(RAIZ, "content/rascunhos");
+const ARQ_REGISTRO = path.join(RAIZ, "content/processados.json");
+
+function lerRegistro() {
+  try {
+    return new Set(JSON.parse(fs.readFileSync(ARQ_REGISTRO, "utf-8")));
+  } catch {
+    return new Set();
+  }
+}
+
+function salvarRegistro(reg) {
+  fs.writeFileSync(ARQ_REGISTRO, JSON.stringify([...reg].slice(-500)), "utf-8");
+}
 const DIR_PUBLICADOS = path.join(RAIZ, "content/publicados");
 
 const API_KEY = process.env.ANTHROPIC_API_KEY;
@@ -181,7 +194,7 @@ async function escreverMateria(item) {
     ``,
     `DATA DE HOJE: ${hoje}`,
     ``,
-    `MATÉRIAS JÁ PUBLICADAS NO SITE (não repita estas notícias; se o material for a MESMA notícia de alguma delas, responda {"pular": true, "motivo": "notícia já publicada"}):`,
+    `MATÉRIAS JÁ PUBLICADAS NO SITE — compare o ASSUNTO, não as palavras: se o material tratar do mesmo fato/anúncio de qualquer uma delas (mesmo com título diferente ou vindo de outro veículo), responda {"pular": true, "motivo": "notícia já publicada"}:`,
     ...titulosJaPublicados().map((t) => `- ${t}`),
     ``,
     `Escreva a matéria seguindo a persona e as regras. Lembre: se o material for insuficiente, sinalize na "observacao".`,
@@ -298,6 +311,7 @@ async function main() {
   console.log(`📡 ${itens.length} itens coletados dentro da janela de ${CONFIG.horasJanela}h.`);
 
   const existentes = slugsExistentes();
+  const registro = lerRegistro();
   const meta = CONFIG.maxMateriasPorRodada;
   const maxTentativas = meta * 4; // pautas recusadas não desperdiçam a rodada
   let tentativas = 0;
@@ -305,6 +319,7 @@ async function main() {
   let novos = 0;
   for (const item of itens) {
     if (novos >= meta || tentativas >= maxTentativas) break;
+    if (item.link && registro.has(item.link)) continue; // já escrito ou recusado antes
     tentativas++;
     try {
       if (item.link) {
@@ -321,7 +336,8 @@ async function main() {
       const materia = await escreverMateria(item);
 
       if (materia.pular) {
-        console.log(`   ⛔ Fora do escopo (${materia.motivo || "não é pauta de games"}), próxima pauta...`);
+        console.log(`   ⛔ Pauta recusada (${materia.motivo || "fora do escopo"}), registrando e seguindo...`);
+        if (item.link) registro.add(item.link);
         continue;
       }
 
@@ -346,6 +362,7 @@ async function main() {
       const destino = path.join(DIR_DESTINO, `${materia.slug}.json`);
       fs.writeFileSync(destino, JSON.stringify(materia, null, 2), "utf-8");
       existentes.add(materia.slug);
+      if (item.link) registro.add(item.link);
       novos++;
       console.log(`   ✅ ${AUTO ? "Publicado" : "Rascunho salvo"}: ${AUTO ? "content/publicados" : "content/rascunhos"}/${materia.slug}.json`);
     } catch (err) {
@@ -353,6 +370,7 @@ async function main() {
     }
   }
 
+  salvarRegistro(registro);
   console.log(`\n🏁 Rodada concluída: ${novos} matéria(s) nova(s).`);
   if (!AUTO) console.log("👀 Revise em content/rascunhos/ e aprove com: npm run publicar <slug>");
 }
