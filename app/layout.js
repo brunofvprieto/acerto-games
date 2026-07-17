@@ -34,6 +34,14 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
         />
 
+        {/* Google AdSense */}
+        <meta name="google-adsense-account" content="ca-pub-5246089745607111" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5246089745607111"
+          crossOrigin="anonymous"
+        />
+
         {/* Schema Markup: WebSite */}
         <script
           type="application/ld+json"
