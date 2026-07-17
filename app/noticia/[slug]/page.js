@@ -119,6 +119,20 @@ export default function Noticia({ params }) {
                 </h2>
               );
             }
+            if (paragraph.startsWith("img:")) {
+              const [url, credito] = paragraph.slice(4).split("|").map((s) => s.trim());
+              if (!url || (!url.startsWith("http") && !url.startsWith("/"))) return null;
+              return (
+                <figure key={i}>
+                  <img src={url} alt="" loading="lazy" className="w-full border border-edge" />
+                  {credito && (
+                    <figcaption className="mt-1 font-mono text-[10px] uppercase tracking-widest text-dim">
+                      📷 {credito}
+                    </figcaption>
+                  )}
+                </figure>
+              );
+            }
             if (paragraph.startsWith("video:")) {
               const id = youTubeId(paragraph.slice(6).trim());
               if (!id) return null;
