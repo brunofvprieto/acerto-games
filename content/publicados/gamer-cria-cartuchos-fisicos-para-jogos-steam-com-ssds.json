@@ -1,0 +1,25 @@
+{
+  "slug": "gamer-cria-cartuchos-fisicos-para-jogos-steam-com-ssds",
+  "category": "notícia",
+  "title": "Esse cara tá criando cartuchos físicos pra jogos de Steam — e o resultado é surpreendentemente incrível",
+  "excerpt": "Um modder chamado Jibril-sama resolveu que o PC merecia sua própria era dos cartuchos e começou a gravar jogos do Steam em SSDs customizados. Cyberpunk 2077 em cartucho? Sim, isso existe agora.",
+  "author": "Bruno Vazquez",
+  "date": "17 jul 2026",
+  "readTime": "4 min",
+  "cover": [
+    "#2EE86C",
+    "#0B3D91"
+  ],
+  "fonte": "GameSpot",
+  "fonteUrl": "https://www.gamespot.com/articles/this-pc-gamer-is-making-his-own-physical-steam-games-one-expensive-cartridge-at-a-time/",
+  "body": [
+    "Um modder conhecido como Jibril-sama virou a cabeça da galera do PC Master Gaming Race no Reddit ao apresentar um projeto que parece saído de um universo paralelo onde o cartucho nunca morreu: ele está criando versões físicas de jogos do Steam usando SSDs SATA usados, scripts personalizados e artes customizadas nas caixinhas. O resultado são os chamados Steam Game Cartridges — plug-and-play de verdade, do jeitinho que a criança de 10 anos lá dentro sempre quis.",
+    "O processo, segundo o próprio Jibril-sama no post que viralizou, funciona assim: ele compra uma pilha de SSDs SATA usados, instala um script personalizado em cada um, joga o jogo dentro da unidade e cola uma arte caprichada na caixinha. Conectou o SSD no PC, o Steam reconhece, o jogo roda. Entre os títulos que ele já cartuchou estão Cyberpunk 2077, Forza Horizon 5 e Warhammer 40,000: Space Marine 2 — não por acaso, todos monstros de instalação que facilmente passam dos 100 GB. Escolha com critério, né.",
+    "Quem quiser replicar o projeto em casa, Jibril-sama já jogou o código online. Ele mesmo avisa, sem rodeios, que o script 'deve' funcionar com outras mídias como cartões SD, pendrives e drives flash — mas sem garantia. 'Eu só testei na minha instalação antiga do Win10, mas você pelo menos pode pegar o código geral e fazer funcionar ou melhorar', escreveu ele. Olha, é exatamente o espírito DIY que move a cena de modding há décadas.",
+    "Agora, papo reto sobre o lado financeiro: não é barato. De acordo com a GameSpot, um SSD de 128 GB de qualidade sai entre US$ 30 e US$ 50 — algo entre R$ 165 e R$ 275 na conversão aproximada de hoje — por unidade. Aí você multiplica pelo número de jogos que quer 'cartuchonar' e o negócio começa a pesar no bolso. A memória flash em geral tá mais cara que o normal nos últimos meses, pressionada pelo boom de investimentos em data centers de IA e outros fatores do mercado global, o que não ajuda em nada.",
+    "E por falar em físico versus digital, o contexto por trás dessa história toda não é toa: a Sony já confirmou que vai encerrar a fabricação de discos para PlayStation em 2028, e o próximo console da Microsoft, codinome Project Helix, é rumored ser totalmente digital. O mundo caminha cada vez mais para o intangível — e aí aparece um cara gravando Forza Horizon 5 num SSD colado numa caixinha artesanal como ato de resistência. Cá entre nós, tem algo de muito bonito nisso. Quem diria que a nostalgia do cartucho ia ressurgir não no Super Nintendo, mas no PC."
+  ],
+  "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Steam-Carts.jpg?w=300",
+  "imageCredit": "Reprodução/GameSpot",
+  "publicadoEm": "2026-07-17T17:58:46.204Z"
+}
