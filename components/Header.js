@@ -32,18 +32,18 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-edge bg-ink/95 backdrop-blur">
       <Ticker />
-      <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
+      <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-y-2 px-4 py-3 md:py-4">
         <Link href="/" className="logo-arcade text-xl">
           ACERTO<span className="text-arcade">GAMES</span>
         </Link>
-        <div className="flex items-center gap-5">
+        <div className="flex items-center gap-5 max-md:w-full max-md:order-last">
         <HeaderSearch />
-        <nav className="flex items-center gap-5 font-mono text-xs uppercase tracking-widest text-dim">
+        <nav className="flex items-center gap-5 font-mono text-xs uppercase tracking-widest text-dim max-md:w-full max-md:justify-between max-md:overflow-x-auto max-md:pb-1">
           <Link href="/buscar" aria-label="Buscar" className="md:hidden hover:text-arcade">🔍</Link>
-          <Link href="/gta6" className="text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
-          <Link href="/#noticias" className="hover:text-paper">Notícias</Link>
-          <Link href="/#reviews" className="hover:text-paper">Reviews</Link>
-          <Link href="/#retro" className="hover:text-retro">Retrô</Link>
+          <Link href="/gta6" className="whitespace-nowrap text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
+          <Link href="/#noticias" className="whitespace-nowrap hover:text-paper">Notícias</Link>
+          <Link href="/#reviews" className="whitespace-nowrap hover:text-paper">Reviews</Link>
+          <Link href="/#retro" className="whitespace-nowrap hover:text-retro">Retrô</Link>
         </nav>
         </div>
       </div>

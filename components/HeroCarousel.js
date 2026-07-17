@@ -46,7 +46,6 @@ function Slide({ p, ativo }) {
 export default function HeroCarousel({ posts }) {
   const [atual, setAtual] = useState(0);
   const [pausado, setPausado] = useState(false);
-  const [desktop, setDesktop] = useState(false);
   const total = posts.length;
 
   const ir = useCallback(
@@ -55,26 +54,12 @@ export default function HeroCarousel({ posts }) {
   );
 
   useEffect(() => {
-    const mq = window.matchMedia("(min-width: 768px)");
-    const aplicar = () => setDesktop(mq.matches);
-    aplicar();
-    mq.addEventListener("change", aplicar);
-    return () => mq.removeEventListener("change", aplicar);
-  }, []);
-
-  useEffect(() => {
     if (pausado || total <= 1) return;
     const id = setInterval(() => setAtual((a) => (a + 1) % total), 6000);
     return () => clearInterval(id);
   }, [pausado, total]);
 
   if (total === 0) return null;
-
-  // Desktop: card central de 70% com vizinhos espiando; mobile: card único de 100%
-  const largura = desktop ? 70 : 100;
-  const deslocamento = desktop
-    ? `calc(15% - ${atual * largura}%)`
-    : `${-atual * largura}%`;
 
   return (
     <section
@@ -85,8 +70,8 @@ export default function HeroCarousel({ posts }) {
       aria-label="Principais manchetes"
     >
       <div
-        className="flex h-[380px] transition-transform duration-500 ease-out md:h-[520px]"
-        style={{ transform: `translateX(${deslocamento})` }}
+        className="flex h-[380px] translate-x-[calc(-1*var(--i)*100%)] transition-transform duration-500 ease-out md:h-[520px] md:translate-x-[calc(15%-var(--i)*70%)]"
+        style={{ "--i": atual }}
       >
         {posts.map((p, i) => {
           const ativo = i === atual;
