@@ -23,7 +23,7 @@ function Slide({ p, ativo }) {
         <CategoryTag category={p.category} />
         <h2
           className={`mt-2 line-clamp-2 font-display leading-tight text-paper ${
-            ativo ? "text-xl md:text-4xl" : "text-lg md:text-2xl"
+            ativo ? "text-lg md:text-3xl" : "text-base md:text-xl"
           }`}
         >
           {p.title}
@@ -70,7 +70,7 @@ export default function HeroCarousel({ posts }) {
       aria-label="Principais manchetes"
     >
       <div
-        className="flex h-[380px] translate-x-[calc(-1*var(--i)*100%)] transition-transform duration-500 ease-out md:h-[520px] md:translate-x-[calc(15%-var(--i)*70%)]"
+        className="flex h-[300px] translate-x-[calc(-1*var(--i)*100%)] transition-transform duration-500 ease-out md:h-[420px] md:translate-x-[calc(15%-var(--i)*70%)]"
         style={{ "--i": atual }}
       >
         {posts.map((p, i) => {
