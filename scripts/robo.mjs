@@ -94,6 +94,38 @@ async function buscarTextoCompleto(link) {
   }
 }
 
+const EXT_POR_TIPO = {
+  "image/jpeg": "jpg", "image/jpg": "jpg", "image/png": "png",
+  "image/webp": "webp", "image/avif": "avif", "image/gif": "gif",
+};
+
+async function baixarImagem(url, slug, referer) {
+  try {
+    const res = await fetch(url, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+        "Accept": "image/avif,image/webp,image/png,image/jpeg,*/*;q=0.8",
+        ...(referer ? { Referer: referer } : {}),
+      },
+      signal: AbortSignal.timeout(15000),
+      redirect: "follow",
+    });
+    if (!res.ok) return "";
+    const tipo = (res.headers.get("content-type") || "").split(";")[0].trim();
+    const ext = EXT_POR_TIPO[tipo];
+    if (!ext) return "";
+    const bytes = Buffer.from(await res.arrayBuffer());
+    if (bytes.length < 5000 || bytes.length > 4 * 1024 * 1024) return ""; // nem ícone, nem elefante
+    const dir = path.join(RAIZ, "public/img");
+    fs.mkdirSync(dir, { recursive: true });
+    const nome = `${slug}.${ext}`;
+    fs.writeFileSync(path.join(dir, nome), bytes);
+    return `/img/${nome}`;
+  } catch {
+    return "";
+  }
+}
+
 async function buscarOgImage(link) {
   try {
     const res = await fetch(link, {
@@ -353,7 +385,15 @@ async function main() {
       }
 
       if (item.imagem) {
-        materia.image = item.imagem;
+        console.log(`💾 Baixando a imagem pra casa...`);
+        const local = await baixarImagem(item.imagem, materia.slug, item.link);
+        if (local) {
+          materia.image = local;
+          console.log(`   ✓ Imagem hospedada em ${local}`);
+        } else {
+          materia.image = item.imagem; // plano B: link remoto
+          console.log(`   ⚠ Download falhou — usando link remoto (pode ser bloqueado)`);
+        }
         materia.imageCredit = `${item.credito}/${item.fonte}`;
       }
 
