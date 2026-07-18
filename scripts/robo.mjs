@@ -126,6 +126,25 @@ async function baixarImagem(url, slug, referer) {
   }
 }
 
+async function buscarVideoNoYouTube(termo) {
+  try {
+    const q = encodeURIComponent(termo.slice(0, 80));
+    const res = await fetch(`https://www.youtube.com/results?search_query=${q}`, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+      },
+      signal: AbortSignal.timeout(12000),
+    });
+    if (!res.ok) return "";
+    const html = await res.text();
+    const m = html.match(/"videoId":"([\w-]{11})"/);
+    return m ? m[1] : "";
+  } catch {
+    return "";
+  }
+}
+
 async function buscarOgImage(link) {
   try {
     const res = await fetch(link, {
@@ -198,6 +217,28 @@ function slugsExistentes() {
 }
 
 // ---------- 2. Redação com Claude ----------
+
+const STOPWORDS = new Set(["de","da","do","das","dos","e","o","a","os","as","um","uma","para","pra","com","em","no","na","nos","nas","que","por","mais","sem","apos","após","sobre","seu","sua","tem","vai","foi","ser","esta","está","ate","até"]);
+
+function tokensDe(titulo) {
+  return new Set(
+    String(titulo).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9\s]/g, " ").split(/\s+/)
+      .filter((w) => w.length > 2 && !STOPWORDS.has(w))
+  );
+}
+
+function tituloDuplicado(novo, existentes) {
+  const A = tokensDe(novo);
+  for (const antigo of existentes) {
+    const B = tokensDe(antigo);
+    let comuns = 0;
+    for (const w of A) if (B.has(w)) comuns++;
+    const menor = Math.min(A.size, B.size) || 1;
+    if (comuns >= 4 && comuns / menor >= 0.6) return antigo;
+  }
+  return "";
+}
 
 function titulosJaPublicados() {
   if (!fs.existsSync(DIR_PUBLICADOS)) return [];
@@ -364,7 +405,12 @@ async function main() {
       if (!item.imagem && item.link) {
         console.log(`🖼️  Buscando imagem na página...`);
         item.imagem = await buscarOgImage(item.link);
-        console.log(item.imagem ? `   📷 Imagem encontrada` : `   ⬜ Sem imagem (site pode ter bloqueado) — capa em gradiente`);
+        console.log(item.imagem ? `   📷 Imagem encontrada na fonte` : `   ⬜ Fonte não deu imagem`);
+      }
+      if (!item.imagem) {
+        console.log(`🔎 Caçando a notícia no YouTube...`);
+        item.videoYT = await buscarVideoNoYouTube(item.titulo);
+        console.log(item.videoYT ? `   📺 Vídeo relacionado achado` : `   ⬜ YouTube também não ajudou`);
       }
       console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
       const materia = await escreverMateria(item);
@@ -383,19 +429,35 @@ async function main() {
         console.log("   ↩️  Já existe, pulando.");
         continue;
       }
+      const parecido = tituloDuplicado(materia.title, titulosJaPublicados());
+      if (parecido) {
+        console.log(`   🔁 TRAVA ANTI-DUPLICATA: título muito parecido com "${parecido.slice(0, 60)}..." — descartando.`);
+        if (item.link) registro.add(item.link);
+        continue;
+      }
 
-      if (item.imagem) {
-        console.log(`💾 Baixando a imagem pra casa...`);
-        const local = await baixarImagem(item.imagem, materia.slug, item.link);
+      const candidatas = [];
+      if (item.imagem) candidatas.push({ url: item.imagem, credito: `${item.credito}/${item.fonte}` });
+      if (item.videoYT) {
+        candidatas.push({ url: `https://img.youtube.com/vi/${item.videoYT}/maxresdefault.jpg`, credito: "Reprodução/YouTube" });
+        candidatas.push({ url: `https://img.youtube.com/vi/${item.videoYT}/hqdefault.jpg`, credito: "Reprodução/YouTube" });
+      }
+      if (candidatas.length) console.log(`💾 Baixando imagem pra casa (${candidatas.length} candidata(s))...`);
+      for (const c of candidatas) {
+        const local = await baixarImagem(c.url, materia.slug, item.link);
         if (local) {
           materia.image = local;
+          materia.imageCredit = c.credito;
           console.log(`   ✓ Imagem hospedada em ${local}`);
-        } else {
-          materia.image = item.imagem; // plano B: link remoto
-          console.log(`   ⚠ Download falhou — usando link remoto (pode ser bloqueado)`);
+          break;
         }
-        materia.imageCredit = `${item.credito}/${item.fonte}`;
       }
+      if (!materia.image && item.imagem) {
+        materia.image = item.imagem;
+        materia.imageCredit = `${item.credito}/${item.fonte}`;
+        console.log(`   ⚠ Downloads falharam — usando link remoto como último recurso`);
+      }
+      if (!materia.image) console.log(`   ⬜ Sem imagem em nenhuma camada — capa em gradiente`);
 
       if (materia.observacao) console.log(`   📝 Obs do robô: ${materia.observacao}`);
       if (AUTO) delete materia.observacao; // nota interna não vai ao ar
