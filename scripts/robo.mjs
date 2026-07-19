@@ -407,10 +407,19 @@ async function main() {
         item.imagem = await buscarOgImage(item.link);
         console.log(item.imagem ? `   📷 Imagem encontrada na fonte` : `   ⬜ Fonte não deu imagem`);
       }
-      if (!item.imagem) {
-        console.log(`🔎 Caçando a notícia no YouTube...`);
-        item.videoYT = await buscarVideoNoYouTube(item.titulo);
-        console.log(item.videoYT ? `   📺 Vídeo relacionado achado` : `   ⬜ YouTube também não ajudou`);
+      const pautaDeVideo = /trailer|teaser|gameplay|revela|reveal/i.test(item.titulo);
+      if (!item.imagem || pautaDeVideo) {
+        console.log(`🔎 Caçando vídeo da notícia no YouTube...`);
+        const consultas = [
+          item.titulo,
+          `${item.titulo} trailer`,
+          [...tokensDe(item.titulo)].slice(0, 4).join(" ") + " game trailer",
+        ];
+        for (const q of consultas) {
+          item.videoYT = await buscarVideoNoYouTube(q);
+          if (item.videoYT) break;
+        }
+        console.log(item.videoYT ? `   📺 Vídeo achado` : `   ⬜ Nenhum vídeo encontrado (raro)`);
       }
       console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
       const materia = await escreverMateria(item);
@@ -436,6 +445,16 @@ async function main() {
         continue;
       }
 
+      if (
+        item.videoYT &&
+        /trailer|teaser|gameplay|revela|reveal/i.test(`${item.titulo} ${materia.title}`) &&
+        Array.isArray(materia.body) &&
+        !materia.body.some((l) => typeof l === "string" && l.startsWith("video:"))
+      ) {
+        materia.body.splice(1, 0, `video: https://www.youtube.com/watch?v=${item.videoYT}`);
+        console.log(`   🎬 Player do trailer embutido na matéria`);
+      }
+
       const candidatas = [];
       if (item.imagem) candidatas.push({ url: item.imagem, credito: `${item.credito}/${item.fonte}` });
       if (item.videoYT) {
@@ -457,7 +476,7 @@ async function main() {
         materia.imageCredit = `${item.credito}/${item.fonte}`;
         console.log(`   ⚠ Downloads falharam — usando link remoto como último recurso`);
       }
-      if (!materia.image) console.log(`   ⬜ Sem imagem em nenhuma camada — capa em gradiente`);
+      if (!materia.image) console.log(`   ⚠ ATENÇÃO: nenhuma imagem em nenhuma camada — caso raríssimo, adicione manualmente.`);
 
       if (materia.observacao) console.log(`   📝 Obs do robô: ${materia.observacao}`);
       if (AUTO) delete materia.observacao; // nota interna não vai ao ar
