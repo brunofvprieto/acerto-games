@@ -2,7 +2,7 @@ name: Robô Acerto Games
 
 on:
   schedule:
-  - cron: "0 12,17,22,0 * * *"
+  - cron: "0 10,17,22,0 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -28,7 +28,7 @@ jobs:
           git config user.name "brunofvprieto"
           git config user.email "brunofvprieto@users.noreply.github.com"
           mkdir -p content/rascunhos content/publicados
-          git add -A content
+          git add -A content public
           if git diff --cached --quiet; then
             echo "Nenhuma matéria nova."
           else
