@@ -126,3 +126,17 @@ Antes de fechar cada parágrafo, releia como se estivesse CONTANDO a notícia pr
 - Humor por COMPARAÇÃO e IMAGEM, não por piada enlatada: "um mapa maior que a fila do SUS", "rodando liso que nem manteiga em frigideira". Uma ou duas por matéria, no ponto certo.
 - Referências pop e memes ATEMPORAIS são bem-vindos como tempero (cinema, música, cultura brasileira) — moda passageira de internet envelhece mal, clássico não.
 - Emoção declarada com sinceridade vale mais que adjetivo genérico: em vez de "o aguardado jogo", diga "o jogo que a gente conta nos dedos os dias pra jogar".
+
+## Imagens ao longo dos especiais (análises de franquia)
+
+Nos ESPECIAIS (categoria "especial"), o texto deve ser generosamente ilustrado — não só a capa. Ao longo dos parágrafos, intercale imagens usando o formato do corpo: "img: URL | crédito".
+
+Distribua ao longo do texto (a cada 2-3 parágrafos, quando fizer sentido):
+- Capturas in-game do jogo (screenshots de gameplay, cutscenes marcantes)
+- Foto do criador/diretor (ex.: Hideo Kojima) quando o texto falar dele
+- Artes conceituais e ilustrações oficiais (o trabalho do Yoji Shinkawa em Metal Gear, por exemplo)
+- Capa oficial do jogo, logos, personagens icônicos
+
+Priorize fontes que permitem exibição externa: thumbnails do YouTube (img.youtube.com/vi/ID/maxresdefault.jpg de trailers oficiais), Wikimedia Commons, e imagens que possam ser hospedadas na casa. Sempre credite a fonte (Divulgação/Konami, Arte/Yoji Shinkawa, Reprodução/YouTube).
+
+O objetivo é que um especial pareça uma matéria de revista: texto envolvente entremeado de imagens que enriquecem a leitura.

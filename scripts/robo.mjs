@@ -126,6 +126,23 @@ async function baixarImagem(url, slug, referer) {
   }
 }
 
+// Canais/publishers oficiais — o vídeo PRECISA vir de uma dessas fontes
+const CANAIS_OFICIAIS = [
+  "playstation", "xbox", "nintendo", "rockstar games", "ubisoft", "bethesda",
+  "activision", "call of duty", "ea", "electronic arts", "ea sports",
+  "square enix", "capcom", "bandai namco", "sega", "konami", "cd projekt",
+  "cdpr", "the witcher", "riot games", "blizzard", "343", "naughty dog",
+  "insomniac", "santa monica", "epic games", "fortnite", "devolver",
+  "annapurna", "sony interactive", "microsoft", "gamescom", "the game awards",
+  "ign", "gamespot", "game trailers", "marvel", "warner bros games", "2k",
+  "take-two", "focus entertainment", "505 games", "kojima productions",
+];
+
+function ehCanalOficial(nome) {
+  const n = (nome || "").toLowerCase();
+  return CANAIS_OFICIAIS.some((c) => n.includes(c));
+}
+
 async function buscarVideoNoYouTube(termo) {
   try {
     const q = encodeURIComponent(termo.slice(0, 80));
@@ -136,12 +153,23 @@ async function buscarVideoNoYouTube(termo) {
       },
       signal: AbortSignal.timeout(12000),
     });
-    if (!res.ok) return "";
+    if (!res.ok) return null;
     const html = await res.text();
-    const m = html.match(/"videoId":"([\w-]{11})"/);
-    return m ? m[1] : "";
+    // Extrai pares (videoId + nome do canal) na ordem em que aparecem
+    const blocos = html.split('"videoRenderer"');
+    for (const bloco of blocos) {
+      const idM = bloco.match(/"videoId":"([\w-]{11})"/);
+      if (!idM) continue;
+      // nome do canal costuma vir em "ownerText"/"longBylineText"
+      const canalM = bloco.match(/"(?:ownerText|longBylineText)":\{"runs":\[\{"text":"([^"]+)"/);
+      const canal = canalM ? canalM[1] : "";
+      if (ehCanalOficial(canal)) {
+        return { id: idM[1], canal };
+      }
+    }
+    return null; // nenhum vídeo de canal oficial encontrado
   } catch {
-    return "";
+    return null;
   }
 }
 
@@ -416,15 +444,17 @@ async function main() {
       if (!item.imagem || pautaDeVideo) {
         console.log(`🔎 Caçando vídeo da notícia no YouTube...`);
         const consultas = [
-          item.titulo,
+          `${item.titulo} official trailer`,
           `${item.titulo} trailer`,
-          [...tokensDe(item.titulo)].slice(0, 4).join(" ") + " game trailer",
+          [...tokensDe(item.titulo)].slice(0, 4).join(" ") + " official trailer",
         ];
+        let achado = null;
         for (const q of consultas) {
-          item.videoYT = await buscarVideoNoYouTube(q);
-          if (item.videoYT) break;
+          achado = await buscarVideoNoYouTube(q);
+          if (achado) break;
         }
-        console.log(item.videoYT ? `   📺 Vídeo achado` : `   ⬜ Nenhum vídeo encontrado (raro)`);
+        item.videoYT = achado ? achado.id : "";
+        console.log(achado ? `   📺 Trailer OFICIAL achado (canal: ${achado.canal})` : `   ⬜ Nenhum trailer oficial encontrado — matéria seguirá sem player`);
       }
       console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
       const materia = await escreverMateria(item, titulosRodada);
