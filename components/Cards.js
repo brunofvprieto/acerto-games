@@ -17,6 +17,7 @@ export function CategoryTag({ category }) {
     review: "bg-violet text-paper",
     retrô: "bg-retro text-ink",
     especial: "bg-[#C9A227] text-ink",
+    artigo: "bg-[#4D9FFF] text-ink",
   };
   return (
     <span

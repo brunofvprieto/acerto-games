@@ -32,19 +32,25 @@ function DoisEspeciais() {
         </span>
       </Link>
 
-      {/* Quadrado 2 — Em breve */}
-      <div
-        className="relative flex min-h-[220px] flex-col items-center justify-center overflow-hidden border border-edge p-6 text-center"
+      {/* Quadrado 2 — Artigos Especiais */}
+      <Link
+        href="/artigos"
+        className="group relative flex min-h-[220px] flex-col justify-end overflow-hidden border border-[#4D9FFF]/50 p-6 transition-all hover:border-[#7DBBFF]"
         style={{ background: "linear-gradient(135deg, #0E1B2E 0%, #10233A 55%, #0A0D10 100%)" }}
       >
-        <p className="logo-arcade text-2xl md:text-3xl">EM BREVE</p>
-        <p className="mt-3 max-w-xs text-sm text-dim">
-          A gente está preparando o próximo especial da casa. Aguarde — vem coisa boa por aí.
+        <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#7DBBFF]">
+          Artigos · Cultura gamer
         </p>
-        <span className="mt-3 font-mono text-[10px] uppercase tracking-widest text-arcade">
-          ▸ Loading...
+        <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
+          Artigos <span className="text-[#7DBBFF]">Especiais</span>
+        </h3>
+        <p className="mt-2 text-sm text-paper/70">
+          Textos que vão além da notícia: memória, cultura e as histórias por trás dos games que a gente ama.
+        </p>
+        <span className="mt-3 font-mono text-xs uppercase tracking-widest text-[#7DBBFF]">
+          Ler os artigos ▸
         </span>
-      </div>
+      </Link>
       </div>
     </section>
   );
@@ -114,7 +120,7 @@ export default function Home() {
   if (posts.length === 0) return <SiteZerado />;
 
   const resto = posts.slice(5); // as 5 primeiras vivem no carrossel
-  const noticias = resto.filter((p) => !["review", "retrô", "especial"].includes(p.category));
+  const noticias = resto.filter((p) => !["review", "retrô", "especial", "artigo"].includes(p.category));
   const reviews = posts.filter((p) => p.category === "review");
   const retro = posts.filter((p) => p.category === "retrô");
 

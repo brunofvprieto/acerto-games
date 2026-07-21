@@ -42,6 +42,7 @@ export default function Header() {
           <Link href="/buscar" aria-label="Buscar" className="md:hidden hover:text-arcade">🔍</Link>
           <Link href="/gta6" className="whitespace-nowrap text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
           <Link href="/especial-metal-gear" className="whitespace-nowrap text-[#E4C860] hover:text-paper">METAL GEAR</Link>
+          <Link href="/artigos" className="whitespace-nowrap text-[#7DBBFF] hover:text-paper">ARTIGOS</Link>
           <Link href="/#noticias" className="whitespace-nowrap hover:text-paper">Notícias</Link>
           <Link href="/#reviews" className="whitespace-nowrap hover:text-paper">Reviews</Link>
           <Link href="/#retro" className="whitespace-nowrap hover:text-retro">Retrô</Link>
