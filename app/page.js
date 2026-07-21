@@ -4,11 +4,14 @@ import { Cover, CategoryTag, NewsCard, ReviewCard } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
 import HeroCarousel from "../components/HeroCarousel";
 import EmAlta from "../components/EmAlta";
-import Especiais from "../components/Especiais";
 
 function DoisEspeciais() {
   return (
-    <section className="grid gap-4 py-8 md:grid-cols-2">
+    <section className="py-8">
+      <h2 className="mb-4 font-display text-xl uppercase">
+        <span className="text-arcade">◆</span> Especiais
+      </h2>
+      <div className="grid gap-4 md:grid-cols-2">
       {/* Quadrado 1 — Especial Metal Gear (leva ao hub) */}
       <Link
         href="/especial-metal-gear"
@@ -41,6 +44,7 @@ function DoisEspeciais() {
         <span className="mt-3 font-mono text-[10px] uppercase tracking-widest text-arcade">
           ▸ Loading...
         </span>
+      </div>
       </div>
     </section>
   );
@@ -126,9 +130,6 @@ export default function Home() {
       <EmAlta />
 
       {/* Especiais — dois quadrados */}
-      <Especiais />
-
-      {/* Dois especiais lado a lado */}
       <DoisEspeciais />
 
       {/* Notícias */}
