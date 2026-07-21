@@ -245,14 +245,18 @@ function titulosJaPublicados() {
   return fs.readdirSync(DIR_PUBLICADOS)
     .filter((f) => f.endsWith(".json"))
     .map((f) => {
-      try { return JSON.parse(fs.readFileSync(path.join(DIR_PUBLICADOS, f), "utf-8")).title; }
-      catch { return null; }
+      try {
+        const p = JSON.parse(fs.readFileSync(path.join(DIR_PUBLICADOS, f), "utf-8"));
+        const ts = p.publicadoEm ? Date.parse(p.publicadoEm) : 0;
+        return { title: p.title, ts: isNaN(ts) ? 0 : ts };
+      } catch { return null; }
     })
-    .filter(Boolean)
-    .slice(-20);
+    .filter((x) => x && x.title)
+    .sort((a, b) => b.ts - a.ts)          // mais recentes PRIMEIRO
+    .map((x) => x.title);                  // lista completa, do novo pro antigo
 }
 
-async function escreverMateria(item) {
+async function escreverMateria(item, titulosRodada = []) {
   const hoje = new Date().toLocaleDateString("pt-BR", {
     day: "2-digit", month: "short", year: "numeric",
   });
@@ -269,7 +273,7 @@ async function escreverMateria(item) {
     `DATA DE HOJE: ${hoje}`,
     ``,
     `MATÉRIAS JÁ PUBLICADAS NO SITE — compare o ASSUNTO, não as palavras: se o material tratar do mesmo fato/anúncio de qualquer uma delas (mesmo com título diferente ou vindo de outro veículo), responda {"pular": true, "motivo": "notícia já publicada"}:`,
-    ...titulosJaPublicados().map((t) => `- ${t}`),
+    ...[...titulosRodada, ...titulosJaPublicados().slice(0, 30)].map((t) => `- ${t}`),
     ``,
     `Escreva a matéria seguindo a persona e as regras. Lembre: se o material for insuficiente, sinalize na "observacao".`,
   ].join("\n");
@@ -387,6 +391,7 @@ async function main() {
 
   const existentes = slugsExistentes();
   const registro = lerRegistro();
+  const titulosRodada = [];
   const meta = CONFIG.maxMateriasPorRodada;
   const maxTentativas = meta * 4; // pautas recusadas não desperdiçam a rodada
   let tentativas = 0;
@@ -422,7 +427,7 @@ async function main() {
         console.log(item.videoYT ? `   📺 Vídeo achado` : `   ⬜ Nenhum vídeo encontrado (raro)`);
       }
       console.log(`✍️  Escrevendo: ${item.titulo.slice(0, 70)}...`);
-      const materia = await escreverMateria(item);
+      const materia = await escreverMateria(item, titulosRodada);
 
       if (materia.pular) {
         console.log(`   ⛔ Pauta recusada (${materia.motivo || "fora do escopo"}), registrando e seguindo...`);
@@ -438,7 +443,7 @@ async function main() {
         console.log("   ↩️  Já existe, pulando.");
         continue;
       }
-      const parecido = tituloDuplicado(materia.title, titulosJaPublicados());
+      const parecido = tituloDuplicado(materia.title, [...titulosRodada, ...titulosJaPublicados()]);
       if (parecido) {
         console.log(`   🔁 TRAVA ANTI-DUPLICATA: título muito parecido com "${parecido.slice(0, 60)}..." — descartando.`);
         if (item.link) registro.add(item.link);
@@ -485,6 +490,7 @@ async function main() {
       const destino = path.join(DIR_DESTINO, `${materia.slug}.json`);
       fs.writeFileSync(destino, JSON.stringify(materia, null, 2), "utf-8");
       existentes.add(materia.slug);
+      titulosRodada.push(materia.title);
       if (item.link) registro.add(item.link);
       novos++;
       console.log(`   ✅ ${AUTO ? "Publicado" : "Rascunho salvo"}: ${AUTO ? "content/publicados" : "content/rascunhos"}/${materia.slug}.json`);
