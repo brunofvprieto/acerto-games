@@ -11,47 +11,68 @@ function DoisEspeciais() {
       <h2 className="mb-4 font-display text-xl uppercase">
         <span className="text-arcade">◆</span> Especiais
       </h2>
-      <div className="grid gap-4 md:grid-cols-2">
-      {/* Quadrado 1 — Especial Metal Gear (leva ao hub) */}
+
+      {/* Retângulo largo — Especial Metal Gear com arte do Shinkawa */}
       <Link
         href="/especial-metal-gear"
-        className="group relative flex min-h-[220px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860]"
-        style={{ background: "linear-gradient(135deg, #1A1D14 0%, #2E3320 55%, #0A0D10 100%)" }}
+        className="group relative flex min-h-[240px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[280px] md:p-8"
       >
-        <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">
-          Especial · Análise da saga
-        </p>
-        <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
-          A Saga <span className="text-[#E4C860]">Metal Gear</span>
-        </h3>
-        <p className="mt-2 text-sm text-paper/70">
-          De Shadow Moses a Phantom Pain: história, bastidores e cronologia, jogo a jogo.
-        </p>
-        <span className="mt-3 font-mono text-xs uppercase tracking-widest text-[#E4C860]">
-          Entrar no especial ▸
-        </span>
+        <img
+          src="/img/especiais/metal-gear-shinkawa.jpg"
+          alt="Arte da saga Metal Gear por Yoji Shinkawa"
+          className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105"
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/60 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-ink via-transparent to-transparent" />
+        <div className="relative">
+          <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">
+            Especial · Análise da saga
+          </p>
+          <h3 className="mt-2 font-display text-4xl uppercase leading-none text-paper md:text-6xl">
+            A Saga <span className="text-[#E4C860]">Metal Gear</span>
+          </h3>
+          <p className="mt-2 max-w-lg text-sm text-paper/80">
+            De Shadow Moses a Phantom Pain: história, bastidores e a cronologia (aquela confusa e genial), jogo a jogo.
+          </p>
+          <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#E4C860]">
+            Entrar no especial ▸
+          </span>
+        </div>
       </Link>
+    </section>
+  );
+}
 
-      {/* Quadrado 2 — Artigos Especiais */}
+function ArtigoDestaque({ posts }) {
+  const artigo = posts.find((p) => p.category === "artigo");
+  if (!artigo) return null;
+  const fundo = artigo.image
+    ? `url(${artigo.image}) ${artigo.imagePos || "center"} / cover no-repeat`
+    : `linear-gradient(135deg, ${artigo.cover[0]}, ${artigo.cover[1]})`;
+  return (
+    <section className="py-8">
+      <h2 className="mb-4 font-display text-xl uppercase">
+        <span className="text-[#4D9FFF]">✦</span> Artigos Especiais
+      </h2>
       <Link
-        href="/artigos"
-        className="group relative flex min-h-[220px] flex-col justify-end overflow-hidden border border-[#4D9FFF]/50 p-6 transition-all hover:border-[#7DBBFF]"
-        style={{ background: "linear-gradient(135deg, #0E1B2E 0%, #10233A 55%, #0A0D10 100%)" }}
+        href={`/noticia/${artigo.slug}`}
+        className="group relative flex min-h-[320px] flex-col justify-end overflow-hidden border border-[#4D9FFF]/50 p-6 transition-all hover:border-[#7DBBFF] md:min-h-[400px] md:p-10"
+        style={{ background: fundo }}
       >
-        <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#7DBBFF]">
-          Artigos · Cultura gamer
-        </p>
-        <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
-          Artigos <span className="text-[#7DBBFF]">Especiais</span>
-        </h3>
-        <p className="mt-2 text-sm text-paper/70">
-          Textos que vão além da notícia: memória, cultura e as histórias por trás dos games que a gente ama.
-        </p>
-        <span className="mt-3 font-mono text-xs uppercase tracking-widest text-[#7DBBFF]">
-          Ler os artigos ▸
-        </span>
+        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/10" />
+        <div className="relative max-w-3xl">
+          <span className="inline-block bg-[#4D9FFF] px-3 py-1 font-mono text-[10px] font-bold uppercase tracking-widest text-ink">
+            Artigo
+          </span>
+          <h3 className="mt-3 font-display text-2xl uppercase leading-tight text-paper group-hover:text-[#7DBBFF] md:text-4xl">
+            {artigo.title}
+          </h3>
+          <p className="mt-3 max-w-2xl text-dim md:text-lg">{artigo.excerpt}</p>
+          <span className="mt-4 inline-block font-mono text-xs uppercase tracking-widest text-[#7DBBFF]">
+            Ler o artigo ▸
+          </span>
+        </div>
       </Link>
-      </div>
     </section>
   );
 }
@@ -137,6 +158,9 @@ export default function Home() {
 
       {/* Especiais — dois quadrados */}
       <DoisEspeciais />
+
+      {/* Artigo em destaque — faixa larga */}
+      <ArtigoDestaque posts={posts} />
 
       {/* Notícias */}
       {noticias.length > 0 && (
