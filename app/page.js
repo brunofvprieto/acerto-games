@@ -4,6 +4,47 @@ import { Cover, CategoryTag, NewsCard, ReviewCard } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
 import HeroCarousel from "../components/HeroCarousel";
 import EmAlta from "../components/EmAlta";
+import Especiais from "../components/Especiais";
+
+function DoisEspeciais() {
+  return (
+    <section className="grid gap-4 py-8 md:grid-cols-2">
+      {/* Quadrado 1 — Especial Metal Gear (leva ao hub) */}
+      <Link
+        href="/especial-metal-gear"
+        className="group relative flex min-h-[220px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860]"
+        style={{ background: "linear-gradient(135deg, #1A1D14 0%, #2E3320 55%, #0A0D10 100%)" }}
+      >
+        <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">
+          Especial · Análise da saga
+        </p>
+        <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
+          A Saga <span className="text-[#E4C860]">Metal Gear</span>
+        </h3>
+        <p className="mt-2 text-sm text-paper/70">
+          De Shadow Moses a Phantom Pain: história, bastidores e cronologia, jogo a jogo.
+        </p>
+        <span className="mt-3 font-mono text-xs uppercase tracking-widest text-[#E4C860]">
+          Entrar no especial ▸
+        </span>
+      </Link>
+
+      {/* Quadrado 2 — Em breve */}
+      <div
+        className="relative flex min-h-[220px] flex-col items-center justify-center overflow-hidden border border-edge p-6 text-center"
+        style={{ background: "linear-gradient(135deg, #0E1B2E 0%, #10233A 55%, #0A0D10 100%)" }}
+      >
+        <p className="logo-arcade text-2xl md:text-3xl">EM BREVE</p>
+        <p className="mt-3 max-w-xs text-sm text-dim">
+          A gente está preparando o próximo especial da casa. Aguarde — vem coisa boa por aí.
+        </p>
+        <span className="mt-3 font-mono text-[10px] uppercase tracking-widest text-arcade">
+          ▸ Loading...
+        </span>
+      </div>
+    </section>
+  );
+}
 
 const ARTE_GTA6 = "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg";
 const REGEX_GTA = /gta\s*(6|vi)?\b|grand theft auto|rockstar/i;
@@ -69,7 +110,7 @@ export default function Home() {
   if (posts.length === 0) return <SiteZerado />;
 
   const resto = posts.slice(5); // as 5 primeiras vivem no carrossel
-  const noticias = resto.filter((p) => p.category !== "review" && p.category !== "retrô");
+  const noticias = resto.filter((p) => !["review", "retrô", "especial"].includes(p.category));
   const reviews = posts.filter((p) => p.category === "review");
   const retro = posts.filter((p) => p.category === "retrô");
 
@@ -83,6 +124,12 @@ export default function Home() {
 
       {/* Em alta na semana */}
       <EmAlta />
+
+      {/* Especiais — dois quadrados */}
+      <Especiais />
+
+      {/* Dois especiais lado a lado */}
+      <DoisEspeciais />
 
       {/* Notícias */}
       {noticias.length > 0 && (
