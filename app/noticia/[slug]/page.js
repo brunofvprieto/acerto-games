@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getAllPosts, getPost } from "../../../lib/posts";
 import { Cover, CategoryTag, Nota, NewsCard } from "../../../components/Cards";
 import ShareButtons from "../../../components/ShareButtons";
+import QRCode from "../../../components/QRCode";
 
 function youTubeId(texto) {
   const m = texto.match(/(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([\w-]{11})/) || texto.match(/^([\w-]{11})$/);
@@ -153,6 +154,8 @@ export default function Noticia({ params }) {
         </div>
 
         <ShareButtons slug={post.slug} titulo={post.title} />
+
+        <QRCode url={`https://acertogames.com.br/noticia/${post.slug}`} />
 
         {post.fonte && (
           <p className="mt-8 border-t border-edge pt-4 font-mono text-xs uppercase tracking-widest text-dim">
