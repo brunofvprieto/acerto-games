@@ -149,6 +149,22 @@ export default function Noticia({ params }) {
                 </div>
               );
             }
+            if (paragraph.startsWith("link:")) {
+              const [texto, url] = paragraph.slice(5).split("|").map((s) => s.trim());
+              if (!url || !url.startsWith("http")) return null;
+              return (
+                <p key={i}>
+                  <a
+                    href={url}
+                    className="text-arcade underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {texto || url}
+                  </a>
+                </p>
+              );
+            }
             return <p key={i}>{paragraph}</p>;
           })}
         </div>
