@@ -69,3 +69,51 @@ button:focus-visible {
     0 0.195em 0 rgba(46, 232, 108, 0.55);
   padding-bottom: 0.2em;
 }
+
+/* ============================================================
+   Modo de visualização "Celular" (para gravar shorts no desktop)
+   Ativado pelo botão PreviewToggle, que adiciona a classe
+   .ag-mobile-preview no <html>. Enquadra o site numa moldura de
+   celular centralizada, sem alterar o layout original.
+   Só tem efeito em telas grandes (min-width: 768px = desktop).
+   ============================================================ */
+@media (min-width: 768px) {
+  html.ag-mobile-preview {
+    background: #05070a;
+  }
+
+  /* fundo escurecido com leve textura nas laterais */
+  html.ag-mobile-preview body {
+    width: 390px;               /* largura típica de celular */
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100vh;
+    border-left: 1px solid rgba(255, 255, 255, 0.08);
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow:
+      0 0 0 8px #0a0d10,
+      0 0 0 10px rgba(46, 232, 108, 0.25),
+      0 24px 60px rgba(0, 0, 0, 0.6);
+    overflow-x: hidden;
+  }
+
+  /* dentro da moldura, o header deixa de ser "sticky" da tela cheia
+     e passa a acompanhar a coluna estreita naturalmente */
+  html.ag-mobile-preview body header.sticky {
+    position: sticky;
+  }
+
+  /* garante que containers largos (max-w-6xl etc.) caibam na moldura */
+  html.ag-mobile-preview body [class*="max-w-"] {
+    max-width: 100% !important;
+  }
+
+  /* dá um respiro visual acima/abaixo da "moldura" */
+  html.ag-mobile-preview body {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border-radius: 18px;
+    overflow: hidden;
+  }
+}

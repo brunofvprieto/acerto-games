@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllPosts } from "../lib/posts";
 import HeaderSearch from "./HeaderSearch";
+import PreviewToggle from "./PreviewToggle";
 
 function Ticker() {
   const titulos = getAllPosts().slice(0, 5).map((p) => p.title);
@@ -33,9 +34,12 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-edge bg-ink/95 backdrop-blur">
       <Ticker />
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-y-2 px-4 py-3 md:py-4">
-        <Link href="/" className="logo-arcade text-xl">
-          ACERTO<span className="text-arcade">GAMES</span>
-        </Link>
+        <div className="flex items-center gap-3">
+          <Link href="/" className="logo-arcade text-xl">
+            ACERTO<span className="text-arcade">GAMES</span>
+          </Link>
+          <PreviewToggle />
+        </div>
         <div className="flex items-center gap-5 max-md:w-full max-md:order-last">
         <HeaderSearch />
         <nav className="flex items-center gap-5 font-mono text-xs uppercase tracking-widest text-dim max-md:w-full max-md:justify-between max-md:overflow-x-auto max-md:pb-1">
