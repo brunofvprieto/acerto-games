@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getAllPosts } from "../lib/posts";
 import HeaderSearch from "./HeaderSearch";
-import PreviewToggle from "./PreviewToggle";
 
 function Ticker() {
   const titulos = getAllPosts().slice(0, 5).map((p) => p.title);
@@ -34,22 +33,16 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-edge bg-ink/95 backdrop-blur">
       <Ticker />
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-y-2 px-4 py-3 md:py-4">
-        <div className="flex items-center gap-3">
-          <Link href="/" className="logo-arcade text-xl">
-            ACERTO<span className="text-arcade">GAMES</span>
-          </Link>
-          <PreviewToggle />
-        </div>
+        <Link href="/" className="logo-arcade text-xl">
+          ACERTO<span className="text-arcade">GAMES</span>
+        </Link>
 
-        {/* Nav + busca */}
         <div className="flex items-center gap-3 max-md:w-full max-md:order-last">
-          {/* Busca visível só no desktop inline */}
           <div className="hidden md:block">
             <HeaderSearch />
           </div>
 
-          <nav className="flex items-center gap-4 font-mono text-xs uppercase tracking-widest text-dim max-md:w-full max-md:overflow-x-auto max-md:pb-1 max-md:scrollbar-none">
-            {/* Ícone busca mobile */}
+          <nav className="flex items-center gap-4 font-mono text-xs uppercase tracking-widest text-dim max-md:w-full max-md:overflow-x-auto max-md:pb-1">
             <Link href="/buscar" aria-label="Buscar" className="md:hidden shrink-0 hover:text-arcade">
               🔍
             </Link>
