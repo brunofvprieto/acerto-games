@@ -1,0 +1,30 @@
+{
+  "slug": "nvidia-aumento-precos-placas-ate-30-por-cento",
+  "category": "notícia",
+  "title": "Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras",
+  "excerpt": "É o terceiro reajuste de 2026, e o mais amplo até agora: dessa vez a alta atinge praticamente toda a linha RTX 50, não só o topo. A culpada? A memória gráfica, que disparou por causa da crise de componentes.",
+  "author": "Bruno Vazquez",
+  "date": "30 jul 2026",
+  "readTime": "3 min",
+  "cover": [
+    "#76B900",
+    "#0A0D10"
+  ],
+  "image": "/img/nvidia-aumento-precos-placas-ate-30-por-cento.webp",
+  "imageCredit": "Divulgação/Nvidia",
+  "publicadoEm": "2026-07-30T16:15:00Z",
+  "fonte": "Eurogamer, Taiwan Economic Daily e Tecmundo",
+  "fonteUrl": "https://www.eurogamer.pt/nvidia-volta-a-aumentar-os-precos-das-placas-graficas-em-ate-30",
+  "body": [
+    "Más notícias pra quem sonha em montar ou atualizar o PC gamer: a Nvidia vai subir os preços das placas de vídeo de novo. E dessa vez é para valer — o aumento fica entre 20% e 30%, e atinge praticamente toda a linha GeForce RTX, não só os modelos mais caros.",
+    "## O terceiro aumento do ano",
+    "Segundo o jornal taiwanês Economic Daily, a Nvidia voltou a reajustar os preços dos 'pacotes de GPU' que vende aos parceiros (Asus, Gigabyte, MSI e companhia) — pacotes que incluem tanto o chip gráfico quanto a memória GDDR associada. E este já é o terceiro reajuste de 2026: o primeiro rolou em janeiro (10% a 15%), o segundo em maio (só na RTX 5090), e agora vem o mais abrangente de todos, pegando desde a RTX 5050 até a RTX 5090 e suas variantes.",
+    "## Por que os preços não param de subir",
+    "A raiz do problema não é ganância pura e simples — é a crise da memória. A Samsung aumentou os preços da memória DRAM em cerca de 20% neste trimestre, e como a memória GDDR é um componente-chave (e caro) de qualquer placa, a Nvidia repassa o custo. Some a isso a pressão da corrida por hardware de IA, que suga a produção de memória, e você tem a tempestade perfeita. Como a memória vem embutida no pacote que a Nvidia vende, todo reajuste dela cai direto no preço final.",
+    "## O impacto já é visível",
+    "Isso não é teoria: os preços já dispararam onde a crise chegou primeiro. Em Taiwan, uma RTX 5070 Ti que custava cerca de 7.200 yuans em novembro de 2025 saltou pra 9.299 em julho de 2026 e, na última semana, chegou a 10.700 yuans (algo em torno de R$ 8 mil em conversão direta). E teve efeito colateral: lojas e marketplaces começaram a tirar produtos do ar pra recalcular os valores, gerando escassez de estoque em vários países.",
+    "## E aí, compra agora ou espera?",
+    "A pergunta de sempre. Com o cenário de alta contínua e sem previsão de a crise de memória arrefecer no curto prazo, esperar por preço melhor virou aposta arriscada. Se você realmente precisa de uma placa nova e encontrou por um valor razoável, pode ser o caso de agir logo — porque a tendência, infelizmente, é de mais aumento pela frente, não menos. Pra quem pode esperar, resta torcer pra crise de componentes dar uma trégua.",
+    "Você tava de olho em alguma placa? Conta nos comentários se vai comprar agora ou segurar a onda."
+  ]
+}

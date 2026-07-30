@@ -1,0 +1,30 @@
+{
+  "slug": "silent-hill-townfall-pc-requisitos-32gb-ram",
+  "category": "notícia",
+  "title": "Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo",
+  "excerpt": "O novo terror da Konami exige o dobro de RAM do Silent Hill f para as configurações recomendadas. Rodando em Unreal Engine 5, ele mira 4K/30 FPS com uma RTX 3080. Lançamento em 24 de setembro.",
+  "author": "Bruno Vazquez",
+  "date": "30 jul 2026",
+  "readTime": "3 min",
+  "cover": [
+    "#5A2A3A",
+    "#0A0D10"
+  ],
+  "image": "/img/silent-hill-townfall-pc-requisitos-32gb-ram.webp",
+  "imageCredit": "Divulgação/Konami/Annapurna Interactive",
+  "publicadoEm": "2026-07-30T16:30:00Z",
+  "fonte": "Eurogamer, Wccftech e DSOGaming",
+  "fonteUrl": "https://www.eurogamer.pt/silent-hill-townfall-no-pc-exige-32-gb-de-ram-nos-requisitos-recomendados",
+  "body": [
+    "A Konami revelou os requisitos de PC de Silent Hill: Townfall, e a reação geral foi um misto de empolgação e susto — não pelo terror do jogo, mas pela conta do hardware. Rodando em Unreal Engine 5, o novo capítulo da franquia é bem mais faminto que seus antecessores, com destaque pra exigência de 32 GB de RAM na configuração recomendada.",
+    "## O dobro de RAM do jogo anterior",
+    "A comparação que mais choca é com Silent Hill f, o lançamento do ano passado: enquanto o f se contentava com 16 GB de RAM mesmo no recomendado, o Townfall pede 32 GB — o dobro. E não para por aí: ele também exige uma placa de vídeo mais parruda e cerca de 25 GB a mais de espaço em disco. No processador a diferença é menor, mas ainda existe. A boa notícia: se o seu PC rodou o Silent Hill f de boa, provavelmente dá conta do Townfall também.",
+    "## Os números completos",
+    "Para o mínimo (1080p, 30 FPS, gráficos baixos): Windows 11 64-bit, Ryzen 5 3600 ou Core i7-8700K, 16 GB de RAM e uma GeForce RTX 2060 Super ou Radeon RX 6600. Já para o recomendado (4K, gráficos altos, 30 FPS com DLSS/FSR/TSR no modo Balanced): Ryzen 7 5700X ou Core i7-9700K, os tais 32 GB de RAM e uma GeForce RTX 3080 ou Radeon RX 7800 XT. Em ambos os casos, são necessários 75 GB de armazenamento e DirectX 12.",
+    "Uma observação técnica interessante: fabricantes apontam que a exigência alta de RAM vem do tamanho e complexidade das texturas, que são pré-carregadas na memória. Ou seja, se você tem GPU boa mas pouca RAM, pode sofrer com engasgos (stuttering). O conselho, nesse caso, é priorizar upgrade de RAM antes da placa.",
+    "## O que é o jogo",
+    "Silent Hill: Townfall é um terror psicológico completo e independente, ambientado na Escócia de 1996, num cenário frio e isolado cheio de segredos. A experiência é em primeira pessoa, com fuga tensa, combate limitado e quebra-cabeças narrativos. É desenvolvido pelo estúdio escocês Screen Burn (o pessoal por trás de Stories Untold) e co-publicado por Konami e Annapurna Interactive. Um dos elementos curiosos é o CRTV, uma TV de bolso usada pra sintonizar sinais instáveis.",
+    "O jogo chega em 24 de setembro de 2026 para PS5 e PC. Já entrou na fila de um setembro que promete ser tão cheio quanto o agosto que está chegando. Vai encarar?",
+    "Seu PC tá pronto pros 32 GB de RAM ou vai ter que caçar um upgrade? Comenta aí embaixo."
+  ]
+}
