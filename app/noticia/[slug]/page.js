@@ -165,6 +165,28 @@ export default function Noticia({ params }) {
                 </p>
               );
             }
+            if (paragraph.startsWith("mp4:")) {
+              const [src, legenda] = paragraph.slice(4).split("|").map((s) => s.trim());
+              if (!src) return null;
+              return (
+                <figure key={i} className="my-6">
+                  <video
+                    src={src}
+                    controls
+                    playsInline
+                    preload="metadata"
+                    className="w-full rounded-lg border border-edge bg-black"
+                  >
+                    Seu navegador não suporta a reprodução de vídeo.
+                  </video>
+                  {legenda && (
+                    <figcaption className="mt-2 font-mono text-xs uppercase tracking-widest text-dim">
+                      {legenda}
+                    </figcaption>
+                  )}
+                </figure>
+              );
+            }
             return <p key={i}>{paragraph}</p>;
           })}
         </div>
