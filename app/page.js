@@ -12,33 +12,59 @@ function DoisEspeciais() {
         <span className="text-arcade">◆</span> Especiais
       </h2>
 
-      {/* Retângulo largo — Especial Metal Gear com arte do Shinkawa */}
-      <Link
-        href="/especial-metal-gear"
-        className="group relative flex min-h-[240px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[280px] md:p-8"
-      >
-        <img
-          src="/img/especiais/metal-gear-shinkawa.jpg"
-          alt="Arte da saga Metal Gear por Yoji Shinkawa"
-          className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105"
-        />
-        <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/60 to-transparent" />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-transparent to-transparent" />
-        <div className="relative">
-          <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">
-            Especial · Análise da saga
-          </p>
-          <h3 className="mt-2 font-display text-4xl uppercase leading-none text-paper md:text-6xl">
-            A Saga <span className="text-[#E4C860]">Metal Gear</span>
-          </h3>
-          <p className="mt-2 max-w-lg text-sm text-paper/80">
-            De Shadow Moses a Phantom Pain: história, bastidores e a cronologia (aquela confusa e genial), jogo a jogo.
-          </p>
-          <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#E4C860]">
-            Entrar no especial ▸
-          </span>
-        </div>
-      </Link>
+      <div className="grid gap-4 md:grid-cols-2">
+        {/* Quadrado 1 — Especial ATUAL: Metal Gear (arte do Shinkawa) */}
+        <Link
+          href="/especial-metal-gear"
+          className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[340px]"
+        >
+          <img
+            src="/img/especiais/metal-gear-shinkawa.jpg"
+            alt="Arte da saga Metal Gear por Yoji Shinkawa"
+            className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-transparent" />
+          <div className="relative">
+            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">
+              Especial em cartaz
+            </p>
+            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
+              A Saga <span className="text-[#E4C860]">Metal Gear</span>
+            </h3>
+            <p className="mt-2 max-w-sm text-sm text-paper/80">
+              De Shadow Moses ao campo de flores de Snake Eater: história, bastidores e a cronologia genial, jogo a jogo.
+            </p>
+            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#E4C860]">
+              Entrar no especial ▸
+            </span>
+          </div>
+        </Link>
+
+        {/* Quadrado 2 — ANTIGOS ESPECIAIS: arquivo dos especiais passados */}
+        <Link
+          href="/especiais"
+          className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-arcade/40 bg-surface p-6 transition-all hover:border-arcade md:min-h-[340px]"
+        >
+          <div className="absolute inset-0 bg-gradient-to-br from-surface via-ink to-ink opacity-90" />
+          <div className="pointer-events-none absolute right-4 top-4 font-display text-[7rem] leading-none text-arcade/5 md:text-[9rem]">
+            ★
+          </div>
+          <div className="relative">
+            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-arcade">
+              O arquivo
+            </p>
+            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
+              Antigos <span className="text-arcade">Especiais</span>
+            </h3>
+            <p className="mt-2 max-w-sm text-sm text-paper/70">
+              Todos os mergulhos profundos que a gente já fez nas maiores sagas dos games, reunidos num só lugar.
+            </p>
+            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-arcade">
+              Ver o acervo ▸
+            </span>
+          </div>
+        </Link>
+      </div>
     </section>
   );
 }

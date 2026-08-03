@@ -73,34 +73,63 @@ export default function Noticia({ params }) {
   const leiaTambem = relacionadas(post);
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-8">
+    <main className="pb-8">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaArtigo) }}
       />
-      <Link
-        href="/"
-        className="font-mono text-xs uppercase tracking-widest text-dim hover:text-arcade"
-      >
-        ◂ Voltar para a home
-      </Link>
 
-      <article className="mt-6">
-        <CategoryTag category={post.category} />
-        <h1 className="mt-3 font-display text-3xl leading-tight md:text-4xl">
-          {post.title}
-        </h1>
-        <p className="mt-3 text-lg text-dim">{post.excerpt}</p>
-        <p className="mt-4 font-mono text-xs uppercase tracking-widest text-dim">
-          Por {post.author} · {post.date} · {post.readTime} de leitura
-        </p>
+      {/* HERO editorial — imagem grande no topo com o título sobreposto */}
+      <header className="relative min-h-[420px] w-full overflow-hidden md:min-h-[560px]">
+        {post.image ? (
+          <img
+            src={post.image}
+            alt={post.title}
+            className="absolute inset-0 h-full w-full object-cover"
+            style={{ objectPosition: post.imagePos || "center" }}
+          />
+        ) : (
+          <div
+            className="absolute inset-0"
+            style={{ background: `linear-gradient(135deg, ${post.cover[0]}, ${post.cover[1]})` }}
+          />
+        )}
+        {/* gradientes pra dar legibilidade ao texto */}
+        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/70 to-ink/20" />
+        <div className="absolute inset-0 bg-gradient-to-r from-ink/80 via-transparent to-transparent" />
 
-        <Cover colors={post.cover} image={post.image} position={post.imagePos} className="mt-6 h-72 md:h-96 lg:h-[480px]" />
+        <div className="relative mx-auto flex min-h-[420px] max-w-4xl flex-col justify-end px-4 pb-8 pt-24 md:min-h-[560px] md:pb-12">
+          {/* breadcrumb */}
+          <nav className="mb-4 font-mono text-[11px] uppercase tracking-[0.25em] text-paper/70">
+            <Link href="/" className="hover:text-arcade">Início</Link>
+            <span className="mx-2 text-paper/40">/</span>
+            <Link href={`/#${post.category === "review" ? "reviews" : "noticias"}`} className="hover:text-arcade">
+              {post.category === "review" ? "Reviews" : post.category === "retrô" ? "Retrô" : post.category === "especial" ? "Especiais" : "Notícias"}
+            </Link>
+          </nav>
+
+          <div className="flex items-center gap-3">
+            <CategoryTag category={post.category} />
+            {typeof post.nota === "number" && <Nota value={post.nota} size="sm" />}
+          </div>
+
+          <h1 className="mt-4 max-w-3xl font-display text-3xl uppercase leading-[1.05] text-paper drop-shadow-lg md:text-5xl">
+            {post.title}
+          </h1>
+          <p className="mt-4 max-w-2xl text-base text-paper/85 md:text-lg">{post.excerpt}</p>
+          <p className="mt-5 font-mono text-xs uppercase tracking-widest text-paper/70">
+            Por {post.author} · {post.date} · {post.readTime} de leitura
+          </p>
+        </div>
+      </header>
+
+      <article className="mx-auto max-w-3xl px-4">
         {post.imageCredit && (
-          <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">
+          <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-dim">
             📷 {post.imageCredit}
           </p>
         )}
+
 
         {post.nota !== undefined && (
           <div className="mt-6 flex items-center gap-4 border border-edge bg-surface p-4">
