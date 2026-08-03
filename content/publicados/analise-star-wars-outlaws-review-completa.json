@@ -6,7 +6,7 @@
   "author": "Bruno Vazquez",
   "date": "31 jul 2026",
   "readTime": "13 min",
-  "nota": 85,
+  "nota": 8.5,
   "cover": [
     "#C9761E",
     "#0A0D10"
@@ -57,5 +57,6 @@
     "## Nota: 85/100",
     "Um baita jogo, que realiza um sonho antigo de quem ama o lado scoundrel de Star Wars. Não é perfeito, mas é dos mais gostosos de se perder — e o Nix vale cada minuto.",
     "E você, já pegou o Outlaws? Vive mais na pele do fora-da-lei ou prefere empunhar o sabre do Cal Kestis? Conta pra gente aqui embaixo — de preferência, com o Nix no colo."
-  ]
+  ],
+  "imagePos": "center 20%"
 }
