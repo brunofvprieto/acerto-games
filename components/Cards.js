@@ -13,11 +13,11 @@ export function Cover({ colors, image, position, className = "", children }) {
 
 export function CategoryTag({ category }) {
   const styles = {
-    notícia: "bg-arcade text-ink",
-    review: "bg-violet text-paper",
-    retrô: "bg-retro text-ink",
-    especial: "bg-[#C9A227] text-ink",
-    artigo: "bg-[#4D9FFF] text-ink",
+    notícia: "bg-arcade text-white",
+    review: "bg-violet text-white",
+    retrô: "bg-retro text-white",
+    especial: "bg-[#8A6D12] text-white",
+    artigo: "bg-[#1A5FC8] text-white",
   };
   return (
     <span
@@ -35,7 +35,7 @@ export function Nota({ value, size = "md" }) {
   };
   return (
     <div
-      className={`flex ${sizes[size]} items-center justify-center border-2 border-arcade bg-ink font-mono font-bold text-arcade shadow-[4px_4px_0_#FFD60A]`}
+      className={`flex ${sizes[size]} items-center justify-center border-2 border-arcade bg-shade font-mono font-bold text-white shadow-[4px_4px_0_#8A6D12]`}
       aria-label={`Nota ${value}`}
     >
       {value.toFixed(1)}

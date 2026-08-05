@@ -34,21 +34,21 @@ export default function EmAlta() {
             <Link
               key={p.slug}
               href={`/noticia/${p.slug}`}
-              className="cover group relative block h-44 overflow-hidden border border-edge transition-all hover:border-arcade hover:shadow-[0_0_20px_rgba(46,232,108,0.2)] lg:h-52"
+              className="cover group relative block h-44 overflow-hidden border border-edge transition-all hover:border-arcade hover:shadow-[0_0_18px_rgba(10,122,54,0.25)] lg:h-52"
               style={{ background: fundo }}
             >
               {/* Gradiente pra leitura */}
-              <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-ink/10" />
+              <div className="absolute inset-0 bg-gradient-to-t from-shade via-shade/70 to-shade/20" />
               {/* Número do ranking */}
-              <span className="absolute right-2 top-1 font-display text-4xl text-arcade/70 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
+              <span className="absolute right-2 top-1 font-display text-4xl text-white/80 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
                 {i + 1}
               </span>
               <div className="absolute inset-x-0 bottom-0 p-3">
                 <CategoryTag category={p.category} />
-                <h3 className="mt-1.5 line-clamp-3 font-display text-sm leading-snug text-paper group-hover:text-arcade">
+                <h3 className="mt-1.5 line-clamp-3 font-display text-sm leading-snug text-white group-hover:text-white/80">
                   {p.title}
                 </h3>
-                <p className="mt-1 font-mono text-[9px] uppercase tracking-widest text-dim">
+                <p className="mt-1 font-mono text-[9px] uppercase tracking-widest text-white/75">
                   {p.date}
                 </p>
               </div>

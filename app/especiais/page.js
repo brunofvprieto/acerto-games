@@ -34,20 +34,20 @@ export default function EspeciaisPage() {
       {/* destaque do especial em cartaz */}
       <Link
         href="/especial-metal-gear"
-        className="group relative mt-8 flex min-h-[220px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[260px]"
+        className="group relative mt-8 flex min-h-[220px] flex-col justify-end overflow-hidden border border-[#8A6D12]/50 p-6 transition-all hover:border-[#7A5F0E] md:min-h-[260px]"
       >
         <img
           src="/img/especiais/metal-gear-shinkawa.jpg"
           alt="Arte da saga Metal Gear por Yoji Shinkawa"
           className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-shade via-shade/70 to-shade/10" />
         <div className="relative">
-          <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">
+          <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#7A5F0E]">
             Especial em cartaz
           </p>
-          <h2 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
-            A Saga <span className="text-[#E4C860]">Metal Gear</span>
+          <h2 className="mt-2 font-display text-3xl uppercase leading-none text-white md:text-4xl">
+            A Saga <span className="text-[#7A5F0E]">Metal Gear</span>
           </h2>
         </div>
       </Link>

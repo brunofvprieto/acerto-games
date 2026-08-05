@@ -16,25 +16,25 @@ function DoisEspeciais() {
         {/* Quadrado 1 — Especial ATUAL: Metal Gear (arte do Shinkawa) */}
         <Link
           href="/especial-metal-gear"
-          className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[340px]"
+          className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#8A6D12]/50 p-6 transition-all hover:border-[#7A5F0E] md:min-h-[340px]"
         >
           <img
             src="/img/especiais/metal-gear-shinkawa.jpg"
             alt="Arte da saga Metal Gear por Yoji Shinkawa"
             className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-shade via-shade/70 to-shade/10" />
           <div className="relative">
-            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">
+            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#7A5F0E]">
               Especial em cartaz
             </p>
-            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
-              A Saga <span className="text-[#E4C860]">Metal Gear</span>
+            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-white md:text-4xl">
+              A Saga <span className="text-[#7A5F0E]">Metal Gear</span>
             </h3>
-            <p className="mt-2 max-w-sm text-sm text-paper/80">
+            <p className="mt-2 max-w-sm text-sm text-white/80">
               De Shadow Moses ao campo de flores de Snake Eater: história, bastidores e a cronologia genial, jogo a jogo.
             </p>
-            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#E4C860]">
+            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#7A5F0E]">
               Entrar no especial ▸
             </span>
           </div>
@@ -43,23 +43,23 @@ function DoisEspeciais() {
         {/* Quadrado 2 — ARTIGOS ESPECIAIS: textos além da notícia */}
         <Link
           href="/artigos"
-          className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#4D9FFF]/40 bg-surface p-6 transition-all hover:border-[#7DBBFF] md:min-h-[340px]"
+          className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#1A5FC8]/40 bg-surface p-6 transition-all hover:border-[#1A5FC8] md:min-h-[340px]"
         >
-          <div className="absolute inset-0 bg-gradient-to-br from-surface via-ink to-ink opacity-90" />
-          <div className="pointer-events-none absolute right-4 top-4 font-display text-[7rem] leading-none text-[#4D9FFF]/5 md:text-[9rem]">
+          <div className="absolute inset-0 bg-gradient-to-br from-shade/95 via-shade to-shade" />
+          <div className="pointer-events-none absolute right-4 top-4 font-display text-[7rem] leading-none text-[#1A5FC8]/5 md:text-[9rem]">
             ✦
           </div>
           <div className="relative">
-            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#7DBBFF]">
+            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#1A5FC8]">
               Além da notícia
             </p>
-            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">
-              Artigos <span className="text-[#7DBBFF]">Especiais</span>
+            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-white md:text-4xl">
+              Artigos <span className="text-[#1A5FC8]">Especiais</span>
             </h3>
-            <p className="mt-2 max-w-sm text-sm text-paper/70">
+            <p className="mt-2 max-w-sm text-sm text-white/75">
               Memória afetiva, cultura gamer e as histórias por trás dos jogos que marcaram a gente. Textos pra ler com calma.
             </p>
-            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#7DBBFF]">
+            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#1A5FC8]">
               Ver os artigos ▸
             </span>
           </div>
@@ -93,20 +93,20 @@ function ReviewDestaque({ posts }) {
         className="group relative flex min-h-[320px] flex-col justify-end overflow-hidden border border-violet/50 p-6 transition-all hover:border-violet md:min-h-[400px] md:p-10"
         style={{ background: fundo }}
       >
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/10" />
+        <div className="absolute inset-0 bg-gradient-to-t from-shade via-shade/75 to-shade/25" />
         {review.nota != null && (
           <div className="absolute right-6 top-6 md:right-10 md:top-10">
             <Nota value={review.nota} size="lg" />
           </div>
         )}
         <div className="relative max-w-3xl">
-          <span className="inline-block bg-violet px-3 py-1 font-mono text-[10px] font-bold uppercase tracking-widest text-ink">
+          <span className="inline-block bg-violet px-3 py-1 font-mono text-[10px] font-bold uppercase tracking-widest text-white">
             Review
           </span>
-          <h3 className="mt-3 font-display text-2xl uppercase leading-tight text-paper group-hover:text-violet md:text-4xl">
+          <h3 className="mt-3 font-display text-2xl uppercase leading-tight text-white group-hover:text-white/80 md:text-4xl">
             {review.title}
           </h3>
-          <p className="mt-3 max-w-2xl text-dim md:text-lg">{review.excerpt}</p>
+          <p className="mt-3 max-w-2xl text-white/80 md:text-lg">{review.excerpt}</p>
           <span className="mt-4 inline-block font-mono text-xs uppercase tracking-widest text-violet">
             Ler o review ▸
           </span>
@@ -124,7 +124,7 @@ const ehSobreGTA = (p) =>
 function SecaoGTA6() {
   return (
     <section className="py-8">
-      <div className="overflow-hidden border border-[#FF2E97]/50">
+      <div className="overflow-hidden border border-[#C4106B]/50">
         <div className="grid md:grid-cols-2">
           <Link href="/gta6" className="cover relative block min-h-52 md:min-h-full">
             <img
@@ -132,7 +132,7 @@ function SecaoGTA6() {
               alt="Jason e Lucia, protagonistas de GTA 6"
               className="absolute inset-0 h-full w-full object-cover"
             />
-            <span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-paper/70">
+            <span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-white/80">
               Divulgação/Rockstar Games
             </span>
           </Link>
@@ -143,11 +143,11 @@ function SecaoGTA6() {
             <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#FF9AD1]">
               Especial · Contagem regressiva
             </p>
-            <h2 className="logo-arcade text-3xl">GTA 6</h2>
+            <h2 className="logo-arcade-claro text-3xl">GTA 6</h2>
             <CountdownGTA compact />
             <Link
               href="/gta6"
-              className="mt-1 inline-block font-mono text-xs uppercase tracking-widest text-[#FF2E97] hover:text-[#FF9AD1]"
+              className="mt-1 inline-block font-mono text-xs uppercase tracking-widest text-[#FF9AD1] hover:text-white"
             >
               Cobertura completa ▸
             </Link>

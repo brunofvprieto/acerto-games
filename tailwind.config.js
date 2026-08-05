@@ -4,14 +4,24 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        ink: "#0A0D10",
-        surface: "#10161C",
-        edge: "#22303A",
-        paper: "#EDEFF7",
-        dim: "#93A3AF",
-        arcade: "#2EE86C",
-        violet: "#4D9FFF",
-        retro: "#2BD9C8",
+        /* ---- Tema claro ----
+           ink     = fundo principal do site (agora branco)
+           surface = fundo de cartões e blocos
+           edge    = bordas
+           paper   = texto principal (agora escuro)
+           dim     = texto secundário
+           shade   = overlay escuro usado SOBRE imagens (heros/banners)
+           As cores de destaque foram escurecidas para ter contraste
+           suficiente sobre fundo branco (AA da WCAG). */
+        ink: "#FFFFFF",
+        surface: "#F4F7F9",
+        edge: "#D6DEE5",
+        paper: "#111820",
+        dim: "#54636F",
+        shade: "#0A0D10",
+        arcade: "#0A7A36",
+        violet: "#1A5FC8",
+        retro: "#0A7F76",
       },
       fontFamily: {
         display: ["Archivo Black", "sans-serif"],

@@ -25,11 +25,11 @@ export default function HubMetalGear() {
     <main className="mx-auto max-w-6xl px-4">
       <section className="mt-8 overflow-hidden border border-edge">
         <div className="cover relative p-8 md:p-12" style={{ background: "url(/img/especiais/metal-gear-hero.svg) center / cover no-repeat, linear-gradient(135deg, #1A1A1A, #0A0D10)" }}>
-          <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/30" />
+          <div className="absolute inset-0 bg-gradient-to-t from-shade via-shade/75 to-shade/40" />
           <div className="relative">
             <p className="font-mono text-xs uppercase tracking-[0.3em] text-arcade">Especial Acerto Games</p>
-            <h1 className="mt-3 font-display text-4xl uppercase leading-none text-paper md:text-6xl">A Saga<br />Metal Gear</h1>
-            <p className="mt-4 max-w-2xl text-dim">Mais de três décadas, sete capítulos principais e uma história que amarra clonagem, guerra nuclear e o preço de ser um soldado. A gente mergulhou em cada jogo da saga de Hideo Kojima — com análise, contexto e os bastidores de como cada um nasceu. Sente o Codec tocar.</p>
+            <h1 className="mt-3 font-display text-4xl uppercase leading-none text-white md:text-6xl">A Saga<br />Metal Gear</h1>
+            <p className="mt-4 max-w-2xl text-white/80">Mais de três décadas, sete capítulos principais e uma história que amarra clonagem, guerra nuclear e o preço de ser um soldado. A gente mergulhou em cada jogo da saga de Hideo Kojima — com análise, contexto e os bastidores de como cada um nasceu. Sente o Codec tocar.</p>
           </div>
         </div>
       </section>
