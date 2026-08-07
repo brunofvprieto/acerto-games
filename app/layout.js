@@ -10,8 +10,8 @@ export const metadata = {
     "Portal brasileiro de games: notícias em tempo real, reviews com nota e a memória dos clássicos.",
 };
 
-// ⚙️ TROQUE pelos seus IDs reais quando tiver:
-const GA4_ID = "G-XXXXXXXXXX";
+// IDs de rastreamento
+const GA4_ID = "G-JMHJN5CLSY";
 const META_PIXEL_ID = "SEU_PIXEL_ID";
 
 const schemaWebSite = {
