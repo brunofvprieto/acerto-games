@@ -1,0 +1,39 @@
+{
+  "slug": "lies-of-p-switch-2-port-analise-colvara-dx",
+  "category": "especial",
+  "title": "Lies of P no Switch 2 mostra como um bom port deve ser feito",
+  "excerpt": "Em parceria com o Colvara DX, analisamos o port de Lies of P: Complete Edition para o Switch 2. Há concessões visuais e pop-ins, mas os testes mostram um trabalho técnico que prioriza fluidez e oferece três modos gráficos.",
+  "author": "Bruno Vazquez & Colvara DX",
+  "date": "09 ago 2026",
+  "readTime": "7 min",
+  "cover": [
+    "#2EE86C",
+    "#101820"
+  ],
+  "image": "/img/lies-of-p-switch-2-colvara-dx.jpeg",
+  "imageCredit": "Divulgação/NEOWIZ",
+  "publicadoEm": "2026-08-09T13:20:00Z",
+  "fonte": "Colvara DX",
+  "fonteUrl": "https://www.youtube.com/watch?v=_C8iH8JhPVc",
+  "body": [
+    "Tem port que chega ao console como quem apenas cumpre tabela. Lies of P: Complete Edition faz o contrário no Nintendo Switch 2. Em parceria com o canal Colvara DX, que recebeu antecipadamente uma chave da NEOWIZ e testou o jogo tanto na TV quanto no modo portátil, a gente olhou especialmente para aquilo que mais importa nesta versão: desempenho, qualidade de imagem e as concessões necessárias para colocar Krat nas mãos do jogador.",
+    "video:_C8iH8JhPVc",
+    "## Antes de tudo: o que foi testado",
+    "Lies of P não é novidade — o soulslike estreou originalmente em 2023 —, mas a Complete Edition chegou ao Switch 2 reunindo o jogo base e a expansão Overture. Nos testes que servem de base para esta análise, Colvara jogou uma versão fornecida pela NEOWIZ, fez uma transmissão de cerca de duas horas antes de uma atualização e voltou ao jogo depois do patch para observar especialmente o comportamento no portátil.",
+    "## Três modos, três maneiras de jogar",
+    "O port oferece três opções gráficas. O modo desempenho mira 60 fps; o equilibrado trabalha a 40 fps e recupera definição; e o qualidade reduz para 30 fps para priorizar resolução e efeitos visuais. Na experiência relatada por Colvara, o destaque foi a estabilidade: o modo desempenho se manteve nos 60 fps durante os trechos testados, inclusive com mais inimigos em cena. No modo qualidade, a imagem ganha nitidez e detalhes que ficam bem mais claros quando a ação para.",
+    "## Para um soulslike, 60 fps não são apenas luxo",
+    "A preferência de Colvara — e aqui a gente concorda com a lógica — é pelo modo desempenho. Lies of P exige leitura de animação, esquiva e, principalmente, precisão no parry. Ter mais quadros disponíveis ajuda justamente quando o jogo pede uma resposta rápida. Na TV, a perda de resolução foi considerada pouco perceptível durante a movimentação normal; ela aparece mais quando a imagem para ou quando a gente resolve procurar serrilhado em vez de enfrentar os títeres.",
+    "## O elefante na sala são os pop-ins",
+    "O port não saiu ileso. O problema mais recorrente observado nos testes foi o pop-in: objetos, inimigos caídos, postes, paredes e até texturas podem aparecer ou terminar de carregar diante do jogador, especialmente depois de movimentos rápidos da câmera. É coisa rápida, mas acontece com frequência suficiente para ser percebida. Colvara também registrou textura de roupa demorando a ganhar definição. É o ponto técnico que mais pede uma atualização futura da NEOWIZ.",
+    "## No portátil, as concessões ficam mais fáceis de enxergar",
+    "Na tela do Switch 2, o modo desempenho deixa serrilhados e a redução de resolução mais aparentes. Ainda assim, segundo os testes do Colvara DX, a fluidez continuou sendo o grande trunfo e o jogo manteve o comportamento esperado mesmo durante combate. Quem prefere imagem mais limpa pode migrar para qualidade; quem quer um meio-termo tem os 40 fps do equilibrado. Colvara não encontrou no equilibrado uma vantagem tão marcante e recomenda escolher um dos extremos conforme a prioridade de cada jogador.",
+    "## Um bom port é mais do que simplesmente fazer o jogo abrir",
+    "É aqui que Lies of P deixa uma impressão importante para o futuro do Switch 2. A máquina obviamente não entrega a mesma folga de um PS5, Xbox Series X ou PC poderoso, mas a pergunta correta nunca deveria ser essa. A pergunta é: a desenvolvedora entendeu o hardware e construiu opções coerentes ao redor dele? Pelos testes realizados pelo Colvara DX, a resposta é sim. Existem concessões visuais e pop-ins que precisam melhorar, mas existe também escolha — 30, 40 ou 60 fps — e, principalmente, estabilidade.",
+    "## E o preço brasileiro ajuda",
+    "Outro ponto destacado por Colvara foi o preço localizado. A Complete Edition apareceu no Brasil por cerca de R$ 250 no lançamento, em vez de ser tratada como se fosse um jogo completamente novo a preço máximo. Para uma edição que reúne o jogo base e Overture, isso ajuda a tornar a chegada ao console da Nintendo bem mais fácil de defender.",
+    "## Acerto Games + Colvara DX: nossa conclusão",
+    "Depois dos testes, a frase que fica não é que esta seja a versão mais bonita de Lies of P. Não é. O que impressiona é outra coisa: ela parece uma versão pensada para o Switch 2, e não simplesmente espremida nele. Para um soulslike, a possibilidade de jogar a 60 fps com estabilidade pesa muito mais do que enxergar cada detalhe de uma parede enquanto um boss tenta mandar P de volta ao último Stargazer. Se a NEOWIZ atacar os pop-ins e o carregamento tardio de texturas em atualizações futuras, fica um port ainda mais redondo. Do jeito que está, já é um ótimo exemplo de como adaptar um jogo grande para um híbrido sem esquecer que, antes de resolução, a gente precisa jogar."
+  ],
+  "observacao": "Especial colaborativo baseado no vídeo e na transcrição do Colvara DX. Os resultados de desempenho são atribuídos aos testes realizados por ele."
+}
