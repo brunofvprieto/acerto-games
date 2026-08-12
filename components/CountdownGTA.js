@@ -17,11 +17,11 @@ function calcular() {
 
 function Bloco({ valor, rotulo, compact }) {
   return (
-    <div className={`flex flex-col items-center border border-white/30 bg-shade/45 ${compact ? "px-2.5 py-1.5 min-w-[52px]" : "px-4 py-3 min-w-[72px]"}`}>
-      <span className={`font-display text-white ${compact ? "text-xl" : "text-3xl md:text-4xl"}`}>
+    <div className={`flex flex-col items-center border border-[#FF2E97]/40 bg-ink/60 ${compact ? "px-2.5 py-1.5 min-w-[52px]" : "px-4 py-3 min-w-[72px]"}`}>
+      <span className={`font-display text-paper ${compact ? "text-xl" : "text-3xl md:text-4xl"}`}>
         {String(valor).padStart(2, "0")}
       </span>
-      <span className="font-mono text-[10px] uppercase tracking-widest text-white/75">
+      <span className="font-mono text-[10px] uppercase tracking-widest text-[#FF9AD1]">
         {rotulo}
       </span>
     </div>
@@ -39,7 +39,7 @@ export default function CountdownGTA({ compact = false }) {
 
   if (t === null) {
     return (
-      <p className="font-mono text-sm uppercase tracking-widest text-[#8E0E4E]">
+      <p className="font-mono text-sm uppercase tracking-widest text-[#FF9AD1]">
         19 de novembro de 2026
       </p>
     );

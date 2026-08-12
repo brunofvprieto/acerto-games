@@ -16,15 +16,15 @@ export default function Reviews() {
       <section className="mt-8 overflow-hidden border border-violet/50">
         <div
           className="p-8 md:p-12"
-          style={{ background: "linear-gradient(135deg, #16143A 0%, #12274A 55%, #0A0D10 100%)" }}
+          style={{ background: "linear-gradient(135deg, #12102E 0%, #101F3A 55%, #0A0D10 100%)" }}
         >
           <p className="font-mono text-xs uppercase tracking-[0.3em] text-violet">
             Acerto Games
           </p>
-          <h1 className="mt-3 font-display text-4xl uppercase text-white md:text-6xl">
+          <h1 className="mt-3 font-display text-4xl uppercase text-paper md:text-6xl">
             <span className="text-violet">Reviews</span>
           </h1>
-          <p className="mt-4 max-w-2xl text-white/80">
+          <p className="mt-4 max-w-2xl text-paper/80">
             Aqui é onde a gente para de noticiar e começa a julgar. Cada análise desta
             página nasceu de jogo zerado, anotação no caderno e opinião sem meio-termo —
             com a nota na frente e o porquê logo atrás. Se a gente cravou, é porque jogou.

@@ -18,11 +18,11 @@ function Slide({ p, ativo }) {
       style={{ background: fundo }}
     >
       {/* Gradiente para leitura do texto */}
-      <div className="absolute inset-0 bg-gradient-to-t from-shade via-shade/65 to-shade/10" />
+      <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/40 to-transparent" />
       <div className="absolute inset-x-0 bottom-0 p-5 md:p-8">
         <CategoryTag category={p.category} />
         <h2
-          className={`mt-2 line-clamp-2 font-display leading-tight text-white ${
+          className={`mt-2 line-clamp-2 font-display leading-tight text-paper ${
             ativo ? "text-lg md:text-3xl" : "text-base md:text-xl"
           }`}
         >
@@ -30,10 +30,10 @@ function Slide({ p, ativo }) {
         </h2>
         {ativo && (
           <>
-            <p className="mt-2 hidden max-w-2xl text-white/80 md:line-clamp-2 md:block">
+            <p className="mt-2 hidden max-w-2xl text-dim md:line-clamp-2 md:block">
               {p.excerpt}
             </p>
-            <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-white/70 md:text-xs">
+            <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim md:text-xs">
               {p.date} · {p.readTime} de leitura
             </p>
           </>
@@ -105,14 +105,14 @@ export default function HeroCarousel({ posts }) {
           <button
             onClick={() => ir(atual - 1)}
             aria-label="Manchete anterior"
-            className="absolute left-3 top-1/2 z-20 -translate-y-1/2 rounded-full border border-white/60 bg-shade/70 px-3.5 py-2.5 font-mono text-white backdrop-blur transition-all hover:bg-white hover:text-shade hover:shadow-[0_0_20px_rgba(46,232,108,0.5)]"
+            className="absolute left-3 top-1/2 z-20 -translate-y-1/2 rounded-full border border-arcade/60 bg-ink/80 px-3.5 py-2.5 font-mono text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)]"
           >
             ◂
           </button>
           <button
             onClick={() => ir(atual + 1)}
             aria-label="Próxima manchete"
-            className="absolute right-3 top-1/2 z-20 -translate-y-1/2 rounded-full border border-white/60 bg-shade/70 px-3.5 py-2.5 font-mono text-white backdrop-blur transition-all hover:bg-white hover:text-shade hover:shadow-[0_0_20px_rgba(46,232,108,0.5)]"
+            className="absolute right-3 top-1/2 z-20 -translate-y-1/2 rounded-full border border-arcade/60 bg-ink/80 px-3.5 py-2.5 font-mono text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)]"
           >
             ▸
           </button>

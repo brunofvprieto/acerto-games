@@ -1,9 +1,32 @@
 import Link from "next/link";
 
-export function Cover({ colors, image, position, className = "", children }) {
+export function Cover({ colors, image, position, className = "", fit = "cover", children }) {
+  const gradiente = `linear-gradient(135deg, ${colors[0]}, ${colors[1]})`;
+
+  // fit="contain": mostra a foto INTEIRA, sem cortar.
+  // O que sobra nas laterais é preenchido pela própria imagem borrada,
+  // então nunca aparece tarja preta — fica com cara de wallpaper.
+  if (image && fit === "contain") {
+    return (
+      <div className={`cover ${className}`} style={{ background: gradiente }}>
+        <div
+          aria-hidden="true"
+          className="absolute inset-0 scale-125 opacity-50 blur-2xl"
+          style={{ background: `url(${image}) center / cover no-repeat` }}
+        />
+        <img
+          src={image}
+          alt=""
+          className="absolute inset-0 h-full w-full object-contain"
+        />
+        {children}
+      </div>
+    );
+  }
+
   const fundo = image
-    ? `url(${image}) ${position || "center"} / cover no-repeat, linear-gradient(135deg, ${colors[0]}, ${colors[1]})`
-    : `linear-gradient(135deg, ${colors[0]}, ${colors[1]})`;
+    ? `url(${image}) ${position || "center"} / cover no-repeat, ${gradiente}`
+    : gradiente;
   return (
     <div className={`cover ${className}`} style={{ background: fundo }}>
       {children}
@@ -13,11 +36,11 @@ export function Cover({ colors, image, position, className = "", children }) {
 
 export function CategoryTag({ category }) {
   const styles = {
-    notícia: "bg-arcade text-white",
-    review: "bg-violet text-white",
-    retrô: "bg-retro text-white",
-    especial: "bg-[#8A6D12] text-white",
-    artigo: "bg-[#1A5FC8] text-white",
+    notícia: "bg-arcade text-ink",
+    review: "bg-violet text-paper",
+    retrô: "bg-retro text-ink",
+    especial: "bg-[#C9A227] text-ink",
+    artigo: "bg-[#4D9FFF] text-ink",
   };
   return (
     <span
@@ -35,7 +58,7 @@ export function Nota({ value, size = "md" }) {
   };
   return (
     <div
-      className={`flex ${sizes[size]} items-center justify-center border-2 border-arcade bg-shade font-mono font-bold text-white shadow-[4px_4px_0_#8A6D12]`}
+      className={`flex ${sizes[size]} items-center justify-center border-2 border-arcade bg-ink font-mono font-bold text-arcade shadow-[4px_4px_0_#FFD60A]`}
       aria-label={`Nota ${value}`}
     >
       {value.toFixed(1)}

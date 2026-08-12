@@ -13,18 +13,18 @@ export default function Artigos() {
 
   return (
     <main className="mx-auto max-w-6xl px-4">
-      <section className="mt-8 overflow-hidden border border-[#1A5FC8]/50">
+      <section className="mt-8 overflow-hidden border border-[#4D9FFF]/50">
         <div
           className="p-8 md:p-12"
-          style={{ background: "linear-gradient(135deg, #10203A 0%, #122A46 55%, #0A0D10 100%)" }}
+          style={{ background: "linear-gradient(135deg, #0E1B2E 0%, #10233A 55%, #0A0D10 100%)" }}
         >
-          <p className="font-mono text-xs uppercase tracking-[0.3em] text-[#1A5FC8]">
+          <p className="font-mono text-xs uppercase tracking-[0.3em] text-[#7DBBFF]">
             Acerto Games
           </p>
-          <h1 className="mt-3 font-display text-4xl uppercase text-white md:text-6xl">
-            Artigos <span className="text-[#1A5FC8]">Especiais</span>
+          <h1 className="mt-3 font-display text-4xl uppercase text-paper md:text-6xl">
+            Artigos <span className="text-[#7DBBFF]">Especiais</span>
           </h1>
-          <p className="mt-4 max-w-2xl text-white/80">
+          <p className="mt-4 max-w-2xl text-paper/80">
             Aqui a gente desacelera. Enquanto o resto do site corre atrás da notícia do
             minuto, esta é a seção pra respirar e pensar sobre o que os games significam
             de verdade — a memória afetiva, a cultura, as histórias por trás dos

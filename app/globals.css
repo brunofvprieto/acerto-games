@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light;
+  color-scheme: dark;
 }
 
 body {
@@ -38,8 +38,8 @@ body {
   inset: 0;
   background: repeating-linear-gradient(
     0deg,
-    rgba(0, 0, 0, 0.08) 0px,
-    rgba(0, 0, 0, 0.08) 1px,
+    rgba(0, 0, 0, 0.14) 0px,
+    rgba(0, 0, 0, 0.14) 1px,
     transparent 1px,
     transparent 4px
   );
@@ -48,30 +48,13 @@ body {
 
 a:focus-visible,
 button:focus-visible {
-  outline: 2px solid #0A7A36;
+  outline: 2px solid #ffd60a;
   outline-offset: 2px;
   border-radius: 2px;
 }
 
 /* Logo estilo letreiro arcade */
 .logo-arcade {
-  font-family: "Bungee", "Archivo Black", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-  color: #111820;
-  line-height: 1;
-  text-shadow:
-    0 0.045em 0 #FFFFFF,
-    0 0.075em 0 #0A7A36,
-    0 0.105em 0 #FFFFFF,
-    0 0.135em 0 #0A7A36,
-    0 0.165em 0 #FFFFFF,
-    0 0.195em 0 rgba(10, 122, 54, 0.55);
-  padding-bottom: 0.2em;
-}
-
-/* Variante do logo para uso sobre fundos escuros (heros com imagem) */
-.logo-arcade-claro {
   font-family: "Bungee", "Archivo Black", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.02em;
@@ -96,7 +79,7 @@ button:focus-visible {
    ============================================================ */
 @media (min-width: 768px) {
   html.ag-mobile-preview {
-    background: #E7ECF0;
+    background: #05070a;
   }
 
   /* fundo escurecido com leve textura nas laterais */
@@ -106,12 +89,12 @@ button:focus-visible {
     margin-left: auto;
     margin-right: auto;
     min-height: 100vh;
-    border-left: 1px solid rgba(0, 0, 0, 0.08);
-    border-right: 1px solid rgba(0, 0, 0, 0.08);
+    border-left: 1px solid rgba(255, 255, 255, 0.08);
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
     box-shadow:
-      0 0 0 8px #111820,
-      0 0 0 10px rgba(10, 122, 54, 0.35),
-      0 24px 60px rgba(0, 0, 0, 0.25);
+      0 0 0 8px #0a0d10,
+      0 0 0 10px rgba(46, 232, 108, 0.25),
+      0 24px 60px rgba(0, 0, 0, 0.6);
     overflow-x: hidden;
   }
 
