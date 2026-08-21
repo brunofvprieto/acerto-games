@@ -58,9 +58,10 @@ export default function Noticia({ params }) {
   const post = getPost(params.slug);
   if (!post) notFound();
 
+  const isReview = post.category === "review";
   const schemaArtigo = {
     "@context": "https://schema.org",
-    "@type": post.category === "review" ? "Review" : "NewsArticle",
+    "@type": isReview ? "Review" : "NewsArticle",
     headline: post.title,
     description: post.excerpt,
     author: { "@type": "Person", name: post.author },
@@ -68,6 +69,21 @@ export default function Noticia({ params }) {
     inLanguage: "pt-BR",
     ...(post.publicadoEm ? { datePublished: post.publicadoEm } : {}),
     ...(post.image ? { image: [post.image] } : {}),
+    ...(isReview ? {
+      itemReviewed: {
+        "@type": "VideoGame",
+        name: post.jogoReviewado || post.title.replace(/^(Review|Análise|Crítica)[: \-]+/i, "").trim(),
+      },
+      ...(post.nota !== undefined ? {
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: post.nota,
+          bestRating: 10,
+          worstRating: 0,
+        },
+      } : {}),
+      reviewBody: post.excerpt,
+    } : {}),
   };
 
   const leiaTambem = relacionadas(post);
