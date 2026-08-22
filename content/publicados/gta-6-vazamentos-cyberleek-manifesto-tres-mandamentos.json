@@ -1,18 +1,38 @@
 {
   "slug": "gta-6-vazamentos-cyberleek-manifesto-tres-mandamentos",
   "category": "notícia",
-  "title": "Três vídeos de GTA 6 vazaram em dois dias, e quem vazou publicou um manifesto com exigências para a indústria",
-  "excerpt": "O grupo Cyberleek assumiu os vazamentos, diz ter o mapa completo do jogo e não está pedindo dinheiro. Está exigindo o fim da pré-venda digital, o fim de DLC falso e modo offline obrigatório. A Rockstar responde com pedidos de remoção por direito autoral.",
+  "title": "GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta",
+  "excerpt": "O Cyberleek não parou. O vídeo mais novo traz Jason numa hypercar Truffade Thrax, dois postos saqueados, a polícia em perseguição e uma batida capturada em câmera lenta com detalhe de dano de carroceria. E tem tease de boate no final.",
   "author": "Bruno Vazquez",
   "date": "19 ago 2026",
   "publicadoEm": "2026-08-19T15:10:00-03:00",
   "readTime": "6 min",
-  "cover": ["#8A2E6B", "#0A0D10"],
-  "image": "/img/gta-6-vazamento-cyberleek.jpg",
-  "imageCredit": "GTA 6 chega em 19 de novembro. Divulgação/Rockstar Games",
+  "cover": [
+    "#8A2E6B",
+    "#0A0D10"
+  ],
+  "image": "/img/gta-6-jason-posto-gasolina.jpg",
+  "imageCredit": "Jason Duval num bar de Leonida. Divulgação/Rockstar Games",
   "fonte": "PC Gamer e Bloomberg, com o manifesto publicado pelo grupo Cyberleek",
   "fonteUrl": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/",
   "body": [
+    "## Atualização 22 de agosto: o sétimo clipe mudou a escala da história",
+    "Três dias depois do primeiro vazamento, o Cyberleek ainda não parou. Já são sete vídeos publicados, e o mais recente, de hoje, é o mais revelador em termos de mecânicas.",
+    "O clipe tem dois minutos e foi batizado de \"Hypercar Gameplay 2\". Jason dirige uma Truffade Thrax, a hypercar que já apareceu no vídeo anterior, e a sequência abre direto num posto de gasolina chamado Xero Gas Station, numa área suburbana de Leonida.",
+    "## Abastecimento funciona. Com preço na tela.",
+    "Ao encostar no bico de combustível, aparecem duas opções claramente legíveis na tela: Refuel e Repair. O abastecimento custa 32 dólares. O reparo do veículo, 2.429 dólares. O ícone do motor no canto da tela mostra o carro com saúde em 50%, e o medidor de combustível quase vazio.",
+    "Essa é a confirmação mais direta até agora de que o debate sobre o medidor de gasolina era real: o sistema existe, tem preço exibido na interface e o veículo degrada fisicamente.",
+    "link: A discussão que começou quando o medidor apareceu pela primeira vez | https://acertogames.com.br/noticia/gta-6-debate-combustivel-tanque-gasolina-vazamento",
+    "## Dois postos roubados e uma fuga",
+    "Depois de abastecer, Jason entra na loja do posto, agride o atendente e rouba o caixa. A resposta policial é imediata: ele acumula duas das seis estrelas de procurado e foge pela rodovia.",
+    "A sequência se repete num segundo posto logo adiante, aparentemente como planejamento de outro roubo. No meio da fuga, acontece a cena que mais circulou nas redes: uma batida em alta velocidade capturada em câmera lenta, com o vídeo desacelerando o suficiente para mostrar detalhe de amassado na carroceria e debris voando antes de o framerate voltar ao normal.",
+    "O clipe termina com Jason chegando à entrada de uma boate, cruzando as portas duplas. O vídeo corta antes de mostrar o interior, o que o próprio Cyberleek já sinalizou guardar para uma próxima leva.",
+    "## O que a Take-Two está fazendo",
+    "A editora emitiu subpoenas para Microsoft e Discord na tentativa de identificar a pessoa ou grupo por trás dos vazamentos. Há relatos, não confirmados oficialmente, de que o FBI está envolvido na investigação. Os vídeos continuam sendo derrubados por pedidos de DMCA em ritmo rápido, mas reaparecem em outros endereços em questão de horas.",
+    "Jason Schreier, da Bloomberg, confirmou que a Rockstar ainda não identificou o responsável, e que a frustração interna com os vazamentos cresce a cada clipe novo, especialmente porque a empresa planejava o evento da Netflix do dia 27 como a primeira grande vitrine de jogabilidade para o público.",
+    "## Lucia ainda não apareceu",
+    "Detalhe que a comunidade nota desde o primeiro clipe: nenhum dos sete vídeos mostrou a Lucia Caminos, a co-protagonista. Só o Jason aparece. A teoria mais difundida é que a build disponível ao vazador não dá acesso fácil à parte da história que libera a personagem, ou que as seções dela simplesmente ainda não estão no estado em que o Cyberleek pode gravá-las.",
+    "O evento de 27 de agosto na Netflix continua marcado. Faltam cinco dias.",
     "A três meses do lançamento e a poucos dias do evento na Netflix, GTA 6 virou alvo do vazamento mais estranho que a indústria já viu. Não é pirataria por dinheiro, não é venda de build, não é rancor de funcionário demitido. É vazamento com pauta política.",
     "Em dois dias, um grupo autodenominado Cyberleek publicou três vídeos de jogabilidade e imagens do que afirma ser o mapa completo de Leonida. E junto veio um manifesto.",
     "## O que apareceu nos vídeos",
@@ -40,5 +60,5 @@
     "GTA 6 chega em 19 de novembro para PlayStation 5 e Xbox Series X|S.",
     "Um conselho prático pra fechar: se você quer chegar em novembro com o jogo intacto, essa é a hora de fugir do assunto. O material que está circulando inclui cena de história, e daqui pra frente a chance de tomar um estrago sem querer só aumenta."
   ],
-  "observacao": "Fontes originais: reportagens do PC Gamer sobre os clipes e sobre o manifesto do Cyberleek, o próprio manifesto publicado pelo grupo, e cobertura complementar de Push Square, RockstarINTEL, Beebom e Dot Esports para o terceiro vídeo. Por pedido do editor, o site brasileiro que trouxe a pauta não foi citado. NADA foi confirmado por Rockstar ou Take-Two, e o texto sinaliza isso. DECISÃO EDITORIAL: o editor enviou um frame do material vazado (a cena do barco de pesca com Jason e Cal Hampton) para ilustrar a matéria. NÃO usamos, e a capa é arte oficial da Rockstar. Motivo: o material está sendo removido da internet por pedidos de direito autoral da Rockstar e da Take-Two em ritmo agressivo, e veículos como PC Gamer, Push Square e RockstarINTEL declararam explicitamente que não publicariam os vídeos nem imagens deles. Publicar frame de material sob remoção ativa expõe o site a notificação. Se o editor quiser incluir mesmo assim, é decisão dele. Detalhes de jogabilidade (barra de estamina, indicador de furtividade, identificação por roupa/rosto/carro, clonar chave ou quebrar vidro, medidor de combustível, finalização em câmera lenta, lanterna tática e possível sistema de moralidade) vêm da análise do PC Gamer. A música 'Sports Car', da Tate McRae, lançada em janeiro de 2025, é o indício de que o material não vem da invasão de 2022. O manifesto e a venda de memecoin constam da reportagem do PC Gamer."
+  "observacao": "Fontes originais: reportagens do PC Gamer sobre os clipes e sobre o manifesto do Cyberleek, o próprio manifesto publicado pelo grupo, e cobertura complementar de Push Square, RockstarINTEL, Beebom e Dot Esports para o terceiro vídeo. Por pedido do editor, o site brasileiro que trouxe a pauta não foi citado. NADA foi confirmado por Rockstar ou Take-Two, e o texto sinaliza isso. DECISÃO EDITORIAL: o editor enviou um frame do material vazado (a cena do barco de pesca com Jason e Cal Hampton) para ilustrar a matéria. NÃO usamos, e a capa é arte oficial da Rockstar. Motivo: o material está sendo removido da internet por pedidos de direito autoral da Rockstar e da Take-Two em ritmo agressivo, e veículos como PC Gamer, Push Square e RockstarINTEL declararam explicitamente que não publicariam os vídeos nem imagens deles. Publicar frame de material sob remoção ativa expõe o site a notificação. Se o editor quiser incluir mesmo assim, é decisão dele. Detalhes de jogabilidade (barra de estamina, indicador de furtividade, identificação por roupa/rosto/carro, clonar chave ou quebrar vidro, medidor de combustível, finalização em câmera lenta, lanterna tática e possível sistema de moralidade) vêm da análise do PC Gamer. A música 'Sports Car', da Tate McRae, lançada em janeiro de 2025, é o indício de que o material não vem da invasão de 2022. O manifesto e a venda de memecoin constam da reportagem do PC Gamer. ATUALIZAÇÃO 22/08/2026: incluídos os blocos do sétimo clipe a partir de apuração em Sportskeeda, TalkEsport, PC Gamer, GeekVibesNation, EGW News e GameFragger. Fatos confirmados: sétimo vídeo chamado 'Hypercar Gameplay 2', Jason na Truffade Thrax, posto Xero Gas Station, preços de $32 (abastecimento) e $2.429 (reparo), dois roubos a postos com resposta policial de 2 estrelas, batida em câmera lenta com dano de carroceria visível, tease de boate no final, sem mostrar interior. Take-Two emitiu subpoenas para Microsoft e Discord; FBI reportado envolvido por múltiplos veículos, sem confirmação oficial. Lucia ainda ausente em todos os clipes. Jason Schreier/Bloomberg confirmando frustração interna e identidade ainda não descoberta. A nova capa é imagem official do Jason num bar, enviada pelo editor como substituta."
 }
