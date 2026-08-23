@@ -1,8 +1,8 @@
 import Link from "next/link";
-import Script from "next/script";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPost } from "../../../lib/posts";
 import { Cover, CategoryTag, Nota, NewsCard } from "../../../components/Cards";
+import TweetEmbed from "../../../components/TweetEmbed";
 import ShareButtons from "../../../components/ShareButtons";
 import QRCode from "../../../components/QRCode";
 
@@ -196,17 +196,7 @@ export default function Noticia({ params }) {
             if (paragraph.startsWith("tweet:")) {
               const tid = tweetId(paragraph.slice(6).trim());
               if (!tid) return null;
-              return (
-                <div key={i} className="my-4 flex justify-center">
-                  <blockquote
-                    className="twitter-tweet"
-                    data-dnt="true"
-                    data-theme="dark"
-                  >
-                    <a href={`https://twitter.com/i/web/status/${tid}`}></a>
-                  </blockquote>
-                </div>
-              );
+              return <TweetEmbed key={i} tweetId={tid} />;
             }
             if (paragraph.startsWith("mp4:")) {
               const [src, legenda] = paragraph.slice(4).split("|").map((s) => s.trim());
@@ -264,10 +254,6 @@ export default function Noticia({ params }) {
           </div>
         </section>
       )}
-      <Script
-        src="https://platform.twitter.com/widgets.js"
-        strategy="lazyOnload"
-      />
     </main>
   );
 }
