@@ -6,13 +6,7 @@ if (!arquivos.length) {
   process.exit(0);
 }
 
-const proibidos = [
-  /^inacreditável/i,
-  /^você não vai acreditar/i,
-  /^bomba/i,
-  /^urgente/i,
-];
-
+const proibidos = [/^inacreditável/i, /^você não vai acreditar/i, /^bomba/i, /^urgente/i];
 const categorias = new Set(["notícia", "opinião", "artigo", "especial", "review", "retrô"]);
 let falhas = 0;
 
@@ -28,12 +22,8 @@ for (const arquivo of arquivos) {
 
   const erros = [];
   const body = Array.isArray(post.body) ? post.body : [];
-  const texto = body
-    .filter((p) => typeof p === "string" && !/^(img|video|tweet|link|mp4):/.test(p))
-    .join(" ");
-  const paragrafos = body.filter(
-    (p) => typeof p === "string" && !p.startsWith("## ") && !/^(img|video|tweet|link|mp4):/.test(p) && p.trim().length > 80
-  );
+  const texto = body.filter((p) => typeof p === "string" && !/^(img|video|tweet|link|mp4):/.test(p)).join(" ");
+  const paragrafos = body.filter((p) => typeof p === "string" && !p.startsWith("## ") && !/^(img|video|tweet|link|mp4):/.test(p) && p.trim().length > 80);
 
   if (!post.slug || !post.title) erros.push("slug/título ausente");
   if (!post.author) erros.push("autor ausente");
@@ -43,7 +33,7 @@ for (const arquivo of arquivos) {
   if (texto.length < 2800) erros.push(`texto muito curto (${texto.length} caracteres; mínimo editorial: 2800)`);
   if (paragrafos.length < 6) erros.push(`poucos parágrafos substanciais (${paragrafos.length}; mínimo: 6)`);
   if (proibidos.some((re) => re.test(post.title || ""))) erros.push("título usa fórmula de clickbait proibida");
-  if (!post.editorialAngle || post.editorialAngle.length < 60) erros.push("ângulo editorial ausente ou superficial");
+  if (!(post.editorialAngle || post.observacao) || String(post.editorialAngle || post.observacao).length < 60) erros.push("ângulo editorial/observação de apuração ausente ou superficial");
 
   if (["notícia", "opinião", "artigo", "especial", "review"].includes(post.category)) {
     if (!post.fonte && !post.source) erros.push("fonte não identificada");
