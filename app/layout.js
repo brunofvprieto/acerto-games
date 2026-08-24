@@ -5,22 +5,26 @@ import Footer from "../components/Footer";
 export const metadata = {
   metadataBase: new URL("https://acertogames.com.br"),
   alternates: { canonical: "/" },
-  title: "Acerto Games — Notícias, reviews e retrô",
+  title: "Acerto Games — Notícias, análises, reviews e opinião",
   description:
-    "Portal brasileiro de games: notícias em tempo real, reviews com nota e a memória dos clássicos.",
+    "Portal brasileiro independente de games: notícias, análises, opiniões, reviews e especiais sobre jogos, indústria, hardware e cultura gamer.",
 };
 
-// IDs de rastreamento
 const GA4_ID = "G-JMHJN5CLSY";
-const META_PIXEL_ID = "SEU_PIXEL_ID";
 
 const schemaWebSite = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "Acerto Games",
-  description: "Portal brasileiro de games: notícias, reviews e retrô.",
+  description:
+    "Portal brasileiro independente de games com notícias, análises, opiniões, reviews e especiais.",
   url: "https://acertogames.com.br",
   inLanguage: "pt-BR",
+  publisher: {
+    "@type": "Organization",
+    name: "Acerto Games",
+    url: "https://acertogames.com.br",
+  },
 };
 
 export default function RootLayout({ children }) {
@@ -34,7 +38,6 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
         />
 
-        {/* Google AdSense */}
         <meta name="google-adsense-account" content="ca-pub-5246089745607111" />
         <script
           async
@@ -42,24 +45,15 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
         />
 
-        {/* Schema Markup: WebSite */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaWebSite) }}
         />
 
-        {/* Google Analytics 4 */}
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`} />
         <script
           dangerouslySetInnerHTML={{
             __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA4_ID}');`,
-          }}
-        />
-
-        {/* Pixel da Meta */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','${META_PIXEL_ID}');fbq('track','PageView');`,
           }}
         />
       </head>
