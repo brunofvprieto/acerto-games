@@ -6,13 +6,19 @@
   "author": "Bruno Vazquez",
   "date": "24 ago 2026",
   "readTime": "8 min",
-  "cover": ["#FF7A45", "#0A0D10"],
+  "cover": [
+    "#FF7A45",
+    "#0A0D10"
+  ],
+  "image": "/img/switch-2-microsd-express-capa.jpg",
+  "imageCredit": "Imagem fornecida para publicação no Acerto Games",
   "publicadoEm": "2026-08-24T17:45:00Z",
   "fonte": "Nintendo Support — Game-Key Cards",
   "fonteUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68415/",
   "body": [
     "Existe uma cena estranha acontecendo nas prateleiras de games: a caixa continua ali, bonita, colorida e pronta para ser levada para casa — mas, em alguns casos, o jogo que você comprou não está realmente dentro dela. O Nintendo Switch 2 tornou essa contradição impossível de ignorar.",
     "É tentador resumir tudo dizendo que a mídia física está morrendo. Eu não acho que seja tão simples. O que está desaparecendo é uma definição antiga de mídia física: aquela em que comprar uma caixa significava levar para casa uma cópia completa do jogo, independente de servidores, contas ou downloads posteriores.",
+    "img: /img/switch-2-microsd-express-capa.jpg | Switch 2 e cartão de armazenamento: a mudança da mídia física também passa pelo espaço necessário para manter uma biblioteca de jogos. Imagem fornecida.",
     "## A caixa continua. O significado dela mudou.",
     "Os Game-Key Cards são o exemplo mais evidente dessa transformação. Em vez de armazenar o jogo completo no cartão, o produto físico funciona como uma chave que permite baixar os dados necessários. A caixa continua existindo, o cartão continua existindo e o ritual de abrir o produto continua existindo — mas a função do objeto mudou.",
     "Do ponto de vista da indústria, existe lógica nisso. Jogos atuais ficaram grandes demais, atualizações são constantes e os custos de distribuição precisam ser controlados. Um cartão com capacidade menor pode ser mais barato e ainda permitir que uma empresa venda uma edição física sem precisar fabricar uma mídia com espaço suficiente para todo o jogo.",
