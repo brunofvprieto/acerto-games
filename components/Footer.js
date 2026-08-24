@@ -9,7 +9,9 @@ export default function Footer() {
         </p>
         <nav className="flex flex-wrap gap-4 font-mono text-[11px] uppercase tracking-widest text-dim">
           <Link href="/gta6" className="text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
+          <Link href="/opinioes" className="hover:text-[#FF9A6B]">Opinião</Link>
           <Link href="/sobre" className="hover:text-paper">Sobre</Link>
+          <Link href="/editorial" className="hover:text-paper">Política editorial</Link>
           <Link href="/contato" className="hover:text-paper">Contato</Link>
           <Link href="/politica-de-privacidade" className="hover:text-paper">Privacidade</Link>
         </nav>
