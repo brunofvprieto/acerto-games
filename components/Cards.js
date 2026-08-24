@@ -41,6 +41,7 @@ export function CategoryTag({ category }) {
     retrô: "bg-retro text-ink",
     especial: "bg-[#C9A227] text-ink",
     artigo: "bg-[#4D9FFF] text-ink",
+    opinião: "bg-[#FF7A45] text-ink",
   };
   return (
     <span
@@ -67,15 +68,16 @@ export function Nota({ value, size = "md" }) {
 }
 
 export function NewsCard({ post }) {
+  const hover = post.category === "opinião" ? "hover:border-[#FF7A45]" : "hover:border-arcade";
   return (
     <Link
       href={`/noticia/${post.slug}`}
-      className="group block border border-edge bg-surface transition-colors hover:border-arcade"
+      className={`group block border border-edge bg-surface transition-colors ${hover}`}
     >
       <Cover colors={post.cover} image={post.image} position={post.imagePos} className="h-40" />
       <div className="space-y-2 p-4">
         <CategoryTag category={post.category} />
-        <h3 className="font-display text-lg leading-snug group-hover:text-arcade">
+        <h3 className="font-display text-lg leading-snug group-hover:text-paper">
           {post.title}
         </h3>
         <p className="text-sm text-dim">{post.excerpt}</p>
