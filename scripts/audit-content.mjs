@@ -48,8 +48,6 @@ const totais = {
 const linhas = [
   "# Auditoria editorial — Acerto Games",
   "",
-  `Gerado em ${new Date().toISOString()}.`,
-  "",
   "## Resumo",
   `- Total analisado: ${totais.total}`,
   `- Forte: ${totais.fortes}`,
