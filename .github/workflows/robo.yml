@@ -30,6 +30,16 @@ jobs:
           trap 'cp /tmp/persona-acerto-original.md scripts/persona.md' EXIT
           node scripts/robo.mjs
 
+      - name: Gate editorial — bloquear conteúdo raso
+        shell: bash
+        run: |
+          mapfile -t ARQUIVOS < <(git diff --name-only -- content/rascunhos content/publicados | grep -E '\\.json$' || true)
+          if [ ${#ARQUIVOS[@]} -eq 0 ]; then
+            echo "Nenhum JSON novo para validar."
+          else
+            node scripts/quality-gate.mjs "${ARQUIVOS[@]}"
+          fi
+
       - name: Commitar matérias novas
         run: |
           git config user.name "brunofvprieto"
