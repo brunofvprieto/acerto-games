@@ -52,6 +52,9 @@ export default function Header() {
             <Link href="/especial-metal-gear" className="whitespace-nowrap shrink-0 text-[#E4C860] hover:text-paper">
               METAL GEAR
             </Link>
+            <Link href="/opinioes" className="whitespace-nowrap shrink-0 text-[#FF9A6B] hover:text-paper">
+              Opinião
+            </Link>
             <Link href="/artigos" className="whitespace-nowrap shrink-0 text-[#7DBBFF] hover:text-paper">
               ARTIGOS
             </Link>
