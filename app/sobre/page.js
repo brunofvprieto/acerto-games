@@ -3,7 +3,7 @@ import Link from "next/link";
 export const metadata = {
   title: "Sobre — Acerto Games",
   description:
-    "Quem faz o Acerto Games, como apuramos nossas matérias, como funcionam as notas dos reviews e como corrigimos erros. Portal brasileiro de games editado por Bruno Vazquez.",
+    "Quem faz o Acerto Games, como apuramos nossas matérias, como funcionam as notas dos reviews e como corrigimos erros. Portal brasileiro de games editado por Bruno Vazquez, jornalista formado em 2008.",
 };
 
 export default function Sobre() {
@@ -27,10 +27,11 @@ export default function Sobre() {
 
         <h2 className="font-display text-xl text-arcade pt-4">Quem escreve</h2>
         <p>
-          O Acerto Games é editado por <strong>Bruno Vazquez</strong>. A linha editorial
-          combina a experiência de jogador com uma leitura crítica da indústria: o objetivo
-          não é apenas contar o que aconteceu, mas explicar por que aquilo importa para quem
-          joga.
+          O Acerto Games é editado por <strong>Bruno Vazquez</strong>, jornalista formado em
+          <strong> 2008</strong> e profissional da área há 18 anos. A linha editorial
+          combina experiência jornalística com a experiência de jogador e uma leitura crítica
+          da indústria: o objetivo não é apenas contar o que aconteceu, mas explicar por que
+          aquilo importa para quem joga.
         </p>
         <p>
           A história começou como a de muito brasileiro dos anos 90: o primeiro console
