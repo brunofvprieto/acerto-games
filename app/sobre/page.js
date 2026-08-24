@@ -22,14 +22,15 @@ export default function Sobre() {
           é tradução apressada do que saiu lá fora, sem responder o que o leitor daqui
           realmente quer saber. Quanto custa em real? Vem dublado em português? A promoção
           vale no Brasil? É essa camada que a gente faz questão de acrescentar em toda
-          matéria — porque é ela que separa uma notícia útil de um texto copiado.
+          matéria — porque ela separa uma notícia útil de uma simples repetição.
         </p>
 
         <h2 className="font-display text-xl text-arcade pt-4">Quem escreve</h2>
         <p>
-          O Acerto Games é editado por <strong>Bruno Vazquez</strong>, jornalista formado
-          há 18 anos e apaixonado por games desde que se entende por gente. Todo conteúdo
-          publicado aqui é assinado — você sempre sabe quem escreveu o que está lendo.
+          O Acerto Games é editado por <strong>Bruno Vazquez</strong>. A linha editorial
+          combina a experiência de jogador com uma leitura crítica da indústria: o objetivo
+          não é apenas contar o que aconteceu, mas explicar por que aquilo importa para quem
+          joga.
         </p>
         <p>
           A história começou como a de muito brasileiro dos anos 90: o primeiro console
@@ -40,8 +41,7 @@ export default function Sobre() {
           coração) por trás deste site.
         </p>
         <p>
-          É essa combinação — o rigor de quase duas décadas de jornalismo com a memória
-          afetiva de quem soprou cartucho — que dá o tom do Acerto Games.
+          Quer conhecer o trabalho do editor? Acesse o <Link href="/autor/bruno-vazquez" className="text-arcade underline">perfil de Bruno Vazquez</Link> e veja suas matérias, análises e opiniões.
         </p>
 
         <h2 className="font-display text-xl text-arcade pt-4">Como apuramos</h2>
