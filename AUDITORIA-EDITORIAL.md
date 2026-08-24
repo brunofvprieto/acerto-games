@@ -88,7 +88,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2805 | 6 | 100 | Os maiores críticos do Game Pass estão dentro da própria Xbox | — |
 | FORTE | artigo | 4142 | 15 | 100 | GTA 6 e o Cyberleek: o crime que virou entretenimento e o problema que ninguém está discutindo | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
-| FORTE | notícia | 3050 | 10 | 100 | Rumor: toda a trilogia Dark Souls pode estar sendo refeita, e a pergunta que ninguém respondeu é quem está fazendo | — |
+| FORTE | notícia | 3076 | 10 | 100 | Rumor: toda a trilogia Dark Souls pode estar sendo refeita, e a pergunta que ninguém respondeu é quem está fazendo | — |
 | FORTE | notícia | 2319 | 5 | 100 | Dez anos de sofrimento e a Red Hook presenteia o Darkest Dungeon original com novo DLC | — |
 | FORTE | notícia | 4415 | 16 | 100 | Dave Bautista negocia para ser o novo Kratos da série de God of War | — |
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
