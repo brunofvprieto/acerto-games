@@ -3,106 +3,107 @@ import Link from "next/link";
 export const metadata = {
   title: "Sobre — Acerto Games",
   description:
-    "Quem faz o Acerto Games, como apuramos nossas matérias, como funcionam as notas dos reviews e como corrigimos erros. Portal brasileiro de games editado por Bruno Vazquez, jornalista formado em 2008.",
+    "Conheça o Acerto Games, seu editor e a política de apuração do portal brasileiro independente de games.",
 };
 
 export default function Sobre() {
   return (
     <main className="mx-auto max-w-3xl px-4 py-10">
-      <h1 className="logo-arcade text-3xl">Sobre o Acerto Games</h1>
+      <p className="font-mono text-xs uppercase tracking-[0.25em] text-arcade">Quem somos</p>
+      <h1 className="logo-arcade mt-2 text-3xl">Sobre o Acerto Games</h1>
 
       <div className="mt-6 space-y-5 text-lg leading-relaxed">
         <p>
-          O <strong>Acerto Games</strong> é um portal brasileiro independente sobre o
-          universo dos games: lançamentos, indústria, mercado, hardware, eSports e a boa
-          e velha nostalgia — das locadoras ao fliperama de ficha.
+          O <strong>Acerto Games</strong> é um portal brasileiro independente sobre o universo dos games:
+          lançamentos, indústria, mercado, hardware, eSports, cultura gamer e a boa e velha nostalgia —
+          das locadoras ao fliperama de ficha.
         </p>
         <p>
-          A gente existe por um motivo simples: quase tudo que se lê sobre games no Brasil
-          é tradução apressada do que saiu lá fora, sem responder o que o leitor daqui
-          realmente quer saber. Quanto custa em real? Vem dublado em português? A promoção
-          vale no Brasil? É essa camada que a gente faz questão de acrescentar em toda
-          matéria — porque ela separa uma notícia útil de uma simples repetição.
+          A nossa pergunta editorial é simples: <strong>o que essa notícia muda para quem joga?</strong>
+          Não queremos apenas repetir um anúncio. Sempre que a pauta permitir, acrescentamos contexto,
+          comparação, impacto para o jogador brasileiro, leitura de mercado, explicação técnica ou uma
+          posição editorial claramente identificada.
         </p>
 
-        <h2 className="font-display text-xl text-arcade pt-4">Quem escreve</h2>
-        <p>
-          O Acerto Games é editado por <strong>Bruno Vazquez</strong>, jornalista formado em
-          <strong> 2008</strong> e profissional da área há 18 anos. A linha editorial
-          combina experiência jornalística com a experiência de jogador e uma leitura crítica
-          da indústria: o objetivo não é apenas contar o que aconteceu, mas explicar por que
-          aquilo importa para quem joga.
-        </p>
-        <p>
-          A história começou como a de muito brasileiro dos anos 90: o primeiro console
-          foi o famigerado <strong>Phantom System</strong>, o clone nacional do Nintendinho
-          que marcou uma geração inteira. De lá pra cá vieram o Super Nintendo, os
-          PlayStations, e uma paixão moldada por franquias como <strong>Metal Gear</strong>,{" "}
-          <strong>Zelda</strong> e <strong>GTA</strong> — que até hoje definem o gosto (e o
-          coração) por trás deste site.
-        </p>
-        <p>
-          Quer conhecer o trabalho do editor? Acesse o <Link href="/autor/bruno-vazquez" className="text-arcade underline">perfil de Bruno Vazquez</Link> e veja suas matérias, análises e opiniões.
-        </p>
+        <section className="border border-edge bg-surface p-6">
+          <p className="font-mono text-xs uppercase tracking-[0.2em] text-arcade">Quem está por trás</p>
+          <h2 className="mt-2 font-display text-2xl uppercase">Bruno Vazquez</h2>
+          <p className="mt-3 text-base leading-relaxed text-dim">
+            Jornalista formado em <strong>2008</strong>, com <strong>18 anos de experiência</strong> em
+            jornalismo. Editor do Acerto Games, Bruno combina a experiência profissional de redação com
+            uma vida inteira acompanhando videogames — do Phantom System aos consoles atuais.
+          </p>
+          <p className="mt-3 text-base leading-relaxed text-dim">
+            O trabalho editorial parte de uma ideia: informação precisa ser útil, mas jornalismo também
+            pode ter personalidade. Por isso, notícia, análise, opinião e review são tratados como formatos
+            diferentes, cada um com sua responsabilidade.
+          </p>
+          <Link href="/autor/bruno-vazquez" className="mt-4 inline-block text-sm text-arcade underline">
+            Conheça o perfil do editor →
+          </Link>
+        </section>
 
         <h2 className="font-display text-xl text-arcade pt-4">Como apuramos</h2>
-        <p>
-          Nenhuma matéria daqui nasce de um único link. O método é sempre o mesmo:
-        </p>
+        <p>Nenhuma matéria deve nascer de uma simples troca de palavras em cima de outra matéria. O processo editorial prioriza:</p>
         <ul className="ml-5 list-disc space-y-2 text-base">
-          <li>
-            <strong>Fonte primária primeiro.</strong> Quando o assunto tem origem oficial —
-            relatório financeiro, patch note, comunicado de estúdio, classificação etária —
-            a gente vai atrás do documento original em vez de reescrever o resumo de outro site.
-          </li>
-          <li>
-            <strong>Crédito explícito.</strong> Toda matéria informa a fonte da apuração e
-            leva link para ela. Se a informação veio de terceiros, isso está dito no texto.
-          </li>
-          <li>
-            <strong>Rumor é rumor.</strong> Vazamento, boato e teoria de comunidade são
-            publicados como tal, com aviso claro. A gente nunca apresenta especulação como
-            fato confirmado.
-          </li>
-          <li>
-            <strong>Contexto brasileiro sempre.</strong> Preços convertidos e checados em
-            real, disponibilidade de dublagem, e o aviso honesto quando uma promoção não
-            vale por aqui.
-          </li>
+          <li><strong>Fonte primária primeiro:</strong> documentos oficiais, comunicados, páginas de produto, relatórios, entrevistas e materiais das próprias empresas quando disponíveis.</li>
+          <li><strong>Apuração complementar:</strong> quando a pauta exige, cruzamos informações e buscamos fontes independentes para contextualizar o fato.</li>
+          <li><strong>Valor próprio:</strong> a matéria precisa acrescentar contexto, comparação, consequência, leitura de mercado, serviço ou análise — não apenas recontar a fonte.</li>
+          <li><strong>Rumor é rumor:</strong> vazamentos, boatos e especulações são identificados como tais. Nunca apresentamos especulação como fato confirmado.</li>
+          <li><strong>Brasil em primeiro plano:</strong> preço, disponibilidade, idioma, servidores, datas e condições para o público brasileiro entram no texto sempre que houver informação confiável.</li>
         </ul>
+
+        <h2 className="font-display text-xl text-arcade pt-4">Notícia, análise e opinião</h2>
+        <p>
+          O Acerto Games separa os formatos. <strong>Notícia informa.</strong> <strong>Análise explica.</strong>
+          <strong> Opinião posiciona.</strong> <strong>Review testa.</strong> <strong>Especial contextualiza.</strong>
+          Quando o texto apresenta uma leitura da redação, isso é sinalizado ao leitor em vez de ser misturado aos fatos.
+        </p>
+        <p>
+          Opinião não significa abandonar a apuração. Uma boa opinião tem tese, evidências, contraponto e
+          conclusão. A ideia é discutir a indústria com paixão, mas sem torcida cega.
+        </p>
 
         <h2 className="font-display text-xl text-arcade pt-4">Como funcionam nossas notas</h2>
         <p>
-          Review no Acerto Games só sai depois de jogo zerado ou de tempo suficiente para
-          formar opinião honesta — nunca a partir de material promocional. A nota vai de 0 a
-          10, com uma casa decimal, e sempre acompanhada do porquê: o texto explica o que
-          sustenta o número e o que impediu que fosse maior.
+          Review no Acerto Games só sai depois de experiência suficiente para formar uma opinião honesta.
+          A nota vai de 0 a 10, com uma casa decimal, e o texto explica o que sustenta o número e o que
+          impediu que fosse maior.
         </p>
         <p>
-          A gente informa em qual plataforma jogou e diz quando a cópia foi cedida pela
-          publicadora. Cortesia não compra nota — se o jogo decepcionou, está escrito lá.
+          Informamos a plataforma utilizada e, quando aplicável, se a cópia foi cedida pela publicadora.
+          Cortesia não compra nota — se o jogo decepcionou, está escrito lá.
+        </p>
+
+        <h2 className="font-display text-xl text-arcade pt-4">Uso de inteligência artificial</h2>
+        <p>
+          Ferramentas de inteligência artificial podem participar de etapas de pesquisa, organização,
+          revisão e rascunho. <strong>A IA não é a autora.</strong> A publicação é responsabilidade editorial
+          humana, e nenhuma ferramenta pode inventar fonte, declaração, dado, experiência ou citação.
+        </p>
+        <p className="text-base text-dim">
+          Nosso fluxo é: <strong>fonte → apuração → rascunho assistido → revisão humana → publicação.</strong>
         </p>
 
         <h2 className="font-display text-xl text-arcade pt-4">Erros e correções</h2>
         <p>
-          A gente erra, como qualquer redação. O compromisso é corrigir rápido e sem
-          esconder: achou um erro, escreva pra{" "}
-          <Link href="/contato" className="text-arcade underline">
-            nosso contato
-          </Link>{" "}
-          que a correção sai e fica registrada na matéria.
+          A gente erra, como qualquer redação. O compromisso é corrigir rápido e sem esconder: encontrou um
+          erro factual, escreva para <Link href="/contato" className="text-arcade underline">nosso contato</Link>.
+          Quando necessário, a correção fica registrada na própria matéria.
         </p>
 
         <h2 className="font-display text-xl text-arcade pt-4">Independência</h2>
         <p>
-          O Acerto Games não tem vínculo com nenhuma publicadora, fabricante de console ou
-          loja. Opinião aqui é opinião da casa, assinada, e quando existe qualquer relação
-          comercial envolvida num conteúdo, isso é informado ao leitor de forma clara.
+          O Acerto Games não tem vínculo editorial com publicadoras, fabricantes de consoles ou lojas.
+          Quando existe relação comercial ou uma cópia foi cedida para avaliação, isso é informado ao leitor.
         </p>
         <p className="text-base text-dim">
-          Marcas, logos e imagens de jogos citados pertencem a seus respectivos detentores
-          de direitos e são usados aqui em caráter informativo e jornalístico, sempre com
-          crédito.
+          Marcas, logos e imagens de jogos citados pertencem a seus respectivos detentores de direitos e
+          podem aparecer em caráter informativo e jornalístico, com crédito quando aplicável.
+        </p>
+
+        <p className="border-t border-edge pt-5 text-base text-dim">
+          Quer entender em detalhes como o portal trabalha? Leia nossa <Link href="/editorial" className="text-arcade underline">Política Editorial</Link>.
         </p>
       </div>
     </main>
