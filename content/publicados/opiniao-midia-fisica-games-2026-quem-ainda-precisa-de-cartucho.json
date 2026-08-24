@@ -6,8 +6,11 @@
   "author": "Bruno Vazquez",
   "date": "24 ago 2026",
   "readTime": "8 min",
-  "cover": ["#FF7A45", "#101820"],
-  "imageCredit": "Arte editorial/Acerto Games",
+  "cover": [
+    "#FF7A45",
+    "#101820"
+  ],
+  "imageCredit": "O slot de cartucho do Nintendo Switch 2. Divulgação/Nintendo",
   "publicadoEm": "2026-08-24T13:40:00Z",
   "fonte": "Nintendo; YouGov; Electronic Arts",
   "fonteUrl": "https://www.nintendo.com/us/whatsnew/about-nintendo-switch-2-game-pricing/",
@@ -42,5 +45,6 @@
     "Se a caixa não contém o jogo, diga. Se precisa baixar dezenas de gigabytes, diga. Se o cartão é apenas uma chave, diga. E se o consumidor estiver pagando mais pela versão física, entregue alguma coisa que justifique o objeto.",
     "Porque, no fim das contas, ninguém está pedindo para a indústria parar o futuro. A gente só quer ter certeza de que, quando comprar uma caixa, ainda existe alguma coisa dentro dela além da nostalgia."
   ],
-  "observacao": "Opinião editorial original baseada em dados públicos recentes. Dados consultados: Nintendo sobre preços físicos e digitais do Switch 2; YouGov sobre preferência por mídia física entre jogadores de console; Electronic Arts sobre receita digital e física. A tese e os julgamentos são opinião do Acerto Games, não fatos atribuídos às fontes."
+  "observacao": "Opinião editorial original baseada em dados públicos recentes. Dados consultados: Nintendo sobre preços físicos e digitais do Switch 2; YouGov sobre preferência por mídia física entre jogadores de console; Electronic Arts sobre receita digital e física. A tese e os julgamentos são opinião do Acerto Games, não fatos atribuídos às fontes.",
+  "image": "/img/switch-2-game-key-card-slot.jpg"
 }
