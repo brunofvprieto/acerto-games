@@ -9,6 +9,7 @@ export default function sitemap() {
     { url: `${BASE}/reviews`, changeFrequency: "daily", priority: 0.7 },
     { url: `${BASE}/opinioes`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${BASE}/artigos`, changeFrequency: "weekly", priority: 0.7 },
+    { url: `${BASE}/autor/bruno-vazquez`, changeFrequency: "weekly", priority: 0.6 },
     { url: `${BASE}/sobre`, changeFrequency: "monthly", priority: 0.3 },
     { url: `${BASE}/editorial`, changeFrequency: "monthly", priority: 0.3 },
     { url: `${BASE}/contato`, changeFrequency: "monthly", priority: 0.3 },
