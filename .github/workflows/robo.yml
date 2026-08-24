@@ -18,10 +18,17 @@ jobs:
         with:
           node-version: 22
 
+      - name: Ativar complemento editorial 2026
+        run: |
+          cp scripts/persona.md /tmp/persona-acerto-original.md
+          cat scripts/persona-opiniao.md >> scripts/persona.md
+
       - name: Rodar o robô
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/robo.mjs
+        run: |
+          trap 'cp /tmp/persona-acerto-original.md scripts/persona.md' EXIT
+          node scripts/robo.mjs
 
       - name: Commitar matérias novas
         run: |
