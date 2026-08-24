@@ -24,6 +24,12 @@ const schemaWebSite = {
     "@type": "Organization",
     name: "Acerto Games",
     url: "https://acertogames.com.br",
+    founder: {
+      "@type": "Person",
+      name: "Bruno Vazquez",
+      jobTitle: "Jornalista e editor",
+      url: "https://acertogames.com.br/autor/bruno-vazquez",
+    },
   },
 };
 
@@ -45,10 +51,7 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
         />
 
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaWebSite) }}
-        />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaWebSite) }} />
 
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`} />
         <script
