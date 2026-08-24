@@ -33,7 +33,7 @@ jobs:
       - name: Gate editorial — bloquear conteúdo raso
         shell: bash
         run: |
-          mapfile -t ARQUIVOS < <(git diff --name-only -- content/rascunhos content/publicados | grep -E '\\.json$' || true)
+          mapfile -t ARQUIVOS < <(git diff --name-only -- content/rascunhos content/publicados | grep -E '\.json$' || true)
           if [ ${#ARQUIVOS[@]} -eq 0 ]; then
             echo "Nenhum JSON novo para validar."
           else
