@@ -11,7 +11,7 @@
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-25T18:27:00-03:00",
+  "atualizadoEm": "2026-08-25T18:34:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -47,10 +47,10 @@
     "video: https://www.youtube.com/watch?v=pNw0sh481bA",
     "## Heroes of Might and Magic III Remake é anunciado",
     "A Ubisoft surpreendeu a Opening Night Live com Heroes of Might and Magic III Remake, reconstrução em 3D do clássico de estratégia lançado originalmente em 1999. O projeto recupera as nove facções e reúne as campanhas do jogo original e das expansões Armageddon's Blade e The Shadow of Death, agora conectadas em uma campanha contínua, além de um novo prólogo e cinemáticas refeitas. O remake está previsto para 2027.",
-    "video: https://www.youtube.com/watch?v=qwC9EFT6EFk",
+    "video: https://www.youtube.com/watch?v=h5opk1jq7dY",
     "## Stage Tour confirma lançamento em dezembro",
     "Stage Tour ganhou trailer de data de lançamento e chega em 10 de dezembro de 2026. O jogo musical terá mais de 90 músicas licenciadas, mais de 180 guitarras Gibson reproduzidas dentro do jogo e mais de 50 integrantes de banda. A seleção anunciada inclui nomes como Metallica, The Rolling Stones, Red Hot Chili Peppers, Olivia Rodrigo, blink-182, Paramore, Slipknot e Muse.",
-    "video: https://www.youtube.com/watch?v=qwC9EFT6EFk",
+    "video: https://www.youtube.com/watch?v=xU-qK6FyUoM",
     "## CONTROL Resonant ganha novo vídeo com path tracing",
     "A Remedy e a NVIDIA divulgaram um novo vídeo de CONTROL Resonant durante a Gamescom. O material mostra a versão para PC com path tracing e DLSS 4.5 e traz novas cenas de gameplay do título, que tem lançamento marcado para 24 de setembro de 2026.",
     "video: https://www.youtube.com/watch?v=ZkctlSt4I2E",
@@ -79,5 +79,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua. A feira abre sua programação presencial principal em 26 de agosto e segue até 30 de agosto em Colônia, na Alemanha, com jogos disponíveis nos estandes, apresentações, entrevistas e outras novidades ao longo da semana."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Removido o texto provisório sobre futura substituição do trailer de Mega Man. Adicionadas e ampliadas as seções de Final Fantasy VII Revelation, Metro 2039, Game of Thrones: War for Westeros, Warlock: Dungeons & Dragons, Heroes of Might and Magic III Remake e Stage Tour. Para Heroes III e Stage Tour, enquanto os IDs dos uploads individuais não são retornados de forma confiável pela indexação, o player aponta para a gravação oficial completa da ONL, que contém as respectivas apresentações."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualizados os players individuais de Heroes of Might and Magic III Remake (h5opk1jq7dY) e Stage Tour (xU-qK6FyUoM), substituindo o player da apresentação completa da ONL nessas duas seções."
 }
