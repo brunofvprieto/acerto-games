@@ -6,7 +6,10 @@
   "author": "Bruno Vazquez",
   "date": "24 ago 2026",
   "readTime": "9 min",
-  "cover": ["#E60012", "#101010"],
+  "cover": [
+    "#E60012",
+    "#101010"
+  ],
   "publicadoEm": "2026-08-24T18:40:00-03:00",
   "atualizadoEm": "2026-08-24T18:40:00-03:00",
   "fonte": "Nintendo Brasil, Nintendo Support e análise editorial do Acerto Games",
@@ -59,8 +62,8 @@
     "## Transparência editorial",
     "Esta é uma matéria de **opinião do Acerto Games**. Os dados técnicos sobre capacidade, compatibilidade e limite de expansão foram conferidos em documentação oficial da Nintendo. A avaliação sobre o que seria uma capacidade mais adequada para o consumidor é opinião do autor."
   ],
-  "image": "/img/switch-2-256gb-microsd-express-1tb-capa.svg",
+  "image": "/img/switch-2-wd-black-sn770m-microsd.jpg",
   "imagePos": "center center",
-  "imageCredit": "Imagem: reprodução — arte fornecida para o Acerto Games",
+  "imageCredit": "O Nintendo Switch 2 e o WD_BLACK SN770M, um dos cartões MicroSD Express compatíveis. Divulgação/WD",
   "observacao": "OPINIÃO EDITORIAL. Dados técnicos conferidos em documentação oficial da Nintendo. A imagem de capa foi fornecida pelo usuário e incorporada ao repositório como SVG com a imagem original embutida."
 }
