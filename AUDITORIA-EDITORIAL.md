@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 265
-- Forte: 257
+- Total analisado: 267
+- Forte: 259
 - Revisar: 7
 - Prioridade: 1
 
@@ -140,6 +140,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
+| FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
 | FORTE | notícia | 2371 | 10 | 100 | Rumor: página vazada da Netflix indica que o "Olhar Estendido" de GTA 6 pode ter três episódios e mais de uma hora | — |
 | FORTE | notícia | 3766 | 7 | 100 | GTA 6 pode faturar até R$ 29 bilhões na semana de lançamento — e a pré-venda já é recorde histórico | — |
 | FORTE | notícia | 2476 | 11 | 100 | Bloomberg: Rockstar ainda não sabe quem é o Cyberleek nem como o acesso aconteceu | — |
@@ -148,6 +149,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
 | FORTE | notícia | 2751 | 12 | 100 | GTA 6: novo clipe mostra Vice City à noite vista de avião, dez estações de rádio e um prompt de pesca no canto da tela | — |
 | FORTE | notícia | 7944 | 28 | 100 | GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta | — |
+| FORTE | artigo | 5801 | 40 | 100 | GTA 6: 8 sistemas que os vazamentos sugerem e que podem mudar a experiência | — |
 | FORTE | notícia | 1909 | 6 | 100 | Take-Two aposta que novo vídeo de GTA 6 na Netflix vai aumentar ainda mais a paixão dos fãs | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
