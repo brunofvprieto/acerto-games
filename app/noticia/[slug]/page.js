@@ -3,8 +3,14 @@ import { notFound } from "next/navigation";
 import { getAllPosts, getPost } from "../../../lib/posts";
 import { Cover, CategoryTag, Nota, NewsCard } from "../../../components/Cards";
 import TweetEmbed from "../../../components/TweetEmbed";
+import RedditEmbed from "../../../components/RedditEmbed";
 import ShareButtons from "../../../components/ShareButtons";
 import QRCode from "../../../components/QRCode";
+
+function redditId(texto) {
+  const m = texto.match(/reddit\.com\/r\/\w+\/comments\/([a-z0-9]+)/i);
+  return m ? m[1] : texto.trim();
+}
 
 function tweetId(texto) {
   const m = texto.match(/(?:twitter\.com|x\.com)\/\w+\/status\/(\d+)/);
@@ -183,6 +189,11 @@ export default function Noticia({ params }) {
               const [texto, url] = paragraph.slice(5).split("|").map((s) => s.trim());
               if (!url || !url.startsWith("http")) return null;
               return <p key={i}><a href={url} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{texto || url}</a></p>;
+            }
+            if (paragraph.startsWith("reddit:")) {
+              const rid = redditId(paragraph.slice(7).trim());
+              if (!rid) return null;
+              return <RedditEmbed key={i} postId={rid} />;
             }
             if (paragraph.startsWith("tweet:")) {
               const tid = tweetId(paragraph.slice(6).trim());
