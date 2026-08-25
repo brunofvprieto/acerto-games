@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 261
-- Forte: 254
-- Revisar: 6
+- Total analisado: 264
+- Forte: 256
+- Revisar: 7
 - Prioridade: 1
 
 ## Ordem de trabalho
@@ -16,6 +16,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
 | REVISAR | noticia | 821 | 4 | 71 | 1666: Amsterdam entra em Acesso Antecipado no PC em 25 de agosto | texto curto, poucos parágrafos |
+| REVISAR | notícia | 937 | 4 | 73 | Sanitarium volta em versão remasterizada quase 30 anos depois: Enhanced Edition chega em 2026 | texto curto, poucos parágrafos |
 | REVISAR | noticia | 973 | 4 | 74 | Resonance: A Plague Tale Legacy mostra combate brutal em novo trailer | texto curto, poucos parágrafos |
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
@@ -24,7 +25,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | notícia | 1360 | 5 | 89 | Helldivers 2: novo trailer de campanha "Permanent Enclosure" marca virada na Guerra Galáctica | texto curto |
+| FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
+| FORTE | notícia | 1415 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
