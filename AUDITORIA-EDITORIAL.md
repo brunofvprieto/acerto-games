@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 271
-- Forte: 263
+- Total analisado: 272
+- Forte: 264
 - Revisar: 7
 - Prioridade: 1
 
@@ -157,6 +157,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
 | FORTE | notícia | 2445 | 7 | 100 | Henry Cavill embarca de novo em Warhammer 40.000 — agora numa série animada da Amazon | — |
+| FORTE | notícia | 7571 | 24 | 100 | Heroes of Might and Magic III vai renascer — e a Ubisoft sabe que não pode simplesmente refazer um clássico | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
