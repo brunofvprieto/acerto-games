@@ -5,13 +5,13 @@
   "excerpt": "A Gamescom Opening Night Live 2026 terminou com anúncios, novos trailers e gameplays. Confira os principais destaques da apresentação comandada por Geoff Keighley.",
   "author": "Bruno Vazquez",
   "date": "25 ago 2026",
-  "readTime": "37 min",
+  "readTime": "39 min",
   "cover": ["#111827", "#7C3AED"],
   "image": "https://img.youtube.com/vi/SRFE0gCsgLg/maxresdefault.jpg",
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-26T11:22:00-03:00",
+  "atualizadoEm": "2026-08-26T15:35:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -129,6 +129,18 @@
     "## LEGO Skylines transforma a construção de cidades em um enorme brinquedo",
     "Paradox Interactive, Iceflake Studios e LEGO Group revelaram LEGO Skylines na Opening Night Live. O city-builder permite criar, administrar e personalizar uma metrópole de LEGO, cuidando de necessidades como eletricidade, água, alimentação, hospitais, empregos, parques, coleta de lixo e esgoto, com forte liberdade de construção. O jogo está confirmado para PC, PlayStation 5, Xbox Series X|S e Nintendo Switch 2, ainda sem data de lançamento.",
     "video: https://www.youtube.com/watch?v=XZaRz4YrxIg",
+    "## GeniGods: Nezha apresenta sua visão da mitologia chinesa",
+    "GeniGods: Nezha recebeu um novo trailer na Opening Night Live. O action RPG single-player da Genigods Lab é inspirado em mitos de criação da China e acompanha a Spirit Pearl em uma evolução que passa de um recipiente de porcelana a uma forma humana e, depois, celestial. O jogo está em desenvolvimento para PlayStation 5, Xbox e PC.",
+    "video: https://www.youtube.com/watch?v=iOgPEVTe2tk",
+    "## There Are No Ghosts at the Grand confirma acesso antecipado para dezembro",
+    "There Are No Ghosts at the Grand ganhou um novo trailer na Opening Night Live e confirmou chegada ao acesso antecipado em dezembro de 2026. O jogo mistura reforma de um hotel inglês durante o dia com caça a fantasmas à noite, além de elementos musicais e narrativa sobrenatural.",
+    "video: https://www.youtube.com/watch?v=uQ3s9W8_Kes",
+    "## Roco Kingdom revela mundo aberto de captura de criaturas",
+    "Roco Kingdom recebeu um novo trailer durante a Opening Night Live. O RPG de mundo aberto aposta na captura e evolução de mais de 400 Jinies e em batalhas táticas, com um teste beta fechado previsto para outubro de 2026.",
+    "video: https://www.youtube.com/watch?v=zabWUB-G4N4",
+    "## The Defiant mostra a resistência chinesa na Segunda Guerra Mundial",
+    "The Defiant ganhou novo trailer na Gamescom 2026. O FPS narrativo acompanha a resistência chinesa contra a ocupação japonesa e aposta em armamentos históricos, infiltração e confrontos de maior escala. O jogo está em desenvolvimento para PC e consoles.",
+    "video: https://www.youtube.com/watch?v=2vHIaBQybXs",
     "## NVIDIA apresenta novos gameplays com tecnologias RTX",
     "A NVIDIA aproveitou a Gamescom para divulgar uma nova leva de materiais de jogos com suas tecnologias para PC.",
     "### CONTROL Resonant com path tracing e DLSS 4.5",
@@ -156,5 +168,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua até 30 de agosto em Colônia, na Alemanha."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 11h22 BRT: adicionados os novos players confirmados de Showa American Story e LEGO Skylines. O trailer de Showa foi publicado oficialmente pela NEKCOM Games e é composto por imagens capturadas do jogo; LEGO Skylines foi confirmado pela Paradox Interactive, Iceflake Studios e LEGO Group durante a ONL. Foram considerados apenas vídeos efetivamente publicados, sem transformar presença anunciada em trailer lançado."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 15h35 BRT: adicionados players confirmados de GeniGods: Nezha, There Are No Ghosts at the Grand, Roco Kingdom e The Defiant. Foram considerados apenas vídeos efetivamente publicados em canais oficiais ou validados por fontes confiáveis, sem transformar presença anunciada em trailer lançado."
 }
