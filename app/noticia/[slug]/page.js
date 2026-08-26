@@ -6,6 +6,7 @@ import TweetEmbed from "../../../components/TweetEmbed";
 import RedditEmbed from "../../../components/RedditEmbed";
 import ShareButtons from "../../../components/ShareButtons";
 import QRCode from "../../../components/QRCode";
+import ArticleGallery from "../../../components/ArticleGallery";
 
 function redditId(texto) {
   const m = texto.match(/reddit\.com\/r\/\w+\/comments\/([a-z0-9]+)/i);
@@ -183,6 +184,17 @@ export default function Noticia({ params }) {
                 const [url, credito] = paragraph.slice(4).split("|").map((s) => s.trim());
                 if (!url || (!url.startsWith("http") && !url.startsWith("/"))) return null;
                 return <figure key={i}><img src={url} alt="" loading="lazy" className="w-full border border-edge" />{credito && <figcaption className="mt-1 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {credito}</figcaption>}</figure>;
+              }
+              if (paragraph.startsWith("gallery:")) {
+                const items = paragraph
+                  .slice(8)
+                  .split(";;")
+                  .map((item) => {
+                    const [url, credito, alt] = item.split("|").map((s) => s.trim());
+                    return { url, credito, alt };
+                  })
+                  .filter((item) => item.url && (item.url.startsWith("http") || item.url.startsWith("/")));
+                return <ArticleGallery key={i} items={items} />;
               }
               if (paragraph.startsWith("video:")) {
                 const id = youTubeId(paragraph.slice(6).trim());
