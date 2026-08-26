@@ -5,13 +5,13 @@
   "excerpt": "A Gamescom Opening Night Live 2026 terminou com anúncios, novos trailers e gameplays. Confira os principais destaques da apresentação comandada por Geoff Keighley.",
   "author": "Bruno Vazquez",
   "date": "25 ago 2026",
-  "readTime": "27 min",
+  "readTime": "30 min",
   "cover": ["#111827", "#7C3AED"],
   "image": "https://img.youtube.com/vi/SRFE0gCsgLg/maxresdefault.jpg",
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-26T03:37:00-03:00",
+  "atualizadoEm": "2026-08-26T04:30:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -96,6 +96,15 @@
     "## Age Twisters apresenta aventura cooperativa entre gerações",
     "Age Twisters foi revelado como uma aventura narrativa cooperativa para dois jogadores. A história acompanha um avô e sua neta, que alternam entre diferentes idades para usar habilidades específicas, resolver quebra-cabeças e avançar por cenários construídos em torno da cooperação.",
     "video: https://www.youtube.com/watch?v=ngUv4S8Hcjo",
+    "## Crimson Desert Enhanced ganha atualização gratuita 2.0",
+    "A Pearl Abyss revelou Crimson Desert Enhanced durante a Opening Night Live. A versão chega como atualização 2.0 gratuita para quem já possui o jogo, adicionando novos momentos de história, cenas, diálogos e suporte ampliado de idiomas. O anúncio reforça o suporte pós-lançamento ao RPG de ação em mundo aberto.",
+    "video: https://www.youtube.com/watch?v=mM9A2g4Pkh4",
+    "## The Blood of Dawnwalker recebe trailer de lançamento",
+    "The Blood of Dawnwalker ganhou seu trailer de lançamento na Gamescom às vésperas da estreia marcada para 3 de setembro de 2026. O RPG de ação da Rebel Wolves acompanha Coen, um homem durante o dia e vampiro à noite, em uma jornada sombria pela Europa do século XIV para salvar sua família.",
+    "video: https://www.youtube.com/watch?v=7pMBeDhjutw",
+    "## Resonance: A Plague Tale Legacy mostra trailer de lançamento",
+    "Resonance: A Plague Tale Legacy também recebeu um novo trailer de lançamento ligado à Gamescom. O jogo da Asobo Studio e Focus Entertainment chega em 27 de agosto de 2026 para PS5, Xbox Series X|S e PC e acompanha Sophia em uma nova história ambientada no universo de A Plague Tale.",
+    "video: https://www.youtube.com/watch?v=lKsMRZ4edhE",
     "## NVIDIA apresenta novos gameplays com tecnologias RTX",
     "A NVIDIA aproveitou a Gamescom para divulgar uma nova leva de materiais de jogos com suas tecnologias para PC.",
     "### CONTROL Resonant com path tracing e DLSS 4.5",
@@ -123,5 +132,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua. A feira abre sua programação presencial principal em 26 de agosto e segue até 30 de agosto em Colônia, na Alemanha, com jogos disponíveis nos estandes, apresentações, entrevistas e outras novidades ao longo da semana."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 03h37 BRT: confirmado e incorporado o trailer Altered State de CONTROL Resonant, publicado após a ONL, mantendo o vídeo técnico de path tracing/DLSS 4.5 na seção da NVIDIA. Também foram adicionados trailers oficiais publicados de NO LAW, PUBG: DED.NET, Project ZETA, TARAE: The Unbound e Age Twisters, todos efetivamente apresentados na Opening Night Live e confirmados por materiais oficiais da KRAFTON e fontes de cobertura confiáveis."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 04h30 BRT: adicionados três trailers efetivamente publicados e confirmados após a verificação anterior — Crimson Desert Enhanced, The Blood of Dawnwalker e Resonance: A Plague Tale Legacy — com players individuais do YouTube. Foram considerados apenas vídeos realmente publicados em contexto da Gamescom/ONL, sem transformar presença anunciada em trailer lançado."
 }
