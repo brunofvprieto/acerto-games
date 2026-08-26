@@ -3,7 +3,6 @@ import { getAllPosts } from "../lib/posts";
 import { Cover, CategoryTag, NewsCard, Nota } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
 import HeroCarousel from "../components/HeroCarousel";
-import EmAlta from "../components/EmAlta";
 
 function DoisEspeciais() {
   return (
@@ -120,7 +119,6 @@ export default function Home() {
     <main className="mx-auto max-w-6xl px-4">
       <HeroCarousel posts={posts.slice(0, 5)} />
       <SecaoGTA6 />
-      <EmAlta />
       <DoisEspeciais />
       <OpiniaoDestaque posts={posts} />
       <ReviewDestaque posts={posts} />
