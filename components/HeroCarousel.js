@@ -33,23 +33,23 @@ export default function HeroCarousel({ posts }) {
 
   return (
     <section
-      className="relative py-8 md:py-10 lg:py-12"
+      className="relative py-6 md:py-8 lg:py-9"
       onMouseEnter={() => setPausado(true)}
       onMouseLeave={() => setPausado(false)}
       aria-roledescription="carrossel"
       aria-label="Principais manchetes"
     >
-      <div className="mx-auto grid max-w-[1580px] items-center gap-6 px-12 md:grid-cols-[minmax(0,1.55fr)_minmax(340px,.72fr)] md:gap-9 lg:gap-12 lg:px-16">
+      <div className="mx-auto grid max-w-[1760px] items-start gap-7 px-5 sm:px-8 md:grid-cols-[minmax(0,1.62fr)_minmax(360px,.78fr)] md:gap-9 lg:gap-11 lg:px-10 xl:px-14">
         <Link
           href={`/noticia/${p.slug}`}
-          className="group relative block w-full overflow-hidden border border-arcade bg-ink shadow-[0_0_42px_rgba(46,232,108,0.17)]"
+          className="group relative block w-full overflow-hidden rounded-sm border border-arcade bg-ink shadow-[0_0_34px_rgba(46,232,108,0.12)]"
         >
-          <div className="relative aspect-video w-full overflow-hidden">
+          <div className="relative aspect-[2.05/1] w-full overflow-hidden">
             {p.image ? (
               <img
                 src={p.image}
                 alt=""
-                className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.015]"
+                className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.012]"
                 style={{ objectPosition: p.imagePos || "center center" }}
               />
             ) : (
@@ -63,22 +63,22 @@ export default function HeroCarousel({ posts }) {
           </div>
         </Link>
 
-        <div className="flex min-w-0 flex-col justify-center pb-1 md:pb-0">
+        <div className="flex min-w-0 flex-col pt-0 md:pt-1 lg:pt-2">
           <div>
             <CategoryTag category={p.category} />
           </div>
 
           <Link href={`/noticia/${p.slug}`} className="group">
-            <h2 className="mt-4 font-display text-3xl leading-[1.04] text-paper transition-colors group-hover:text-arcade md:text-[2.35rem] lg:text-[3.15rem]">
+            <h2 className="mt-3 font-display text-[1.9rem] leading-[1.08] text-paper transition-colors group-hover:text-arcade md:text-[2rem] lg:text-[2.35rem] xl:text-[2.65rem]">
               {p.title}
             </h2>
           </Link>
 
-          <p className="mt-5 max-w-2xl text-base leading-relaxed text-dim md:text-lg lg:text-xl">
+          <p className="mt-4 max-w-[680px] text-[0.98rem] leading-[1.55] text-dim md:text-base lg:text-[1.05rem] xl:text-[1.12rem]">
             {p.excerpt}
           </p>
 
-          <p className="mt-6 border-t border-edge pt-5 font-mono text-[10px] uppercase tracking-[0.16em] text-dim md:text-xs">
+          <p className="mt-5 border-t border-edge pt-4 font-mono text-[10px] uppercase tracking-[0.14em] text-dim md:text-[11px] lg:text-xs">
             {p.date} · {p.readTime} de leitura
           </p>
         </div>
@@ -89,7 +89,7 @@ export default function HeroCarousel({ posts }) {
           <button
             onClick={() => ir(atual - 1)}
             aria-label="Manchete anterior"
-            className="absolute left-1 top-[34%] z-20 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/85 font-mono text-xl text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:left-3 md:top-1/2 lg:left-4"
+            className="absolute left-1 top-[38%] z-20 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/90 font-mono text-lg text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:left-2 md:top-[46%] lg:left-3"
           >
             ◂
           </button>
@@ -97,12 +97,12 @@ export default function HeroCarousel({ posts }) {
           <button
             onClick={() => ir(atual + 1)}
             aria-label="Próxima manchete"
-            className="absolute right-1 top-[34%] z-20 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/85 font-mono text-xl text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:right-3 md:top-1/2 lg:right-4"
+            className="absolute right-1 top-[38%] z-20 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/90 font-mono text-lg text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:right-2 md:top-[46%] lg:right-3"
           >
             ▸
           </button>
 
-          <div className="mt-5 flex justify-center gap-2">
+          <div className="mt-4 flex justify-center gap-2">
             {posts.map((_, i) => (
               <button
                 key={i}
