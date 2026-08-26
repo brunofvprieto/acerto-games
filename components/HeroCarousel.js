@@ -75,34 +75,49 @@ export default function HeroCarousel({ posts }) {
         {/* Card hero */}
         <Link
           href={`/noticia/${p.slug}`}
-          className="group relative block overflow-hidden border border-arcade/80 bg-ink shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
+          className="group relative block overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
           style={{ clipPath: "polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px)" }}
         >
+          {/* Aspecto fixo */}
           <div className="relative w-full" style={{ paddingBottom: "42%" }}>
-            {/* Imagem */}
-            {p.image ? (
-              <img
-                src={p.image}
-                alt=""
-                className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.018]"
-                style={{ objectPosition: p.imagePos || p.imagePosition || "center top" }}
+
+            {/* IMAGEM — ocupa só a metade direita */}
+            {p.image && (
+              <div className="absolute inset-y-0 right-0 w-[58%]">
+                <img
+                  src={p.image}
+                  alt=""
+                  className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.025]"
+                  style={{ objectPosition: p.imagePos || p.imagePosition || "center top" }}
+                />
+              </div>
+            )}
+            {!p.image && (
+              <div className="absolute inset-y-0 right-0 w-[58%]"
+                style={{ background: `linear-gradient(135deg, ${p.cover?.[0] || "#111"}, ${p.cover?.[1] || "#222"})` }}
               />
-            ) : (
-              <div className="absolute inset-0" style={{ background: `linear-gradient(135deg, ${p.cover?.[0] || "#111"}, ${p.cover?.[1] || "#222"})` }} />
             )}
 
-            {/* Gradiente lateral: escuro à esquerda, transparente à direita */}
-            <div className="absolute inset-0 bg-gradient-to-r from-black/92 via-black/70 to-black/10" />
-            {/* Gradiente inferior suave */}
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+            {/* Degradê de transição: preto sólido → transparente, cobrindo a junção */}
+            <div
+              className="absolute inset-y-0 z-10"
+              style={{
+                left: "34%",
+                width: "22%",
+                background: "linear-gradient(to right, #000 0%, transparent 100%)",
+              }}
+            />
 
-            {/* Texto — coluna esquerda, máx 52% da largura */}
-            <div className="absolute inset-y-0 left-0 z-10 flex w-full max-w-[52%] flex-col justify-center px-5 py-6 sm:px-7 md:px-9 lg:px-11">
+            {/* Fundo preto sólido na metade esquerda */}
+            <div className="absolute inset-y-0 left-0 z-10 w-[40%] bg-black" />
+
+            {/* TEXTO — sobre o fundo preto, lado esquerdo */}
+            <div className="absolute inset-y-0 left-0 z-20 flex w-[52%] flex-col justify-center px-5 py-6 sm:px-7 md:px-9 lg:px-11">
               <CategoryTag category={p.category} />
-              <h2 className="mt-2 font-display text-[1.05rem] leading-[1.1] text-paper drop-shadow-[0_2px_10px_rgba(0,0,0,.95)] sm:text-[1.3rem] md:text-[1.55rem] lg:text-[1.85rem]">
+              <h2 className="mt-2 font-display text-[1.05rem] leading-[1.1] text-paper sm:text-[1.3rem] md:text-[1.55rem] lg:text-[1.85rem]">
                 {p.title}
               </h2>
-              <p className="mt-2 hidden text-[0.72rem] leading-[1.55] text-paper/80 drop-shadow-[0_2px_8px_rgba(0,0,0,.9)] sm:block md:text-[0.82rem] lg:text-[0.88rem]">
+              <p className="mt-2 hidden text-[0.72rem] leading-[1.55] text-paper/80 sm:block md:text-[0.82rem] lg:text-[0.88rem]">
                 {p.excerpt}
               </p>
               <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[9px] uppercase tracking-[.13em] text-paper/65 sm:text-[10px]">
@@ -110,6 +125,7 @@ export default function HeroCarousel({ posts }) {
                 {p.readTime && <span><span className="mr-1 text-arcade">◷</span>{p.readTime} de leitura</span>}
               </div>
             </div>
+
           </div>
         </Link>
 
