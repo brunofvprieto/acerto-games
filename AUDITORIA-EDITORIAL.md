@@ -125,7 +125,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3720 | 5 | 100 | Saiu do cinema ainda vibrando com The Odyssey? A Polygon listou 10 jogos pra manter o clima | — |
 | FORTE | artigo | 4052 | 17 | 100 | Gamescom começa amanhã: o que esperar, o que provavelmente não vai aparecer e por que vale ficar acordado até meia-noite | — |
 | FORTE | especial | 5467 | 17 | 100 | Gamescom 2026: o que esperar da maior feira de games do mundo | — |
-| FORTE | notícia | 8047 | 23 | 100 | Gamescom Opening Night Live 2026: veja os principais anúncios e trailers | — |
+| FORTE | notícia | 8829 | 25 | 100 | Gamescom Opening Night Live 2026: veja os principais anúncios e trailers | — |
 | FORTE | notícia | 2680 | 5 | 100 | CEO da GameStop sobre jogos físicos: 'Não importa. Não importa nada' | — |
 | FORTE | notícia | 2223 | 7 | 100 | Gears of War: E-Day abre beta multiplayer em 6 de agosto — veja como garantir acesso antecipado | — |
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
