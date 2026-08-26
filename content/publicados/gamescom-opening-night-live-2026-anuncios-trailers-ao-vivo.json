@@ -5,13 +5,13 @@
   "excerpt": "A Gamescom Opening Night Live 2026 terminou com anúncios, novos trailers e gameplays. Confira os principais destaques da apresentação comandada por Geoff Keighley.",
   "author": "Bruno Vazquez",
   "date": "25 ago 2026",
-  "readTime": "21 min",
+  "readTime": "23 min",
   "cover": ["#111827", "#7C3AED"],
   "image": "https://img.youtube.com/vi/SRFE0gCsgLg/maxresdefault.jpg",
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-25T22:28:00-03:00",
+  "atualizadoEm": "2026-08-25T23:27:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -69,6 +69,12 @@
     "## Pony Island 2: Panda Circus ganha data de lançamento",
     "Daniel Mullins, criador de Inscryption e do primeiro Pony Island, levou à ONL um novo trailer de Pony Island 2: Panda Circus. A sequência preserva a mistura de metalinguagem, jogos dentro do jogo e quebra deliberada de regras que marcou os trabalhos anteriores do desenvolvedor. O lançamento está marcado para 27 de abril de 2027 no PC.",
     "video: https://www.youtube.com/watch?v=1YlDxPSQMaU",
+    "## Crazy Taxi: World Tour mostra multiplayer em novo trailer",
+    "A Sega levou Crazy Taxi: World Tour à Opening Night Live com um novo trailer dedicado ao multiplayer. O vídeo mostra vários táxis disputando as ruas, coletando passageiros, realizando manobras e reforçando a proposta caótica que marcou a série. A Sega também abriu inscrições para um futuro teste de rede. O novo jogo está previsto para 2027 em PC, PlayStation 5, Xbox Series X|S e Nintendo Switch 2.",
+    "video: https://www.youtube.com/watch?v=yDQ2wPvuBJI",
+    "## Turok: Origins retorna com dinossauros e janela para 2027",
+    "Turok: Origins recebeu um novo trailer durante a Opening Night Live e confirmou lançamento para a primavera de 2027 no hemisfério norte. O jogo da Saber Interactive transforma a clássica franquia em uma aventura de ação em terceira pessoa, combinando armas de fogo, combate contra dinossauros e criaturas alienígenas e um sistema de progressão ligado à coleta de DNA dos inimigos.",
+    "video: https://www.youtube.com/watch?v=k7YlY3vnC8w",
     "## ONTOS ganha trailer mundial na Opening Night Live",
     "ONTOS também recebeu um trailer individual oficialmente publicado pela Gamescom após a apresentação. O vídeo permite rever separadamente o material exibido durante a ONL, sem depender da gravação completa do evento.",
     "video: https://www.youtube.com/watch?v=lq9mMfDpN74",
@@ -100,5 +106,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua. A feira abre sua programação presencial principal em 26 de agosto e segue até 30 de agosto em Colônia, na Alemanha, com jogos disponíveis nos estandes, apresentações, entrevistas e outras novidades ao longo da semana."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 25 de agosto às 22h28 BRT: adicionados players de trailers efetivamente publicados de Silent Hill: Townfall e Pony Island 2: Panda Circus, após confirmação em fontes confiáveis e canal oficial no caso de Silent Hill."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 25 de agosto às 23h27 BRT: adicionados os players individuais efetivamente publicados de Crazy Taxi: World Tour e Turok: Origins, ambos confirmados após a ONL."
 }
