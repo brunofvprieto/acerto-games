@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 274
-- Forte: 266
+- Total analisado: 276
+- Forte: 268
 - Revisar: 7
 - Prioridade: 1
 
@@ -230,6 +230,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 8345 | 32 | 100 | A Plague Tale não precisava de outra história — e é justamente por isso que Resonance precisa justificar sua existência | — |
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
+| FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
@@ -247,6 +248,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
 | FORTE | notícia | 2407 | 5 | 100 | StarCraft na BlizzCon: a Blizzard está nos dando pistas de um novo jogo ou a gente tá vendo coisa? | — |
 | FORTE | notícia | 2328 | 5 | 100 | Stardew Valley quase não existiu: o PC de Eric Barone morreu e ele não tinha backup nenhum | — |
+| FORTE | notícia | 6101 | 26 | 100 | State of Decay 3 abre caminho para o beta — e seu maior desafio não é fazer um mapa quatro vezes maior | — |
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
