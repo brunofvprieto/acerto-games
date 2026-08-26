@@ -62,15 +62,14 @@ export default function HeroCarousel({ posts }) {
       aria-label="Principais manchetes"
       className="py-5 sm:py-6"
     >
-      {/* Wrapper — setas ficam FORA da imagem nas laterais */}
       <div className="relative mx-auto px-8 sm:px-10">
 
+        {/* Seta esquerda */}
         {total > 1 && (
-          <button
-            onClick={() => ir(atual - 1)}
-            aria-label="Manchete anterior"
-            className="absolute left-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12"
-          >‹</button>
+          <button onClick={() => ir(atual - 1)} aria-label="Manchete anterior"
+            className="absolute left-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12">
+            ‹
+          </button>
         )}
 
         {/* Card hero */}
@@ -79,8 +78,8 @@ export default function HeroCarousel({ posts }) {
           className="group relative block overflow-hidden border border-arcade/80 bg-ink shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
           style={{ clipPath: "polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px)" }}
         >
-          {/* Aspecto fixo 42% = ~2.4:1 */}
           <div className="relative w-full" style={{ paddingBottom: "42%" }}>
+            {/* Imagem */}
             {p.image ? (
               <img
                 src={p.image}
@@ -92,20 +91,21 @@ export default function HeroCarousel({ posts }) {
               <div className="absolute inset-0" style={{ background: `linear-gradient(135deg, ${p.cover?.[0] || "#111"}, ${p.cover?.[1] || "#222"})` }} />
             )}
 
-            {/* Gradientes leitura */}
-            <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent" />
-            <div className="absolute inset-0 bg-gradient-to-r from-black/50 via-transparent to-transparent" />
+            {/* Gradiente lateral: escuro à esquerda, transparente à direita */}
+            <div className="absolute inset-0 bg-gradient-to-r from-black/92 via-black/70 to-black/10" />
+            {/* Gradiente inferior suave */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
 
-            {/* Texto sobre a imagem */}
-            <div className="absolute bottom-0 left-0 right-0 z-10 px-5 pb-5 pt-8 sm:px-7 sm:pb-7 md:px-9 md:pb-8 lg:max-w-[72%]">
+            {/* Texto — coluna esquerda, máx 52% da largura */}
+            <div className="absolute inset-y-0 left-0 z-10 flex w-full max-w-[52%] flex-col justify-center px-5 py-6 sm:px-7 md:px-9 lg:px-11">
               <CategoryTag category={p.category} />
-              <h2 className="mt-2 font-display text-[1.45rem] leading-[1.07] text-paper drop-shadow-[0_2px_14px_rgba(0,0,0,.95)] sm:text-[1.8rem] md:text-[2.2rem] lg:text-[2.6rem]">
+              <h2 className="mt-2 font-display text-[1.05rem] leading-[1.1] text-paper drop-shadow-[0_2px_10px_rgba(0,0,0,.95)] sm:text-[1.3rem] md:text-[1.55rem] lg:text-[1.85rem]">
                 {p.title}
               </h2>
-              <p className="mt-2 hidden max-w-[760px] text-sm leading-[1.6] text-paper/82 drop-shadow-[0_2px_10px_rgba(0,0,0,.9)] sm:block md:text-base">
+              <p className="mt-2 hidden text-[0.72rem] leading-[1.55] text-paper/80 drop-shadow-[0_2px_8px_rgba(0,0,0,.9)] sm:block md:text-[0.82rem] lg:text-[0.88rem]">
                 {p.excerpt}
               </p>
-              <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-1 font-mono text-[10px] uppercase tracking-[.13em] text-paper/70">
+              <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[9px] uppercase tracking-[.13em] text-paper/65 sm:text-[10px]">
                 <span><span className="mr-1 text-arcade">▣</span>{p.date}</span>
                 {p.readTime && <span><span className="mr-1 text-arcade">◷</span>{p.readTime} de leitura</span>}
               </div>
@@ -113,12 +113,12 @@ export default function HeroCarousel({ posts }) {
           </div>
         </Link>
 
+        {/* Seta direita */}
         {total > 1 && (
-          <button
-            onClick={() => ir(atual + 1)}
-            aria-label="Próxima manchete"
-            className="absolute right-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12"
-          >›</button>
+          <button onClick={() => ir(atual + 1)} aria-label="Próxima manchete"
+            className="absolute right-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12">
+            ›
+          </button>
         )}
       </div>
 
