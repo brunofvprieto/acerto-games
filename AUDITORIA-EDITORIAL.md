@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 277
-- Forte: 269
+- Total analisado: 278
+- Forte: 270
 - Revisar: 7
 - Prioridade: 1
 
@@ -266,6 +266,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
 | FORTE | notícia | 5261 | 24 | 100 | Vazamento revela os 14 personagens de The Duskbloods — e cada um deles é mais perturbado que o anterior | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
+| FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 3007 | 11 | 100 | Tomb Raider: Legacy of Atlantis mostra como refez o combate da Lara sem trair o jogo de 1996 | — |
