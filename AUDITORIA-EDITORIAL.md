@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 273
-- Forte: 265
+- Total analisado: 274
+- Forte: 266
 - Revisar: 7
 - Prioridade: 1
 
@@ -227,6 +227,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2221 | 7 | 100 | Depois de 15 anos, Resident Evil 5 é destronado: RE2 Remake é o mais vendido da série | — |
 | FORTE | artigo | 5659 | 22 | 100 | 22% contra 55%: os números de Resident Evil Requiem mostram que o "fim natural" da mídia física é uma história contada com os dados de um país só | — |
+| FORTE | notícia | 8345 | 32 | 100 | A Plague Tale não precisava de outra história — e é justamente por isso que Resonance precisa justificar sua existência | — |
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
