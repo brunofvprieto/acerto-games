@@ -61,7 +61,9 @@ function OpiniaoDestaque({ posts }) {
 function ReviewDestaque({ posts }) {
   const review = posts.find((p) => p.category === "review");
   if (!review) return null;
-  const fundo = review.image ? `url(${review.image}) ${review.imagePos || "center"} / cover no-repeat` : `linear-gradient(135deg, ${review.cover[0]}, ${review.cover[1]})`;
+  const fundo = review.image
+    ? `url(${review.image}) ${review.imagePos || "center"} / cover no-repeat`
+    : `linear-gradient(135deg, ${review.cover[0]}, ${review.cover[1]})`;
   return (
     <section id="reviews" className="py-8">
       <div className="mb-4 flex items-baseline justify-between gap-4">
@@ -70,7 +72,9 @@ function ReviewDestaque({ posts }) {
       </div>
       <Link href={`/noticia/${review.slug}`} className="group relative flex min-h-[320px] flex-col justify-end overflow-hidden border border-violet/50 p-6 transition-all hover:border-violet md:min-h-[400px] md:p-10" style={{ background: fundo }}>
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/10" />
-        {review.nota != null && <div className="absolute right-6 top-6 md:right-10 md:top-10"><Nota value={review.nota} size="lg" /></div>}
+        {review.nota != null && (
+          <div className="absolute right-6 top-6 md:right-10 md:top-10"><Nota value={review.nota} size="lg" /></div>
+        )}
         <div className="relative max-w-3xl">
           <span className="inline-block bg-violet px-3 py-1 font-mono text-[10px] font-bold uppercase tracking-widest text-ink">Review</span>
           <h3 className="mt-3 font-display text-2xl uppercase leading-tight text-paper group-hover:text-violet md:text-4xl">{review.title}</h3>
@@ -89,7 +93,10 @@ function SecaoGTA6() {
     <section className="py-8">
       <div className="overflow-hidden border border-[#FF2E97]/50">
         <div className="grid md:grid-cols-2">
-          <Link href="/gta6" className="cover relative block min-h-52 md:min-h-full"><img src={ARTE_GTA6} alt="Jason e Lucia, protagonistas de GTA 6" className="absolute inset-0 h-full w-full object-cover" /><span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-paper/70">Divulgação/Rockstar Games</span></Link>
+          <Link href="/gta6" className="cover relative block min-h-52 md:min-h-full">
+            <img src={ARTE_GTA6} alt="Jason e Lucia, protagonistas de GTA 6" className="absolute inset-0 h-full w-full object-cover" />
+            <span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-paper/70">Divulgação/Rockstar Games</span>
+          </Link>
           <div className="flex flex-col justify-center gap-3 p-6 md:p-8" style={{ background: "linear-gradient(135deg, #1A0A2E 0%, #0E1B4D 100%)" }}>
             <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#FF9AD1]">Especial · Contagem regressiva</p>
             <h2 className="logo-arcade text-3xl">GTA 6</h2>
@@ -105,34 +112,78 @@ function SecaoGTA6() {
 export const dynamic = "force-static";
 
 function SiteZerado() {
-  return <main className="mx-auto flex max-w-6xl flex-col items-center px-4 py-24 text-center"><p className="logo-arcade text-3xl md:text-4xl">INSERT COIN</p><p className="mt-6 max-w-md text-dim">O Acerto Games está no ar. As primeiras matérias chegam em instantes — nossa redação já está apurando.</p><p className="mt-4 font-mono text-xs uppercase tracking-widest text-arcade">▸ Press start to continue</p></main>;
+  return (
+    <main className="mx-auto flex max-w-6xl flex-col items-center px-4 py-24 text-center">
+      <p className="logo-arcade text-3xl md:text-4xl">INSERT COIN</p>
+      <p className="mt-6 max-w-md text-dim">O Acerto Games está no ar. As primeiras matérias chegam em instantes.</p>
+      <p className="mt-4 font-mono text-xs uppercase tracking-widest text-arcade">▸ Press start to continue</p>
+    </main>
+  );
 }
 
 export default function Home() {
   const posts = getAllPosts();
   if (posts.length === 0) return <SiteZerado />;
+
   const resto = posts.slice(5);
-  const noticias = resto.filter((p) => !["review", "retrô", "especial", "artigo", "opinião"].includes(p.category));
+  const noticias = resto.filter(
+    (p) => !["review", "retrô", "especial", "artigo", "opinião"].includes(p.category)
+  );
   const retro = posts.filter((p) => p.category === "retrô");
 
   return (
     <main className="mx-auto max-w-6xl px-4">
+      {/* 1. Hero Carrossel + Últimas Notícias (dentro do componente) */}
       <HeroCarousel posts={posts.slice(0, 5)} />
+
+      {/* 2. Banner GTA 6 */}
       <SecaoGTA6 />
+
+      {/* 3. Dois Especiais */}
       <DoisEspeciais />
+
+      {/* 4. Opinião */}
       <OpiniaoDestaque posts={posts} />
+
+      {/* 5. Review */}
       <ReviewDestaque posts={posts} />
+
+      {/* 6. Notícias */}
       {noticias.length > 0 && (
         <section id="noticias" className="py-8">
-          <h2 className="mb-4 font-display text-xl uppercase"><span className="text-arcade">▸</span> Notícias</h2>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{noticias.slice(0, 12).map((p) => <NewsCard key={p.slug} post={p} />)}</div>
-          <div className="mt-6 text-center"><Link href="/noticias" className="inline-block border border-edge bg-surface px-6 py-3 font-mono text-xs uppercase tracking-widest text-arcade hover:border-arcade">Ver todas as notícias ▸</Link></div>
+          <h2 className="mb-4 font-display text-xl uppercase">
+            <span className="text-arcade">▸</span> Notícias
+          </h2>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {noticias.slice(0, 12).map((p) => <NewsCard key={p.slug} post={p} />)}
+          </div>
+          <div className="mt-6 text-center">
+            <Link href="/noticias" className="inline-block border border-edge bg-surface px-6 py-3 font-mono text-xs uppercase tracking-widest text-arcade hover:border-arcade">
+              Ver todas as notícias ▸
+            </Link>
+          </div>
         </section>
       )}
+
+      {/* 7. Retrô */}
       {retro.length > 0 && (
         <section id="retro" className="py-8">
-          <h2 className="mb-4 font-display text-xl uppercase"><span className="text-retro">▸</span> Retrô</h2>
-          <div className="grid gap-4 md:grid-cols-2">{retro.map((p) => <Link key={p.slug} href={`/noticia/${p.slug}`} className="group flex gap-4 border border-edge bg-surface p-4 transition-colors hover:border-retro"><Cover colors={p.cover} image={p.image} position={p.imagePos} className="h-24 w-24 shrink-0" /><div className="space-y-1.5"><CategoryTag category={p.category} /><h3 className="font-display leading-snug group-hover:text-retro">{p.title}</h3><p className="font-mono text-[11px] uppercase tracking-wide text-dim">{p.date} · {p.readTime}</p></div></Link>)}</div>
+          <h2 className="mb-4 font-display text-xl uppercase">
+            <span className="text-retro">▸</span> Retrô
+          </h2>
+          <div className="grid gap-4 md:grid-cols-2">
+            {retro.map((p) => (
+              <Link key={p.slug} href={`/noticia/${p.slug}`}
+                className="group flex gap-4 border border-edge bg-surface p-4 transition-colors hover:border-retro">
+                <Cover colors={p.cover} image={p.image} position={p.imagePos} className="h-24 w-24 shrink-0" />
+                <div className="space-y-1.5">
+                  <CategoryTag category={p.category} />
+                  <h3 className="font-display leading-snug group-hover:text-retro">{p.title}</h3>
+                  <p className="font-mono text-[11px] uppercase tracking-wide text-dim">{p.date} · {p.readTime}</p>
+                </div>
+              </Link>
+            ))}
+          </div>
         </section>
       )}
     </main>
