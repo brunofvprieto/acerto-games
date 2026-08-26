@@ -39,25 +39,19 @@ export default function HeroCarousel({ posts }) {
       aria-roledescription="carrossel"
       aria-label="Principais manchetes"
     >
-      <div className="mx-auto grid max-w-[1500px] items-center gap-6 px-12 md:grid-cols-[minmax(0,1.08fr)_minmax(0,.92fr)] md:gap-9 lg:gap-12 lg:px-16">
+      <div className="mx-auto grid max-w-[1580px] items-center gap-6 px-12 md:grid-cols-[minmax(0,1.55fr)_minmax(340px,.72fr)] md:gap-9 lg:gap-12 lg:px-16">
         <Link
           href={`/noticia/${p.slug}`}
-          className="group relative block overflow-hidden border border-arcade bg-ink shadow-[0_0_42px_rgba(46,232,108,0.17)]"
+          className="group relative block w-full overflow-hidden border border-arcade bg-ink shadow-[0_0_42px_rgba(46,232,108,0.17)]"
         >
-          <div className="relative aspect-[16/10] min-h-[290px] w-full sm:min-h-[360px] md:min-h-[470px] lg:min-h-[540px]">
+          <div className="relative aspect-video w-full overflow-hidden">
             {p.image ? (
-              <>
-                <div
-                  className="absolute inset-0 scale-110 bg-cover bg-center opacity-20 blur-2xl"
-                  style={{ backgroundImage: `url(${p.image})` }}
-                />
-                <div className="absolute inset-0 bg-ink/20" />
-                <img
-                  src={p.image}
-                  alt=""
-                  className="absolute inset-0 h-full w-full object-contain object-center transition-transform duration-500 group-hover:scale-[1.01]"
-                />
-              </>
+              <img
+                src={p.image}
+                alt=""
+                className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.015]"
+                style={{ objectPosition: p.imagePos || "center center" }}
+              />
             ) : (
               <div
                 className="absolute inset-0"
@@ -75,7 +69,7 @@ export default function HeroCarousel({ posts }) {
           </div>
 
           <Link href={`/noticia/${p.slug}`} className="group">
-            <h2 className="mt-4 font-display text-3xl leading-[1.06] text-paper transition-colors group-hover:text-arcade md:text-4xl lg:text-5xl">
+            <h2 className="mt-4 font-display text-3xl leading-[1.04] text-paper transition-colors group-hover:text-arcade md:text-[2.35rem] lg:text-[3.15rem]">
               {p.title}
             </h2>
           </Link>
@@ -84,7 +78,7 @@ export default function HeroCarousel({ posts }) {
             {p.excerpt}
           </p>
 
-          <p className="mt-6 font-mono text-[10px] uppercase tracking-[0.16em] text-dim md:text-xs">
+          <p className="mt-6 border-t border-edge pt-5 font-mono text-[10px] uppercase tracking-[0.16em] text-dim md:text-xs">
             {p.date} · {p.readTime} de leitura
           </p>
         </div>
@@ -95,7 +89,7 @@ export default function HeroCarousel({ posts }) {
           <button
             onClick={() => ir(atual - 1)}
             aria-label="Manchete anterior"
-            className="absolute left-1 top-[35%] z-20 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/85 font-mono text-xl text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:left-3 md:top-1/2 lg:left-4"
+            className="absolute left-1 top-[34%] z-20 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/85 font-mono text-xl text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:left-3 md:top-1/2 lg:left-4"
           >
             ◂
           </button>
@@ -103,7 +97,7 @@ export default function HeroCarousel({ posts }) {
           <button
             onClick={() => ir(atual + 1)}
             aria-label="Próxima manchete"
-            className="absolute right-1 top-[35%] z-20 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/85 font-mono text-xl text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:right-3 md:top-1/2 lg:right-4"
+            className="absolute right-1 top-[34%] z-20 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-arcade/80 bg-ink/85 font-mono text-xl text-arcade backdrop-blur transition-all hover:bg-arcade hover:text-ink hover:shadow-[0_0_20px_rgba(46,232,108,0.5)] md:right-3 md:top-1/2 lg:right-4"
           >
             ▸
           </button>
