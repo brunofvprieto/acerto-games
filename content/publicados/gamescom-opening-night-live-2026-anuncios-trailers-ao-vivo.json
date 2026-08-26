@@ -5,13 +5,13 @@
   "excerpt": "A Gamescom Opening Night Live 2026 terminou com anúncios, novos trailers e gameplays. Confira os principais destaques da apresentação comandada por Geoff Keighley.",
   "author": "Bruno Vazquez",
   "date": "25 ago 2026",
-  "readTime": "31 min",
+  "readTime": "33 min",
   "cover": ["#111827", "#7C3AED"],
   "image": "https://img.youtube.com/vi/SRFE0gCsgLg/maxresdefault.jpg",
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-26T06:27:00-03:00",
+  "atualizadoEm": "2026-08-26T08:31:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -108,6 +108,12 @@
     "## Resonance: A Plague Tale Legacy mostra trailer de lançamento",
     "Resonance: A Plague Tale Legacy também recebeu um novo trailer de lançamento ligado à Gamescom. O jogo da Asobo Studio e Focus Entertainment chega em 27 de agosto de 2026 para PS5, Xbox Series X|S e PC e acompanha Sophia em uma nova história ambientada no universo de A Plague Tale.",
     "video: https://www.youtube.com/watch?v=lKsMRZ4edhE",
+    "## Tides of Annihilation apresenta Beneath the Veil",
+    "A Eclipse Glow Games publicou o trailer de história Beneath the Veil, exibido na Opening Night Live. O vídeo aprofunda a jornada de Gwendolyn após a destruição de Londres, apresenta Guinevere e mostra Sir Lancelot entre os cavaleiros espectrais que podem ser invocados em combate. O jogo de ação e aventura inspirado nas lendas arturianas está em desenvolvimento para PS5, Xbox Series X|S e PC, ainda sem data de lançamento.",
+    "video: https://www.youtube.com/watch?v=FEUjBGWiUa4",
+    "## Path of Exile 2 confirma versão 1.0 gratuita para dezembro",
+    "A Grinding Gear Games confirmou durante a Gamescom que Path of Exile 2 chega à versão 1.0 em 11 de dezembro de 2026, quando passa a ser gratuito para jogar em todas as plataformas. O novo trailer também apresenta o Duelist, classe voltada ao uso de espadas que chega junto da versão completa.",
+    "video: https://www.youtube.com/watch?v=BwYNNQJO-AE",
     "## NVIDIA apresenta novos gameplays com tecnologias RTX",
     "A NVIDIA aproveitou a Gamescom para divulgar uma nova leva de materiais de jogos com suas tecnologias para PC.",
     "### CONTROL Resonant com path tracing e DLSS 4.5",
@@ -135,5 +141,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua. A feira abre sua programação presencial principal em 26 de agosto e segue até 30 de agosto em Colônia, na Alemanha, com jogos disponíveis nos estandes, apresentações, entrevistas e outras novidades ao longo da semana."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 06h27 BRT: adicionado o trailer individual de EXODUS efetivamente publicado após a ONL, com data de lançamento de 7 de abril de 2027 confirmada pela Archetype Entertainment. O player de Heroes of Might and Magic III Remake também foi trocado pelo upload individual publicado pela Gamescom. Foram considerados apenas vídeos realmente publicados, sem transformar presença anunciada em trailer lançado."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 08h31 BRT: adicionados os trailers efetivamente publicados de Tides of Annihilation — Beneath the Veil e Path of Exile 2 versão 1.0. Foram considerados apenas vídeos realmente publicados em canais oficiais ou confirmados por fontes confiáveis, sem transformar presença anunciada em trailer lançado."
 }
