@@ -5,13 +5,13 @@
   "excerpt": "A Gamescom Opening Night Live 2026 terminou com anúncios, novos trailers e gameplays. Confira os principais destaques da apresentação comandada por Geoff Keighley.",
   "author": "Bruno Vazquez",
   "date": "25 ago 2026",
-  "readTime": "18 min",
+  "readTime": "21 min",
   "cover": ["#111827", "#7C3AED"],
   "image": "https://img.youtube.com/vi/SRFE0gCsgLg/maxresdefault.jpg",
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-25T21:38:00-03:00",
+  "atualizadoEm": "2026-08-25T22:28:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -63,6 +63,12 @@
     "## Rainbow Six Tactics transforma a franquia em estratégia por turnos",
     "A Ubisoft apresentou oficialmente Tom Clancy's Rainbow Six Tactics na Opening Night Live. O projeto leva operadores e o universo tático de Rainbow Six para uma estrutura de estratégia por turnos e campanha single-player, uma mudança importante para uma série historicamente associada à ação tática em tempo real e, mais recentemente, ao multiplayer competitivo de Rainbow Six Siege. O lançamento está previsto para 2027.",
     "video: https://www.youtube.com/watch?v=ctYAkqloPIM",
+    "## Silent Hill: Townfall revela elenco e novos horrores de St. Amelia",
+    "A Konami publicou o novo Cast Reveal Trailer de Silent Hill: Townfall exibido na Opening Night Live. O vídeo confirma Jovan Adepo como Simon, Kezia Burrows como Zoe e Terry O'Quinn como Richard, além de mostrar novos monstros e imagens de St. Amelia. O capítulo desenvolvido pela Screen Burn Interactive e publicado em parceria com a Annapurna chega em 24 de setembro de 2026 para PlayStation 5 e PC.",
+    "video: https://www.youtube.com/watch?v=c7M-SY8PYDU",
+    "## Pony Island 2: Panda Circus ganha data de lançamento",
+    "Daniel Mullins, criador de Inscryption e do primeiro Pony Island, levou à ONL um novo trailer de Pony Island 2: Panda Circus. A sequência preserva a mistura de metalinguagem, jogos dentro do jogo e quebra deliberada de regras que marcou os trabalhos anteriores do desenvolvedor. O lançamento está marcado para 27 de abril de 2027 no PC.",
+    "video: https://www.youtube.com/watch?v=1YlDxPSQMaU",
     "## ONTOS ganha trailer mundial na Opening Night Live",
     "ONTOS também recebeu um trailer individual oficialmente publicado pela Gamescom após a apresentação. O vídeo permite rever separadamente o material exibido durante a ONL, sem depender da gravação completa do evento.",
     "video: https://www.youtube.com/watch?v=lq9mMfDpN74",
@@ -94,5 +100,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua. A feira abre sua programação presencial principal em 26 de agosto e segue até 30 de agosto em Colônia, na Alemanha, com jogos disponíveis nos estandes, apresentações, entrevistas e outras novidades ao longo da semana."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 25 de agosto às 21h38 BRT: confirmado o upload oficial individual da Gamescom para Nodusfall e substituído o player anterior. Adicionados os trailers individuais efetivamente publicados de Rainbow Six Tactics, ONTOS e ZOOPUNK."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 25 de agosto às 22h28 BRT: adicionados players de trailers efetivamente publicados de Silent Hill: Townfall e Pony Island 2: Panda Circus, após confirmação em fontes confiáveis e canal oficial no caso de Silent Hill."
 }
