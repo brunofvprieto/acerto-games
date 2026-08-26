@@ -5,13 +5,13 @@
   "excerpt": "A Gamescom Opening Night Live 2026 terminou com anúncios, novos trailers e gameplays. Confira os principais destaques da apresentação comandada por Geoff Keighley.",
   "author": "Bruno Vazquez",
   "date": "25 ago 2026",
-  "readTime": "30 min",
+  "readTime": "31 min",
   "cover": ["#111827", "#7C3AED"],
   "image": "https://img.youtube.com/vi/SRFE0gCsgLg/maxresdefault.jpg",
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-26T04:30:00-03:00",
+  "atualizadoEm": "2026-08-26T06:27:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -47,13 +47,16 @@
     "video: https://www.youtube.com/watch?v=D7rUgkqOXXI",
     "## Heroes of Might and Magic III Remake é anunciado",
     "A Ubisoft surpreendeu a Opening Night Live com Heroes of Might and Magic III Remake, reconstrução em 3D do clássico de estratégia lançado originalmente em 1999. O projeto recupera as nove facções e reúne as campanhas do jogo original e das expansões Armageddon's Blade e The Shadow of Death, agora conectadas em uma campanha contínua, além de um novo prólogo e cinemáticas refeitas. O remake está previsto para 2027.",
-    "video: https://www.youtube.com/watch?v=h5opk1jq7dY",
+    "video: https://www.youtube.com/watch?v=NhlmWBRbM3I",
     "## Stage Tour confirma lançamento em dezembro",
     "Stage Tour ganhou trailer de data de lançamento e chega em 10 de dezembro de 2026. O jogo musical terá mais de 90 músicas licenciadas, mais de 180 guitarras Gibson reproduzidas dentro do jogo e mais de 50 integrantes de banda. A seleção anunciada inclui nomes como Metallica, The Rolling Stones, Red Hot Chili Peppers, Olivia Rodrigo, blink-182, Paramore, Slipknot e Muse.",
     "video: https://www.youtube.com/watch?v=MeaRKS-unlc",
     "## CONTROL Resonant ganha trailer Altered State",
     "A Remedy apresentou na Opening Night Live o trailer Altered State de CONTROL Resonant. O vídeo traz novas cenas de movimentação, combate, execuções e confrontos paranormais protagonizados por Dylan Faden, ao som de Omen, do The Prodigy. O jogo chega em 24 de setembro de 2026 para PS5, Xbox Series X|S e PC.",
     "video: https://www.youtube.com/watch?v=VwOJuJRCLGk",
+    "## EXODUS confirma lançamento para abril de 2027",
+    "A Archetype Entertainment revelou durante a Opening Night Live que EXODUS será lançado em 7 de abril de 2027 para PlayStation 5, Xbox Series X|S e PC. O novo trailer coloca Jun Aslan ao lado de Salt, uma companheira polvo Desperta que pilota um mech especializado em ataques de longa distância, manobras evasivas e cortinas de fumaça. O vídeo também mostra Emrys, integrante dos enigmáticos Celestiais Deva, atuando como suporte em combate. A data e os detalhes foram confirmados pela própria desenvolvedora após a apresentação.",
+    "video: https://www.youtube.com/watch?v=wANI7b7G8yw",
     "## Nodusfall leva a HoYoverse para uma fantasia mais sombria",
     "A HoYoverse revelou Nodusfall, um novo jogo de ação em fantasia realista desenvolvido na Unreal Engine 5 e inspirado por diferentes mitologias. A proposta coloca os jogadores no papel de Weavers em um mundo no qual a autoridade divina entrou em colapso, com forte ênfase em cooperação para enfrentar criaturas colossais. Plataformas e data de lançamento ainda não foram anunciadas.",
     "video: https://www.youtube.com/watch?v=I59kIiEDOMM",
@@ -132,5 +135,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua. A feira abre sua programação presencial principal em 26 de agosto e segue até 30 de agosto em Colônia, na Alemanha, com jogos disponíveis nos estandes, apresentações, entrevistas e outras novidades ao longo da semana."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 04h30 BRT: adicionados três trailers efetivamente publicados e confirmados após a verificação anterior — Crimson Desert Enhanced, The Blood of Dawnwalker e Resonance: A Plague Tale Legacy — com players individuais do YouTube. Foram considerados apenas vídeos realmente publicados em contexto da Gamescom/ONL, sem transformar presença anunciada em trailer lançado."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 06h27 BRT: adicionado o trailer individual de EXODUS efetivamente publicado após a ONL, com data de lançamento de 7 de abril de 2027 confirmada pela Archetype Entertainment. O player de Heroes of Might and Magic III Remake também foi trocado pelo upload individual publicado pela Gamescom. Foram considerados apenas vídeos realmente publicados, sem transformar presença anunciada em trailer lançado."
 }
