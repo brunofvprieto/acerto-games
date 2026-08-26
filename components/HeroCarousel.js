@@ -78,41 +78,40 @@ export default function HeroCarousel({ posts }) {
           className="group relative block overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
           style={{ clipPath: "polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px)" }}
         >
-          {/* Aspecto fixo */}
           <div className="relative w-full" style={{ paddingBottom: "42%" }}>
 
-            {/* IMAGEM — ocupa só a metade direita */}
+            {/* IMAGEM — lado direito, object-contain para não cortar */}
             {p.image && (
-              <div className="absolute inset-y-0 right-0 w-[58%]">
+              <div className="absolute inset-y-0 right-0 w-[65%]">
                 <img
                   src={p.image}
                   alt=""
-                  className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.025]"
-                  style={{ objectPosition: p.imagePos || p.imagePosition || "center top" }}
+                  className="h-full w-full object-contain transition-transform duration-700 group-hover:scale-[1.015]"
+                  style={{ objectPosition: "center center" }}
                 />
               </div>
             )}
             {!p.image && (
-              <div className="absolute inset-y-0 right-0 w-[58%]"
+              <div className="absolute inset-y-0 right-0 w-[65%]"
                 style={{ background: `linear-gradient(135deg, ${p.cover?.[0] || "#111"}, ${p.cover?.[1] || "#222"})` }}
               />
             )}
 
-            {/* Degradê de transição: preto sólido → transparente, cobrindo a junção */}
+            {/* Fundo preto sólido no lado esquerdo */}
+            <div className="absolute inset-y-0 left-0 z-10 w-[42%] bg-black" />
+
+            {/* Transição suave: preto → transparente */}
             <div
-              className="absolute inset-y-0 z-10"
+              className="absolute inset-y-0 z-10 pointer-events-none"
               style={{
-                left: "34%",
-                width: "22%",
+                left: "38%",
+                width: "20%",
                 background: "linear-gradient(to right, #000 0%, transparent 100%)",
               }}
             />
 
-            {/* Fundo preto sólido na metade esquerda */}
-            <div className="absolute inset-y-0 left-0 z-10 w-[40%] bg-black" />
-
-            {/* TEXTO — sobre o fundo preto, lado esquerdo */}
-            <div className="absolute inset-y-0 left-0 z-20 flex w-[52%] flex-col justify-center px-5 py-6 sm:px-7 md:px-9 lg:px-11">
+            {/* TEXTO sobre o fundo preto */}
+            <div className="absolute inset-y-0 left-0 z-20 flex w-[48%] flex-col justify-center px-5 py-6 sm:px-7 md:px-9 lg:px-11">
               <CategoryTag category={p.category} />
               <h2 className="mt-2 font-display text-[1.05rem] leading-[1.1] text-paper sm:text-[1.3rem] md:text-[1.55rem] lg:text-[1.85rem]">
                 {p.title}
