@@ -135,9 +135,12 @@ export default function Noticia({ params }) {
   };
 
   const leiaTambem = relacionadas(post);
+  const materiasLaterais = getAllPosts()
+    .filter((p) => p.slug !== post.slug)
+    .slice(0, 5);
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-8">
+    <main className="mx-auto max-w-6xl px-4 py-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaArtigo) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaBreadcrumb) }} />
 
@@ -145,90 +148,115 @@ export default function Noticia({ params }) {
         ◂ Voltar para a home
       </Link>
 
-      <article className="mt-6">
-        <CategoryTag category={post.category} />
-        <h1 className="mt-3 font-display text-3xl leading-tight md:text-4xl">{post.title}</h1>
-        <p className="mt-3 text-lg text-dim">{post.excerpt}</p>
-        <p className="mt-4 font-mono text-xs uppercase tracking-widest text-dim">
-          Por <Link href="/autor/bruno-vazquez" rel="author" className="text-paper hover:text-arcade">{post.author}</Link> · {post.date} · {post.readTime} de leitura
-        </p>
+      <div className="mt-6 grid items-start gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
+        <article className="min-w-0">
+          <CategoryTag category={post.category} />
+          <h1 className="mt-3 font-display text-3xl leading-tight md:text-4xl">{post.title}</h1>
+          <p className="mt-3 text-lg text-dim">{post.excerpt}</p>
+          <p className="mt-4 font-mono text-xs uppercase tracking-widest text-dim">
+            Por <Link href="/autor/bruno-vazquez" rel="author" className="text-paper hover:text-arcade">{post.author}</Link> · {post.date} · {post.readTime} de leitura
+          </p>
 
-        {isOpinion && (
-          <aside className="mt-5 border-l-2 border-[#FF7A45] bg-surface px-4 py-3 text-sm leading-relaxed text-dim">
-            <strong className="text-[#FF9A6B]">OPINIÃO DO ACERTO GAMES</strong><br />
-            Este texto apresenta uma posição editorial. Os fatos e fontes são separados da interpretação do autor.
+          {isOpinion && (
+            <aside className="mt-5 border-l-2 border-[#FF7A45] bg-surface px-4 py-3 text-sm leading-relaxed text-dim">
+              <strong className="text-[#FF9A6B]">OPINIÃO DO ACERTO GAMES</strong><br />
+              Este texto apresenta uma posição editorial. Os fatos e fontes são separados da interpretação do autor.
+            </aside>
+          )}
+
+          <Cover colors={post.cover} image={post.image} position={post.imagePos} fit="contain" className="mt-6 aspect-video w-full" />
+          {post.imageCredit && (
+            <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {post.imageCredit}</p>
+          )}
+
+          {post.nota !== undefined && (
+            <div className="mt-6 flex items-center gap-4 border border-edge bg-surface p-4">
+              <Nota value={post.nota} size="lg" />
+              <p className="font-mono text-sm uppercase tracking-wide text-dim">Nota final do Acerto Games</p>
+            </div>
+          )}
+
+          <div className="mt-8 space-y-5 text-lg leading-relaxed">
+            {post.body.map((paragraph, i) => {
+              if (paragraph.startsWith("## ")) return <h2 key={i} className="font-display text-xl text-arcade pt-3">{paragraph.slice(3)}</h2>;
+              if (paragraph.startsWith("img:")) {
+                const [url, credito] = paragraph.slice(4).split("|").map((s) => s.trim());
+                if (!url || (!url.startsWith("http") && !url.startsWith("/"))) return null;
+                return <figure key={i}><img src={url} alt="" loading="lazy" className="w-full border border-edge" />{credito && <figcaption className="mt-1 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {credito}</figcaption>}</figure>;
+              }
+              if (paragraph.startsWith("video:")) {
+                const id = youTubeId(paragraph.slice(6).trim());
+                if (!id) return null;
+                return <div key={i} className="aspect-video"><iframe className="h-full w-full border border-edge" src={`https://www.youtube.com/embed/${id}`} title="Vídeo do YouTube" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /></div>;
+              }
+              if (paragraph.startsWith("link:")) {
+                const [texto, url] = paragraph.slice(5).split("|").map((s) => s.trim());
+                if (!url || !url.startsWith("http")) return null;
+                return <p key={i}><a href={url} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{texto || url}</a></p>;
+              }
+              if (paragraph.startsWith("reddit:")) {
+                const rid = redditId(paragraph.slice(7).trim());
+                if (!rid) return null;
+                return <RedditEmbed key={i} postId={rid} />;
+              }
+              if (paragraph.startsWith("tweet:")) {
+                const tid = tweetId(paragraph.slice(6).trim());
+                if (!tid) return null;
+                return <TweetEmbed key={i} tweetId={tid} />;
+              }
+              if (paragraph.startsWith("mp4:")) {
+                const [src, legenda] = paragraph.slice(4).split("|").map((s) => s.trim());
+                if (!src) return null;
+                return <figure key={i} className="my-6"><video src={src} controls playsInline preload="metadata" className="w-full rounded-lg border border-edge bg-black">Seu navegador não suporta a reprodução de vídeo.</video>{legenda && <figcaption className="mt-2 font-mono text-xs uppercase tracking-widest text-dim">{legenda}</figcaption>}</figure>;
+              }
+              return <p key={i}>{paragraph}</p>;
+            })}
+          </div>
+
+          <section className="mt-10 border border-edge bg-surface p-5">
+            <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-arcade">Sobre o autor</p>
+            <p className="mt-2 font-display text-lg uppercase">Bruno Vazquez</p>
+            <p className="mt-2 text-sm leading-relaxed text-dim">
+              Jornalista formado em 2008 e editor do Acerto Games, com 18 anos de experiência profissional.
+              A cobertura combina apuração jornalística, experiência de jogador e análise da indústria.
+            </p>
+            <Link href="/autor/bruno-vazquez" className="mt-3 inline-block text-sm text-arcade underline">Ver perfil e matérias →</Link>
+          </section>
+
+          <ShareButtons slug={post.slug} titulo={post.title} />
+          <QRCode url={urlCompleta} />
+
+          {post.fonte && (
+            <p className="mt-8 border-t border-edge pt-4 font-mono text-xs uppercase tracking-widest text-dim">
+              Com informações de:{" "}
+              {post.fonteUrl ? <a href={post.fonteUrl} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{post.fonte}</a> : post.fonte}
+            </p>
+          )}
+        </article>
+
+        {materiasLaterais.length > 0 && (
+          <aside className="hidden lg:block">
+            <div className="sticky top-24">
+              <div className="mb-5 flex items-center gap-3 border-b border-edge pb-3">
+                <span className="h-7 w-1 bg-arcade" />
+                <h2 className="font-display text-lg uppercase">Mais recentes</h2>
+              </div>
+
+              <div className="divide-y divide-edge">
+                {materiasLaterais.map((p) => (
+                  <Link key={p.slug} href={`/noticia/${p.slug}`} className="group flex gap-3 py-4 first:pt-0">
+                    <Cover colors={p.cover} image={p.image} position={p.imagePos} fit="cover" className="aspect-video w-28 shrink-0 overflow-hidden" />
+                    <div className="min-w-0">
+                      <p className="line-clamp-3 font-display text-sm leading-snug transition-colors group-hover:text-arcade">{p.title}</p>
+                      <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">{p.date}</p>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
           </aside>
         )}
-
-        <Cover colors={post.cover} image={post.image} position={post.imagePos} fit="contain" className="mt-6 aspect-video w-full" />
-        {post.imageCredit && (
-          <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {post.imageCredit}</p>
-        )}
-
-        {post.nota !== undefined && (
-          <div className="mt-6 flex items-center gap-4 border border-edge bg-surface p-4">
-            <Nota value={post.nota} size="lg" />
-            <p className="font-mono text-sm uppercase tracking-wide text-dim">Nota final do Acerto Games</p>
-          </div>
-        )}
-
-        <div className="mt-8 space-y-5 text-lg leading-relaxed">
-          {post.body.map((paragraph, i) => {
-            if (paragraph.startsWith("## ")) return <h2 key={i} className="font-display text-xl text-arcade pt-3">{paragraph.slice(3)}</h2>;
-            if (paragraph.startsWith("img:")) {
-              const [url, credito] = paragraph.slice(4).split("|").map((s) => s.trim());
-              if (!url || (!url.startsWith("http") && !url.startsWith("/"))) return null;
-              return <figure key={i}><img src={url} alt="" loading="lazy" className="w-full border border-edge" />{credito && <figcaption className="mt-1 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {credito}</figcaption>}</figure>;
-            }
-            if (paragraph.startsWith("video:")) {
-              const id = youTubeId(paragraph.slice(6).trim());
-              if (!id) return null;
-              return <div key={i} className="aspect-video"><iframe className="h-full w-full border border-edge" src={`https://www.youtube.com/embed/${id}`} title="Vídeo do YouTube" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /></div>;
-            }
-            if (paragraph.startsWith("link:")) {
-              const [texto, url] = paragraph.slice(5).split("|").map((s) => s.trim());
-              if (!url || !url.startsWith("http")) return null;
-              return <p key={i}><a href={url} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{texto || url}</a></p>;
-            }
-            if (paragraph.startsWith("reddit:")) {
-              const rid = redditId(paragraph.slice(7).trim());
-              if (!rid) return null;
-              return <RedditEmbed key={i} postId={rid} />;
-            }
-            if (paragraph.startsWith("tweet:")) {
-              const tid = tweetId(paragraph.slice(6).trim());
-              if (!tid) return null;
-              return <TweetEmbed key={i} tweetId={tid} />;
-            }
-            if (paragraph.startsWith("mp4:")) {
-              const [src, legenda] = paragraph.slice(4).split("|").map((s) => s.trim());
-              if (!src) return null;
-              return <figure key={i} className="my-6"><video src={src} controls playsInline preload="metadata" className="w-full rounded-lg border border-edge bg-black">Seu navegador não suporta a reprodução de vídeo.</video>{legenda && <figcaption className="mt-2 font-mono text-xs uppercase tracking-widest text-dim">{legenda}</figcaption>}</figure>;
-            }
-            return <p key={i}>{paragraph}</p>;
-          })}
-        </div>
-
-        <section className="mt-10 border border-edge bg-surface p-5">
-          <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-arcade">Sobre o autor</p>
-          <p className="mt-2 font-display text-lg uppercase">Bruno Vazquez</p>
-          <p className="mt-2 text-sm leading-relaxed text-dim">
-            Jornalista formado em 2008 e editor do Acerto Games, com 18 anos de experiência profissional.
-            A cobertura combina apuração jornalística, experiência de jogador e análise da indústria.
-          </p>
-          <Link href="/autor/bruno-vazquez" className="mt-3 inline-block text-sm text-arcade underline">Ver perfil e matérias →</Link>
-        </section>
-
-        <ShareButtons slug={post.slug} titulo={post.title} />
-        <QRCode url={urlCompleta} />
-
-        {post.fonte && (
-          <p className="mt-8 border-t border-edge pt-4 font-mono text-xs uppercase tracking-widest text-dim">
-            Com informações de:{" "}
-            {post.fonteUrl ? <a href={post.fonteUrl} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{post.fonte}</a> : post.fonte}
-          </p>
-        )}
-      </article>
+      </div>
 
       {leiaTambem.length > 0 && (
         <section className="mt-12 border-t border-edge pt-8">
