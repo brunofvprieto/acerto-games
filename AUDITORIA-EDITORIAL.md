@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 270
-- Forte: 262
+- Total analisado: 271
+- Forte: 263
 - Revisar: 7
 - Prioridade: 1
 
@@ -180,6 +180,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2633 | 5 | 100 | Matt Damon finalmente chegou ao Fortnite — mas sua estreia nos games quase aconteceu anos atrás, graças a Jason Bourne | — |
 | FORTE | notícia | 2743 | 5 | 100 | Matt Damon chegou ao Fortnite — mas quase tinha entrado nos games bem antes, como Jason Bourne | — |
 | FORTE | notícia | 2366 | 6 | 100 | Clones de Meccha Chameleon no Roblox têm mais jogadores que o jogo original no Steam — e isso diz muito sobre a plataforma | — |
+| FORTE | notícia | 6474 | 20 | 100 | Mega Man: Dual Override não quer apenas trazer o Blue Bomber de volta — quer fazê-lo evoluir | — |
 | FORTE | notícia | 3968 | 12 | 100 | É do Brasil! Konami confirma legendas em português para Metal Gear Solid: Master Collection Vol. 2 | — |
 | FORTE | notícia | 8209 | 25 | 100 | Master Collection Vol. 2: tudo que a Konami acertou (e o que ainda dói) no resgate de MGS4 | — |
 | FORTE | notícia | 2637 | 8 | 100 | Konami solta novo trailer de MGS Master Collection Vol. 2 na reta final pro lançamento | — |
