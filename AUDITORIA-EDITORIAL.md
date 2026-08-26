@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 272
-- Forte: 264
+- Total analisado: 273
+- Forte: 265
 - Revisar: 7
 - Prioridade: 1
 
@@ -205,6 +205,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
 | FORTE | notícia | 2191 | 8 | 100 | Onimusha: Way of the Sword ganha gameplay no Nintendo Switch 2 | — |
+| FORTE | notícia | 7492 | 23 | 100 | Onimusha está de volta — e a Capcom parece ter entendido o peso de ressuscitar uma série após 20 anos | — |
 | FORTE | opinião | 9042 | 29 | 100 | Quando uma atualização gratuita vira respeito: The Witcher 3 e Crimson Desert lembram à indústria como tratar quem já pagou | — |
 | FORTE | opinião | 6668 | 36 | 100 | GTA 6 aprendeu com Red Dead Redemption 2 a lição que realmente importa | — |
 | FORTE | opinião | 6745 | 23 | 100 | A mídia física não está morrendo do jeito que a gente imagina — e o Switch 2 explica por quê | — |
