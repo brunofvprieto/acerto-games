@@ -5,13 +5,13 @@
   "excerpt": "A Gamescom Opening Night Live 2026 terminou com anúncios, novos trailers e gameplays. Confira os principais destaques da apresentação comandada por Geoff Keighley.",
   "author": "Bruno Vazquez",
   "date": "25 ago 2026",
-  "readTime": "35 min",
+  "readTime": "37 min",
   "cover": ["#111827", "#7C3AED"],
   "image": "https://img.youtube.com/vi/SRFE0gCsgLg/maxresdefault.jpg",
   "imagePos": "center center",
   "imageCredit": "Thumbnail de trailer publicado durante a Gamescom Opening Night Live 2026/YouTube",
   "publicadoEm": "2026-08-25T15:16:00-03:00",
-  "atualizadoEm": "2026-08-26T10:30:00-03:00",
+  "atualizadoEm": "2026-08-26T11:22:00-03:00",
   "fonte": "Gamescom / canais oficiais no YouTube",
   "fonteUrl": "https://www.gamescom.global/en",
   "body": [
@@ -123,6 +123,12 @@
     "## Hitman World of Assassination coloca Snoop Dogg na mira do Agente 47",
     "Hitman World of Assassination ganhou um novo trailer na Gamescom confirmando Snoop Dogg como o próximo Elusive Target. O vídeo apresenta a nova missão limitada e coloca o Agente 47 diante de mais um alvo especial dentro do jogo da IO Interactive.",
     "video: https://www.youtube.com/watch?v=qV2SZAp_ubk",
+    "## Showa American Story retorna com trailer inteiramente capturado no jogo",
+    "A 2P Games e a NEKCOM Games publicaram o novo trailer de Showa American Story exibido na Opening Night Live. Segundo o estúdio, todo o material mostrado foi capturado diretamente da versão em desenvolvimento. O RPG acompanha Chigusa Choko em uma América alternativa dominada culturalmente pelo Japão no fim dos anos 1980, misturando exploração, combates exagerados, personagens excêntricos e referências à cultura pop. O jogo está em desenvolvimento para PlayStation 5 e PC.",
+    "video: https://www.youtube.com/watch?v=jybhe8fhS78",
+    "## LEGO Skylines transforma a construção de cidades em um enorme brinquedo",
+    "Paradox Interactive, Iceflake Studios e LEGO Group revelaram LEGO Skylines na Opening Night Live. O city-builder permite criar, administrar e personalizar uma metrópole de LEGO, cuidando de necessidades como eletricidade, água, alimentação, hospitais, empregos, parques, coleta de lixo e esgoto, com forte liberdade de construção. O jogo está confirmado para PC, PlayStation 5, Xbox Series X|S e Nintendo Switch 2, ainda sem data de lançamento.",
+    "video: https://www.youtube.com/watch?v=XZaRz4YrxIg",
     "## NVIDIA apresenta novos gameplays com tecnologias RTX",
     "A NVIDIA aproveitou a Gamescom para divulgar uma nova leva de materiais de jogos com suas tecnologias para PC.",
     "### CONTROL Resonant com path tracing e DLSS 4.5",
@@ -150,5 +156,5 @@
     "## Gamescom 2026 continua em Colônia",
     "Embora a Opening Night Live tenha terminado, a Gamescom 2026 continua até 30 de agosto em Colônia, na Alemanha."
   ],
-  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 10h30 BRT: adicionados players confirmados de Rayman Legends Retold, Monster Hunter Outlanders e Hitman World of Assassination. Foram considerados apenas vídeos efetivamente publicados em canais oficiais ou por fontes confiáveis, sem transformar presença anunciada em trailer lançado."
+  "observacao": "COBERTURA PÓS-EVENTO. Atualização de 26 de agosto às 11h22 BRT: adicionados os novos players confirmados de Showa American Story e LEGO Skylines. O trailer de Showa foi publicado oficialmente pela NEKCOM Games e é composto por imagens capturadas do jogo; LEGO Skylines foi confirmado pela Paradox Interactive, Iceflake Studios e LEGO Group durante a ONL. Foram considerados apenas vídeos efetivamente publicados, sem transformar presença anunciada em trailer lançado."
 }
