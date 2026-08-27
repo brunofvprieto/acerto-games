@@ -48,26 +48,43 @@ export default function HeroCarousel({ posts }) {
             className="absolute left-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12">‹</button>
         )}
 
-        {/* Card: imagem full + gradiente preto só na área do texto */}
+        {/* Card: texto à esquerda + imagem preservada e ancorada à direita */}
         <Link href={`/noticia/${p.slug}`}
           className="group relative block overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
           style={{ clipPath: "polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px)" }}>
 
-          <div className="relative w-full" style={{ paddingBottom: "42%" }}>
+          <div className="relative w-full bg-black" style={{ paddingBottom: "42%" }}>
 
-            {/* Imagem full cobrindo todo o card */}
             {p.image ? (
-              <img src={p.image} alt=""
-                className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.018]"
-                style={{ objectPosition: p.imagePos || "center center" }} />
+              <>
+                {/* Fundo atmosférico: preenche a área direita sem depender do recorte da imagem principal */}
+                <div className="absolute inset-y-0 right-0 w-[74%] overflow-hidden sm:w-[72%] md:w-[70%] lg:w-[68%]">
+                  <img
+                    src={p.image}
+                    alt=""
+                    aria-hidden="true"
+                    className="absolute inset-0 h-full w-full scale-110 object-cover object-right opacity-35 blur-sm"
+                  />
+                </div>
+
+                {/* Imagem principal: inteira, redimensionada e ancorada à direita para não cortar o personagem */}
+                <div className="absolute inset-y-0 right-0 flex w-[74%] items-center justify-end overflow-hidden sm:w-[72%] md:w-[70%] lg:w-[68%]">
+                  <img
+                    src={p.image}
+                    alt=""
+                    className="h-full w-full object-contain object-right transition-transform duration-700 group-hover:scale-[1.012]"
+                    style={{ objectPosition: p.heroImagePos || "right center" }}
+                  />
+                </div>
+              </>
             ) : (
               <div className="absolute inset-0"
                 style={{ background: `linear-gradient(135deg, ${p.cover?.[0]||"#111"}, ${p.cover?.[1]||"#222"})` }} />
             )}
 
-            {/* Gradiente preto cobrindo a área do texto (esquerda → transparente ~55%) */}
+            {/* Gradiente preto da área do texto até a imagem */}
             <div className="absolute inset-0 pointer-events-none"
-              style={{ background: "linear-gradient(to right, #000 0%, #000 30%, rgba(0,0,0,0.85) 42%, rgba(0,0,0,0.4) 55%, transparent 72%)" }} />
+              style={{ background: "linear-gradient(to right, #000 0%, #000 31%, rgba(0,0,0,0.94) 40%, rgba(0,0,0,0.72) 49%, rgba(0,0,0,0.34) 59%, rgba(0,0,0,0.08) 69%, transparent 78%)" }} />
 
             {/* Gradiente vertical suave no topo */}
             <div className="absolute inset-0 pointer-events-none"
