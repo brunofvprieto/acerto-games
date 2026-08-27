@@ -41,46 +41,45 @@ export default function HeroCarousel({ posts }) {
       aria-roledescription="carrossel" aria-label="Principais manchetes" className="py-5 sm:py-6">
 
       <div className="relative mx-auto px-8 sm:px-10">
+
         {/* Seta esquerda */}
         {total > 1 && (
           <button onClick={() => ir(atual - 1)} aria-label="Manchete anterior"
             className="absolute left-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12">‹</button>
         )}
 
-        {/* Card hero: fundo preto, imagem ao centro-direita com margens escuras */}
+        {/* Card: imagem full + gradiente preto só na área do texto */}
         <Link href={`/noticia/${p.slug}`}
           className="group relative block overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
           style={{ clipPath: "polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px)" }}>
 
           <div className="relative w-full" style={{ paddingBottom: "42%" }}>
 
-            {/* Imagem posicionada à direita, com espaço (padding) ao redor — não cobre toda a área */}
-            {p.image && (
-              <div className="absolute inset-y-0 right-0 z-0" style={{ left: "38%", padding: "12px 16px 12px 0" }}>
-                <img src={p.image} alt=""
-                  className="h-full w-full object-contain transition-transform duration-700 group-hover:scale-[1.015]"
-                  style={{ objectPosition: "center center" }}
-                />
-              </div>
-            )}
-            {!p.image && (
-              <div className="absolute inset-y-0 right-0 z-0" style={{ left: "38%", background: `linear-gradient(135deg, ${p.cover?.[0]||"#111"}, ${p.cover?.[1]||"#222"})` }} />
+            {/* Imagem full cobrindo todo o card */}
+            {p.image ? (
+              <img src={p.image} alt=""
+                className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.018]"
+                style={{ objectPosition: p.imagePos || "center center" }} />
+            ) : (
+              <div className="absolute inset-0"
+                style={{ background: `linear-gradient(135deg, ${p.cover?.[0]||"#111"}, ${p.cover?.[1]||"#222"})` }} />
             )}
 
-            {/* Degradê: de preto puro (esquerda) para transparente, cobrindo a junção com a imagem */}
-            <div className="absolute inset-y-0 z-10 pointer-events-none"
-              style={{ left: "30%", width: "18%", background: "linear-gradient(to right, #000 0%, transparent 100%)" }} />
+            {/* Gradiente preto cobrindo a área do texto (esquerda → transparente ~55%) */}
+            <div className="absolute inset-0 pointer-events-none"
+              style={{ background: "linear-gradient(to right, #000 0%, #000 30%, rgba(0,0,0,0.85) 42%, rgba(0,0,0,0.4) 55%, transparent 72%)" }} />
 
-            {/* Fundo preto sólido no lado esquerdo */}
-            <div className="absolute inset-y-0 left-0 z-10 bg-black" style={{ width: "36%" }} />
+            {/* Gradiente vertical suave no topo */}
+            <div className="absolute inset-0 pointer-events-none"
+              style={{ background: "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, transparent 40%)" }} />
 
             {/* Texto */}
-            <div className="absolute inset-y-0 left-0 z-20 flex flex-col justify-center px-5 py-6 sm:px-7 md:px-9 lg:px-11" style={{ width: "44%" }}>
+            <div className="absolute inset-y-0 left-0 z-10 flex w-[52%] flex-col justify-center px-6 py-6 sm:px-8 md:px-10 lg:px-12">
               <CategoryTag category={p.category} />
-              <h2 className="mt-2 font-display text-[1.05rem] leading-[1.1] text-paper sm:text-[1.3rem] md:text-[1.55rem] lg:text-[1.85rem]">
+              <h2 className="mt-2 font-display text-[1rem] leading-[1.1] text-paper sm:text-[1.2rem] md:text-[1.45rem] lg:text-[1.7rem]">
                 {p.title}
               </h2>
-              <p className="mt-2 hidden text-[0.72rem] leading-[1.55] text-paper/80 sm:block md:text-[0.82rem] lg:text-[0.88rem]">
+              <p className="mt-2 hidden text-[0.7rem] leading-[1.55] text-paper/80 sm:block md:text-[0.8rem] lg:text-[0.85rem]">
                 {p.excerpt}
               </p>
               <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[9px] uppercase tracking-[.13em] text-paper/65 sm:text-[10px]">
