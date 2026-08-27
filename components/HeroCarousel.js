@@ -42,13 +42,11 @@ export default function HeroCarousel({ posts }) {
 
       <div className="relative mx-auto px-8 sm:px-10">
 
-        {/* Seta esquerda */}
         {total > 1 && (
           <button onClick={() => ir(atual - 1)} aria-label="Manchete anterior"
             className="absolute left-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12">‹</button>
         )}
 
-        {/* Card: texto à esquerda + imagem preservada e ancorada à direita */}
         <Link href={`/noticia/${p.slug}`}
           className="group relative block overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
           style={{ clipPath: "polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px)" }}>
@@ -57,7 +55,6 @@ export default function HeroCarousel({ posts }) {
 
             {p.image ? (
               <>
-                {/* Fundo atmosférico: preenche a área direita sem depender do recorte da imagem principal */}
                 <div className="absolute inset-y-0 right-0 w-[74%] overflow-hidden sm:w-[72%] md:w-[70%] lg:w-[68%]">
                   <img
                     src={p.image}
@@ -67,7 +64,6 @@ export default function HeroCarousel({ posts }) {
                   />
                 </div>
 
-                {/* Imagem principal: inteira, redimensionada e ancorada à direita para não cortar o personagem */}
                 <div className="absolute inset-y-0 right-0 flex w-[74%] items-center justify-end overflow-hidden sm:w-[72%] md:w-[70%] lg:w-[68%]">
                   <img
                     src={p.image}
@@ -82,24 +78,21 @@ export default function HeroCarousel({ posts }) {
                 style={{ background: `linear-gradient(135deg, ${p.cover?.[0]||"#111"}, ${p.cover?.[1]||"#222"})` }} />
             )}
 
-            {/* Gradiente preto da área do texto até a imagem */}
             <div className="absolute inset-0 pointer-events-none"
               style={{ background: "linear-gradient(to right, #000 0%, #000 31%, rgba(0,0,0,0.94) 40%, rgba(0,0,0,0.72) 49%, rgba(0,0,0,0.34) 59%, rgba(0,0,0,0.08) 69%, transparent 78%)" }} />
 
-            {/* Gradiente vertical suave no topo */}
             <div className="absolute inset-0 pointer-events-none"
               style={{ background: "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, transparent 40%)" }} />
 
-            {/* Texto */}
-            <div className="absolute inset-y-0 left-0 z-10 flex w-[52%] flex-col justify-center px-6 py-6 sm:px-8 md:px-10 lg:px-12">
+            <div className="absolute inset-y-0 left-0 z-10 flex w-[52%] flex-col justify-center px-4 py-4 sm:px-8 sm:py-6 md:px-10 lg:px-12">
               <CategoryTag category={p.category} />
-              <h2 className="mt-2 font-display text-[1rem] leading-[1.1] text-paper sm:text-[1.2rem] md:text-[1.45rem] lg:text-[1.7rem]">
+              <h2 className="mt-1.5 font-display text-[0.76rem] leading-[1.08] text-paper sm:mt-2 sm:text-[1.08rem] md:text-[1.45rem] lg:text-[1.7rem]">
                 {p.title}
               </h2>
               <p className="mt-2 hidden text-[0.7rem] leading-[1.55] text-paper/80 sm:block md:text-[0.8rem] lg:text-[0.85rem]">
                 {p.excerpt}
               </p>
-              <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[9px] uppercase tracking-[.13em] text-paper/65 sm:text-[10px]">
+              <div className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-[7px] uppercase tracking-[.11em] text-paper/65 sm:mt-3 sm:gap-x-4 sm:text-[10px] sm:tracking-[.13em]">
                 <span><span className="mr-1 text-arcade">▣</span>{p.date}</span>
                 {p.readTime && <span><span className="mr-1 text-arcade">◷</span>{p.readTime} de leitura</span>}
               </div>
@@ -108,14 +101,12 @@ export default function HeroCarousel({ posts }) {
           </div>
         </Link>
 
-        {/* Seta direita */}
         {total > 1 && (
           <button onClick={() => ir(atual + 1)} aria-label="Próxima manchete"
             className="absolute right-0 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12">›</button>
         )}
       </div>
 
-      {/* Dots */}
       {total > 1 && (
         <div className="mt-3 flex justify-center gap-2">
           {posts.map((_, i) => (
@@ -125,7 +116,6 @@ export default function HeroCarousel({ posts }) {
         </div>
       )}
 
-      {/* Últimas Notícias */}
       {ultimas.length > 0 && (
         <div className="mt-6">
           <div className="mb-3 flex items-center justify-between">
