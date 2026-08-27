@@ -6,10 +6,13 @@
   "author": "Bruno Vazquez",
   "date": "26 ago 2026",
   "readTime": "14 min",
-  "cover": ["#183038", "#8ba5a2"],
-  "image": "/images/the-witcher-3-remaster-cover.svg",
+  "cover": [
+    "#183038",
+    "#8ba5a2"
+  ],
+  "image": "/img/the-witcher-3-remastered-geralt-capa.jpg",
   "imagePos": "center center",
-  "imageCredit": "Imagem de capa fornecida para publicação",
+  "imageCredit": "Geralt de Rívia no The Witcher 3 Remastered. Divulgação/CD Projekt Red",
   "publicadoEm": "2026-08-26T16:38:00-03:00",
   "fonte": "CD PROJEKT RED / The Witcher",
   "fonteUrl": "https://www.cdprojekt.com/en/media/news/the-witcher-3-wild-hunt-remastered-announced-songs-of-the-past-gets-first-look/",
