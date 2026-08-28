@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 280
-- Forte: 272
-- Revisar: 7
+- Total analisado: 284
+- Forte: 273
+- Revisar: 10
 - Prioridade: 1
 
 ## Ordem de trabalho
@@ -16,9 +16,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
 | REVISAR | noticia | 821 | 4 | 71 | 1666: Amsterdam entra em Acesso Antecipado no PC em 25 de agosto | texto curto, poucos parágrafos |
+| REVISAR | notícia | 1110 | 7 | 73 | Metal Gear Solid 4 remove PS3 e PSP nas versões da Nintendo, e até uma piada clássica mudou | texto curto, sem fonte |
 | REVISAR | notícia | 937 | 4 | 73 | Sanitarium volta em versão remasterizada quase 30 anos depois: Enhanced Edition chega em 2026 | texto curto, poucos parágrafos |
 | REVISAR | noticia | 973 | 4 | 74 | Resonance: A Plague Tale Legacy mostra combate brutal em novo trailer | texto curto, poucos parágrafos |
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
+| REVISAR | notícia | 1246 | 6 | 76 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto, sem fonte |
+| REVISAR | notícia | 1268 | 7 | 77 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto, sem fonte |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
@@ -137,6 +140,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2790 | 12 | 100 | Um jogo de Switch 2 será revelado hoje ao meio-dia — e a única pista são oito emojis | — |
 | FORTE | artigo | 8247 | 28 | 100 | Gráficos ou IA? A indústria vem escolhendo errado — e Rockstar, Nintendo e Kojima já provaram isso | — |
 | FORTE | notícia | 2416 | 10 | 100 | Gran Turismo 7 ganhou nova atualização e a mudança mais importante não é nos carros novos | — |
+| FORTE | notícia | 2720 | 13 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
 | FORTE | notícia | 1914 | 6 | 100 | GTA 6: código da mídia física no PS5 vai ter trava de região — e o Xbox saiu por cima | — |
 | FORTE | notícia | 13508 | 43 | 100 | GTA 6 vai reagir às suas escolhas até no corpo de Jason e Lucia — tudo o que a Rockstar revelou à Dazed | — |
 | FORTE | notícia | 3519 | 14 | 100 | O primeiro grande racha de GTA 6 não é sobre gráficos: é sobre ter que abastecer o carro | — |
