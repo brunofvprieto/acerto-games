@@ -28,6 +28,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
+| FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
@@ -267,7 +268,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
 | FORTE | notícia | 5261 | 24 | 100 | Vazamento revela os 14 personagens de The Duskbloods — e cada um deles é mais perturbado que o anterior | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
-| FORTE | notícia | 5368 | 21 | 100 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | — |
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
