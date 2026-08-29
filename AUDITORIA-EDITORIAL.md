@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 284
-- Forte: 273
+- Total analisado: 287
+- Forte: 276
 - Revisar: 10
 - Prioridade: 1
 
@@ -53,6 +53,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
+| FORTE | notícia | 1704 | 7 | 98 | Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração | texto curto |
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
 | FORTE | notícia | 1757 | 5 | 99 | O diretor de Fallout: New Vegas finalmente revelou qual final ele acha o melhor — e faz todo sentido | texto curto |
 | FORTE | notícia | 1762 | 5 | 99 | CEO da Take-Two chama GTA 6 de “pechincha incrível” por US$ 80 | texto curto |
@@ -60,6 +61,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1753 | 5 | 99 | Nova vai ganhar filme no MCU com o roteirista de Loki no comando | texto curto |
 | FORTE | notícia | 1752 | 5 | 99 | Mario, GTA e mais 8: os ports mais caros da história que vão fazer seu bolso chorar | texto curto |
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
+| FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
 | FORTE | notícia | 2133 | 6 | 100 | 007 First Light no Switch 2: Amazon do Japão aponta setembro — mas segura a euforia | — |
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
@@ -144,6 +146,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1914 | 6 | 100 | GTA 6: código da mídia física no PS5 vai ter trava de região — e o Xbox saiu por cima | — |
 | FORTE | notícia | 13508 | 43 | 100 | GTA 6 vai reagir às suas escolhas até no corpo de Jason e Lucia — tudo o que a Rockstar revelou à Dazed | — |
 | FORTE | notícia | 3519 | 14 | 100 | O primeiro grande racha de GTA 6 não é sobre gráficos: é sobre ter que abastecer o carro | — |
+| FORTE | notícia | 1782 | 7 | 100 | GTA 6 está sendo desenvolvido há 11 anos: Rockstar revela como o projeto começou | texto curto |
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
