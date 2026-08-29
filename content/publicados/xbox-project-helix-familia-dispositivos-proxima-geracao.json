@@ -1,0 +1,30 @@
+{
+  "slug": "xbox-project-helix-familia-dispositivos-proxima-geracao",
+  "category": "notícia",
+  "title": "Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração",
+  "excerpt": "Asha Sharma revelou na Gamescom 2026 que o Project Helix está sendo desenvolvido como uma família de dispositivos, ampliando a estratégia da Microsoft para além de um único console.",
+  "author": "Bruno Vazquez",
+  "date": "29 ago 2026",
+  "readTime": "4 min",
+  "cover": ["#107C10", "#050805"],
+  "image": "https://img.youtube.com/vi/txuYKwrbq1M/maxresdefault.jpg",
+  "imagePos": "center center",
+  "imageCredit": "BBC News / Reprodução",
+  "publicadoEm": "2026-08-29T16:55:00Z",
+  "fonte": "BBC News, Xbox Wire e The Verge",
+  "fonteUrl": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+  "body": [
+    "A próxima geração do Xbox começa a ganhar uma forma bem diferente da tradicional. A CEO da divisão, Asha Sharma, afirmou durante a Gamescom 2026 que a Microsoft trabalha em uma ‘família de dispositivos’ para o Project Helix — codinome do hardware de próxima geração da companhia.",
+    "video: https://www.youtube.com/watch?v=txuYKwrbq1M",
+    "## Não é mais apenas um console",
+    "Quando o Project Helix foi apresentado em março, a comunicação da Microsoft falava principalmente em um console de próxima geração. A declaração de Sharma amplia esse conceito e indica que Helix deve representar um ecossistema de hardware, e não necessariamente uma única máquina.",
+    "A executiva não detalhou quantos aparelhos estão planejados nem confirmou formatos específicos. Portanto, qualquer divisão entre console tradicional, portátil ou hardware de terceiros ainda deve ser tratada como possibilidade, não como anúncio.",
+    "## AMD está no centro da próxima geração",
+    "A Microsoft já havia confirmado uma parceria de vários anos com a AMD. Segundo o Xbox Wire, o Project Helix utiliza um SoC AMD personalizado e foi projetado para executar jogos de console e também de PC, aproximando ainda mais os dois ambientes.",
+    "A companhia também afirma que o hardware terá avanços importantes em ray tracing, renderização, simulação e eficiência. Kits em estágio alfa estão planejados para chegar aos desenvolvedores a partir de 2027.",
+    "## Preço e acessibilidade também preocupam o Xbox",
+    "Na entrevista à BBC, Sharma abordou o cenário difícil dos custos de hardware e afirmou que acessibilidade é uma questão que a empresa precisa considerar. Por enquanto, porém, Microsoft não anunciou preço, data de lançamento ou especificações finais do Project Helix.",
+    "O que agora está claro é a estratégia: a próxima geração do Xbox pretende ser maior do que uma caixa embaixo da televisão. Resta descobrir quais aparelhos formarão essa família.",
+    "link: Xbox Wire — detalhes oficiais do Project Helix | https://news.xbox.com/pt-br/2026/03/11/direto-da-gdc-construindo-a-proxima-geracao-de-xbox/"
+  ]
+}
