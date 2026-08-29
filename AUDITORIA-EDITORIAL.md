@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 287
-- Forte: 276
+- Total analisado: 289
+- Forte: 278
 - Revisar: 10
 - Prioridade: 1
 
@@ -213,6 +213,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3032 | 16 | 100 | Nintendo anuncia novos bundles do Switch 2 com Mario Kart World e Switch Sports Resort | — |
 | FORTE | noticia | 1923 | 8 | 100 | Nintendo expande presença na Ásia e levará Switch 2 oficialmente à Indonésia em dezembro | — |
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
+| FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
 | FORTE | notícia | 2191 | 8 | 100 | Onimusha: Way of the Sword ganha gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 7492 | 23 | 100 | Onimusha está de volta — e a Capcom parece ter entendido o peso de ressuscitar uma série após 20 anos | — |
@@ -279,6 +280,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 3007 | 11 | 100 | Tomb Raider: Legacy of Atlantis mostra como refez o combate da Lara sem trair o jogo de 1996 | — |
+| FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
