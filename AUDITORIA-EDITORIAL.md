@@ -1,17 +1,16 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 292
+- Total analisado: 291
 - Forte: 280
 - Revisar: 10
-- Prioridade: 2
+- Prioridade: 1
 
 ## Ordem de trabalho
 As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arquivadas antes de uma nova solicitação de revisão do AdSense. REVISAR são boas pautas que precisam ganhar profundidade. FORTE serve como referência editorial.
 
 | Faixa | Categoria | Caracteres | Parágrafos | Score | Matéria | Problemas |
 |---|---|---:|---:|---:|---|---|
-| PRIORIDADE | interno | 42 | 0 | 11 | Correção técnica | resumo curto, texto curto, poucos parágrafos |
 | PRIORIDADE | noticia | 513 | 3 | 58 | Battlefield 6 leva a guerra de volta a Wake Island em novo trailer de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
@@ -278,7 +277,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
 | FORTE | notícia | 5261 | 24 | 100 | Vazamento revela os 14 personagens de The Duskbloods — e cada um deles é mais perturbado que o anterior | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
-| FORTE | notícia | 3403 | 12 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
+| FORTE | notícia | 3111 | 10 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
