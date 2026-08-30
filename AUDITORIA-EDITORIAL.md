@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 293
-- Forte: 282
+- Total analisado: 295
+- Forte: 284
 - Revisar: 10
 - Prioridade: 1
 
@@ -79,6 +79,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
+| FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
 | FORTE | notícia | 2322 | 6 | 100 | Esse site deixa você dormir ao som de brigas de lobby do MW2 e Black Ops — e faz mais sentido do que parece | — |
 | FORTE | notícia | 2038 | 6 | 100 | Nuketown ou nada: a briga eterna dos fãs de Black Ops por causa dos mapas | — |
 | FORTE | notícia | 2329 | 6 | 100 | Modern Warfare 4 beta tem datas confirmadas: veja como garantir acesso antecipado | — |
@@ -265,6 +266,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
+| FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
