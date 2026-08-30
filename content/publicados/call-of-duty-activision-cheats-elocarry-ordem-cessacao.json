@@ -7,7 +7,7 @@
   "date": "30 ago 2026",
   "readTime": "4 min",
   "cover": ["#101317", "#56616A"],
-  "image": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/body/ricochet/RICOCHET-ANTI-CHEAT-TOUT.jpg",
+  "image": "/api/media?src=https%3A%2F%2Fwww.callofduty.com%2Fcontent%2Fdam%2Fatvi%2Fcallofduty%2Fcod-touchui%2Fblog%2Fbody%2Fricochet%2FRICOCHET-ANTI-CHEAT-TOUT.jpg",
   "imagePos": "center center",
   "imageCredit": "Call of Duty / Activision",
   "publicadoEm": "2026-08-30T12:37:00-03:00",
