@@ -109,7 +109,7 @@ function SecaoGTA6() {
   );
 }
 
-export const dynamic = "force-static";
+export const dynamic = "force-dynamic";
 
 function SiteZerado() {
   return (
