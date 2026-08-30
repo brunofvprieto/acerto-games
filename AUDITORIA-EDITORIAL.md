@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 291
-- Forte: 280
+- Total analisado: 292
+- Forte: 281
 - Revisar: 10
 - Prioridade: 1
 
@@ -276,6 +276,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3748 | 15 | 100 | Miyazaki entra no debate do SBMM: The Duskbloods vai ter matchmaking ranqueado e veteranos longe dos iniciantes | — |
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
 | FORTE | notícia | 5261 | 24 | 100 | Vazamento revela os 14 personagens de The Duskbloods — e cada um deles é mais perturbado que o anterior | — |
+| FORTE | notícia | 2581 | 9 | 100 | The Elder Scrolls 6 será exclusivo do Xbox? CEO da Microsoft evita confirmar | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
 | FORTE | notícia | 3111 | 10 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
