@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 295
-- Forte: 284
+- Total analisado: 296
+- Forte: 285
 - Revisar: 10
 - Prioridade: 1
 
@@ -143,6 +143,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2790 | 12 | 100 | Um jogo de Switch 2 será revelado hoje ao meio-dia — e a única pista são oito emojis | — |
 | FORTE | artigo | 8247 | 28 | 100 | Gráficos ou IA? A indústria vem escolhendo errado — e Rockstar, Nintendo e Kojima já provaram isso | — |
 | FORTE | notícia | 2416 | 10 | 100 | Gran Turismo 7 ganhou nova atualização e a mudança mais importante não é nos carros novos | — |
+| FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
 | FORTE | notícia | 2720 | 13 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
 | FORTE | notícia | 1914 | 6 | 100 | GTA 6: código da mídia física no PS5 vai ter trava de região — e o Xbox saiu por cima | — |
 | FORTE | notícia | 13508 | 43 | 100 | GTA 6 vai reagir às suas escolhas até no corpo de Jason e Lucia — tudo o que a Rockstar revelou à Dazed | — |
