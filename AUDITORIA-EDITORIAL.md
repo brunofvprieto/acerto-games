@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 298
-- Forte: 287
+- Total analisado: 299
+- Forte: 288
 - Revisar: 10
 - Prioridade: 1
 
@@ -79,6 +79,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
+| FORTE | notícia | 3071 | 14 | 100 | Breathedge 2 chega ao Acesso Antecipado com construção, exploração espacial e uma galinha imortal | — |
 | FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
 | FORTE | notícia | 2322 | 6 | 100 | Esse site deixa você dormir ao som de brigas de lobby do MW2 e Black Ops — e faz mais sentido do que parece | — |
 | FORTE | notícia | 2038 | 6 | 100 | Nuketown ou nada: a briga eterna dos fãs de Black Ops por causa dos mapas | — |
