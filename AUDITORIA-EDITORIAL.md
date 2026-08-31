@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 299
-- Forte: 288
+- Total analisado: 300
+- Forte: 289
 - Revisar: 10
 - Prioridade: 1
 
@@ -267,6 +267,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2407 | 5 | 100 | StarCraft na BlizzCon: a Blizzard está nos dando pistas de um novo jogo ou a gente tá vendo coisa? | — |
 | FORTE | notícia | 2328 | 5 | 100 | Stardew Valley quase não existiu: o PC de Eric Barone morreu e ele não tinha backup nenhum | — |
 | FORTE | notícia | 6101 | 26 | 100 | State of Decay 3 abre caminho para o beta — e seu maior desafio não é fazer um mapa quatro vezes maior | — |
+| FORTE | notícia | 1861 | 8 | 100 | PlayStation anuncia State of Play duplo para 3 de setembro — e Final Fantasy VII Revelation fecha o evento | — |
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
