@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 300
-- Forte: 289
+- Total analisado: 303
+- Forte: 292
 - Revisar: 10
 - Prioridade: 1
 
@@ -50,8 +50,10 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
+| FORTE | notícia | 1682 | 9 | 97 | Pokémon Pokopia leva Ditto para o fundo do mar em Bubbly Basin — veja o que muda no Switch 2 | texto curto |
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
+| FORTE | notícia | 1739 | 9 | 98 | Onimusha: Way of the Sword sai da Gamescom 2026 com dois grandes prêmios | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
 | FORTE | notícia | 1704 | 7 | 98 | Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração | texto curto |
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
@@ -154,6 +156,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
+| FORTE | notícia | 1820 | 8 | 100 | GTA 6 ganha novas imagens oficiais — Jason e Lucia aparecem em fuga, cercados pela polícia e com visuais diferentes | — |
 | FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
 | FORTE | notícia | 11098 | 43 | 100 | GTA 6 finalmente mostrou o jogo — e agora é difícil fingir que o hype está exagerado | — |
 | FORTE | notícia | 2371 | 10 | 100 | Rumor: página vazada da Netflix indica que o "Olhar Estendido" de GTA 6 pode ter três episódios e mais de uma hora | — |
