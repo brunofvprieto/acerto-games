@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 296
-- Forte: 285
+- Total analisado: 298
+- Forte: 287
 - Revisar: 10
 - Prioridade: 1
 
@@ -117,6 +117,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 7386 | 26 | 100 | Hideo Kojima faz 63 anos: o homem que recusou fazer jogos normais e mudou a indústria três vezes | — |
 | FORTE | especial | 11219 | 32 | 100 | Especial Metal Gear #2 — Sons of Liberty (2001): o jogo que enganou o mundo inteiro e previu o futuro | — |
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
+| FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
 | FORTE | notícia | 1999 | 5 | 100 | Final Fantasy XIV revela arte oficial do Kefka Imaginário, o chefe final da nova fase Extrema | — |
@@ -251,6 +252,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
 | FORTE | notícia | 2503 | 5 | 100 | Mewtwo exclusivo do aniversário de Pokémon Go está sendo vendido no eBay por até R$ 56 mil | — |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
+| FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
