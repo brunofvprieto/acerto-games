@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 304
-- Forte: 293
+- Total analisado: 305
+- Forte: 294
 - Revisar: 10
 - Prioridade: 1
 
@@ -182,6 +182,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
+| FORTE | notícia | 2214 | 9 | 100 | Konami anuncia Press Start para 3 de setembro com Castlevania, Silent Hill: Townfall e imagens inéditas | — |
 | FORTE | notícia | 2689 | 7 | 100 | Konami ressuscita Suikoden 14 anos depois — mas tem uma pegadinha no caminho | — |
 | FORTE | notícia | 2482 | 7 | 100 | Jon Hamm quase foi o detetive de LA Noire — e o roteirista explica por que foi melhor assim | — |
 | FORTE | notícia | 1853 | 5 | 100 | League of Legends Classic revela modo retrô, mas a galera já tá brigando por causa das skins | — |
