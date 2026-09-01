@@ -12,6 +12,7 @@ export default function Footer() {
           <Link href="/opinioes" className="hover:text-[#FF9A6B]">Opinião</Link>
           <Link href="/autor/bruno-vazquez" className="hover:text-paper">Autor</Link>
           <Link href="/sobre" className="hover:text-paper">Sobre</Link>
+          <Link href="/imprensa" className="text-arcade hover:text-paper">Imprensa & PR</Link>
           <Link href="/editorial" className="hover:text-paper">Política editorial</Link>
           <Link href="/contato" className="hover:text-paper">Contato</Link>
           <Link href="/politica-de-privacidade" className="hover:text-paper">Privacidade</Link>
