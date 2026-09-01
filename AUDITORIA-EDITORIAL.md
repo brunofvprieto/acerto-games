@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 305
-- Forte: 294
+- Total analisado: 310
+- Forte: 299
 - Revisar: 10
 - Prioridade: 1
 
@@ -27,14 +27,18 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
+| FORTE | notícia | 1302 | 7 | 88 | PS Plus libera hoje 4 jogos de setembro, incluindo Sniper Elite: Resistance e MLB The Show 26 | texto curto |
+| FORTE | notícia | 1342 | 7 | 89 | Fire Emblem: Fortune’s Weave entra no mês de lançamento como um dos grandes exclusivos do Switch 2 | texto curto |
 | FORTE | notícia | 1360 | 5 | 89 | Helldivers 2: novo trailer de campanha "Permanent Enclosure" marca virada na Guerra Galáctica | texto curto |
 | FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
+| FORTE | notícia | 1463 | 7 | 92 | CONTROL Resonant mostra Manhattan em colapso e poderes de Dylan em novo trailer | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
+| FORTE | notícia | 1493 | 8 | 92 | The Blood of Dawnwalker chega nesta semana: RPG dos ex-The Witcher mistura humano de dia e vampiro à noite | texto curto |
 | FORTE | notícia | 1552 | 5 | 94 | MrFreezy é o novo jogo do criador de Aerial Knight's — e ele envolve cortar cabeças de um jeito bem inusitado | texto curto |
 | FORTE | notícia | 1578 | 5 | 94 | O homem que nos deu Dead Space pendurou o controle: Glen Schofield anuncia aposentadoria | texto curto |
 | FORTE | notícia | 1541 | 6 | 94 | God of War: Laufey tem data marcada — e é mais cedo do que muita gente esperava | texto curto |
@@ -59,6 +63,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
 | FORTE | notícia | 1757 | 5 | 99 | O diretor de Fallout: New Vegas finalmente revelou qual final ele acha o melhor — e faz todo sentido | texto curto |
 | FORTE | notícia | 1762 | 5 | 99 | CEO da Take-Two chama GTA 6 de “pechincha incrível” por US$ 80 | texto curto |
+| FORTE | notícia | 1751 | 9 | 99 | Marvel’s Wolverine detalha Rage, dezenas de trajes e New Game Plus antes do lançamento | texto curto |
 | FORTE | notícia | 1779 | 5 | 99 | Nintendo Store no Japão passa a aceitar Paidy, serviço que permite pagar no mês seguinte | texto curto |
 | FORTE | notícia | 1753 | 5 | 99 | Nova vai ganhar filme no MCU com o roteirista de Loki no comando | texto curto |
 | FORTE | notícia | 1752 | 5 | 99 | Mario, GTA e mais 8: os ports mais caros da história que vão fazer seu bolso chorar | texto curto |
