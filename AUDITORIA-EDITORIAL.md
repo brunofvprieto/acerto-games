@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 315
-- Forte: 303
+- Total analisado: 317
+- Forte: 305
 - Revisar: 11
 - Prioridade: 1
 
@@ -201,6 +201,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
+| FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
 | FORTE | notícia | 1784 | 5 | 100 | Marvel Rivals na 9ª temporada e a galera já tá de saco cheio do caos visual | texto curto |
 | FORTE | notícia | 4906 | 14 | 100 | Marvel na San Diego Comic-Con 2026: o resumo de tudo que a Casa das Ideias anunciou | — |
@@ -231,6 +232,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2567 | 7 | 100 | Nintendo Switch 2 terá novo preço no Brasil: R$ 4.599,90 a partir de setembro | — |
 | FORTE | notícia | 3032 | 16 | 100 | Nintendo anuncia novos bundles do Switch 2 com Mario Kart World e Switch Sports Resort | — |
 | FORTE | noticia | 1923 | 8 | 100 | Nintendo expande presença na Ásia e levará Switch 2 oficialmente à Indonésia em dezembro | — |
+| FORTE | Retrô | 1984 | 7 | 100 | Nintendo Switch Online recebe Ninja Gaiden III, Ikari Warriors e R.C. Pro-Am II no catálogo de NES | — |
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
