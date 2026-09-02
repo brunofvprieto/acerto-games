@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 322
-- Forte: 310
+- Total analisado: 323
+- Forte: 311
 - Revisar: 11
 - Prioridade: 1
 
@@ -26,6 +26,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1030 | 5 | 81 | Another Eden Begins ganha demo no Switch 2, Switch e PC com progresso transferível | texto curto |
 | FORTE | Notícias | 1053 | 5 | 81 | Nintendo Switch 2 passa a custar US$ 499,99 nos EUA a partir de hoje | texto curto |
 | FORTE | Notícias | 1048 | 5 | 81 | RuneScape: Dragonwilds chega aos consoles em 15 de setembro e estreia no Game Pass | texto curto |
+| FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
