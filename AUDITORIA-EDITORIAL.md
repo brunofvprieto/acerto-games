@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 331
-- Forte: 317
+- Total analisado: 330
+- Forte: 316
 - Revisar: 13
 - Prioridade: 1
 
@@ -35,7 +35,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
 | FORTE | Notícias | 1245 | 6 | 86 | Ghost of Yōtei ganha modo Most Wanted e expansão Echoes of Sekigahara em outubro | texto curto |
-| FORTE | Notícias | 1232 | 6 | 86 | Monster Hunter Wilds: Ascendance revela nova região, Boost Action e monstros inéditos | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
