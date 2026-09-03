@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 335
-- Forte: 321
+- Total analisado: 336
+- Forte: 322
 - Revisar: 13
 - Prioridade: 1
 
@@ -29,6 +29,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1053 | 5 | 81 | Nintendo Switch 2 passa a custar US$ 499,99 nos EUA a partir de hoje | texto curto |
 | FORTE | Notícias | 1048 | 5 | 81 | RuneScape: Dragonwilds chega aos consoles em 15 de setembro e estreia no Game Pass | texto curto |
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
+| FORTE | Notícias | 1090 | 5 | 82 | Gran Turismo 7 anuncia Spec IV com 12 carros, dois circuitos e novos modos | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | Notícias | 1178 | 5 | 84 | Until Dawn 2 ganha data para janeiro de 2027 e retorna a Blackwood Sanatorium | texto curto |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
