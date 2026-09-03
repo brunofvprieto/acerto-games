@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 325
-- Forte: 313
+- Total analisado: 326
+- Forte: 314
 - Revisar: 11
 - Prioridade: 1
 
@@ -89,6 +89,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2074 | 6 | 100 | Black Flag Resynced ganha atualização que deixa esconder a zarabatana das costas do Edward | — |
 | FORTE | notícia | 2101 | 5 | 100 | DLC polêmico do dia 1 de Black Flag Resynced rendeu US$ 1 milhão só no Steam — e a galera tá furiosa | — |
 | FORTE | notícia | 2646 | 5 | 100 | Diretor de Black Flag Resynced pede uma coisa só: que a gente não abandone o jogo quando GTA 6 chegar | — |
+| FORTE | Notícias | 2001 | 7 | 100 | Assassin's Creed Black Flag Resynced pode chegar ao Switch 2 após nova listagem no varejo francês | — |
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
