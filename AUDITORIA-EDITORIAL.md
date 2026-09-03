@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 326
-- Forte: 314
+- Total analisado: 327
+- Forte: 315
 - Revisar: 11
 - Prioridade: 1
 
@@ -143,6 +143,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1999 | 5 | 100 | Final Fantasy XIV revela arte oficial do Kefka Imaginário, o chefe final da nova fase Extrema | — |
 | FORTE | notícia | 2369 | 5 | 100 | Filme de Call of Duty tem data confirmada — e vai se passar no universo Modern Warfare | — |
 | FORTE | artigo | 7973 | 21 | 100 | O fim das engines próprias? Halo entregou os pontos — e a conta chegou pra todo mundo | — |
+| FORTE | Notícias | 1950 | 7 | 100 | Final Fantasy VII Revelation ganha data e gameplay: conclusão da trilogia chega em abril de 2027 | — |
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
 | FORTE | notícia | 3458 | 6 | 100 | Fortnite fez uma collab com filme de terror sobre abuso sexual — e o resultado foi constrangedor | — |
