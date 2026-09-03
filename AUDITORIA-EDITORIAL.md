@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 330
-- Forte: 316
-- Revisar: 13
+- Total analisado: 326
+- Forte: 314
+- Revisar: 11
 - Prioridade: 1
 
 ## Ordem de trabalho
@@ -22,19 +22,15 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
 | REVISAR | notícia | 1246 | 6 | 76 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto, sem fonte |
 | REVISAR | notícia | 1268 | 7 | 77 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto, sem fonte |
-| REVISAR | Notícias | 924 | 5 | 78 | Final Fantasy Resonance revela Sephiroth e libera demo com transferência de save | texto curto |
 | REVISAR | Notícias | 949 | 5 | 79 | Red Dead Online abre setembro com recompensas triplas para Moonshiners | texto curto |
-| REVISAR | Notícias | 995 | 5 | 80 | Marvel's Wolverine ganha Launch Trailer com Jean Grey, Team X e novos inimigos | texto curto |
 | FORTE | Notícias | 1030 | 5 | 81 | Another Eden Begins ganha demo no Switch 2, Switch e PC com progresso transferível | texto curto |
 | FORTE | Notícias | 1053 | 5 | 81 | Nintendo Switch 2 passa a custar US$ 499,99 nos EUA a partir de hoje | texto curto |
 | FORTE | Notícias | 1048 | 5 | 81 | RuneScape: Dragonwilds chega aos consoles em 15 de setembro e estreia no Game Pass | texto curto |
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
-| FORTE | Notícias | 1090 | 5 | 82 | Gran Turismo 7 anuncia Spec IV com 12 carros, dois circuitos e novos modos | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
-| FORTE | Notícias | 1245 | 6 | 86 | Ghost of Yōtei ganha modo Most Wanted e expansão Echoes of Sekigahara em outubro | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
