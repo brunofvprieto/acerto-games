@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 327
-- Forte: 315
+- Total analisado: 328
+- Forte: 316
 - Revisar: 11
 - Prioridade: 1
 
@@ -37,6 +37,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | notícia | 1302 | 7 | 88 | PS Plus libera hoje 4 jogos de setembro, incluindo Sniper Elite: Resistance e MLB The Show 26 | texto curto |
 | FORTE | notícia | 1342 | 7 | 89 | Fire Emblem: Fortune’s Weave entra no mês de lançamento como um dos grandes exclusivos do Switch 2 | texto curto |
+| FORTE | Notícias | 1348 | 6 | 89 | GTA 6 ganha dois DualSense de edição limitada inspirados em Vice City | texto curto |
 | FORTE | notícia | 1360 | 5 | 89 | Helldivers 2: novo trailer de campanha "Permanent Enclosure" marca virada na Guerra Galáctica | texto curto |
 | FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
