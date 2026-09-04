@@ -1,16 +1,17 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 330
+- Total analisado: 331
 - Forte: 318
 - Revisar: 11
-- Prioridade: 1
+- Prioridade: 2
 
 ## Ordem de trabalho
 As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arquivadas antes de uma nova solicitação de revisão do AdSense. REVISAR são boas pautas que precisam ganhar profundidade. FORTE serve como referência editorial.
 
 | Faixa | Categoria | Caracteres | Parágrafos | Score | Matéria | Problemas |
 |---|---|---:|---:|---:|---|---|
+| PRIORIDADE | — | 0 | 0 | -10 | antes-de-phantom-blade-zero-jogos-universo-sgame.json | sem autor, resumo curto, texto curto, poucos parágrafos |
 | PRIORIDADE | noticia | 513 | 3 | 58 | Battlefield 6 leva a guerra de volta a Wake Island em novo trailer de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
