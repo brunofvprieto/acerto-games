@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 332
-- Forte: 319
+- Total analisado: 333
+- Forte: 320
 - Revisar: 11
 - Prioridade: 2
 
@@ -257,6 +257,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2467 | 6 | 100 | Palworld está dominando a Steam de novo — e quase repetiu a marca de 1 milhão de jogadores simultâneos | — |
 | FORTE | notícia | 3926 | 11 | 100 | As caçadas de Monster Hunter sobreviveram: Peace Walker mantém a parceria com a Capcom na Master Collection Vol. 2 | — |
 | FORTE | notícia | 2222 | 8 | 100 | Persona 4 Revival troca todo o elenco em inglês — e Atlus explica por quê | — |
+| FORTE | Artigos | 6827 | 22 | 100 | Phantom Blade Zero quer transformar kung fu em gameplay — e Donnie Yen ajudou a construir essa luta | — |
 | FORTE | Notícias | 2378 | 7 | 100 | Donnie Yen está em Phantom Blade Zero — e sua participação vai muito além de interpretar um personagem | — |
 | FORTE | Opinião | 5597 | 17 | 100 | Phantom Blade Zero: por que meu hype está nas alturas | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
