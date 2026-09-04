@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 329
-- Forte: 317
+- Total analisado: 330
+- Forte: 318
 - Revisar: 11
 - Prioridade: 1
 
@@ -85,6 +85,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 8037 | 25 | 100 | Netflix, Rockstar e o fim do disco: por que o trailer de GTA 6 é o sintoma, não a doença | — |
 | FORTE | notícia | 2034 | 5 | 100 | GTA 6 deveria custar US$ 200? Analista acha que a Rockstar tá vendendo barato | — |
 | FORTE | notícia | 3132 | 6 | 100 | Analista avisa: o fim dos jogos físicos no PS5 pode fechar as lojas de games de vez | — |
+| FORTE | Artigos | 5915 | 15 | 100 | Antes de Phantom Blade Zero: conheça os jogos que deram origem ao universo da S-GAME | — |
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
 | FORTE | notícia | 2074 | 6 | 100 | Black Flag Resynced ganha atualização que deixa esconder a zarabatana das costas do Edward | — |
 | FORTE | notícia | 2101 | 5 | 100 | DLC polêmico do dia 1 de Black Flag Resynced rendeu US$ 1 milhão só no Steam — e a galera tá furiosa | — |
