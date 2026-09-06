@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 336
-- Forte: 323
+- Total analisado: 342
+- Forte: 329
 - Revisar: 11
 - Prioridade: 2
 
@@ -40,6 +40,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1342 | 7 | 89 | Fire Emblem: Fortune’s Weave entra no mês de lançamento como um dos grandes exclusivos do Switch 2 | texto curto |
 | FORTE | notícia | 1360 | 5 | 89 | Helldivers 2: novo trailer de campanha "Permanent Enclosure" marca virada na Guerra Galáctica | texto curto |
 | FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
+| FORTE | Notícias | 1372 | 6 | 89 | Nintendo terá dois Directs seguidos: Zelda celebra 40 anos e apresentação geral vem no dia seguinte | texto curto |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
@@ -62,6 +63,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1596 | 5 | 95 | Halo Studios teria cancelado um novo jogo multiplayer que estava em desenvolvimento | texto curto |
 | FORTE | notícia | 3420 | 10 | 95 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | fonte sem URL |
 | FORTE | artigo | 13158 | 41 | 95 | As melhores sequências de abertura de todos os tempos — Parte 1 | fonte sem URL |
+| FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
+| FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
@@ -74,6 +77,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
 | FORTE | notícia | 1757 | 5 | 99 | O diretor de Fallout: New Vegas finalmente revelou qual final ele acha o melhor — e faz todo sentido | texto curto |
 | FORTE | notícia | 1762 | 5 | 99 | CEO da Take-Two chama GTA 6 de “pechincha incrível” por US$ 80 | texto curto |
+| FORTE | Notícias | 1743 | 8 | 99 | Maneater 2 é anunciado e leva o tubarão para um parque temático em 2027 | texto curto |
 | FORTE | notícia | 1751 | 9 | 99 | Marvel’s Wolverine detalha Rage, dezenas de trajes e New Game Plus antes do lançamento | texto curto |
 | FORTE | notícia | 1779 | 5 | 99 | Nintendo Store no Japão passa a aceitar Paidy, serviço que permite pagar no mês seguinte | texto curto |
 | FORTE | notícia | 1753 | 5 | 99 | Nova vai ganhar filme no MCU com o roteirista de Loki no comando | texto curto |
@@ -109,6 +113,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2878 | 6 | 100 | Modern Warfare 4 vai parecer melhor no console mais caro — e a Sony não tá nem um pouco envergonhada disso | — |
 | FORTE | notícia | 2527 | 8 | 100 | Capcom dispara: lucro sobe 69% no trimestre, puxado por Pragmata e Resident Evil | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
+| FORTE | Notícias | 2497 | 10 | 100 | Civilization VII vai à Era Atômica com Arc of Tomorrow e anuncia expansão Earthrise | — |
 | FORTE | notícia | 2134 | 5 | 100 | Criador de Gears of War quer voltar a fazer jogos — mas esquece o PvP: "Boa sorte pra quem entrar nessa" | — |
 | FORTE | notícia | 3603 | 6 | 100 | O Senhor dos Anéis influenciou Final Fantasy X — e a gente acabou de descobrir como | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
@@ -231,6 +236,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
+| FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
 | FORTE | notícia | 3515 | 12 | 100 | Monster Hunter Wilds fica R$ 110 mais barato e ganha demo grátis que salva seu progresso | — |
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
