@@ -61,7 +61,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 5300 | 11 | 95 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
 | FORTE | notícia | 5716 | 18 | 95 | A semana decisiva de GTA 6: reunião da Take-Two na sexta, trailer 3 no ar da esperança e um like da Rockstar que virou caso | fonte sem URL |
 | FORTE | notícia | 1596 | 5 | 95 | Halo Studios teria cancelado um novo jogo multiplayer que estava em desenvolvimento | texto curto |
-| FORTE | guia | 6549 | 27 | 95 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
+| FORTE | guia | 5565 | 24 | 95 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
 | FORTE | notícia | 3420 | 10 | 95 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | fonte sem URL |
 | FORTE | artigo | 13158 | 41 | 95 | As melhores sequências de abertura de todos os tempos — Parte 1 | fonte sem URL |
 | FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
