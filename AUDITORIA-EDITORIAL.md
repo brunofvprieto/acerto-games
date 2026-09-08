@@ -355,7 +355,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 2215 | 7 | 100 | Vazamento aponta Monolith Soft como desenvolvedora de Zelda: Ocarina of Time no Switch 2 | — |
 | FORTE | notícia | 2912 | 6 | 100 | A nota 99 de Ocarina of Time no Metacritic pode estar errada — e quem descobriu foi o Did You Know Gaming | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
-| FORTE | noticia | 6811 | 25 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
+| FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
 | FORTE | notícia | 2477 | 6 | 100 | Zelda: Ocarina of Time pode encarar GTA 6 de frente — remake teria data em novembro | — |
 | FORTE | notícia | 2496 | 6 | 100 | Link, Zelda e Ganondorf ganham action figures da Hasbro — e o preço não vai te quebrar | — |
