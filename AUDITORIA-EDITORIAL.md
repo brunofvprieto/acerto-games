@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 346
-- Forte: 333
+- Total analisado: 347
+- Forte: 334
 - Revisar: 11
 - Prioridade: 2
 
@@ -168,6 +168,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2223 | 7 | 100 | Gears of War: E-Day abre beta multiplayer em 6 de agosto — veja como garantir acesso antecipado | — |
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
 | FORTE | artigo | 9123 | 36 | 100 | Glossário do jogador: DLSS, FSR, ray tracing, Nanite e todo o resto do palavrório técnico, explicado | — |
+| FORTE | noticia | 3219 | 12 | 100 | God of War terá outro Atreus: série prepara troca de ator para a segunda temporada | — |
 | FORTE | notícia | 2673 | 5 | 100 | Série de God of War deve trocar o ator de Atreus na 2ª temporada — e dessa vez a troca faz sentido | — |
 | FORTE | notícia | 2086 | 5 | 100 | Série de God of War perde seu Kratos: Ryan Hurst é substituído após lesão grave no set | — |
 | FORTE | notícia | 2836 | 7 | 100 | Cansei de depender de storefront? A GOG te ensina a gravar seus jogos em disco do jeito raiz | — |
