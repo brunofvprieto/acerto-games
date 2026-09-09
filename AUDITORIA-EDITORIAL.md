@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 348
-- Forte: 335
+- Total analisado: 351
+- Forte: 338
 - Revisar: 11
 - Prioridade: 2
 
@@ -71,6 +71,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
 | FORTE | notícia | 1682 | 9 | 97 | Pokémon Pokopia leva Ditto para o fundo do mar em Bubbly Basin — veja o que muda no Switch 2 | texto curto |
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
+| FORTE | noticia | 1672 | 9 | 97 | Stellar Blade chega ao Switch 2 em novembro e ganha colaboração com Bayonetta | texto curto |
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
 | FORTE | notícia | 1739 | 9 | 98 | Onimusha: Way of the Sword sai da Gamescom 2026 com dois grandes prêmios | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
@@ -212,6 +213,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
+| FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
 | FORTE | notícia | 2214 | 9 | 100 | Konami anuncia Press Start para 3 de setembro com Castlevania, Silent Hill: Townfall e imagens inéditas | — |
 | FORTE | notícia | 2689 | 7 | 100 | Konami ressuscita Suikoden 14 anos depois — mas tem uma pegadinha no caminho | — |
 | FORTE | notícia | 2482 | 7 | 100 | Jon Hamm quase foi o detetive de LA Noire — e o roteirista explica por que foi melhor assim | — |
@@ -235,6 +237,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3968 | 12 | 100 | É do Brasil! Konami confirma legendas em português para Metal Gear Solid: Master Collection Vol. 2 | — |
 | FORTE | notícia | 8209 | 25 | 100 | Master Collection Vol. 2: tudo que a Konami acertou (e o que ainda dói) no resgate de MGS4 | — |
 | FORTE | notícia | 2637 | 8 | 100 | Konami solta novo trailer de MGS Master Collection Vol. 2 na reta final pro lançamento | — |
+| FORTE | noticia | 2138 | 9 | 100 | Metroid Ravenous é oficial: Samus abraça seus instintos Metroid em nova aventura 2D no Switch 2 | — |
 | FORTE | notícia | 3637 | 13 | 100 | Dezoito anos depois: veja como MGS4 evoluiu do PS3 para o PS5 e o Switch 2 a três dias do lançamento | — |
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
