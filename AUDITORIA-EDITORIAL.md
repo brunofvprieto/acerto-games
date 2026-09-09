@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 351
-- Forte: 338
+- Total analisado: 353
+- Forte: 340
 - Revisar: 11
 - Prioridade: 2
 
@@ -147,6 +147,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3008 | 6 | 100 | Japão manda recado à Nintendo: escritório de patentes rejeita mais uma do processo contra Palworld | — |
 | FORTE | especial | 7386 | 26 | 100 | Hideo Kojima faz 63 anos: o homem que recusou fazer jogos normais e mudou a indústria três vezes | — |
 | FORTE | especial | 11219 | 32 | 100 | Especial Metal Gear #2 — Sons of Liberty (2001): o jogo que enganou o mundo inteiro e previu o futuro | — |
+| FORTE | noticia | 2220 | 9 | 100 | Eternal Anima resgata a era de ouro dos JRPGs com viagem no tempo e batalhas que preveem o futuro | — |
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
@@ -285,6 +286,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
+| FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
