@@ -1,10 +1,10 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 354
+- Total analisado: 360
 - Forte: 341
 - Revisar: 11
-- Prioridade: 2
+- Prioridade: 8
 
 ## Ordem de trabalho
 As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arquivadas antes de uma nova solicitação de revisão do AdSense. REVISAR são boas pautas que precisam ganhar profundidade. FORTE serve como referência editorial.
@@ -12,6 +12,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | Faixa | Categoria | Caracteres | Parágrafos | Score | Matéria | Problemas |
 |---|---|---:|---:|---:|---|---|
 | PRIORIDADE | — | 0 | 0 | -10 | antes-de-phantom-blade-zero-jogos-universo-sgame.json | sem autor, resumo curto, texto curto, poucos parágrafos |
+| PRIORIDADE | noticia | 50 | 0 | 11 | Eternal Anima é revelado: novo RPG aposta em viagem no tempo e previsão do futuro | resumo curto, texto curto, poucos parágrafos, sem fonte |
+| PRIORIDADE | noticia | 50 | 0 | 11 | Kirby and the World Beyond é anunciado para Switch 2 com nova aventura 3D | resumo curto, texto curto, poucos parágrafos, sem fonte |
+| PRIORIDADE | noticia | 50 | 0 | 11 | Metroid Ravenous é oficial: novo jogo leva Samus de volta ao 2D no Switch 2 | resumo curto, texto curto, poucos parágrafos, sem fonte |
+| PRIORIDADE | noticia | 50 | 0 | 11 | Ondeh Ondeh: Kaya’s Tasty Tale mistura ação, puzzles, música e cultura do Sudeste Asiático | resumo curto, texto curto, poucos parágrafos, sem fonte |
+| PRIORIDADE | noticia | 50 | 0 | 11 | Professor Layton and the New World of Steam ganha novos detalhes e data | resumo curto, texto curto, poucos parágrafos, sem fonte |
+| PRIORIDADE | noticia | 50 | 0 | 11 | Stellar Blade chega ao Switch 2 e ganha colaboração com Bayonetta | resumo curto, texto curto, poucos parágrafos, sem fonte |
 | PRIORIDADE | noticia | 513 | 3 | 58 | Battlefield 6 leva a guerra de volta a Wake Island em novo trailer de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
