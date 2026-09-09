@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 353
-- Forte: 340
+- Total analisado: 354
+- Forte: 341
 - Revisar: 11
 - Prioridade: 2
 
@@ -83,6 +83,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1751 | 9 | 99 | Marvel’s Wolverine detalha Rage, dezenas de trajes e New Game Plus antes do lançamento | texto curto |
 | FORTE | notícia | 1779 | 5 | 99 | Nintendo Store no Japão passa a aceitar Paidy, serviço que permite pagar no mês seguinte | texto curto |
 | FORTE | notícia | 1753 | 5 | 99 | Nova vai ganhar filme no MCU com o roteirista de Loki no comando | texto curto |
+| FORTE | noticia | 1762 | 9 | 99 | Ondeh Ondeh: Kaya’s Tasty Tale mistura ritmo, puzzles e cultura do Sudeste Asiático | texto curto |
 | FORTE | notícia | 1752 | 5 | 99 | Mario, GTA e mais 8: os ports mais caros da história que vão fazer seu bolso chorar | texto curto |
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
 | FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
