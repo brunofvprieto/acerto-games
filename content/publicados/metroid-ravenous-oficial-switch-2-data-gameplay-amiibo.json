@@ -6,8 +6,11 @@
   "author": "Bruno Vazquez",
   "date": "09 set 2026",
   "readTime": "6 min",
-  "cover": ["#08151a", "#ef5b35"],
-  "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch-2/70010000107157/desc/hero",
+  "cover": [
+    "#08151a",
+    "#ef5b35"
+  ],
+  "image": "/img/metroid-ravenous-capa.jpg",
   "imagePos": "center center",
   "imageCredit": "Divulgação/Nintendo",
   "publicadoEm": "2026-09-09T18:38:00-03:00",
@@ -17,6 +20,7 @@
   "body": [
     "Depois de meses cercado por rumores, Metroid Ravenous finalmente existe — e a Nintendo escolheu o Direct de 9 de setembro para colocar Samus Aran novamente no centro de uma aventura 2D. O novo jogo será exclusivo do Nintendo Switch 2 e chega em 28 de janeiro de 2027.",
     "A premissa já estabelece uma Samus diferente. A caçadora é emboscada por atacantes desconhecidos e abandonada em uma lua que não conhece. Para escapar, precisa atravessar ruínas labirínticas, recuperar seu arsenal e enfrentar criaturas e chefes enquanto descobre uma habilidade que muda a lógica da personagem: seus instintos Metroid despertaram.",
+    "img: /img/metroid-ravenous-capa.jpg | Metroid Ravenous coloca Samus em uma nova aventura 2D no Switch 2. Divulgação/Nintendo",
     "## Agora Samus também pode ser a predadora",
     "A Nintendo resume Ravenous com uma pergunta que define o tom do jogo: você será a caça ou o caçador? Além de beams e mísseis, Samus poderá usar os novos instintos Metroid para devorar inimigos. É uma consequência particularmente interessante depois de tudo o que aconteceu com a personagem nos capítulos anteriores.",
     "O trailer também reforça uma abordagem agressiva. Samus continua explorando corredores, buscando melhorias e enfrentando grandes criaturas, mas sua nova condição parece transformar a relação entre caçadora e presa.",

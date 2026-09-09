@@ -6,8 +6,11 @@
   "author": "Bruno Vazquez",
   "date": "09 set 2026",
   "readTime": "5 min",
-  "cover": ["#56b9e8", "#f4a4cf"],
-  "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch-2/70010000107170/desc/hero",
+  "cover": [
+    "#56b9e8",
+    "#f4a4cf"
+  ],
+  "image": "/img/kirby-world-beyond-capa.jpg",
   "imagePos": "center center",
   "imageCredit": "Divulgação/Nintendo",
   "publicadoEm": "2026-09-09T18:43:00-03:00",
@@ -17,6 +20,7 @@
   "body": [
     "Kirby está pronto para ficar ainda maior no Nintendo Switch 2. A Nintendo anunciou Kirby and the World Beyond, uma nova aventura 3D que abandona corredores mais restritos em favor de enormes áreas que podem ser exploradas com liberdade.",
     "O jogo chega em 2027 e será exclusivo do Switch 2. A página oficial brasileira já está no ar e confirma português brasileiro entre os idiomas disponíveis.",
+    "img: /img/kirby-world-beyond-capa.jpg | Kirby and the World Beyond amplia a aventura 3D da série no Switch 2. Divulgação/Nintendo",
     "## Um mundo feito para explorar",
     "A grande mudança está na maneira como Kirby se movimenta. As Copy Abilities não servem apenas para atacar: elas também são ferramentas de exploração. O personagem pode usar saltos explosivos para ganhar altura, cravar uma espada em árvores para escalá-las e atravessar campos em alta velocidade.",
     "Isso sugere um passo além do que a série fez em Forgotten Land. World Beyond parece transformar o próprio conjunto de poderes de Kirby em uma espécie de caixa de ferramentas para navegar pelo cenário.",
