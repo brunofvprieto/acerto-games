@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 360
-- Forte: 341
+- Total analisado: 361
+- Forte: 342
 - Revisar: 11
 - Prioridade: 8
 
@@ -285,6 +285,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Opinião | 5597 | 17 | 100 | Phantom Blade Zero: por que meu hype está nas alturas | — |
 | FORTE | Artigos | 3408 | 13 | 100 | Quem é Soul? Entenda a história de Phantom Blade Zero e por que ele tem apenas 66 dias | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
+| FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
