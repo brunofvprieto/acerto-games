@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 357
-- Forte: 344
+- Total analisado: 358
+- Forte: 345
 - Revisar: 11
 - Prioridade: 2
 
@@ -90,6 +90,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2133 | 6 | 100 | 007 First Light no Switch 2: Amazon do Japão aponta setembro — mas segura a euforia | — |
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
+| FORTE | review | 16918 | 43 | 100 | Análise: Death Stranding 2 é uma obra-prima exuberante — Kojima entrega um dos grandes jogos da geração | — |
 | FORTE | review | 13051 | 45 | 100 | Análise: Hell is Us — um universo fascinante que merece ir muito além | — |
 | FORTE | artigo | 8037 | 25 | 100 | Netflix, Rockstar e o fim do disco: por que o trailer de GTA 6 é o sintoma, não a doença | — |
 | FORTE | notícia | 2034 | 5 | 100 | GTA 6 deveria custar US$ 200? Analista acha que a Rockstar tá vendendo barato | — |
