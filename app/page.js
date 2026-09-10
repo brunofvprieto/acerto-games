@@ -67,17 +67,21 @@ function ReviewDestaque({ posts }) {
         <h2 className="font-display text-xl uppercase"><span className="text-violet">▸</span> Reviews</h2>
         <Link href="/reviews" className="font-mono text-xs uppercase tracking-widest text-violet hover:text-paper">Ver todos ▸</Link>
       </div>
-      <Link href={`/noticia/${review.slug}`} className="group relative flex min-h-[320px] flex-col justify-end overflow-hidden border border-violet/50 p-6 transition-all hover:border-violet md:min-h-[400px] md:p-10">
-        <Cover colors={review.cover} image={review.image} position={review.imagePos} className="absolute inset-0 h-full w-full" />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/10" />
-        {review.nota != null && (
-          <div className="absolute right-6 top-6 md:right-10 md:top-10"><Nota value={review.nota} size="lg" /></div>
-        )}
-        <div className="relative max-w-3xl">
-          <span className="inline-block bg-violet px-3 py-1 font-mono text-[10px] font-bold uppercase tracking-widest text-ink">Review</span>
-          <h3 className="mt-3 font-display text-2xl uppercase leading-tight text-paper group-hover:text-violet md:text-4xl">{review.title}</h3>
-          <p className="mt-3 max-w-2xl text-dim md:text-lg">{review.excerpt}</p>
-          <span className="mt-4 inline-block font-mono text-xs uppercase tracking-widest text-violet">Ler o review ▸</span>
+      <Link href={`/noticia/${review.slug}`} className="group grid overflow-hidden border border-violet/50 bg-surface transition-all hover:border-violet md:grid-cols-[1.05fr_1fr]">
+        <div className="relative min-h-[260px] overflow-hidden md:min-h-[400px]">
+          <Cover colors={review.cover} image={review.image} position={review.imagePos} className="absolute inset-0 h-full w-full transition-transform duration-700 group-hover:scale-[1.02]" />
+          <div className="absolute inset-0 bg-gradient-to-t from-ink/40 via-transparent to-transparent md:bg-gradient-to-r md:from-transparent md:via-transparent md:to-ink/25" />
+        </div>
+        <div className="relative flex min-h-[320px] flex-col justify-center p-6 md:min-h-[400px] md:p-10">
+          {review.nota != null && (
+            <div className="absolute right-6 top-6 md:right-8 md:top-8"><Nota value={review.nota} size="lg" /></div>
+          )}
+          <div className="max-w-xl pr-16 md:pr-12">
+            <span className="inline-block bg-violet px-3 py-1 font-mono text-[10px] font-bold uppercase tracking-widest text-ink">Review</span>
+            <h3 className="mt-3 font-display text-2xl uppercase leading-tight text-paper group-hover:text-violet md:text-3xl">{review.title}</h3>
+            <p className="mt-3 text-sm leading-relaxed text-dim md:text-base">{review.excerpt}</p>
+            <span className="mt-5 inline-block font-mono text-xs uppercase tracking-widest text-violet">Ler o review ▸</span>
+          </div>
         </div>
       </Link>
     </section>
@@ -129,48 +133,28 @@ export default function Home() {
 
   return (
     <main className="mx-auto max-w-6xl px-4">
-      {/* 1. Hero Carrossel + Últimas Notícias (dentro do componente) */}
       <HeroCarousel posts={posts.slice(0, 5)} />
-
-      {/* 2. Banner GTA 6 */}
       <SecaoGTA6 />
-
-      {/* 3. Dois Especiais */}
       <DoisEspeciais />
-
-      {/* 4. Opinião */}
       <OpiniaoDestaque posts={posts} />
-
-      {/* 5. Review */}
       <ReviewDestaque posts={posts} />
-
-      {/* 6. Notícias */}
       {noticias.length > 0 && (
         <section id="noticias" className="py-8">
-          <h2 className="mb-4 font-display text-xl uppercase">
-            <span className="text-arcade">▸</span> Notícias
-          </h2>
+          <h2 className="mb-4 font-display text-xl uppercase"><span className="text-arcade">▸</span> Notícias</h2>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {noticias.slice(0, 12).map((p) => <NewsCard key={p.slug} post={p} />)}
           </div>
           <div className="mt-6 text-center">
-            <Link href="/noticias" className="inline-block border border-edge bg-surface px-6 py-3 font-mono text-xs uppercase tracking-widest text-arcade hover:border-arcade">
-              Ver todas as notícias ▸
-            </Link>
+            <Link href="/noticias" className="inline-block border border-edge bg-surface px-6 py-3 font-mono text-xs uppercase tracking-widest text-arcade hover:border-arcade">Ver todas as notícias ▸</Link>
           </div>
         </section>
       )}
-
-      {/* 7. Retrô */}
       {retro.length > 0 && (
         <section id="retro" className="py-8">
-          <h2 className="mb-4 font-display text-xl uppercase">
-            <span className="text-retro">▸</span> Retrô
-          </h2>
+          <h2 className="mb-4 font-display text-xl uppercase"><span className="text-retro">▸</span> Retrô</h2>
           <div className="grid gap-4 md:grid-cols-2">
             {retro.map((p) => (
-              <Link key={p.slug} href={`/noticia/${p.slug}`}
-                className="group flex gap-4 border border-edge bg-surface p-4 transition-colors hover:border-retro">
+              <Link key={p.slug} href={`/noticia/${p.slug}`} className="group flex gap-4 border border-edge bg-surface p-4 transition-colors hover:border-retro">
                 <Cover colors={p.cover} image={p.image} position={p.imagePos} className="h-24 w-24 shrink-0" />
                 <div className="space-y-1.5">
                   <CategoryTag category={p.category} />
