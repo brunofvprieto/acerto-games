@@ -10,7 +10,7 @@ function DoisEspeciais() {
       <h2 className="mb-4 font-display text-xl uppercase"><span className="text-arcade">◆</span> Especiais</h2>
       <div className="grid gap-4 md:grid-cols-2">
         <Link href="/especial-metal-gear" className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[340px]">
-          <img src="/img/especiais/metal-gear-shinkawa.jpg" alt="Arte da saga Metal Gear por Yoji Shinkawa" className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105" />
+          <img src="/img/especiais/metal-gear-shinkawa.jpg" alt="Arte da saga Metal Gear por Yoji Shinkawa" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-transparent" />
           <div className="relative">
             <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">Especial em cartaz</p>
@@ -61,16 +61,14 @@ function OpiniaoDestaque({ posts }) {
 function ReviewDestaque({ posts }) {
   const review = posts.find((p) => p.category === "review");
   if (!review) return null;
-  const fundo = review.image
-    ? `url(${review.image}) ${review.imagePos || "center"} / cover no-repeat`
-    : `linear-gradient(135deg, ${review.cover[0]}, ${review.cover[1]})`;
   return (
     <section id="reviews" className="py-8">
       <div className="mb-4 flex items-baseline justify-between gap-4">
         <h2 className="font-display text-xl uppercase"><span className="text-violet">▸</span> Reviews</h2>
         <Link href="/reviews" className="font-mono text-xs uppercase tracking-widest text-violet hover:text-paper">Ver todos ▸</Link>
       </div>
-      <Link href={`/noticia/${review.slug}`} className="group relative flex min-h-[320px] flex-col justify-end overflow-hidden border border-violet/50 p-6 transition-all hover:border-violet md:min-h-[400px] md:p-10" style={{ background: fundo }}>
+      <Link href={`/noticia/${review.slug}`} className="group relative flex min-h-[320px] flex-col justify-end overflow-hidden border border-violet/50 p-6 transition-all hover:border-violet md:min-h-[400px] md:p-10">
+        <Cover colors={review.cover} image={review.image} position={review.imagePos} className="absolute inset-0 h-full w-full" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/10" />
         {review.nota != null && (
           <div className="absolute right-6 top-6 md:right-10 md:top-10"><Nota value={review.nota} size="lg" /></div>
@@ -94,7 +92,7 @@ function SecaoGTA6() {
       <div className="overflow-hidden border border-[#FF2E97]/50">
         <div className="grid md:grid-cols-2">
           <Link href="/gta6" className="cover relative block min-h-52 md:min-h-full">
-            <img src={ARTE_GTA6} alt="Jason e Lucia, protagonistas de GTA 6" className="absolute inset-0 h-full w-full object-cover" />
+            <img src={ARTE_GTA6} alt="Jason e Lucia, protagonistas de GTA 6" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover" />
             <span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-paper/70">Divulgação/Rockstar Games</span>
           </Link>
           <div className="flex flex-col justify-center gap-3 p-6 md:p-8" style={{ background: "linear-gradient(135deg, #1A0A2E 0%, #0E1B4D 100%)" }}>
@@ -108,8 +106,6 @@ function SecaoGTA6() {
     </section>
   );
 }
-
-export const dynamic = "force-dynamic";
 
 function SiteZerado() {
   return (
