@@ -1,11 +1,12 @@
 import Link from "next/link";
 
 export function Cover({ colors, image, position, className = "", fit = "cover", children }) {
-  const gradiente = `linear-gradient(135deg, ${colors[0]}, ${colors[1]})`;
+  const paleta = Array.isArray(colors) && colors.length >= 2 ? colors : ["#111111", "#222222"];
+  const gradiente = `linear-gradient(135deg, ${paleta[0]}, ${paleta[1]})`;
 
   // fit="contain": mostra a foto INTEIRA, sem cortar.
-  // O que sobra nas laterais é preenchido pela própria imagem borrada,
-  // então nunca aparece tarja preta — fica com cara de wallpaper.
+  // O fundo desfocado continua preenchendo as laterais, mas a imagem principal
+  // usa decoding assíncrono para reduzir trabalho durante a renderização.
   if (image && fit === "contain") {
     return (
       <div className={`cover ${className}`} style={{ background: gradiente }}>
@@ -17,6 +18,7 @@ export function Cover({ colors, image, position, className = "", fit = "cover", 
         <img
           src={image}
           alt=""
+          decoding="async"
           className="absolute inset-0 h-full w-full object-contain"
         />
         {children}
@@ -24,11 +26,20 @@ export function Cover({ colors, image, position, className = "", fit = "cover", 
     );
   }
 
-  const fundo = image
-    ? `url(${image}) ${position || "center"} / cover no-repeat, ${gradiente}`
-    : gradiente;
+  // Antes, as capas de todos os cards eram CSS background-image, que o navegador
+  // baixava mesmo muito abaixo da dobra. Como <img>, o lazy loading passa a funcionar.
   return (
-    <div className={`cover ${className}`} style={{ background: fundo }}>
+    <div className={`cover ${className}`} style={{ background: gradiente }}>
+      {image && (
+        <img
+          src={image}
+          alt=""
+          loading="lazy"
+          decoding="async"
+          className="absolute inset-0 h-full w-full object-cover"
+          style={{ objectPosition: position || "center" }}
+        />
+      )}
       {children}
     </div>
   );
