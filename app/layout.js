@@ -1,4 +1,5 @@
 import "./globals.css";
+import Script from "next/script";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
@@ -45,25 +46,31 @@ export default function RootLayout({ children }) {
         />
 
         <meta name="google-adsense-account" content="ca-pub-5246089745607111" />
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5246089745607111"
-          crossOrigin="anonymous"
-        />
-
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaWebSite) }} />
-
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`} />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA4_ID}');`,
-          }}
-        />
       </head>
       <body>
         <Header />
         {children}
         <Footer />
+
+        {/* Scripts de terceiros ficam fora do caminho crítico de renderização. */}
+        <Script
+          id="adsense-loader"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5246089745607111"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+        />
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script
+          id="ga4-config"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA4_ID}');`,
+          }}
+        />
       </body>
     </html>
   );
