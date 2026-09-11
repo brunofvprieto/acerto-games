@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 361
-- Forte: 348
+- Total analisado: 362
+- Forte: 349
 - Revisar: 11
 - Prioridade: 2
 
@@ -250,6 +250,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
 | FORTE | notícia | 3515 | 12 | 100 | Monster Hunter Wilds fica R$ 110 mais barato e ganha demo grátis que salva seu progresso | — |
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
+| FORTE | noticia | 2312 | 9 | 100 | Muramasa: Revenant Blades ganha data e mostra como o clássico da Vanillaware foi reconstruído | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
 | FORTE | notícia | 2100 | 5 | 100 | Criterion confirma: Need for Speed e Burnout ficaram para trás — agora é só Battlefield | — |
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
