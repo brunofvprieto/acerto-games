@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 362
-- Forte: 349
+- Total analisado: 363
+- Forte: 350
 - Revisar: 11
 - Prioridade: 2
 
@@ -291,6 +291,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
 | FORTE | artigo | 6982 | 17 | 100 | Por que a gente sempre volta a jogar os games que já zerou mil vezes? | — |
+| FORTE | notícia | 7768 | 30 | 100 | Por que a Sony abandonou PHYSINT? Bastidores apontam atrasos, orçamento e retorno abaixo do esperado | — |
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
