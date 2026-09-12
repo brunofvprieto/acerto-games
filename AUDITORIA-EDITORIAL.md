@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 365
-- Forte: 352
+- Total analisado: 366
+- Forte: 353
 - Revisar: 11
 - Prioridade: 2
 
@@ -262,6 +262,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2567 | 7 | 100 | Nintendo Switch 2 terá novo preço no Brasil: R$ 4.599,90 a partir de setembro | — |
 | FORTE | notícia | 3032 | 16 | 100 | Nintendo anuncia novos bundles do Switch 2 com Mario Kart World e Switch Sports Resort | — |
 | FORTE | noticia | 1923 | 8 | 100 | Nintendo expande presença na Ásia e levará Switch 2 oficialmente à Indonésia em dezembro | — |
+| FORTE | noticia | 2086 | 10 | 100 | Nintendo Switch 2 finalmente recebe VRR no modo TV com atualização 23.0.0 | — |
 | FORTE | Retrô | 1984 | 7 | 100 | Nintendo Switch Online recebe Ninja Gaiden III, Ikari Warriors e R.C. Pro-Am II no catálogo de NES | — |
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
