@@ -325,7 +325,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
 | FORTE | notícia | 2407 | 5 | 100 | StarCraft na BlizzCon: a Blizzard está nos dando pistas de um novo jogo ou a gente tá vendo coisa? | — |
-| FORTE | noticia | 5978 | 23 | 100 | StarCraft está de volta: novo jogo chega em 2030 e primeiro trailer marca uma nova era para a franquia | — |
+| FORTE | noticia | 5961 | 23 | 100 | StarCraft está de volta: novo jogo chega em 2030 e primeiro trailer marca uma nova era para a franquia | — |
 | FORTE | notícia | 2328 | 5 | 100 | Stardew Valley quase não existiu: o PC de Eric Barone morreu e ele não tinha backup nenhum | — |
 | FORTE | notícia | 6101 | 26 | 100 | State of Decay 3 abre caminho para o beta — e seu maior desafio não é fazer um mapa quatro vezes maior | — |
 | FORTE | notícia | 1861 | 8 | 100 | PlayStation anuncia State of Play duplo para 3 de setembro — e Final Fantasy VII Revelation fecha o evento | — |
