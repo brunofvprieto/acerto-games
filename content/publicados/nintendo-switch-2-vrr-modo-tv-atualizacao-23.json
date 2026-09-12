@@ -1,0 +1,32 @@
+{
+  "slug": "nintendo-switch-2-vrr-modo-tv-atualizacao-23",
+  "category": "noticia",
+  "title": "Nintendo Switch 2 finalmente recebe VRR no modo TV com atualização 23.0.0",
+  "excerpt": "Recurso sincroniza a taxa de atualização da TV ao desempenho dos jogos compatíveis; atualização do dock também é necessária.",
+  "author": "Bruno Vazquez",
+  "date": "12 set 2026",
+  "readTime": "4 min",
+  "cover": ["#ef3b35", "#141414"],
+  "image": "https://store.nintendo.pt/media/catalog/product/cache/9d4e82e9ffef7f79c3d5e4f76c3d93a4/n/i/nintendo-switch-2.png",
+  "imagePos": "center center",
+  "imageCredit": "Divulgação/Nintendo",
+  "publicadoEm": "2026-09-12T07:04:00-03:00",
+  "fonte": "Nintendo Support",
+  "fonteUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68473",
+  "body": [
+    "A Nintendo liberou uma das funções mais aguardadas pelos donos do Nintendo Switch 2. A atualização de sistema 23.0.0 adiciona suporte a VRR, ou taxa de atualização variável, quando o console está conectado a uma televisão.",
+    "O recurso já fazia parte da experiência portátil, mas não estava disponível no modo TV. Agora, quando tanto o jogo quanto a televisão são compatíveis, o console pode ajustar a frequência de atualização da tela ao ritmo em que os quadros são produzidos pelo software.",
+    "## O que muda com o VRR",
+    "Na prática, o VRR pode suavizar oscilações de desempenho e reduzir problemas de sincronização da imagem. Em jogos cuja taxa de quadros varia dentro da faixa suportada, a televisão deixa de trabalhar presa a uma frequência fixa e acompanha a saída do console.",
+    "A Nintendo ressalta que não basta atualizar apenas o Switch 2. O dock também precisa receber sua atualização, e a televisão ou monitor conectado deve oferecer suporte ao recurso.",
+    "O suporte depende ainda do próprio software. Portanto, instalar a versão 23.0.0 não significa que todos os jogos automaticamente passarão a utilizar VRR no modo TV.",
+    "## Welcome Tour já foi atualizado",
+    "A Nintendo atualizou o Nintendo Switch 2 Welcome Tour para a versão 1.1.0. Com ela, a demonstração técnica VRR Slider pode ser executada no modo TV em uma tela compatível, desde que o dock também esteja atualizado.",
+    "A versão 23.0.0 vai além do vídeo. O GameChat agora mostra conversas acessadas anteriormente, permite iniciar um chat sem convidar amigos e ganhou ajuste de tamanho da tela durante uma conversa.",
+    "Também foram adicionadas novas configurações para cartões de jogo virtuais, transferência direta de dados entre dois consoles Switch 2 e opções adicionais de acessibilidade.",
+    "## Português brasileiro ganha espaço na acessibilidade",
+    "A atualização adicionou Português do Brasil às opções de texto para fala e também ao recurso de exibição de fala como texto no GameChat. É uma mudança pequena perto do VRR, mas relevante para a localização e acessibilidade do sistema no país.",
+    "A atualização 23.0.0 já está disponível. Para utilizar o VRR no modo TV, o usuário precisa atualizar o console e o dock e conferir se a tela e o jogo são compatíveis.",
+    "link: Nintendo Support — atualização 23.0.0 do Nintendo Switch 2 | https://en-americas-support.nintendo.com/app/answers/detail/a_id/68473"
+  ]
+}
