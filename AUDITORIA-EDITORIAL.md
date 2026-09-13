@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 378
-- Forte: 365
+- Total analisado: 379
+- Forte: 366
 - Revisar: 11
 - Prioridade: 2
 
@@ -370,6 +370,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3690 | 13 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
+| FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
