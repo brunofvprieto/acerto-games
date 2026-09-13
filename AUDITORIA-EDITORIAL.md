@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 377
-- Forte: 364
+- Total analisado: 378
+- Forte: 365
 - Revisar: 11
 - Prioridade: 2
 
@@ -215,6 +215,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
 | FORTE | noticia | 2065 | 9 | 100 | Harbor abre alpha fechado e quer jogadores ajudando a moldar seu survival pós-apocalíptico | — |
+| FORTE | noticia | 2238 | 10 | 100 | Hearthstone volta à era dos Old Gods em Reign of the Black Empire e confirma Monk para 2027 | — |
 | FORTE | notícia | 2445 | 7 | 100 | Henry Cavill embarca de novo em Warhammer 40.000 — agora numa série animada da Amazon | — |
 | FORTE | notícia | 7571 | 24 | 100 | Heroes of Might and Magic III vai renascer — e a Ubisoft sabe que não pode simplesmente refazer um clássico | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
