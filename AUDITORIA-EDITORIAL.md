@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 385
-- Forte: 372
+- Total analisado: 386
+- Forte: 373
 - Revisar: 11
 - Prioridade: 2
 
@@ -300,6 +300,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Artigos | 3408 | 13 | 100 | Quem é Soul? Entenda a história de Phantom Blade Zero e por que ele tem apenas 66 dias | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
 | FORTE | notícia | 6398 | 23 | 100 | E a Decima Engine? A ida de PHYSINT para o Xbox abre uma das maiores perguntas sobre o futuro do projeto | — |
+| FORTE | noticia | 2928 | 11 | 100 | PHYSINT no Xbox: custos, atrasos e exclusividade ajudam a explicar ruptura entre Sony e Kojima | — |
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
