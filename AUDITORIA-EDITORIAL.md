@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 382
-- Forte: 369
+- Total analisado: 383
+- Forte: 370
 - Revisar: 11
 - Prioridade: 2
 
@@ -172,6 +172,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3458 | 6 | 100 | Fortnite fez uma collab com filme de terror sobre abuso sexual — e o resultado foi constrangedor | — |
 | FORTE | notícia | 2733 | 11 | 100 | Fortnite Override: o passe de batalha traz Sonic e Tetris, e a temporada inteira virou um museu dos videogames | — |
 | FORTE | noticia | 2293 | 10 | 100 | Sora chega a Fortnite nesta semana e crossover de Kingdom Hearts terá Riku, Kairi e Roxas | — |
+| FORTE | noticia | 2578 | 12 | 100 | Game Freak anuncia Ame no Chi Hare Onna, novo jogo que transforma a previsão do tempo em mecânica | — |
 | FORTE | notícia | 2252 | 6 | 100 | War for Westeros escorrega no gelo e vai para 2027 | — |
 | FORTE | notícia | 3188 | 6 | 100 | Game Pass foi boa ideia, mas não funcionou: diretor de Forza Horizon 5 desabafa sobre o colapso do Xbox | — |
 | FORTE | notícia | 2472 | 5 | 100 | Esse cara tá criando cartuchos físicos pra jogos de Steam — e o resultado é surpreendentemente incrível | — |
