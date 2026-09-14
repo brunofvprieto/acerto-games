@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 383
-- Forte: 370
+- Total analisado: 385
+- Forte: 372
 - Revisar: 11
 - Prioridade: 2
 
@@ -201,6 +201,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
+| FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
 | FORTE | notícia | 1820 | 8 | 100 | GTA 6 ganha novas imagens oficiais — Jason e Lucia aparecem em fuga, cercados pela polícia e com visuais diferentes | — |
 | FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
 | FORTE | notícia | 11098 | 43 | 100 | GTA 6 finalmente mostrou o jogo — e agora é difícil fingir que o hype está exagerado | — |
@@ -209,6 +210,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2476 | 11 | 100 | Bloomberg: Rockstar ainda não sabe quem é o Cyberleek nem como o acesso aconteceu | — |
 | FORTE | notícia | 1795 | 5 | 100 | Take-Two defende GTA 6 sem disco e diz que mídia física “não faz sentido” em alguns casos | texto curto |
 | FORTE | notícia | 2669 | 6 | 100 | GTA 6 sem PC não é ganância — ex-produtor da Rockstar explica o motivo de verdade | — |
+| FORTE | noticia | 2136 | 8 | 100 | GTA 6 tem primeiro ator confirmado: Stephen Root revela participação no jogo da Rockstar | — |
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
 | FORTE | notícia | 2751 | 12 | 100 | GTA 6: novo clipe mostra Vice City à noite vista de avião, dez estações de rádio e um prompt de pesca no canto da tela | — |
 | FORTE | notícia | 7944 | 28 | 100 | GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta | — |
