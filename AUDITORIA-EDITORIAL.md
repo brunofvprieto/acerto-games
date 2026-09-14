@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 386
-- Forte: 373
+- Total analisado: 387
+- Forte: 374
 - Revisar: 11
 - Prioridade: 2
 
@@ -384,6 +384,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
 | FORTE | notícia | 3152 | 6 | 100 | Xbox vai te deixar jogar de graça na nuvem — mas tem um preço: seus ouvidos por dois minutinhos de anúncio | — |
+| FORTE | noticia | 2792 | 12 | 100 | Xbox e Kojima vão além dos games: parceria prevê projetos para cinema e televisão | — |
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
 | FORTE | notícia | 2530 | 5 | 100 | Xbox Series X chega perto dos US$ 900 na Europa após aumento de até 40% — e o Brasil já sentiu o baque | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
