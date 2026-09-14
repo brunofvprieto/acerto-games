@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 379
-- Forte: 366
+- Total analisado: 380
+- Forte: 367
 - Revisar: 11
 - Prioridade: 2
 
@@ -144,6 +144,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
 | FORTE | noticia | 3002 | 11 | 100 | Diablo IV celebra 30 anos da série com Hell's Legacy, retorno de Deckard Cain e os três Prime Evils | — |
+| FORTE | noticia | 3343 | 14 | 100 | Diablo V revela Plague Knight, retorno de Monk e Demon Hunter e um mundo que muda a cada viagem | — |
 | FORTE | noticia | 4916 | 22 | 100 | Diablo V é revelado na BlizzCon 2026 e mostra um Santuário já dominado pelo Senhor do Terror | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
