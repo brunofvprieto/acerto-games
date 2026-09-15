@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 387
-- Forte: 374
+- Total analisado: 388
+- Forte: 375
 - Revisar: 11
 - Prioridade: 2
 
@@ -246,6 +246,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
 | FORTE | notícia | 1784 | 5 | 100 | Marvel Rivals na 9ª temporada e a galera já tá de saco cheio do caos visual | texto curto |
 | FORTE | notícia | 4906 | 14 | 100 | Marvel na San Diego Comic-Con 2026: o resumo de tudo que a Casa das Ideias anunciou | — |
+| FORTE | noticia | 3277 | 12 | 100 | Marvel's Wolverine chega hoje ao PS5 e Insomniac explica como transformou Logan em algo muito diferente de Spider-Man | — |
 | FORTE | notícia | 2276 | 5 | 100 | Marvel's Wolverine terá cenas com Logan sem roupa, revela classificação da ESRB | — |
 | FORTE | notícia | 1928 | 5 | 100 | Marvel's Wolverine solta trailer brutal, revela Lady Letal e crava lançamento pra setembro | — |
 | FORTE | notícia | 2633 | 5 | 100 | Matt Damon finalmente chegou ao Fortnite — mas sua estreia nos games quase aconteceu anos atrás, graças a Jason Bourne | — |
