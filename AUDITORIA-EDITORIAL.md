@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 391
-- Forte: 378
+- Total analisado: 397
+- Forte: 384
 - Revisar: 11
 - Prioridade: 2
 
@@ -47,6 +47,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
+| FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
 | FORTE | notícia | 1463 | 7 | 92 | CONTROL Resonant mostra Manhattan em colapso e poderes de Dylan em novo trailer | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | noticia | 1473 | 7 | 92 | Overwatch revela Doctrine, novo suporte vampiresco ligado a Doomfist | texto curto |
@@ -66,6 +67,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | guia | 5411 | 24 | 95 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
 | FORTE | notícia | 3420 | 10 | 95 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | fonte sem URL |
 | FORTE | artigo | 13158 | 41 | 95 | As melhores sequências de abertura de todos os tempos — Parte 1 | fonte sem URL |
+| FORTE | noticia | 1581 | 8 | 95 | Monster Hunter Wilds: Ascendance transforma a Long Sword com novos counters e combos | texto curto |
 | FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
 | FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | noticia | 1619 | 6 | 95 | Warcraft III recebe Forsaken Kingdom, primeira nova campanha em 23 anos | texto curto |
@@ -90,7 +92,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1762 | 9 | 99 | Ondeh Ondeh: Kaya’s Tasty Tale mistura ritmo, puzzles e cultura do Sudeste Asiático | texto curto |
 | FORTE | notícia | 1752 | 5 | 99 | Mario, GTA e mais 8: os ports mais caros da história que vão fazer seu bolso chorar | texto curto |
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
+| FORTE | noticia | 1753 | 8 | 99 | The Duskbloods segue para 2026, mas data continua em segredo após falso vazamento de setembro | texto curto |
 | FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
+| FORTE | noticia | 1786 | 9 | 100 | 007 First Light é adiado novamente no Switch 2 e fica para março de 2027 | texto curto |
 | FORTE | notícia | 2133 | 6 | 100 | 007 First Light no Switch 2: Amazon do Japão aponta setembro — mas segura a euforia | — |
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
@@ -145,6 +149,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2437 | 5 | 100 | Deborah Ann Woll sobre os haters de God of War Laufey: "Em nenhum universo o jogo é ruim" | — |
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
+| FORTE | noticia | 2059 | 10 | 100 | Diablo IV no Switch 2 chega a 1440p e oferece modo de 40 FPS; Blizzard detalha a versão | — |
 | FORTE | noticia | 3002 | 11 | 100 | Diablo IV celebra 30 anos da série com Hell's Legacy, retorno de Deckard Cain e os três Prime Evils | — |
 | FORTE | noticia | 3343 | 14 | 100 | Diablo V revela Plague Knight, retorno de Monk e Demon Hunter e um mundo que muda a cada viagem | — |
 | FORTE | noticia | 4916 | 22 | 100 | Diablo V é revelado na BlizzCon 2026 e mostra um Santuário já dominado pelo Senhor do Terror | — |
@@ -330,6 +335,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
 | FORTE | notícia | 2503 | 5 | 100 | Mewtwo exclusivo do aniversário de Pokémon Go está sendo vendido no eBay por até R$ 56 mil | — |
+| FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
