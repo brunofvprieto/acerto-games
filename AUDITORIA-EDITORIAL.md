@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 397
-- Forte: 384
+- Total analisado: 398
+- Forte: 385
 - Revisar: 11
 - Prioridade: 2
 
@@ -78,6 +78,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
 | FORTE | noticia | 1672 | 9 | 97 | Stellar Blade chega ao Switch 2 em novembro e ganha colaboração com Bayonetta | texto curto |
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
+| FORTE | noticia | 1720 | 8 | 98 | Control Resonant terá 60 fps no PS5 e modo 4K com ray tracing no PS5 Pro | texto curto |
 | FORTE | notícia | 1739 | 9 | 98 | Onimusha: Way of the Sword sai da Gamescom 2026 com dois grandes prêmios | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
 | FORTE | notícia | 1704 | 7 | 98 | Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração | texto curto |
