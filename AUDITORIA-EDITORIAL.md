@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 410
-- Forte: 397
+- Total analisado: 411
+- Forte: 398
 - Revisar: 11
 - Prioridade: 2
 
@@ -318,6 +318,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2689 | 12 | 100 | Kojima revela protagonista de PHYSINT no Tokyo Game Show 2026: Bill Skarsgård assume papel principal | — |
 | FORTE | notícia | 6398 | 23 | 100 | E a Decima Engine? A ida de PHYSINT para o Xbox abre uma das maiores perguntas sobre o futuro do projeto | — |
 | FORTE | noticia | 2928 | 11 | 100 | PHYSINT no Xbox: custos, atrasos e exclusividade ajudam a explicar ruptura entre Sony e Kojima | — |
+| FORTE | especial | 7126 | 30 | 100 | PHYSINT: as músicas e os pôsteres de Kojima podem estar escondendo pistas sobre a história? | — |
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
