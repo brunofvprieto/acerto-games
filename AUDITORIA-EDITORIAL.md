@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 411
-- Forte: 398
+- Total analisado: 412
+- Forte: 399
 - Revisar: 11
 - Prioridade: 2
 
@@ -377,6 +377,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2417 | 10 | 100 | Em The Blood of Dawnwalker, o herói é frágil de dia de propósito: "não queríamos um protagonista superpoderoso" | — |
 | FORTE | notícia | 1896 | 5 | 100 | The Blood of Dawnwalker mostra missão completa com pixie obcecada por dentes — e a magia de Coen em ação | — |
+| FORTE | noticia | 4827 | 20 | 100 | The Crew Motorfest: Showcase 2026 revela Ano 4, nova ilha, Tomb Raider e chegada ao Switch 2 | — |
 | FORTE | notícia | 2031 | 5 | 100 | The Duskbloods abre inscrições pro teste fechado em julho — e agosto vai ser tenso no Switch 2 | — |
 | FORTE | notícia | 3748 | 15 | 100 | Miyazaki entra no debate do SBMM: The Duskbloods vai ter matchmaking ranqueado e veteranos longe dos iniciantes | — |
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
