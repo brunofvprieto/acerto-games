@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 405
-- Forte: 392
+- Total analisado: 406
+- Forte: 393
 - Revisar: 11
 - Prioridade: 2
 
@@ -54,6 +54,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
 | FORTE | notícia | 1493 | 8 | 92 | The Blood of Dawnwalker chega nesta semana: RPG dos ex-The Witcher mistura humano de dia e vampiro à noite | texto curto |
 | FORTE | noticia | 1515 | 7 | 93 | Heroes of the Storm volta à vida: Xal'atath é a primeira nova heroína em seis anos | texto curto |
+| FORTE | noticia | 1519 | 7 | 93 | Star Fox ganha atualização grátis no Switch 2 com multiplayer para quatro jogadores e novas arenas | texto curto |
 | FORTE | notícia | 1552 | 5 | 94 | MrFreezy é o novo jogo do criador de Aerial Knight's — e ele envolve cortar cabeças de um jeito bem inusitado | texto curto |
 | FORTE | notícia | 1578 | 5 | 94 | O homem que nos deu Dead Space pendurou o controle: Glen Schofield anuncia aposentadoria | texto curto |
 | FORTE | notícia | 1541 | 6 | 94 | God of War: Laufey tem data marcada — e é mais cedo do que muita gente esperava | texto curto |
