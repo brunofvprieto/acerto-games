@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 404
-- Forte: 391
+- Total analisado: 405
+- Forte: 392
 - Revisar: 11
 - Prioridade: 2
 
@@ -71,6 +71,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
 | FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | noticia | 1619 | 6 | 95 | Warcraft III recebe Forsaken Kingdom, primeira nova campanha em 23 anos | texto curto |
+| FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
