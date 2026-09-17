@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 408
-- Forte: 395
+- Total analisado: 409
+- Forte: 396
 - Revisar: 11
 - Prioridade: 2
 
@@ -315,6 +315,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Opinião | 5597 | 17 | 100 | Phantom Blade Zero: por que meu hype está nas alturas | — |
 | FORTE | Artigos | 3408 | 13 | 100 | Quem é Soul? Entenda a história de Phantom Blade Zero e por que ele tem apenas 66 dias | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
+| FORTE | noticia | 2689 | 12 | 100 | Kojima revela protagonista de PHYSINT no Tokyo Game Show 2026: Bill Skarsgård assume papel principal | — |
 | FORTE | notícia | 6398 | 23 | 100 | E a Decima Engine? A ida de PHYSINT para o Xbox abre uma das maiores perguntas sobre o futuro do projeto | — |
 | FORTE | noticia | 2928 | 11 | 100 | PHYSINT no Xbox: custos, atrasos e exclusividade ajudam a explicar ruptura entre Sony e Kojima | — |
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
