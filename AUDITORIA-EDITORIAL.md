@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 412
-- Forte: 399
+- Total analisado: 413
+- Forte: 400
 - Revisar: 11
 - Prioridade: 2
 
@@ -253,6 +253,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1853 | 5 | 100 | League of Legends Classic revela modo retrô, mas a galera já tá brigando por causa das skins | — |
 | FORTE | notícia | 3016 | 6 | 100 | O ator de Wolverine ficou com medo de si mesmo — e isso foi exatamente o que a Insomniac queria | — |
 | FORTE | especial | 4282 | 9 | 100 | Lies of P no Switch 2 mostra como um bom port deve ser feito | — |
+| FORTE | noticia | 1938 | 8 | 100 | Lollipop Chainsaw 2 Back2Back é anunciado para PS5 e traz Juliet de volta em 2027 | — |
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
