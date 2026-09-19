@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 418
-- Forte: 405
+- Total analisado: 419
+- Forte: 406
 - Revisar: 11
 - Prioridade: 2
 
@@ -136,6 +136,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3603 | 6 | 100 | O Senhor dos Anéis influenciou Final Fantasy X — e a gente acabou de descobrir como | — |
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
+| FORTE | noticia | 2535 | 9 | 100 | Control Resonant abre Manhattan e coloca Dylan Faden no centro do caos paranatural | — |
 | FORTE | notícia | 1929 | 7 | 100 | Crazy Taxi: World Tour ganha novo trailer e confirma chegada ao Switch 2 | — |
 | FORTE | notícia | 4197 | 15 | 100 | Crimson Desert no Switch 2: a Pearl Abyss mira o primeiro semestre de 2027 e admite que hoje o console só roda "o básico" | — |
 | FORTE | notícia | 1982 | 7 | 100 | Crimson Desert soma 17 atualizações em cinco meses e a Pearl Abyss soltou um trailer só pra mostrar isso | — |
