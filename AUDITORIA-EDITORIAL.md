@@ -2,9 +2,9 @@
 
 ## Resumo
 - Total analisado: 418
-- Forte: 405
+- Forte: 404
 - Revisar: 11
-- Prioridade: 2
+- Prioridade: 3
 
 ## Ordem de trabalho
 As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arquivadas antes de uma nova solicitação de revisão do AdSense. REVISAR são boas pautas que precisam ganhar profundidade. FORTE serve como referência editorial.
@@ -12,6 +12,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | Faixa | Categoria | Caracteres | Parágrafos | Score | Matéria | Problemas |
 |---|---|---:|---:|---:|---|---|
 | PRIORIDADE | — | 0 | 0 | -10 | antes-de-phantom-blade-zero-jogos-universo-sgame.json | sem autor, resumo curto, texto curto, poucos parágrafos |
+| PRIORIDADE | noticia | 0 | 0 | 30 | Sony tenta justificar saída de PHYSINT após romper com Kojima? | texto curto, poucos parágrafos |
 | PRIORIDADE | noticia | 513 | 3 | 58 | Battlefield 6 leva a guerra de volta a Wake Island em novo trailer de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
@@ -404,7 +405,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
-| FORTE | noticia | 4812 | 15 | 100 | Sony tenta justificar saída de PHYSINT após romper com Kojima? | — |
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
