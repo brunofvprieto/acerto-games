@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getAllPosts } from "../lib/posts";
 import { Cover, CategoryTag, NewsCard, Nota } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
+import CountdownZelda from "../components/CountdownZelda";
 import HeroCarousel from "../components/HeroCarousel";
 
 function DoisEspeciais() {
@@ -111,6 +112,28 @@ function SecaoGTA6() {
   );
 }
 
+function SecaoZelda() {
+  return (
+    <section className="py-8">
+      <div className="overflow-hidden border border-[#28E978]/50">
+        <div className="grid md:grid-cols-2">
+          <Link href="/noticias?busca=zelda" className="cover relative block min-h-52 md:min-h-full">
+            <img src="/img/zelda-ocarina-remake-capa.webp" alt="Link em The Legend of Zelda: Ocarina of Time" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover" />
+            <span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-paper/70">Divulgação/Nintendo</span>
+          </Link>
+          <div className="flex flex-col justify-center gap-3 p-6 md:p-8" style={{ background: "linear-gradient(135deg, #071D12 0%, #0B2B1C 55%, #102A21 100%)" }}>
+            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#7CFFA8]">Especial · Contagem regressiva</p>
+            <h2 className="font-display text-2xl uppercase leading-tight text-paper md:text-3xl">The Legend of Zelda: <span className="text-[#D7B45A]">Ocarina of Time</span></h2>
+            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-paper/60">Nintendo Switch 2 · 5 de novembro de 2026</p>
+            <CountdownZelda compact />
+            <Link href="/noticias?busca=zelda" className="mt-1 inline-block font-mono text-xs uppercase tracking-widest text-[#28E978] hover:text-[#7CFFA8]">Cobertura completa ▸</Link>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function SiteZerado() {
   return (
     <main className="mx-auto flex max-w-6xl flex-col items-center px-4 py-24 text-center">
@@ -135,6 +158,7 @@ export default function Home() {
     <main className="mx-auto max-w-6xl px-4">
       <HeroCarousel posts={posts.slice(0, 5)} />
       <SecaoGTA6 />
+      <SecaoZelda />
       <DoisEspeciais />
       <OpiniaoDestaque posts={posts} />
       <ReviewDestaque posts={posts} />
