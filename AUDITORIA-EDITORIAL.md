@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 417
-- Forte: 404
+- Total analisado: 418
+- Forte: 405
 - Revisar: 11
 - Prioridade: 2
 
@@ -404,6 +404,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
+| FORTE | noticia | 4750 | 15 | 100 | Wolverine supera receita de Death Stranding 2 em três dias e reacende debate sobre saída da Sony de PHYSINT | — |
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
