@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 421
-- Forte: 408
+- Total analisado: 422
+- Forte: 409
 - Revisar: 11
 - Prioridade: 2
 
@@ -95,6 +95,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1753 | 5 | 99 | Nova vai ganhar filme no MCU com o roteirista de Loki no comando | texto curto |
 | FORTE | noticia | 1762 | 9 | 99 | Ondeh Ondeh: Kaya’s Tasty Tale mistura ritmo, puzzles e cultura do Sudeste Asiático | texto curto |
 | FORTE | notícia | 1752 | 5 | 99 | Mario, GTA e mais 8: os ports mais caros da história que vão fazer seu bolso chorar | texto curto |
+| FORTE | noticia | 1771 | 8 | 99 | Solo Leveling: KARMA mostra guerra de 27 anos e gameplay roguelite em novos trailers | texto curto |
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
 | FORTE | noticia | 1753 | 8 | 99 | The Duskbloods segue para 2026, mas data continua em segredo após falso vazamento de setembro | texto curto |
 | FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
