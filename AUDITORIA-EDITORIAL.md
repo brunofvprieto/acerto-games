@@ -2,8 +2,8 @@
 
 ## Resumo
 - Total analisado: 436
-- Forte: 422
-- Revisar: 12
+- Forte: 420
+- Revisar: 14
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -23,6 +23,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
 | REVISAR | notícia | 1246 | 6 | 76 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto, sem fonte |
 | REVISAR | notícia | 1268 | 7 | 77 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto, sem fonte |
+| REVISAR | noticia | 1269 | 6 | 77 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto, sem fonte |
+| REVISAR | noticia | 1313 | 6 | 78 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto, sem fonte |
 | REVISAR | noticia | 976 | 5 | 79 | PC Gaming Show Tokyo Direct acontece neste domingo com mais de 35 jogos e estreias mundiais | texto curto |
 | REVISAR | Notícias | 949 | 5 | 79 | Red Dead Online abre setembro com recompensas triplas para Moonshiners | texto curto |
 | FORTE | Notícias | 1030 | 5 | 81 | Another Eden Begins ganha demo no Switch 2, Switch e PC com progresso transferível | texto curto |
@@ -38,8 +40,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
-| FORTE | noticia | 1269 | 6 | 87 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto |
-| FORTE | noticia | 1313 | 6 | 88 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | noticia | 1309 | 6 | 88 | Metroid Dread volta ao topo da eShop após anúncio de Metroid Ravenous | texto curto |
