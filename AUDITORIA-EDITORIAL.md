@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 424
-- Forte: 411
-- Revisar: 11
+- Total analisado: 431
+- Forte: 417
+- Revisar: 12
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -23,12 +23,15 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
 | REVISAR | notícia | 1246 | 6 | 76 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto, sem fonte |
 | REVISAR | notícia | 1268 | 7 | 77 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto, sem fonte |
+| REVISAR | noticia | 976 | 5 | 79 | PC Gaming Show Tokyo Direct acontece neste domingo com mais de 35 jogos e estreias mundiais | texto curto |
 | REVISAR | Notícias | 949 | 5 | 79 | Red Dead Online abre setembro com recompensas triplas para Moonshiners | texto curto |
 | FORTE | Notícias | 1030 | 5 | 81 | Another Eden Begins ganha demo no Switch 2, Switch e PC com progresso transferível | texto curto |
 | FORTE | Notícias | 1053 | 5 | 81 | Nintendo Switch 2 passa a custar US$ 499,99 nos EUA a partir de hoje | texto curto |
 | FORTE | Notícias | 1048 | 5 | 81 | RuneScape: Dragonwilds chega aos consoles em 15 de setembro e estreia no Game Pass | texto curto |
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
+| FORTE | noticia | 1062 | 5 | 82 | Marvel’s Wolverine reduz rastros de odor após críticas e Insomniac estuda opção para desligá-los | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
+| FORTE | noticia | 1107 | 5 | 83 | Tokyo Game Show 2026 cancela último dia por aproximação de tufão | texto curto |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
@@ -37,18 +40,21 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
+| FORTE | noticia | 1309 | 6 | 88 | Metroid Dread volta ao topo da eShop após anúncio de Metroid Ravenous | texto curto |
 | FORTE | notícia | 1302 | 7 | 88 | PS Plus libera hoje 4 jogos de setembro, incluindo Sniper Elite: Resistance e MLB The Show 26 | texto curto |
 | FORTE | notícia | 1342 | 7 | 89 | Fire Emblem: Fortune’s Weave entra no mês de lançamento como um dos grandes exclusivos do Switch 2 | texto curto |
 | FORTE | notícia | 1360 | 5 | 89 | Helldivers 2: novo trailer de campanha "Permanent Enclosure" marca virada na Guerra Galáctica | texto curto |
 | FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
 | FORTE | Notícias | 1372 | 6 | 89 | Nintendo terá dois Directs seguidos: Zelda celebra 40 anos e apresentação geral vem no dia seguinte | texto curto |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
+| FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
+| FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
 | FORTE | notícia | 1463 | 7 | 92 | CONTROL Resonant mostra Manhattan em colapso e poderes de Dylan em novo trailer | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | noticia | 1473 | 7 | 92 | Overwatch revela Doctrine, novo suporte vampiresco ligado a Doomfist | texto curto |
@@ -59,6 +65,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1552 | 5 | 94 | MrFreezy é o novo jogo do criador de Aerial Knight's — e ele envolve cortar cabeças de um jeito bem inusitado | texto curto |
 | FORTE | notícia | 1578 | 5 | 94 | O homem que nos deu Dead Space pendurou o controle: Glen Schofield anuncia aposentadoria | texto curto |
 | FORTE | notícia | 1541 | 6 | 94 | God of War: Laufey tem data marcada — e é mais cedo do que muita gente esperava | texto curto |
+| FORTE | noticia | 1577 | 6 | 94 | Monster Hunter World no Switch 2 é improvável: Capcom teria que refazer o jogo do zero | texto curto |
 | FORTE | notícia | 1576 | 6 | 94 | Pokémon Pokopia: primeira parte do DLC, Bubbly Basin, chega em 5 de agosto | texto curto |
 | FORTE | review | 8929 | 22 | 95 | Análise: Resident Evil Requiem — o medo voltou, e ele tem nome de Grace Ashcroft | fonte sem URL |
 | FORTE | review | 11684 | 23 | 95 | Análise: Star Wars Outlaws — a fantasia de fora-da-lei que a galáxia merecia | fonte sem URL |
