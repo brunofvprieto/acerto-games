@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 435
-- Forte: 421
+- Total analisado: 436
+- Forte: 422
 - Revisar: 12
 - Prioridade: 2
 
@@ -254,6 +254,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1802 | 8 | 100 | Helldivers 2 recebe Ironclad Democracy com lança-granadas, pistola-míssil e armadura de tanque | — |
 | FORTE | notícia | 2445 | 7 | 100 | Henry Cavill embarca de novo em Warhammer 40.000 — agora numa série animada da Amazon | — |
 | FORTE | notícia | 7571 | 24 | 100 | Heroes of Might and Magic III vai renascer — e a Ubisoft sabe que não pode simplesmente refazer um clássico | — |
+| FORTE | especial | 5936 | 22 | 100 | Kojima revela à IGN bastidores da saída da Sony de PHYSINT e temor pelo futuro do estúdio | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
