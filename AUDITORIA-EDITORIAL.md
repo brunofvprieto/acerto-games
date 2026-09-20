@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 432
-- Forte: 418
+- Total analisado: 434
+- Forte: 420
 - Revisar: 12
 - Prioridade: 2
 
@@ -38,6 +38,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
+| FORTE | noticia | 1269 | 6 | 87 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto |
+| FORTE | noticia | 1313 | 6 | 88 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | noticia | 1309 | 6 | 88 | Metroid Dread volta ao topo da eShop após anúncio de Metroid Ravenous | texto curto |
