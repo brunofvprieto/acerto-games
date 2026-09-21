@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 439
-- Forte: 421
+- Total analisado: 440
+- Forte: 422
 - Revisar: 16
 - Prioridade: 2
 
@@ -40,6 +40,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1603 | 7 | 85 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto, sem fonte |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
+| FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
