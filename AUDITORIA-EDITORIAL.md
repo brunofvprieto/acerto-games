@@ -2,8 +2,8 @@
 
 ## Resumo
 - Total analisado: 440
-- Forte: 422
-- Revisar: 16
+- Forte: 421
+- Revisar: 17
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -17,6 +17,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
 | REVISAR | noticia | 821 | 4 | 71 | 1666: Amsterdam entra em Acesso Antecipado no PC em 25 de agosto | texto curto, poucos parágrafos |
+| REVISAR | noticia | 1062 | 5 | 72 | Marvel’s Wolverine reduz rastros de odor após críticas e Insomniac estuda opção para desligá-los | texto curto, sem fonte |
 | REVISAR | notícia | 1110 | 7 | 73 | Metal Gear Solid 4 remove PS3 e PSP nas versões da Nintendo, e até uma piada clássica mudou | texto curto, sem fonte |
 | REVISAR | notícia | 937 | 4 | 73 | Sanitarium volta em versão remasterizada quase 30 anos depois: Enhanced Edition chega em 2026 | texto curto, poucos parágrafos |
 | REVISAR | noticia | 973 | 4 | 74 | Resonance: A Plague Tale Legacy mostra combate brutal em novo trailer | texto curto, poucos parágrafos |
@@ -33,7 +34,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1053 | 5 | 81 | Nintendo Switch 2 passa a custar US$ 499,99 nos EUA a partir de hoje | texto curto |
 | FORTE | Notícias | 1048 | 5 | 81 | RuneScape: Dragonwilds chega aos consoles em 15 de setembro e estreia no Game Pass | texto curto |
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
-| FORTE | noticia | 1062 | 5 | 82 | Marvel’s Wolverine reduz rastros de odor após críticas e Insomniac estuda opção para desligá-los | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | noticia | 1107 | 5 | 83 | Tokyo Game Show 2026 cancela último dia por aproximação de tufão | texto curto |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
