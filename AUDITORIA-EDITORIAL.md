@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 440
-- Forte: 421
+- Total analisado: 441
+- Forte: 422
 - Revisar: 17
 - Prioridade: 2
 
@@ -60,6 +60,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
+| FORTE | noticia | 2423 | 11 | 90 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | sem fonte |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
 | FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
