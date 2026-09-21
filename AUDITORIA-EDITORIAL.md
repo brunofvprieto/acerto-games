@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 436
+- Total analisado: 438
 - Forte: 420
-- Revisar: 14
+- Revisar: 16
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -25,6 +25,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | notícia | 1268 | 7 | 77 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto, sem fonte |
 | REVISAR | noticia | 1269 | 6 | 77 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto, sem fonte |
 | REVISAR | noticia | 1313 | 6 | 78 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto, sem fonte |
+| REVISAR | noticia | 1371 | 7 | 79 | Lufia I & II: The Sinistrals Saga é anunciado para PS5, Switch 2, Switch e PC | texto curto, sem fonte |
+| REVISAR | noticia | 1344 | 7 | 79 | Neon Abyss 2 deixa o acesso antecipado em 8 de outubro e revela novo chefe final | texto curto, sem fonte |
 | REVISAR | noticia | 976 | 5 | 79 | PC Gaming Show Tokyo Direct acontece neste domingo com mais de 35 jogos e estreias mundiais | texto curto |
 | REVISAR | Notícias | 949 | 5 | 79 | Red Dead Online abre setembro com recompensas triplas para Moonshiners | texto curto |
 | FORTE | Notícias | 1030 | 5 | 81 | Another Eden Begins ganha demo no Switch 2, Switch e PC com progresso transferível | texto curto |
