@@ -6,8 +6,11 @@
   "author": "Bruno Vazquez",
   "date": "22 set 2026",
   "readTime": "3 min",
-  "cover": ["#D36A3B", "#16100C"],
-  "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5095490/header.jpg",
+  "cover": [
+    "#D36A3B",
+    "#16100C"
+  ],
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5095490/header.jpg",
   "imagePos": "center center",
   "imageCredit": "a trip by daniel bock / Divulgação",
   "publicadoEm": "2026-09-22T07:03:00-03:00",
