@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 444
-- Forte: 425
+- Total analisado: 445
+- Forte: 426
 - Revisar: 17
 - Prioridade: 2
 
@@ -36,6 +36,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | noticia | 1107 | 5 | 83 | Tokyo Game Show 2026 cancela último dia por aproximação de tufão | texto curto |
+| FORTE | noticia | 1590 | 7 | 85 | Beautiful Freaks of the Desert mistura boomer shooter, speedrun e um deserto aberto | texto curto, sem fonte |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
 | FORTE | noticia | 1596 | 7 | 85 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto, sem fonte |
 | FORTE | noticia | 1603 | 7 | 85 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto, sem fonte |
