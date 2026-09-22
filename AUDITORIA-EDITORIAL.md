@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 445
-- Forte: 426
-- Revisar: 17
+- Total analisado: 452
+- Forte: 427
+- Revisar: 23
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -16,12 +16,18 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
+| REVISAR | noticia | 947 | 5 | 69 | Undead Labs deixa o Xbox e State of Decay 3 continua confirmado no Game Pass | texto curto, sem fonte |
+| REVISAR | noticia | 1019 | 5 | 70 | Arkane segue em consulta e futuro do estúdio permanece indefinido na reestruturação do Xbox | texto curto, sem fonte |
+| REVISAR | noticia | 994 | 5 | 70 | Playground Games e Turn 10 serão unidas em um único estúdio focado em Forza e Fable | texto curto, sem fonte |
 | REVISAR | noticia | 821 | 4 | 71 | 1666: Amsterdam entra em Acesso Antecipado no PC em 25 de agosto | texto curto, poucos parágrafos |
 | REVISAR | noticia | 1062 | 5 | 72 | Marvel’s Wolverine reduz rastros de odor após críticas e Insomniac estuda opção para desligá-los | texto curto, sem fonte |
 | REVISAR | notícia | 1110 | 7 | 73 | Metal Gear Solid 4 remove PS3 e PSP nas versões da Nintendo, e até uma piada clássica mudou | texto curto, sem fonte |
+| REVISAR | noticia | 1126 | 6 | 73 | Ninja Theory pode fechar após dois acordos de venda fracassarem, confirma Xbox | texto curto, sem fonte |
+| REVISAR | noticia | 1106 | 5 | 73 | Obsidian passa para a Bethesda e trabalhará em novo Fallout | texto curto, sem fonte |
 | REVISAR | notícia | 937 | 4 | 73 | Sanitarium volta em versão remasterizada quase 30 anos depois: Enhanced Edition chega em 2026 | texto curto, poucos parágrafos |
 | REVISAR | noticia | 973 | 4 | 74 | Resonance: A Plague Tale Legacy mostra combate brutal em novo trailer | texto curto, poucos parágrafos |
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
+| REVISAR | noticia | 1215 | 6 | 75 | Activision assume Halo e desenvolverá o próximo grande jogo da franquia | texto curto, sem fonte |
 | REVISAR | notícia | 1246 | 6 | 76 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto, sem fonte |
 | REVISAR | notícia | 1268 | 7 | 77 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto, sem fonte |
 | REVISAR | noticia | 1269 | 6 | 77 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto, sem fonte |
@@ -41,6 +47,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1596 | 7 | 85 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto, sem fonte |
 | FORTE | noticia | 1603 | 7 | 85 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto, sem fonte |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
+| FORTE | noticia | 1586 | 8 | 85 | Xbox corta 268 cargos e reorganiza estúdios em nova etapa de sua maior reestruturação | texto curto, sem fonte |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
 | FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
