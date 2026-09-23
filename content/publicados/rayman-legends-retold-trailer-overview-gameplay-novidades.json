@@ -6,8 +6,11 @@
   "author": "Bruno Vazquez",
   "date": "23 set 2026",
   "readTime": "4 min",
-  "cover": ["#89D441", "#161028"],
-  "image": "https://img.youtube.com/vi/w3JsAX5cuho/maxresdefault.jpg",
+  "cover": [
+    "#89D441",
+    "#161028"
+  ],
+  "image": "/img/rayman-legends-retold.jpg",
   "imagePos": "center center",
   "imageCredit": "Ubisoft / Divulgação",
   "youtube": "w3JsAX5cuho",
