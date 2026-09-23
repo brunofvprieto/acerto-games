@@ -2,8 +2,8 @@
 
 ## Resumo
 - Total analisado: 456
-- Forte: 431
-- Revisar: 23
+- Forte: 432
+- Revisar: 22
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -16,7 +16,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
-| REVISAR | noticia | 947 | 5 | 69 | Undead Labs deixa o Xbox e State of Decay 3 continua confirmado no Game Pass | texto curto, sem fonte |
 | REVISAR | noticia | 1019 | 5 | 70 | Arkane segue em consulta e futuro do estúdio permanece indefinido na reestruturação do Xbox | texto curto, sem fonte |
 | REVISAR | noticia | 994 | 5 | 70 | Playground Games e Turn 10 serão unidas em um único estúdio focado em Forza e Fable | texto curto, sem fonte |
 | REVISAR | noticia | 821 | 4 | 71 | 1666: Amsterdam entra em Acesso Antecipado no PC em 25 de agosto | texto curto, poucos parágrafos |
@@ -75,6 +74,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
+| FORTE | noticia | 4818 | 12 | 90 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | sem fonte |
 | FORTE | noticia | 2423 | 11 | 90 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | sem fonte |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
