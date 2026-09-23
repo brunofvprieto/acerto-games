@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 455
-- Forte: 430
+- Total analisado: 456
+- Forte: 431
 - Revisar: 23
 - Prioridade: 2
 
@@ -50,6 +50,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | noticia | 1586 | 8 | 85 | Xbox corta 268 cargos e reorganiza estúdios em nova etapa de sua maior reestruturação | texto curto, sem fonte |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
+| FORTE | noticia | 1657 | 7 | 86 | Dancing with Ghosts transforma luto em aventura sobre alegria e chega ao acesso antecipado em outubro | texto curto, sem fonte |
 | FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1688 | 7 | 87 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto, sem fonte |
