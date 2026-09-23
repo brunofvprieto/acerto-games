@@ -47,7 +47,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1596 | 7 | 85 | MR. RECORDS ganha demo no Steam e confirma versões para PS5 e Xbox Series | texto curto, sem fonte |
 | FORTE | noticia | 1603 | 7 | 85 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto, sem fonte |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
-| FORTE | noticia | 1586 | 8 | 85 | Xbox corta 268 cargos e reorganiza estúdios em nova etapa de sua maior reestruturação | texto curto, sem fonte |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
 | FORTE | noticia | 1657 | 7 | 86 | Dancing with Ghosts transforma luto em aventura sobre alegria e chega ao acesso antecipado em outubro | texto curto, sem fonte |
 | FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
@@ -75,6 +74,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
 | FORTE | noticia | 4818 | 12 | 90 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | sem fonte |
+| FORTE | noticia | 8797 | 25 | 90 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | sem fonte |
 | FORTE | noticia | 2423 | 11 | 90 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | sem fonte |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
