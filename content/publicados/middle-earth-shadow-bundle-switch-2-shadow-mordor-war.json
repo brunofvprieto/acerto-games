@@ -6,8 +6,11 @@
   "author": "Bruno Vazquez",
   "date": "23 set 2026",
   "readTime": "4 min",
-  "cover": ["#B7A36A", "#11130F"],
-  "image": "https://img.youtube.com/vi/bq2P2VvFTMg/maxresdefault.jpg",
+  "cover": [
+    "#B7A36A",
+    "#11130F"
+  ],
+  "image": "/img/middle-earth-shadow-bundle-switch-2.jpg",
   "imagePos": "center center",
   "imageCredit": "Aspyr / Warner Bros. Games / Divulgação",
   "youtube": "bq2P2VvFTMg",
