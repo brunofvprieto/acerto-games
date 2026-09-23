@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 452
-- Forte: 427
+- Total analisado: 453
+- Forte: 428
 - Revisar: 23
 - Prioridade: 2
 
@@ -63,6 +63,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
 | FORTE | Notícias | 1372 | 6 | 89 | Nintendo terá dois Directs seguidos: Zelda celebra 40 anos e apresentação geral vem no dia seguinte | texto curto |
 | FORTE | noticia | 1353 | 6 | 89 | Persona 4 Revival detalha personagens, combate e novos Location Episodes em transmissão | texto curto |
+| FORTE | noticia | 1764 | 7 | 89 | Rayman Legends Retold ganha trailer de seis minutos e detalha mundo inédito, poderes e Kung Foot Evo | texto curto, sem fonte |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | noticia | 1988 | 8 | 90 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | sem fonte |
