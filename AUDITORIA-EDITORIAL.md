@@ -365,7 +365,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
-| FORTE | artigo | 11646 | 39 | 100 | Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos | — |
+| FORTE | artigo | 11566 | 39 | 100 | Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos | — |
 | FORTE | artigo | 6982 | 17 | 100 | Por que a gente sempre volta a jogar os games que já zerou mil vezes? | — |
 | FORTE | notícia | 7768 | 30 | 100 | Por que a Sony abandonou PHYSINT? Bastidores apontam atrasos, orçamento e retorno abaixo do esperado | — |
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
