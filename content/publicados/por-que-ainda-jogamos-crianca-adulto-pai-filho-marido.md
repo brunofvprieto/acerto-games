@@ -1,0 +1,137 @@
+---
+title: "Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos"
+slug: "por-que-ainda-jogamos-crianca-adulto-pai-filho-marido"
+excerpt: "Crescemos, o tempo diminuiu e as responsabilidades aumentaram. Mesmo assim, continuamos voltando aos videogames — talvez porque eles também tenham crescido conosco."
+category: "Opinião"
+author: "Acerto Games"
+cover: "/images/publicados/por-que-ainda-jogamos/capa.jpg"
+date: "2026-09-23"
+---
+
+# Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos
+
+Quando éramos crianças, jogar parecia uma coisa simples. Ligávamos o videogame, escolhíamos um jogo e desaparecíamos durante algumas horas. Não havia uma biblioteca acumulada, uma lista de lançamentos para acompanhar ou a sensação de que precisávamos aproveitar melhor o pouco tempo disponível. Havia apenas uma tela, um controle e a impressão de que qualquer caminho poderia esconder alguma coisa.
+
+Então crescemos.
+
+Vieram o trabalho, as contas, o casamento, os filhos, o cansaço e aquela estranha experiência de poder comprar os jogos que antes pareciam inalcançáveis, mas já não ter a mesma quantidade de tempo para jogá-los. Em muitos dias, o console está ali, o jogo está instalado e a vontade existe, mas falta energia para começar.
+
+Ainda assim, continuamos voltando.
+
+Por quê?
+
+Talvez porque o videogame nunca tenha sido apenas uma forma de passar o tempo. Ele acompanhou nossa transformação. Jogamos primeiro como crianças, depois como adultos. Em algum momento, também passamos a jogar como filhos capazes de compreender os próprios pais, como maridos tentando dividir uma vida e, para alguns de nós, como pais que agora observam outra criança descobrir aqueles mundos pela primeira vez.
+
+Os jogos permanecem, mas o jogador diante da tela muda.
+
+![Mario e seus amigos em Super Mario Bros. Wonder](/images/publicados/por-que-ainda-jogamos/super-mario-bros-wonder.jpg)
+
+## Quando éramos crianças, jogar era descobrir
+
+Na infância, um jogo não precisava explicar por que era importante. Ele simplesmente era.
+
+Em *Super Mario*, correr para a direita já bastava para criar a sensação de aventura. Cada cano parecia esconder um segredo, cada fase podia ser repetida dezenas de vezes e perder uma vida não transformava a experiência em desperdício. A repetição fazia parte da descoberta. Anos depois, *Super Mario Bros. Wonder* recupera muito dessa lógica ao brincar com o inesperado, mas o sentimento que ele desperta é antigo: a curiosidade de entrar em um mundo sem saber exatamente o que surgirá adiante.
+
+Não jogávamos pensando em produtividade. Não perguntávamos quantas horas seriam necessárias para terminar, se o jogo respeitava nosso tempo ou se valia o preço cobrado. Jogávamos porque aquele lugar parecia vivo e porque, durante algumas horas, nós também nos sentíamos maiores dentro dele.
+
+![Capas japonesas de Pokémon Red, Green e Yellow para Game Boy](/images/publicados/por-que-ainda-jogamos/pokemon-red-green-yellow.jpg)
+
+Com *Pokémon Red*, *Green* e *Yellow*, a aventura atravessou a tela. Escolher um Pokémon inicial, encontrar uma criatura rara ou descobrir como atravessar determinado lugar eram acontecimentos que continuavam na escola, na rua e na casa dos amigos. Antes de os jogos receberem atualizações constantes e mapas repletos de indicações, muitos segredos existiam porque alguém dizia que existiam. Alguns eram verdadeiros. Outros, invenções que ganhavam força a cada nova versão da história.
+
+Talvez uma das lembranças mais fortes daquela época nem seja de jogar sozinho. É de ter alguém ao lado. Um irmão esperando sua vez, um amigo segurando o outro controle ou um colega levando um cabo para realizar uma troca. O videogame estava na televisão ou na pequena tela do Game Boy, mas a experiência ocupava todo o ambiente.
+
+![Link explora Hyrule em The Legend of Zelda: Tears of the Kingdom](/images/publicados/por-que-ainda-jogamos/zelda-tears-of-the-kingdom.jpg)
+
+*The Legend of Zelda* também alimentava essa vontade de olhar além do caminho indicado. Em *Tears of the Kingdom*, Hyrule oferece inúmeras formas de explorar, construir e resolver problemas. Para o adulto, essa liberdade pode representar criatividade. Para a criança que ainda existe em algum lugar dentro dele, representa a velha pergunta que sempre moveu as grandes aventuras: “E se eu tentar ir até lá?”
+
+## Quando nos tornamos adultos, o tempo passou a ter peso
+
+O adulto não deixa de gostar de videogame. Ele apenas precisa negociar com a própria vida para continuar jogando.
+
+Uma sessão que antes ocupava uma tarde inteira passa a acontecer depois que o trabalho termina, a casa está minimamente organizada e as outras pessoas já não precisam de alguma coisa. Em certos dias, jogar por uma hora é uma escolha entre o lazer e o sono. Em outros, passamos vinte minutos olhando a biblioteca, incapazes de decidir, e desligamos tudo sem começar.
+
+Existe uma ironia nisso. Quando crianças, tínhamos poucos jogos e muito tempo. Adultos, podemos ter muitos jogos e quase nenhum tempo.
+
+Mas talvez seja justamente por isso que o ato de jogar se torne mais significativo. Aquela hora deixa de ser apenas entretenimento. Pode ser silêncio depois de um dia barulhento, um intervalo entre responsabilidades ou uma maneira de voltar a sentir curiosidade quando quase toda a rotina passou a exigir respostas práticas.
+
+![Uma figura atravessa o deserto de Journey](/images/publicados/por-que-ainda-jogamos/journey.jpg)
+
+Em *Journey*, atravessamos um deserto imenso quase sem palavras. Podemos encontrar outro viajante, mas não sabemos seu nome, sua idade ou de onde ele veio. A comunicação acontece por pequenos sons e movimentos. A companhia pode durar até o fim ou desaparecer no meio do caminho.
+
+Há algo profundamente adulto nessa experiência. Nem todas as pessoas caminham conosco para sempre. Algumas aparecem apenas durante um trecho, tornam uma subida menos solitária e seguem outra direção. Ainda assim, o encontro teve valor.
+
+![Sam atravessa uma paisagem solitária em Death Stranding](/images/publicados/por-que-ainda-jogamos/death-stranding.jpg)
+
+*Death Stranding* leva essa reflexão ainda mais longe. Sam atravessa paisagens vazias, carregando um peso visível nas costas, mas encontra pelo caminho estruturas e sinais deixados por pessoas que provavelmente nunca verá. Uma escada, uma ponte ou uma corda instalada por um desconhecido pode transformar uma travessia.
+
+É um jogo sobre solidão, mas também sobre a possibilidade de ajudar alguém sem receber reconhecimento. Em um tempo no qual estamos permanentemente conectados e, mesmo assim, frequentemente sozinhos, a ideia ganha outra força: talvez conexão não seja apenas estar perto. Às vezes, é deixar algo que facilite o caminho de quem vem depois.
+
+## Quando passamos a enxergar nossos pais de outra forma
+
+Crescer também significa descobrir que nossos pais não tinham todas as respostas.
+
+Quando somos filhos pequenos, enxergamos os adultos como figuras prontas. Mais tarde, entendemos que eles estavam aprendendo enquanto cuidavam de nós. Tinham medo, erravam, escondiam preocupações e tomavam decisões sem saber exatamente quais seriam as consequências.
+
+Essa mudança altera a forma como observamos pais e filhos dentro dos jogos.
+
+![Kratos e Atreus em God of War Ragnarök](/images/publicados/por-que-ainda-jogamos/god-of-war-ragnarok.jpg)
+
+Em *God of War Ragnarök*, Kratos não luta somente contra deuses e monstros. Ele luta contra a própria necessidade de controlar o destino de Atreus. Seu impulso é proteger o filho de tudo, inclusive das escolhas que podem fazê-lo crescer. Atreus, por outro lado, precisa se afastar para descobrir quem é.
+
+Quando somos mais jovens, é fácil olhar para Atreus e compreender sua impaciência. Quando envelhecemos, também passamos a entender o silêncio de Kratos: o medo de que um filho repita os erros do pai, a dificuldade de demonstrar afeto e a percepção dolorosa de que proteger alguém não significa impedir que essa pessoa siga o próprio caminho.
+
+Ser filho é querer liberdade. Ser pai é saber que, em algum momento, será preciso oferecê-la.
+
+## Quando nos tornamos pais, o perigo ganha outro significado
+
+Há jogos que parecem diferentes depois da paternidade, mesmo quando nenhuma cena foi alterada.
+
+Antes, talvez víssemos somente o objetivo, o combate ou a urgência de avançar. Depois, começamos a perceber os pequenos gestos: a preocupação escondida em uma ordem, o cuidado disfarçado de irritação, a tentativa de parecer forte quando o medo já tomou conta.
+
+![Joel e Ellie em The Last of Us Part I](/images/publicados/por-que-ainda-jogamos/the-last-of-us-part-i.jpg)
+
+*The Last of Us Part I* é um exemplo inevitável. Joel começa sua jornada marcado pela perda da filha e tenta tratar Ellie como uma responsabilidade temporária. Aos poucos, a distância se desfaz. O afeto volta acompanhado pelo medo — e o medo de perder alguém novamente passa a determinar suas escolhas.
+
+O jogo não oferece uma representação simples ou confortável da paternidade. Amar não torna Joel automaticamente correto. Pelo contrário: o amor também pode ser egoísta, sufocante e capaz de justificar decisões terríveis. É justamente essa contradição que permanece. Joel não representa um pai idealizado. Representa alguém que ama com todas as feridas que ainda carrega.
+
+Depois que temos filhos, também entendemos que eles observam mais do que imaginamos. Queremos ensinar coragem enquanto escondemos nossos próprios medos. Desejamos que sejam melhores do que nós, mas nem sempre sabemos como evitar que herdem aquilo que tentamos abandonar.
+
+Talvez por isso histórias como as de Joel e Kratos tenham crescido junto com seu público. Elas não falam apenas sobre proteger uma criança. Falam sobre o que um adulto precisa enfrentar dentro de si para não transformar amor em prisão.
+
+## Quando jogar também significa ser marido
+
+O casamento raramente se parece com as histórias que terminam no momento em que duas pessoas finalmente ficam juntas. Na vida real, esse momento é apenas o começo.
+
+Ser marido significa dividir planos, responsabilidades, frustrações, dinheiro, cansaço e silêncio. Significa amar alguém mesmo nos dias em que nenhum dos dois consegue oferecer sua melhor versão. E significa reconhecer que uma relação não se mantém apenas pelo que foi sentido no passado.
+
+![Cody e May em It Takes Two](/images/publicados/por-que-ainda-jogamos/it-takes-two.jpg)
+
+*It Takes Two* transforma uma relação desgastada em mecânica de jogo. Cody e May só conseguem avançar quando colaboram, e cada fase exige que um confie no que o outro é capaz de fazer. O jogo utiliza humor e fantasia, mas sua ideia central é bastante concreta: duas pessoas podem compartilhar o mesmo espaço e, ainda assim, deixar de caminhar juntas.
+
+Jogar em dupla reforça essa mensagem de uma maneira que uma cena sozinha não conseguiria. Não basta ouvir que o casal precisa cooperar. Os jogadores precisam praticar isso. Um depende do tempo, da atenção e da paciência do outro. Às vezes, o desafio não está na fase, mas na forma como as duas pessoas tentam resolvê-la.
+
+O casamento também é uma experiência cooperativa sem tutorial completo. Nem sempre as habilidades estão equilibradas, nem sempre os dois enxergam a solução da mesma forma e, em muitos momentos, será necessário parar de tentar vencer a discussão para voltar a cuidar da relação.
+
+## A família, as escolhas e aquilo que deixamos para trás
+
+![Arte oficial de Red Dead Redemption 2](/images/publicados/por-que-ainda-jogamos/red-dead-redemption-2.jpg)
+
+Em *Red Dead Redemption 2*, John Marston precisa decidir se continuará preso ao mundo que o formou ou se tentará construir uma vida com Abigail e Jack. Tornar-se marido e pai não apaga seu passado. Também não o transforma imediatamente em alguém preparado. A mudança acontece de forma imperfeita, entre recaídas, medo e tentativas de assumir responsabilidades que antes pareciam incompatíveis com sua identidade.
+
+Esse talvez seja um dos conflitos mais reconhecíveis da vida adulta: perceber que amadurecer não significa deixar de ser quem fomos, mas escolher o que faremos com essa história. A criança, o filho, o jogador e o homem que existiram antes não desaparecem. Todos continuam presentes, ainda que precisem aprender a dividir espaço com o pai e o marido que surgiram depois.
+
+## Então, por que ainda jogamos?
+
+Não existe uma única resposta.
+
+Jogamos para descansar. Jogamos para competir. Jogamos para estar com amigos ou para permanecer sozinhos por algumas horas. Jogamos porque gostamos de dominar sistemas, superar desafios e conhecer mundos que não existem. Mas também jogamos porque certas experiências conseguem organizar sentimentos que, fora da tela, parecem confusos demais.
+
+Um jogo pode nos devolver à infância sem exigir que voltemos a ser crianças. Pode nos fazer compreender nossos pais, reconhecer nossos medos nos erros de outro personagem ou conversar com quem amamos depois que os créditos terminam. Pode até criar uma ponte entre gerações: o adulto que um dia segurou um controle pequeno demais para suas mãos agora ensina o próprio filho a pular, explorar e tentar mais uma vez.
+
+Talvez não continuemos jogando porque recusamos a vida adulta. Talvez continuemos justamente porque a conhecemos.
+
+Depois que entendemos o peso do tempo, das perdas, do amor e das responsabilidades, aqueles mundos deixam de ser apenas lugares para onde fugimos. Tornam-se espaços nos quais podemos respirar, lembrar de quem fomos e compreender um pouco melhor quem estamos tentando ser.
+
+Quando crianças, jogávamos para descobrir outros mundos.
+
+Agora, muitas vezes, jogamos para reencontrar partes de nós mesmos.
