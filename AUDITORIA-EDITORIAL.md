@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 453
-- Forte: 428
+- Total analisado: 455
+- Forte: 430
 - Revisar: 23
 - Prioridade: 2
 
@@ -45,12 +45,14 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1590 | 7 | 85 | Beautiful Freaks of the Desert mistura boomer shooter, speedrun e um deserto aberto | texto curto, sem fonte |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
 | FORTE | noticia | 1596 | 7 | 85 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto, sem fonte |
+| FORTE | noticia | 1596 | 7 | 85 | MR. RECORDS ganha demo no Steam e confirma versões para PS5 e Xbox Series | texto curto, sem fonte |
 | FORTE | noticia | 1603 | 7 | 85 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto, sem fonte |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | noticia | 1586 | 8 | 85 | Xbox corta 268 cargos e reorganiza estúdios em nova etapa de sua maior reestruturação | texto curto, sem fonte |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
 | FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
+| FORTE | noticia | 1688 | 7 | 87 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto, sem fonte |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
