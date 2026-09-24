@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 460
-- Forte: 436
+- Total analisado: 461
+- Forte: 437
 - Revisar: 22
 - Prioridade: 2
 
@@ -69,6 +69,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | noticia | 1988 | 8 | 90 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | sem fonte |
 | FORTE | noticia | 1985 | 8 | 90 | Escape From Playtime leva os Smiling Critters ao terror cooperativo e chega em outubro | sem fonte |
+| FORTE | noticia | 2888 | 8 | 90 | Karate Champ, ancestral dos jogos de luta, retorna no PS5 e Switch 2 | sem fonte |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
