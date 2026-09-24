@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 461
-- Forte: 437
+- Total analisado: 462
+- Forte: 438
 - Revisar: 22
 - Prioridade: 2
 
@@ -72,6 +72,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2888 | 8 | 90 | Karate Champ, ancestral dos jogos de luta, retorna no PS5 e Switch 2 | sem fonte |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
+| FORTE | noticia | 2917 | 8 | 90 | Stick it to the Stickman sai do acesso antecipado e transforma o escritório em ringue corporativo | sem fonte |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
 | FORTE | noticia | 3393 | 8 | 90 | Titan Quest II deixa o acesso antecipado em janeiro de 2027 e finalmente chega aos consoles | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
