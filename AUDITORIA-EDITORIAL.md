@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 458
-- Forte: 434
+- Total analisado: 459
+- Forte: 435
 - Revisar: 22
 - Prioridade: 2
 
@@ -72,6 +72,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
+| FORTE | noticia | 3393 | 8 | 90 | Titan Quest II deixa o acesso antecipado em janeiro de 2027 e finalmente chega aos consoles | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
 | FORTE | noticia | 4818 | 12 | 90 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | sem fonte |
 | FORTE | noticia | 8797 | 25 | 90 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | sem fonte |
