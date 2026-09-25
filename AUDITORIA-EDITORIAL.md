@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 462
-- Forte: 438
+- Total analisado: 463
+- Forte: 439
 - Revisar: 22
 - Prioridade: 2
 
@@ -41,6 +41,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | noticia | 1107 | 5 | 83 | Tokyo Game Show 2026 cancela último dia por aproximação de tufão | texto curto |
+| FORTE | notícia | 1149 | 5 | 84 | Physint: Schreier acredita que Xbox paga menos do que Kojima pediu à Sony | texto curto |
 | FORTE | noticia | 1590 | 7 | 85 | Beautiful Freaks of the Desert mistura boomer shooter, speedrun e um deserto aberto | texto curto, sem fonte |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
 | FORTE | noticia | 1596 | 7 | 85 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto, sem fonte |
