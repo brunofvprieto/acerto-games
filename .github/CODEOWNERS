@@ -1,0 +1,7 @@
+# Revisão editorial de Bruno. Para bloquear merges, ativar exigência de Code Owners nas regras de branch.
+/scripts/persona.md @brunofvprieto
+/scripts/persona-opiniao.md @brunofvprieto
+/AGENTS.md @brunofvprieto
+/.github/CODEOWNERS @brunofvprieto
+/.github/workflows/robo.yml @brunofvprieto
+/scripts/robo.mjs @brunofvprieto
