@@ -1,0 +1,32 @@
+{
+  "slug": "nintendo-switch-online-event-gifts-applet-6-3-0",
+  "category": "noticia",
+  "title": "Nintendo Switch Online recebe atualização com indícios de novo sistema de “Event Gifts”",
+  "excerpt": "Análise da versão 6.3.0 do applet dos consoles encontrou referências a presentes de evento, animação de recebimento e suporte a múltiplas campanhas, mas a Nintendo ainda não anunciou a função.",
+  "author": "Bruno Vazquez",
+  "date": "28 set 2026",
+  "readTime": "4 min",
+  "cover": [
+    "#e60012",
+    "#111111"
+  ],
+  "image": "/img/nintendo-switch-online-event-gifts-applet-6-3-0.jpeg",
+  "imageFilename": "nintendo-switch-online-event-gifts-applet-6-3-0.jpeg",
+  "imageAlt": "Nintendo Switch Online em atualização do applet com indícios do sistema Event Gifts no Nintendo Switch e Switch 2",
+  "imagePos": "center center",
+  "imageCredit": "Nintendo / Divulgação",
+  "fonte": "Análise técnica de Ben (@idocode01)",
+  "fonteUrl": "https://x.com/idocode01",
+  "publicadoEm": "2026-09-28T16:43:00-03:00",
+  "body": [
+    "O applet do Nintendo Switch Online usado nos consoles Nintendo Switch e Nintendo Switch 2 recebeu a versão 6.3.0, e uma análise dos arquivos da atualização encontrou referências a uma função até agora não anunciada pela Nintendo: “Event Gifts”, ou Presentes de Evento.",
+    "A descoberta foi publicada por Ben, responsável por analisar a revisão 482b7f33. Entre os elementos identificados estão um novo endereço relacionado ao recebimento dos presentes, uma animação de carregamento e um efeito sonoro específico para o momento em que um item é recebido.",
+    "## O que os arquivos sugerem",
+    "A estrutura encontrada indica que mais de um evento de presentes poderia permanecer ativo simultaneamente. Cada evento também poderia carregar vídeos, miniaturas e outros conteúdos associados. Em resposta a comparações com desafios usados anteriormente nos aplicativos de jogos clássicos, Ben descreveu a implementação encontrada como um novo sistema de presentes.",
+    "Isso abre algumas possibilidades, mas nenhuma delas deve ser tratada como recurso confirmado. Os arquivos não esclarecem quais itens seriam distribuídos, quais jogos poderiam participar, se os presentes dependeriam de assinatura ou quais condições seriam necessárias para resgatá-los.",
+    "## Nintendo ainda não anunciou Event Gifts",
+    "Até esta publicação, a Nintendo não apresentou oficialmente o Event Gifts nem explicou sua finalidade. Portanto, o que existe hoje é evidência de uma implementação interna encontrada no applet, não o anúncio de um novo benefício do Nintendo Switch Online.",
+    "A distinção importa especialmente porque código e recursos internos podem mudar, permanecer inativos ou ser preparados antes de uma apresentação pública. A versão 6.3.0 mostra que há trabalho relacionado ao sistema, mas não permite cravar quando ou mesmo em que formato ele chegará aos usuários.",
+    "No Brasil, qualquer relação com benefícios da assinatura também permanece em aberto. Assim que a Nintendo detalhar oficialmente o recurso, será possível saber se o Event Gifts terá disponibilidade regional e que tipo de conteúdo poderá ser distribuído."
+  ]
+}
