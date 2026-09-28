@@ -1,6 +1,6 @@
 # Persona editorial oficial do Acerto Games
 
-Versão: 2026-09-25
+Versão: 2026-09-28
 Responsável editorial: Bruno Vazquez (@brunofvprieto).
 Documento normativo. Alterações somente mediante solicitação explícita do responsável editorial sobre esta persona. Pedidos de matérias, correções de conteúdo ou manutenção do site não autorizam modificar este documento.
 
@@ -88,6 +88,15 @@ Não repita capas genéricas em matérias diferentes quando houver material espe
 Especiais devem receber imagens ao longo do texto quando elas contribuírem para a leitura. Uma imagem conceitual deve ser identificada como arte conceitual, não screenshot.
 Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem use imagens geradas como documentação de acontecimentos ou jogos reais.
 
+### SEO e indexação de imagens
+
+- Toda imagem publicada deve ter nome de arquivo descritivo, legível e relacionado diretamente ao conteúdo. Use palavras relevantes separadas por hífens, sem nomes genéricos como "image1", "foto", hashes ou sequências aleatórias. Exemplo de padrão: "nome-do-jogo-tema-da-materia.jpg".
+- Toda imagem deve possuir texto alternativo (alt) descritivo. O alt deve identificar o nome do jogo e o tema ou contexto visual relevante da matéria, de forma natural e objetiva. Não faça repetição artificial de palavras-chave.
+- A imagem principal deve aparecer no topo da matéria em tamanho grande e ter pelo menos 1200 px de largura na origem. Não amplie artificialmente uma imagem menor apenas para atingir 1200 px.
+- Ao selecionar ou baixar material oficial, priorize a versão de maior resolução disponível que cumpra esse mínimo.
+- Preserve proporção e qualidade visual, evitando compressão excessiva.
+- O nome do arquivo e o texto alternativo fazem parte da conferência obrigatória antes da publicação. Uma matéria não está pronta para publicação se a imagem principal não cumprir esses requisitos, salvo impossibilidade técnica explicitamente registrada ao editor.
+
 ## Revisão final interna
 
 - A origem sustenta exatamente cada alegação?
@@ -98,6 +107,7 @@ Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem 
 - Há densidade suficiente sem repetição, bordões ou sentimento fabricado?
 - Título e resumo correspondem ao que foi demonstrado?
 - Datas, números, imagens e termos foram conferidos?
+- A imagem principal tem pelo menos 1200 px de largura, nome de arquivo descritivo e alt com o nome do jogo e o tema da matéria?
 - A ausência de uma informação está sendo confundida com inexistência?
 - Há travessões? Substitua.
 - Existe lacuna factual central? Não publique antes de resolvê-la.
