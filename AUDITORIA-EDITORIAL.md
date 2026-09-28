@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 467
-- Forte: 443
+- Total analisado: 468
+- Forte: 444
 - Revisar: 22
 - Prioridade: 2
 
@@ -241,6 +241,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2056 | 9 | 100 | Gears of War: E-Day está pronto: jogo entra em fase gold e ganha data de pré-instalação | — |
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
 | FORTE | artigo | 9123 | 36 | 100 | Glossário do jogador: DLSS, FSR, ray tracing, Nanite e todo o resto do palavrório técnico, explicado | — |
+| FORTE | noticia | 4271 | 12 | 100 | God of War Laufey revela edição Deluxe em púrpura e detalha o Arco de Serpente de Faye | — |
 | FORTE | noticia | 3219 | 12 | 100 | God of War terá outro Atreus: série prepara troca de ator para a segunda temporada | — |
 | FORTE | notícia | 2673 | 5 | 100 | Série de God of War deve trocar o ator de Atreus na 2ª temporada — e dessa vez a troca faz sentido | — |
 | FORTE | notícia | 2086 | 5 | 100 | Série de God of War perde seu Kratos: Ryan Hurst é substituído após lesão grave no set | — |
