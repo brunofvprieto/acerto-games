@@ -124,6 +124,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1720 | 8 | 98 | Control Resonant terá 60 fps no PS5 e modo 4K com ray tracing no PS5 Pro | texto curto |
 | FORTE | notícia | 1739 | 9 | 98 | Onimusha: Way of the Sword sai da Gamescom 2026 com dois grandes prêmios | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
+| FORTE | noticia | 1711 | 7 | 98 | Game Pass fecha setembro com Minecraft Dungeons II e já prepara Gears of War: E-Day | texto curto |
 | FORTE | notícia | 1704 | 7 | 98 | Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração | texto curto |
 | FORTE | noticia | 1774 | 7 | 99 | Diablo IV chega ao Nintendo Switch 2 com a coleção Age of Hatred | texto curto |
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
@@ -467,7 +468,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
 | FORTE | noticia | 1859 | 10 | 100 | Xbox Game Pass anuncia Gears of War: E-Day, Minecraft Dungeons II, Dune: Awakening e mais jogos | — |
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
-| FORTE | noticia | 2313 | 9 | 100 | Game Pass fecha setembro com Minecraft Dungeons II e já prepara Gears of War: E-Day | — |
 | FORTE | notícia | 3152 | 6 | 100 | Xbox vai te deixar jogar de graça na nuvem — mas tem um preço: seus ouvidos por dois minutinhos de anúncio | — |
 | FORTE | noticia | 2792 | 12 | 100 | Xbox e Kojima vão além dos games: parceria prevê projetos para cinema e televisão | — |
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
