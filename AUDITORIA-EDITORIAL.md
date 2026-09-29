@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 474
-- Forte: 450
+- Total analisado: 475
+- Forte: 451
 - Revisar: 22
 - Prioridade: 2
 
@@ -259,6 +259,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1782 | 7 | 100 | GTA 6 está sendo desenvolvido há 11 anos: Rockstar revela como o projeto começou | texto curto |
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
+| FORTE | noticia | 11723 | 37 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
 | FORTE | notícia | 1820 | 8 | 100 | GTA 6 ganha novas imagens oficiais — Jason e Lucia aparecem em fuga, cercados pela polícia e com visuais diferentes | — |
