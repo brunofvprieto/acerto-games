@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 475
-- Forte: 451
+- Total analisado: 476
+- Forte: 452
 - Revisar: 22
 - Prioridade: 2
 
@@ -334,6 +334,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
 | FORTE | noticia | 2312 | 9 | 100 | Muramasa: Revenant Blades ganha data e mostra como o clássico da Vanillaware foi reconstruído | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
+| FORTE | noticia | 3374 | 11 | 100 | Naughty Dog confirma dois novos projetos de The Last of Us e revelação completa de Intergalactic em 2027 | — |
 | FORTE | notícia | 2100 | 5 | 100 | Criterion confirma: Need for Speed e Burnout ficaram para trás — agora é só Battlefield | — |
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
