@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 477
-- Forte: 453
+- Total analisado: 480
+- Forte: 456
 - Revisar: 22
 - Prioridade: 2
 
@@ -44,6 +44,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1149 | 5 | 84 | Physint: Schreier acredita que Xbox paga menos do que Kojima pediu à Sony | texto curto |
 | FORTE | noticia | 1590 | 7 | 85 | Beautiful Freaks of the Desert mistura boomer shooter, speedrun e um deserto aberto | texto curto, sem fonte |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
+| FORTE | notícia | 1205 | 6 | 85 | GTA 6 terá furacões e chuva localizada que deixa marcas em Leonida | texto curto |
 | FORTE | noticia | 1596 | 7 | 85 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto, sem fonte |
 | FORTE | noticia | 1596 | 7 | 85 | MR. RECORDS ganha demo no Steam e confirma versões para PS5 e Xbox Series | texto curto, sem fonte |
 | FORTE | noticia | 1603 | 7 | 85 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto, sem fonte |
@@ -51,6 +52,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
 | FORTE | noticia | 1657 | 7 | 86 | Dancing with Ghosts transforma luto em aventura sobre alegria e chega ao acesso antecipado em outubro | texto curto, sem fonte |
 | FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
+| FORTE | notícia | 1285 | 6 | 87 | GTA 6 terá animais lendários e espécies raras para rastrear em Leonida | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1688 | 7 | 87 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto, sem fonte |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
@@ -113,6 +115,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
 | FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | noticia | 1619 | 6 | 95 | Warcraft III recebe Forsaken Kingdom, primeira nova campanha em 23 anos | texto curto |
+| FORTE | notícia | 1659 | 8 | 96 | GTA 6 terá academia, caiaque e mergulho entre as atividades de Jason e Lucia | texto curto |
 | FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
