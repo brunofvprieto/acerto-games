@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 480
-- Forte: 456
+- Total analisado: 482
+- Forte: 458
 - Revisar: 22
 - Prioridade: 2
 
@@ -143,6 +143,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
 | FORTE | noticia | 1753 | 8 | 99 | The Duskbloods segue para 2026, mas data continua em segredo após falso vazamento de setembro | texto curto |
 | FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
+| FORTE | notícia | 2024 | 8 | 100 | 007 First Light receberá DLC gratuito em 1º de outubro, confirma IO Interactive | — |
 | FORTE | noticia | 1786 | 9 | 100 | 007 First Light é adiado novamente no Switch 2 e fica para março de 2027 | texto curto |
 | FORTE | notícia | 2133 | 6 | 100 | 007 First Light no Switch 2: Amazon do Japão aponta setembro — mas segura a euforia | — |
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
@@ -470,6 +471,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
+| FORTE | notícia | 3226 | 10 | 100 | Xbox libera Disc-to-Digital para todos e transforma discos físicos em licenças digitais | — |
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
 | FORTE | noticia | 1859 | 10 | 100 | Xbox Game Pass anuncia Gears of War: E-Day, Minecraft Dungeons II, Dune: Awakening e mais jogos | — |
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
