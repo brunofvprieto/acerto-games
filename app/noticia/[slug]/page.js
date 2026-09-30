@@ -165,7 +165,7 @@ export default function Noticia({ params }) {
             </aside>
           )}
 
-          <Cover colors={post.cover} image={post.image} position={post.imagePos} fit="contain" className="mt-6 aspect-video w-full" />
+          <Cover colors={post.cover} image={post.image} alt={post.imageAlt || post.title} position={post.imagePos} fit="contain" className="mt-6 aspect-video w-full" />
           {post.imageCredit && (
             <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {post.imageCredit}</p>
           )}

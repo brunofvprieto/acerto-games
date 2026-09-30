@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export function Cover({ colors, image, position, className = "", fit = "cover", children }) {
+export function Cover({ colors, image, position, alt = "", className = "", fit = "cover", children }) {
   const paleta = Array.isArray(colors) && colors.length >= 2 ? colors : ["#111111", "#222222"];
   const gradiente = `linear-gradient(135deg, ${paleta[0]}, ${paleta[1]})`;
 
@@ -17,7 +17,7 @@ export function Cover({ colors, image, position, className = "", fit = "cover", 
         />
         <img
           src={image}
-          alt=""
+          alt={alt}
           decoding="async"
           className="absolute inset-0 h-full w-full object-contain"
         />
@@ -33,7 +33,7 @@ export function Cover({ colors, image, position, className = "", fit = "cover", 
       {image && (
         <img
           src={image}
-          alt=""
+          alt={alt}
           loading="lazy"
           decoding="async"
           className="absolute inset-0 h-full w-full object-cover"
@@ -85,7 +85,7 @@ export function NewsCard({ post }) {
       href={`/noticia/${post.slug}`}
       className={`group block border border-edge bg-surface transition-colors ${hover}`}
     >
-      <Cover colors={post.cover} image={post.image} position={post.imagePos} className="h-40" />
+      <Cover colors={post.cover} image={post.image} alt={post.imageAlt || post.title} position={post.imagePos} className="h-40" />
       <div className="space-y-2 p-4">
         <CategoryTag category={post.category} />
         <h3 className="font-display text-lg leading-snug group-hover:text-paper">
@@ -106,7 +106,7 @@ export function ReviewCard({ post }) {
       href={`/noticia/${post.slug}`}
       className="group relative block border border-edge bg-surface transition-colors hover:border-violet"
     >
-      <Cover colors={post.cover} image={post.image} position={post.imagePos} className="h-40" />
+      <Cover colors={post.cover} image={post.image} alt={post.imageAlt || post.title} position={post.imagePos} className="h-40" />
       <div className="absolute right-4 top-28">
         <Nota value={post.nota} />
       </div>
