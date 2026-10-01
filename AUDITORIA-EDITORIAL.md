@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 491
-- Forte: 467
+- Total analisado: 492
+- Forte: 468
 - Revisar: 22
 - Prioridade: 2
 
@@ -370,6 +370,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 6668 | 36 | 100 | GTA 6 aprendeu com Red Dead Redemption 2 a lição que realmente importa | — |
 | FORTE | opinião | 6745 | 23 | 100 | A mídia física não está morrendo do jeito que a gente imagina — e o Switch 2 explica por quê | — |
 | FORTE | opinião | 5260 | 20 | 100 | A mídia física não está morrendo do jeito que a gente imagina — e o Switch 2 explica por quê | — |
+| FORTE | Opinião | 5655 | 15 | 100 | Outubro chegou: Phantom Blade Zero é o jogo mais aguardado do mês no Acerto Games | — |
 | FORTE | notícia | 2416 | 5 | 100 | Stadium, o modo que quis reinventar o Overwatch, vai murchar: sem novos heróis nem mapas | — |
 | FORTE | notícia | 2115 | 5 | 100 | Palworld 1.0 já vendeu mais de 1,8 milhão de cópias desde o lançamento, aponta analista | — |
 | FORTE | notícia | 2467 | 6 | 100 | Palworld está dominando a Steam de novo — e quase repetiu a marca de 1 milhão de jogadores simultâneos | — |
