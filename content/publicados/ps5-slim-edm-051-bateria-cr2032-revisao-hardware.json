@@ -1,0 +1,39 @@
+{
+  "slug": "ps5-slim-edm-051-bateria-cr2032-revisao-hardware",
+  "category": "notícia",
+  "title": "Nova revisão do PS5 Slim facilita troca da bateria e muda refrigeração",
+  "excerpt": "Desmontagem de uma unidade CFI-2116 revela placa-mãe EDM-051, bateria CR2032 mais acessível e alterações internas. A Sony não anunciou publicamente a revisão.",
+  "author": "Bruno Vazquez",
+  "date": "01 out 2026",
+  "readTime": "4 min",
+  "cover": [
+    "#2E86C1",
+    "#111827"
+  ],
+  "image": "https://blog.playstation.com/tachyon/2023/10/cd567e80243c54867c66b0e9f242525067c88d89.jpg",
+  "imagePos": "center center",
+  "imageCredit": "Sony Interactive Entertainment / Divulgação",
+  "imageFilename": "ps5-slim-revisao-edm-051-bateria-cr2032.jpg",
+  "imageAlt": "Console PlayStation 5 Slim em imagem oficial da Sony",
+  "publicadoEm": "2026-10-01T10:30:00-03:00",
+  "fonte": "Modyfikator89",
+  "fonteUrl": "https://x.com/Modyfikator89/status/1973334553056485584",
+  "body": [
+    "Uma revisão interna do PlayStation 5 Slim começou a aparecer em unidades recentes do console. A desmontagem de uma edição limitada de Marvel's Wolverine revelou a placa-mãe EDM-051, com mudanças no layout, na refrigeração e na forma de acesso à bateria CR2032.",
+    "As informações foram publicadas pelo técnico de consoles Modyfikator89 após abrir uma unidade CFI-2116. A Sony não anunciou a EDM-051 como uma nova versão comercial do PS5, por isso as alterações devem ser tratadas como uma revisão de fabricação identificada por desmontagem, não como um novo modelo apresentado oficialmente.",
+    "## Bateria CR2032 ficou mais acessível",
+    "A alteração mais interessante para manutenção é a bateria CR2032. A nova disposição permite uma substituição mais simples, aproximando o projeto de uma solução já vista no PS5 Pro.",
+    "Essa bateria mantém informações de relógio e configurações quando o console está desconectado da energia. Ela costuma ter vida útil longa, mas a facilidade de troca reduz a complexidade de uma manutenção futura.",
+    "## Metal líquido e dissipador também mudaram",
+    "A análise aponta uma interface revisada para a área de metal líquido ao redor da APU, com solução semelhante à usada no PS5 Pro. O dissipador também apresenta construção diferente em relação a revisões anteriores do Slim.",
+    "O objetivo exato dessas alterações não foi detalhado pela Sony. Sem testes comparativos controlados, não é possível afirmar que a EDM-051 opera mais fria, silenciosa ou eficiente do que todas as versões anteriores.",
+    "## Há mudanças no HDMI e no layout da placa",
+    "A EDM-051 reorganiza componentes internos e utiliza uma implementação diferente do retimer HDMI. O técnico descreve a solução como mais nova e simplificada, mas novamente não há documentação pública da Sony detalhando ganhos técnicos ou redução de custos.",
+    "A existência da placa, entretanto, não depende apenas do teardown publicado agora. Peças EDM-051 compatíveis com variantes CFI-2116 já aparecem no mercado de reparo, reforçando que se trata de uma revisão efetivamente em circulação.",
+    "## Manual não acompanha todas as alterações",
+    "Outro detalhe apontado na desmontagem é que a unidade analisada ainda traz documentação baseada na versão anterior e não destaca a bateria substituível. Revisões internas silenciosas são comuns durante o ciclo de vida de consoles e normalmente não recebem campanhas próprias.",
+    "Para quem já possui um PS5 Slim, a descoberta não representa uma atualização que possa ser aplicada ao aparelho existente. Para reparadores e futuros compradores, porém, a EDM-051 é relevante por alterar componentes diretamente ligados à manutenção e ao sistema térmico.",
+    "link: PlayStation | Anúncio oficial do design PS5 Slim | https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/"
+  ],
+  "observacao": "Origem da descoberta: teardown de Modyfikator89 em 30/09/2026. Sony não anunciou oficialmente a revisão EDM-051. Evitar afirmar ganhos de temperatura, ruído ou confiabilidade sem testes. A URL de fonte no X deve ser conferida caso o ID não resolva; o fato central também é corroborado por unidades EDM-051 CFI-2116 no mercado de reparo."
+}
