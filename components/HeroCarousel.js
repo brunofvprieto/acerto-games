@@ -1,34 +1,41 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import { CategoryTag, Cover } from "./Cards";
+import { CategoryTag } from "./Cards";
 
-function MiniCard({ post }) {
+function SideCard({ post }) {
   return (
     <Link
       href={`/noticia/${post.slug}`}
-      className="group relative flex aspect-square min-h-0 flex-col overflow-hidden border border-edge bg-surface transition-colors hover:border-arcade"
+      className="group relative min-h-[250px] overflow-hidden border border-edge bg-black transition-colors hover:border-arcade lg:min-h-0"
     >
-      <div className="relative h-[58%] shrink-0 overflow-hidden">
-        <Cover
-          colors={post.cover || ["#111", "#222"]}
-          image={post.image}
-          position={post.imagePos}
-          className="absolute inset-0 h-full w-full transition-transform duration-500 group-hover:scale-[1.02]"
+      {post.image ? (
+        <img
+          src={post.image}
+          alt={post.imageAlt || post.title}
+          className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.025]"
+          style={{ objectPosition: post.heroImagePos || post.imagePos || "center center" }}
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
-        <div className="absolute bottom-2 left-2">
-          <CategoryTag category={post.category} />
-        </div>
-      </div>
+      ) : (
+        <div
+          className="absolute inset-0"
+          style={{
+            background: `linear-gradient(135deg, ${post.cover?.[0] || "#111"}, ${post.cover?.[1] || "#222"})`,
+          }}
+        />
+      )}
 
-      <div className="flex min-h-0 flex-1 flex-col justify-between p-2.5 sm:p-3">
-        <h3 className="line-clamp-3 font-display text-[0.68rem] leading-snug group-hover:text-arcade sm:text-xs lg:text-[0.76rem] xl:text-[0.82rem]">
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black via-black/40 to-black/5" />
+
+      <div className="absolute inset-x-0 bottom-0 z-10 p-4 sm:p-5 lg:p-5 xl:p-6">
+        <CategoryTag category={post.category} />
+        <h3 className="mt-2 font-display text-lg uppercase leading-[1.08] text-paper transition-colors group-hover:text-arcade sm:text-xl lg:text-[1.1rem] xl:text-[1.3rem]">
           {post.title}
         </h3>
-        <p className="mt-2 font-mono text-[8px] uppercase tracking-wide text-dim sm:text-[9px]">
+        <p className="mt-3 font-mono text-[8px] uppercase tracking-[.11em] text-paper/65 sm:text-[9px]">
           {post.date}
+          {post.readTime ? ` · ${post.readTime}` : ""}
         </p>
       </div>
     </Link>
@@ -38,9 +45,16 @@ function MiniCard({ post }) {
 export default function HeroCarousel({ posts }) {
   const [atual, setAtual] = useState(0);
   const [pausado, setPausado] = useState(false);
+  const [paginaDireita, setPaginaDireita] = useState(0);
+
   const destaques = posts?.slice(0, 5) || [];
   const ultimas = posts?.slice(5, 9) || [];
   const total = destaques.length;
+
+  const paginasDireita = useMemo(() => {
+    if (!ultimas.length) return [];
+    return [ultimas.slice(0, 2), ultimas.slice(2, 4)].filter((pagina) => pagina.length);
+  }, [ultimas]);
 
   const ir = useCallback(
     (i) => {
@@ -56,9 +70,19 @@ export default function HeroCarousel({ posts }) {
     return () => clearInterval(id);
   }, [pausado, total]);
 
+  useEffect(() => {
+    if (pausado || paginasDireita.length <= 1) return;
+    const id = setInterval(
+      () => setPaginaDireita((p) => (p + 1) % paginasDireita.length),
+      7000
+    );
+    return () => clearInterval(id);
+  }, [pausado, paginasDireita.length]);
+
   if (!total) return null;
 
   const p = destaques[Math.min(atual, total - 1)];
+  const cardsDireita = paginasDireita[paginaDireita] || [];
 
   return (
     <section
@@ -68,32 +92,19 @@ export default function HeroCarousel({ posts }) {
       aria-label="Principais manchetes"
       className="py-5 sm:py-6"
     >
-      <div className="grid gap-5 lg:grid-cols-2 lg:items-stretch xl:gap-6">
-        <div className="relative aspect-square min-w-0">
+      <div className="grid gap-3 lg:h-[620px] lg:grid-cols-[1.65fr_1fr] lg:items-stretch xl:h-[680px] xl:gap-4">
+        <div className="relative min-h-[470px] overflow-visible sm:min-h-[560px] lg:min-h-0">
           <Link
             href={`/noticia/${p.slug}`}
             className="group relative block h-full w-full overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
-            style={{
-              clipPath:
-                "polygon(20px 0,100% 0,100% calc(100% - 20px),calc(100% - 20px) 100%,0 100%,0 20px)",
-            }}
           >
             {p.image ? (
-              <>
-                <img
-                  src={p.image}
-                  alt=""
-                  aria-hidden="true"
-                  className="absolute inset-0 h-full w-full scale-110 object-cover opacity-30 blur-lg"
-                  style={{ objectPosition: p.heroImagePos || p.imagePos || "center center" }}
-                />
-                <img
-                  src={p.image}
-                  alt={p.imageAlt || p.title}
-                  className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.015]"
-                  style={{ objectPosition: p.heroImagePos || p.imagePos || "center center" }}
-                />
-              </>
+              <img
+                src={p.image}
+                alt={p.imageAlt || p.title}
+                className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.018]"
+                style={{ objectPosition: p.heroImagePos || p.imagePos || "center center" }}
+              />
             ) : (
               <div
                 className="absolute inset-0"
@@ -103,23 +114,17 @@ export default function HeroCarousel({ posts }) {
               />
             )}
 
-            <div
-              className="pointer-events-none absolute inset-0"
-              style={{
-                background:
-                  "linear-gradient(to top, rgba(0,0,0,.98) 0%, rgba(0,0,0,.84) 30%, rgba(0,0,0,.34) 58%, rgba(0,0,0,.08) 78%, transparent 100%)",
-              }}
-            />
+            <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black via-black/45 to-black/5" />
 
-            <div className="absolute inset-x-0 bottom-0 z-10 p-5 sm:p-7 lg:p-8 xl:p-9">
+            <div className="absolute inset-x-0 bottom-0 z-10 p-5 sm:p-7 lg:p-8 xl:p-10">
               <CategoryTag category={p.category} />
-              <h2 className="mt-2 max-w-[95%] font-display text-xl leading-[1.06] text-paper sm:text-2xl md:text-3xl lg:text-[1.8rem] xl:text-[2.1rem]">
+              <h2 className="mt-3 max-w-[96%] font-display text-2xl uppercase leading-[1.04] text-paper transition-colors group-hover:text-arcade sm:text-3xl md:text-4xl lg:text-[2.55rem] xl:text-[3rem]">
                 {p.title}
               </h2>
-              <p className="mt-3 line-clamp-3 max-w-[92%] text-xs leading-relaxed text-paper/80 sm:text-sm lg:text-[0.82rem] xl:text-sm">
+              <p className="mt-4 line-clamp-3 max-w-[88%] text-sm leading-relaxed text-paper/80 sm:text-base lg:text-sm xl:text-base">
                 {p.excerpt}
               </p>
-              <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[8px] uppercase tracking-[.12em] text-paper/65 sm:text-[9px] xl:text-[10px]">
+              <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[9px] uppercase tracking-[.12em] text-paper/65 sm:text-[10px]">
                 <span>
                   <span className="mr-1 text-arcade">▣</span>
                   {p.date}
@@ -139,7 +144,7 @@ export default function HeroCarousel({ posts }) {
               <button
                 onClick={() => ir(atual - 1)}
                 aria-label="Manchete anterior"
-                className="absolute left-0 top-1/2 z-30 -translate-x-1/2 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/95 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12 lg:left-1"
+                className="absolute left-3 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12"
               >
                 ‹
               </button>
@@ -147,7 +152,7 @@ export default function HeroCarousel({ posts }) {
               <button
                 onClick={() => ir(atual + 1)}
                 aria-label="Próxima manchete"
-                className="absolute right-0 top-1/2 z-30 translate-x-1/2 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/95 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12 lg:right-1"
+                className="absolute right-3 top-1/2 z-30 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-arcade bg-ink/90 font-mono text-xl text-arcade backdrop-blur transition-colors hover:bg-arcade hover:text-ink sm:h-12 sm:w-12"
               >
                 ›
               </button>
@@ -170,25 +175,25 @@ export default function HeroCarousel({ posts }) {
           )}
         </div>
 
-        <div className="relative min-w-0 lg:aspect-square">
-          <div className="mb-3 flex items-center justify-between lg:absolute lg:inset-x-0 lg:top-0 lg:z-20 lg:mb-0 lg:h-10 lg:bg-gradient-to-b lg:from-ink lg:to-transparent lg:px-1 lg:pt-1">
-            <h2 className="font-display text-base uppercase sm:text-lg">
-              <span className="mr-1 text-arcade">▸</span>
-              Últimas Notícias
-            </h2>
-            <Link
-              href="/noticias"
-              className="font-mono text-[10px] uppercase tracking-widest text-arcade hover:text-paper sm:text-xs"
-            >
-              Ver todas ▸
-            </Link>
-          </div>
+        <div className="relative grid gap-3 lg:grid-rows-2 xl:gap-4">
+          {cardsDireita.map((post) => (
+            <SideCard key={post.slug} post={post} />
+          ))}
 
-          <div className="grid grid-cols-2 gap-3 lg:h-full lg:grid-rows-2 lg:pt-11">
-            {ultimas.map((post) => (
-              <MiniCard key={post.slug} post={post} />
-            ))}
-          </div>
+          {paginasDireita.length > 1 && (
+            <div className="absolute right-3 top-3 z-30 flex gap-1.5 rounded-full bg-black/65 px-2.5 py-2 backdrop-blur">
+              {paginasDireita.map((_, i) => (
+                <button
+                  key={i}
+                  onClick={() => setPaginaDireita(i)}
+                  aria-label={`Ver notícias ${i === 0 ? "6 e 7" : "8 e 9"}`}
+                  className={`h-2 rounded-full transition-all ${
+                    i === paginaDireita ? "w-6 bg-arcade" : "w-2 bg-paper/35 hover:bg-paper/60"
+                  }`}
+                />
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </section>
