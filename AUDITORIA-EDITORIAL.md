@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 482
-- Forte: 458
+- Total analisado: 483
+- Forte: 459
 - Revisar: 22
 - Prioridade: 2
 
@@ -358,6 +358,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
 | FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
+| FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
 | FORTE | notícia | 2191 | 8 | 100 | Onimusha: Way of the Sword ganha gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 7492 | 23 | 100 | Onimusha está de volta — e a Capcom parece ter entendido o peso de ressuscitar uma série após 20 anos | — |
