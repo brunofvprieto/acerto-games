@@ -68,8 +68,8 @@ export default function HeroCarousel({ posts }) {
                   <img
                     src={p.image}
                     alt=""
-                    className="h-full w-full object-contain object-right transition-transform duration-700 group-hover:scale-[1.012]"
-                    style={{ objectPosition: p.heroImagePos || "right center" }}
+                    className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.012]"
+                    style={{ objectPosition: p.heroImagePos || p.imagePos || "center center" }}
                   />
                 </div>
               </>
