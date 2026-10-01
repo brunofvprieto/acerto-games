@@ -30,7 +30,7 @@ function SideCard({ post }) {
 
       <div className="absolute inset-x-0 bottom-0 z-10 p-4 sm:p-5 lg:p-5 xl:p-6">
         <CategoryTag category={post.category} />
-        <h3 className="mt-2 font-display text-lg uppercase leading-[1.08] text-paper transition-colors group-hover:text-arcade sm:text-xl lg:text-[1.1rem] xl:text-[1.3rem]">
+        <h3 className="mt-2 font-display text-lg uppercase leading-[1.08] text-paper transition-colors group-hover:text-arcade sm:text-lg lg:text-[0.95rem] xl:text-[1.08rem]">
           {post.title}
         </h3>
         <p className="mt-3 font-mono text-[8px] uppercase tracking-[.11em] text-paper/65 sm:text-[9px]">
@@ -118,13 +118,13 @@ export default function HeroCarousel({ posts }) {
 
             <div className="absolute inset-x-0 bottom-0 z-10 p-5 sm:p-7 lg:p-8 xl:p-10">
               <CategoryTag category={p.category} />
-              <h2 className="mt-3 max-w-[96%] font-display text-2xl uppercase leading-[1.04] text-paper transition-colors group-hover:text-arcade sm:text-3xl md:text-4xl lg:text-[2.55rem] xl:text-[3rem]">
+              <h2 className="mt-3 max-w-[96%] font-display text-2xl uppercase leading-[1.04] text-paper transition-colors group-hover:text-arcade sm:text-2xl md:text-3xl lg:text-[2rem] xl:text-[2.3rem]">
                 {p.title}
               </h2>
-              <p className="mt-4 line-clamp-3 max-w-[88%] text-sm leading-relaxed text-paper/80 sm:text-base lg:text-sm xl:text-base">
+              <p className="mt-4 line-clamp-3 max-w-[88%] text-sm leading-relaxed text-paper/80 sm:text-sm lg:text-[0.78rem] xl:text-sm">
                 {p.excerpt}
               </p>
-              <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[9px] uppercase tracking-[.12em] text-paper/65 sm:text-[10px]">
+              <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[9px] uppercase tracking-[.12em] text-paper/65 sm:text-[9px]">
                 <span>
                   <span className="mr-1 text-arcade">▣</span>
                   {p.date}
