@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 483
-- Forte: 459
+- Total analisado: 487
+- Forte: 463
 - Revisar: 22
 - Prioridade: 2
 
@@ -247,6 +247,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
 | FORTE | artigo | 9123 | 36 | 100 | Glossário do jogador: DLSS, FSR, ray tracing, Nanite e todo o resto do palavrório técnico, explicado | — |
 | FORTE | noticia | 4271 | 12 | 100 | God of War Laufey revela edição Deluxe em púrpura e detalha o Arco de Serpente de Faye | — |
+| FORTE | notícia | 2926 | 10 | 100 | God of War Laufey entra no top 5 da PS Store no Brasil e dispara nas pré-vendas | — |
 | FORTE | noticia | 3219 | 12 | 100 | God of War terá outro Atreus: série prepara troca de ator para a segunda temporada | — |
 | FORTE | notícia | 2673 | 5 | 100 | Série de God of War deve trocar o ator de Atreus na 2ª temporada — e dessa vez a troca faz sentido | — |
 | FORTE | notícia | 2086 | 5 | 100 | Série de God of War perde seu Kratos: Ryan Hurst é substituído após lesão grave no set | — |
@@ -298,6 +299,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
+| FORTE | notícia | 2093 | 10 | 100 | Kena: Scars of Kosmora é adiado para 2027 e ganha novos detalhes | — |
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
 | FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
 | FORTE | notícia | 2214 | 9 | 100 | Konami anuncia Press Start para 3 de setembro com Castlevania, Silent Hill: Townfall e imagens inéditas | — |
@@ -395,6 +397,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
+| FORTE | notícia | 2452 | 10 | 100 | Nova revisão do PS5 Slim facilita troca da bateria e muda refrigeração | — |
 | FORTE | noticia | 1925 | 8 | 100 | Psikyo Memories resgata clássicos de navinha dos arcades no PS5 e Switch 2 | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
@@ -460,6 +463,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
+| FORTE | notícia | 2764 | 10 | 100 | Ubisoft reúne The Division, Ghost Recon e Splinter Cell sob a Massive Entertainment | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
 | FORTE | noticia | 3690 | 13 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
