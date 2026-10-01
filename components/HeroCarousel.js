@@ -38,7 +38,9 @@ function MiniCard({ post }) {
 export default function HeroCarousel({ posts }) {
   const [atual, setAtual] = useState(0);
   const [pausado, setPausado] = useState(false);
-  const total = posts?.length || 0;
+  const destaques = posts?.slice(0, 5) || [];
+  const ultimas = posts?.slice(5, 9) || [];
+  const total = destaques.length;
 
   const ir = useCallback(
     (i) => {
@@ -56,8 +58,7 @@ export default function HeroCarousel({ posts }) {
 
   if (!total) return null;
 
-  const p = posts[Math.min(atual, total - 1)];
-  const ultimas = posts.slice(0, 4);
+  const p = destaques[Math.min(atual, total - 1)];
 
   return (
     <section
@@ -152,7 +153,7 @@ export default function HeroCarousel({ posts }) {
               </button>
 
               <div className="absolute bottom-3 left-1/2 z-20 flex -translate-x-1/2 gap-2 rounded-full bg-black/55 px-3 py-2 backdrop-blur">
-                {posts.map((_, i) => (
+                {destaques.map((_, i) => (
                   <button
                     key={i}
                     onClick={() => ir(i)}
