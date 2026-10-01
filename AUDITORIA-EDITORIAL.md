@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 487
-- Forte: 463
+- Total analisado: 488
+- Forte: 464
 - Revisar: 22
 - Prioridade: 2
 
@@ -439,6 +439,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
+| FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
