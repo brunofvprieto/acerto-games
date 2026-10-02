@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 498
-- Forte: 474
+- Total analisado: 497
+- Forte: 473
 - Revisar: 22
 - Prioridade: 2
 
@@ -443,7 +443,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1861 | 8 | 100 | PlayStation anuncia State of Play duplo para 3 de setembro — e Final Fantasy VII Revelation fecha o evento | — |
 | FORTE | Notícias | 5475 | 29 | 100 | State of Play de setembro de 2026: veja todos os anúncios e trailers | — |
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
-| FORTE | noticia | 2071 | 10 | 100 | Steam abre Promoção de Outono 2026 com uma semana de descontos no PC | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
