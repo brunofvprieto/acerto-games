@@ -1,0 +1,33 @@
+{
+  "category": "noticia",
+  "author": "Bruno Vazquez",
+  "date": "2 out 2026",
+  "image": "https://img.youtube.com/vi/3onc3ownB14/maxresdefault.jpg",
+  "imagePos": "center center",
+  "imageAlt": "Marcus Fenix e Dom em Gears of War: E-Day",
+  "imageCredit": "Xbox Game Studios / The Coalition",
+  "slug": "gears-of-war-e-day-recorde-steam-series-s-ssd-memoria",
+  "title": "Gears of War: E-Day dobra recorde de Gears 5 no Steam antes do lançamento geral",
+  "excerpt": "E-Day alcança 20.374 jogadores simultâneos no acesso antecipado e estreia uma solução que usa o SSD como camada adicional de memória no Xbox Series S.",
+  "readTime": "6 min",
+  "cover": ["#711515", "#0d0d0d"],
+  "publicadoEm": "2026-10-02T20:50:00-03:00",
+  "source": "SteamDB / Digital Foundry",
+  "sourceUrl": "https://steamdb.info/app/3010850/charts/",
+  "body": [
+    "Gears of War: E-Day ainda não chegou ao lançamento geral e já estabeleceu um novo recorde para a série no Steam. Dados públicos do SteamDB registraram pico de 20.374 jogadores simultâneos em 2 de outubro durante o período de acesso antecipado. Gears 5, até então a principal referência da franquia na plataforma, alcançou pico histórico de 10.196.",
+    "A comparação exige contexto. O Steam não representa toda a audiência de Gears, especialmente por se tratar de uma propriedade historicamente ligada ao Xbox e agora também distribuída pelo Game Pass. Ainda assim, o indicador é relevante porque E-Day ultrapassou a marca anterior antes da abertura da edição padrão em 6 de outubro.",
+    "img:https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/GoW_EDAY_Adagio_4K_Final_09-0f31e58cf65dec22523a-1600x900.jpg | Gears of War: E-Day está em acesso antecipado desde 1º de outubro. Xbox Game Studios / The Coalition",
+    "## O recorde veio de uma base ainda restrita",
+    "O acesso antecipado é destinado a compradores das edições elegíveis e assinantes do Game Pass que tenham o Premium Upgrade. Isso significa que o pico de 20.374 não inclui ainda a parcela de jogadores que aguarda a edição regular ou a entrada geral pelo serviço da Microsoft.",
+    "O número também não deve ser confundido com vendas. Concorrência no Steam mede quantas pessoas estavam executando o jogo simultaneamente em determinado momento. Ela funciona como um sinal de atividade e interesse na plataforma, não como contagem de unidades comercializadas.",
+    "video:https://www.youtube.com/watch?v=3onc3ownB14",
+    "## Series S usa o SSD para aliviar a pressão sobre os 10 GB de memória",
+    "O lançamento trouxe ainda um desenvolvimento técnico que pode ter repercussão além de Gears. Em análise técnica publicada pela Digital Foundry, a equipe detalhou uma solução desenvolvida pela The Coalition em colaboração com o time de plataforma do Xbox e o Advanced Technology Group para o Xbox Series S.",
+    "O sistema usa o SSD como uma nova camada de memória para complementar os 10 GB de GDDR6 do console. A ideia é deslocar determinados dados de maneira controlada para reduzir a pressão sobre a memória física sem simplesmente desmontar a qualidade do cenário para fazer o jogo caber no hardware.",
+    "Segundo o relato técnico, a solução permitiu à equipe evitar reduções muito agressivas na qualidade do mundo. A The Coalition também indicou que outros times de desenvolvimento demonstraram interesse na técnica. Isso torna E-Day um caso importante para o Series S, cuja quantidade e configuração de memória têm sido um dos desafios recorrentes para jogos de grande escala nesta geração.",
+    "## O teste maior começa em 6 de outubro",
+    "O desempenho inicial cria uma referência, mas o lançamento geral será um teste muito mais representativo. Em 6 de outubro, Gears of War: E-Day é liberado para Xbox Series X|S, Windows PC e Steam e entra no Game Pass no primeiro dia.",
+    "Para o público brasileiro, essa combinação importa por dois motivos. O Game Pass reduz a barreira de entrada para uma parcela dos jogadores, enquanto o Series S continua sendo uma das portas de acesso à geração atual do Xbox. Um jogo de primeira linha da Microsoft conseguindo preservar escala visual nesse hardware é, portanto, mais do que uma curiosidade técnica: é uma demonstração de como o ecossistema pode administrar as diferenças entre seus dois consoles."
+  ]
+}
