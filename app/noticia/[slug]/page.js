@@ -196,6 +196,11 @@ export default function Noticia({ params }) {
                   .filter((item) => item.url && (item.url.startsWith("http") || item.url.startsWith("/")));
                 return <ArticleGallery key={i} items={items} />;
               }
+              if (paragraph.startsWith("embed:")) {
+                const src = paragraph.slice(6).trim();
+                if (!src || !src.startsWith("https://www.cbsnews.com/")) return null;
+                return <div key={i} className="aspect-video"><iframe className="h-full w-full border border-edge" src={src} title="Vídeo da CBS News" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen /></div>;
+              }
               if (paragraph.startsWith("video:")) {
                 const id = youTubeId(paragraph.slice(6).trim());
                 if (!id) return null;
