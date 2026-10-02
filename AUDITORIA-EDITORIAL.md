@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 497
-- Forte: 473
+- Total analisado: 498
+- Forte: 474
 - Revisar: 22
 - Prioridade: 2
 
@@ -150,6 +150,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
 | FORTE | noticia | 2457 | 11 | 100 | Ace Combat 8 traz de volta Annihilation Battle e novo trailer mostra superarmas e a guerra de Wings of Theve | — |
+| FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
 | FORTE | review | 14796 | 39 | 100 | Análise: Death Stranding 2 é uma obra-prima exuberante — Kojima entrega um dos grandes jogos da geração | — |
 | FORTE | review | 9924 | 37 | 100 | Análise: Hell is Us — um universo fascinante que merece ir muito além | — |
 | FORTE | artigo | 8037 | 25 | 100 | Netflix, Rockstar e o fim do disco: por que o trailer de GTA 6 é o sintoma, não a doença | — |
@@ -269,7 +270,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
-| FORTE | noticia | 2295 | 9 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
+| FORTE | noticia | 2491 | 10 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
 | FORTE | notícia | 1820 | 8 | 100 | GTA 6 ganha novas imagens oficiais — Jason e Lucia aparecem em fuga, cercados pela polícia e com visuais diferentes | — |
 | FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
