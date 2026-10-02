@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 494
-- Forte: 470
+- Total analisado: 498
+- Forte: 474
 - Revisar: 22
 - Prioridade: 2
 
@@ -191,6 +191,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1849 | 5 | 100 | Estúdio de Crisol demite todo o time menos de seis meses após o lançamento e admite que fechar de vez é uma possibilidade real | — |
 | FORTE | artigo | 5482 | 18 | 100 | Criticar GTA 6 não é odiar GTA 6 — e essa diferença importa | — |
 | FORTE | notícia | 2805 | 6 | 100 | Os maiores críticos do Game Pass estão dentro da própria Xbox | — |
+| FORTE | noticia | 1996 | 9 | 100 | Croc 2 está de volta: remaster chega em 29 de outubro com mais de 40 fases e museu histórico | — |
 | FORTE | artigo | 4142 | 15 | 100 | GTA 6 e o Cyberleek: o crime que virou entretenimento e o problema que ninguém está discutindo | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
@@ -423,6 +424,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
+| FORTE | noticia | 2137 | 10 | 100 | Signal Veil mistura survival horror, trauma psicológico e anime dos anos 90 | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
@@ -441,9 +443,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1861 | 8 | 100 | PlayStation anuncia State of Play duplo para 3 de setembro — e Final Fantasy VII Revelation fecha o evento | — |
 | FORTE | Notícias | 5475 | 29 | 100 | State of Play de setembro de 2026: veja todos os anúncios e trailers | — |
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
+| FORTE | noticia | 2071 | 10 | 100 | Steam abre Promoção de Outono 2026 com uma semana de descontos no PC | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
+| FORTE | noticia | 2165 | 9 | 100 | Filme de Street Fighter vai eternizar o EVO Moment 37 e terá Justin Wong em cena | — |
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
