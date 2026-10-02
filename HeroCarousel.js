@@ -28,8 +28,8 @@ export default function HeroCarousel({ posts }) {
           <div className="relative aspect-[16/9] w-full overflow-hidden bg-black">
             {p.image ? (
               <>
-                <div className="absolute inset-0 scale-105 bg-cover bg-center opacity-25 blur-2xl" style={{ backgroundImage: `url(${p.image})` }} />
-                <img key={p.slug} src={p.image} alt={p.imageAlt || ""} className="absolute inset-0 h-full w-full object-contain transition-transform duration-700 group-hover:scale-[1.008]"
+                <div className="absolute inset-0 scale-105 bg-cover bg-center opacity-18 blur-3xl" style={{ backgroundImage: `url(${p.image})` }} />
+                <img key={p.slug} src={p.image} alt={p.imageAlt || ""} className="absolute inset-0 h-full w-full object-contain p-3 transition-transform duration-700 group-hover:scale-[1.004] md:p-5 lg:p-7"
                   style={{ objectPosition: p.heroImagePos || p.imagePos || "center center" }} />
               </>
             ) : (
