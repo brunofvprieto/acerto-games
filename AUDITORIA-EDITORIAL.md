@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 498
-- Forte: 474
+- Total analisado: 499
+- Forte: 475
 - Revisar: 22
 - Prioridade: 2
 
@@ -271,6 +271,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
+| FORTE | noticia | 3511 | 10 | 100 | GTA 6 ganha novas imagens de Jason e Lucia e Rockstar detalha construção da dupla | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
 | FORTE | notícia | 1820 | 8 | 100 | GTA 6 ganha novas imagens oficiais — Jason e Lucia aparecem em fuga, cercados pela polícia e com visuais diferentes | — |
 | FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
