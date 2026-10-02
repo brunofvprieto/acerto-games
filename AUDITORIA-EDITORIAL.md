@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 492
-- Forte: 468
+- Total analisado: 493
+- Forte: 469
 - Revisar: 22
 - Prioridade: 2
 
@@ -233,6 +233,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
 | FORTE | notícia | 3458 | 6 | 100 | Fortnite fez uma collab com filme de terror sobre abuso sexual — e o resultado foi constrangedor | — |
 | FORTE | notícia | 2733 | 11 | 100 | Fortnite Override: o passe de batalha traz Sonic e Tetris, e a temporada inteira virou um museu dos videogames | — |
+| FORTE | noticia | 5545 | 20 | 100 | Fortnite: Pesadelos 2026 reúne FNAF, Freddy Krueger, Hollow Knight e uma avalanche de crossovers | — |
 | FORTE | noticia | 2293 | 10 | 100 | Sora chega a Fortnite nesta semana e crossover de Kingdom Hearts terá Riku, Kairi e Roxas | — |
 | FORTE | noticia | 2578 | 12 | 100 | Game Freak anuncia Ame no Chi Hare Onna, novo jogo que transforma a previsão do tempo em mecânica | — |
 | FORTE | notícia | 2252 | 6 | 100 | War for Westeros escorrega no gelo e vai para 2027 | — |
