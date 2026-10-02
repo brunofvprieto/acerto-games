@@ -28,10 +28,10 @@ export default function HeroCarousel({ posts }) {
 
         <div className="relative">
           <Link href={`/noticia/${p.slug}`} className="group relative block overflow-hidden border border-arcade bg-black shadow-[0_0_35px_rgba(46,232,108,.14)]" aria-label={p.title}>
-            <div className="relative aspect-[16/8.5] min-h-[500px] w-full overflow-hidden bg-black md:min-h-[610px] lg:min-h-[680px] xl:min-h-[720px]">
+            <div className="relative aspect-[16/9] min-h-[520px] w-full overflow-hidden bg-black md:min-h-[620px] lg:min-h-[700px] xl:min-h-[760px]">
               {p.image ? <>
                 <div className="absolute inset-0 scale-105 bg-cover bg-center opacity-20 blur-3xl" style={{backgroundImage:`url(${p.image})`}} />
-                <img key={p.slug} src={p.image} alt={p.imageAlt || ""} className="absolute inset-0 h-full w-full object-contain p-2 transition-transform duration-700 group-hover:scale-[1.004] md:p-4" style={{objectPosition:p.heroImagePos || p.imagePos || "center center"}} />
+                <img key={p.slug} src={p.image} alt={p.imageAlt || ""} className="absolute inset-0 h-full w-full object-contain p-5 transition-transform duration-700 group-hover:scale-[1.003] md:p-8 lg:p-10" style={{objectPosition:p.heroImagePos || p.imagePos || "center center"}} />
               </> : <div className="absolute inset-0" style={{background:`linear-gradient(135deg,${p.cover[0]},${p.cover[1]})`}} />}
               <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/15 to-transparent" />
               <div className="absolute inset-x-0 bottom-0 z-10 p-5 md:p-8 lg:p-10">
