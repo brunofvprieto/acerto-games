@@ -97,7 +97,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1473 | 7 | 92 | Overwatch revela Doctrine, novo suporte vampiresco ligado a Doomfist | texto curto |
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
 | FORTE | notícia | 1493 | 8 | 92 | The Blood of Dawnwalker chega nesta semana: RPG dos ex-The Witcher mistura humano de dia e vampiro à noite | texto curto |
-| FORTE | notícia | 1527 | 6 | 93 | GTA 6 leva Vice City à NBA com quadra e uniforme especiais do Miami Heat | texto curto |
 | FORTE | noticia | 1515 | 7 | 93 | Heroes of the Storm volta à vida: Xal'atath é a primeira nova heroína em seis anos | texto curto |
 | FORTE | notícia | 1509 | 5 | 93 | Persona 4 Revival volta ao Midnight Channel em novo trailer focado nas Sombras | texto curto |
 | FORTE | noticia | 1519 | 7 | 93 | Star Fox ganha atualização grátis no Switch 2 com multiplayer para quatro jogadores e novas arenas | texto curto |
@@ -281,6 +280,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
 | FORTE | noticia | 3511 | 10 | 100 | GTA 6 ganha novas imagens de Jason e Lucia e Rockstar detalha construção da dupla | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
+| FORTE | notícia | 1872 | 7 | 100 | GTA 6 leva Vice City à NBA com quadra e uniforme especiais do Miami Heat | — |
 | FORTE | notícia | 1820 | 8 | 100 | GTA 6 ganha novas imagens oficiais — Jason e Lucia aparecem em fuga, cercados pela polícia e com visuais diferentes | — |
 | FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
 | FORTE | notícia | 11098 | 43 | 100 | GTA 6 finalmente mostrou o jogo — e agora é difícil fingir que o hype está exagerado | — |
