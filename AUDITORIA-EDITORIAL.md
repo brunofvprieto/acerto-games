@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 509
-- Forte: 485
+- Total analisado: 510
+- Forte: 486
 - Revisar: 22
 - Prioridade: 2
 
@@ -184,6 +184,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
 | FORTE | Notícias | 2497 | 10 | 100 | Civilization VII vai à Era Atômica com Arc of Tomorrow e anuncia expansão Earthrise | — |
+| FORTE | noticia | 2998 | 10 | 100 | Clair Obscur: Expedition 33 deixa o Game Pass em 15 de outubro | — |
 | FORTE | notícia | 2134 | 5 | 100 | Criador de Gears of War quer voltar a fazer jogos — mas esquece o PvP: "Boa sorte pra quem entrar nessa" | — |
 | FORTE | notícia | 3603 | 6 | 100 | O Senhor dos Anéis influenciou Final Fantasy X — e a gente acabou de descobrir como | — |
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
