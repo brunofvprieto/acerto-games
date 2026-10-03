@@ -1,0 +1,31 @@
+{
+  "slug": "micron-demanda-memoria-ia-hardware-games",
+  "category": "notícia",
+  "title": "Demanda por memória para IA aumenta pressão sobre cadeia que também abastece hardware gamer",
+  "excerpt": "Micron relata forte procura de data centers e expansão de HBM disputa capacidade industrial com memórias convencionais usadas no mercado consumidor.",
+  "author": "Bruno Vazquez",
+  "date": "03 out 2026",
+  "readTime": "5 min",
+  "cover": [
+    "#2EE86C",
+    "#07110B"
+  ],
+  "image": "https://www.micron.com/content/dam/micron/global/public/products/product-images/dram/dram-module.jpg",
+  "imagePos": "center center",
+  "heroImagePos": "center center",
+  "imageCredit": "Micron / Divulgação",
+  "imageAlt": "Módulo de memória da Micron representa aumento da demanda global por chips de memória",
+  "publicadoEm": "2026-10-03T14:20:00-03:00",
+  "fonte": "Reuters",
+  "fonteUrl": "https://www.reuters.com/business/micron-forecasts-quarterly-revenue-above-estimates-2026-09-30/",
+  "body": [
+    "A expansão de infraestrutura para inteligência artificial está aumentando a disputa pela capacidade mundial de produção de memória. A Micron relatou forte crescimento dos compromissos de clientes e demanda elevada por componentes destinados a data centers, ao mesmo tempo em que a indústria direciona mais recursos para memórias HBM.",
+    "Segundo dados reportados pela Reuters, os compromissos de clientes da Micron em contratos de longo prazo cresceram em meio à procura por infraestrutura de IA. A empresa também amplia capacidade de produção nos Estados Unidos e no Japão.",
+    "## HBM e memória convencional dividem parte da cadeia",
+    "A pressão interessa ao setor de games porque memórias de alta largura de banda e DRAM convencional dependem de capacidade industrial compartilhada. A Samsung estima que HBM represente parcela maior da capacidade de wafers de DRAM no próximo ano, movimento capaz de reduzir a flexibilidade disponível para outros produtos.",
+    "Isso não confirma aumento de preço para consoles, placas de vídeo ou módulos de RAM. Valores ao consumidor dependem de contratos, estoques, câmbio, capacidade adicional e decisões de cada fabricante. O fato relevante é a competição crescente por uma cadeia que atende simultaneamente data centers e eletrônicos de consumo.",
+    "## O efeito brasileiro exige cautela",
+    "No Brasil, eventuais mudanças internacionais ainda passam por câmbio, tributação, distribuição e estoques locais. Não há base para estabelecer agora um reajuste específico. Ainda assim, a disponibilidade de memória merece acompanhamento porque afeta PCs, GPUs, consoles portáteis e outros dispositivos usados para jogos.",
+    "A corrida por IA, portanto, já influencia decisões industriais além dos servidores. O volume destinado a cada tipo de memória pode se tornar uma variável importante para o custo e a disponibilidade do hardware consumidor nos próximos ciclos de produto."
+  ]
+}
