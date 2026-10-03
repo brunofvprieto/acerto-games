@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 509
-- Forte: 485
+- Total analisado: 508
+- Forte: 484
 - Revisar: 22
 - Prioridade: 2
 
@@ -280,7 +280,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
 | FORTE | noticia | 3511 | 10 | 100 | GTA 6 ganha novas imagens de Jason e Lucia e Rockstar detalha construção da dupla | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
-| FORTE | notícia | 1872 | 7 | 100 | GTA 6 leva Vice City à NBA com quadra e uniforme especiais do Miami Heat | — |
 | FORTE | notícia | 1820 | 8 | 100 | GTA 6 ganha novas imagens oficiais — Jason e Lucia aparecem em fuga, cercados pela polícia e com visuais diferentes | — |
 | FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
 | FORTE | notícia | 11098 | 43 | 100 | GTA 6 finalmente mostrou o jogo — e agora é difícil fingir que o hype está exagerado | — |
