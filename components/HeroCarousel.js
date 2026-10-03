@@ -93,7 +93,7 @@ export default function HeroCarousel({ posts }) {
       className="py-5 sm:py-6"
     >
       <div className="grid gap-3 lg:grid-cols-[1.65fr_1fr] lg:items-start xl:gap-4">
-        <div className="relative aspect-[4/3] overflow-visible">
+        <div className="relative min-h-[470px] overflow-visible sm:min-h-[560px] lg:aspect-[4/3] lg:min-h-0">
           <Link
             href={`/noticia/${p.slug}`}
             className="group relative block h-full w-full overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
