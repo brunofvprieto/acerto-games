@@ -92,8 +92,8 @@ export default function HeroCarousel({ posts }) {
       aria-label="Principais manchetes"
       className="py-5 sm:py-6"
     >
-      <div className="grid gap-3 lg:h-[620px] lg:grid-cols-[1.65fr_1fr] lg:items-stretch xl:h-[680px] xl:gap-4">
-        <div className="relative min-h-[470px] overflow-visible sm:min-h-[560px] lg:min-h-0">
+      <div className="grid gap-3 lg:grid-cols-[1.65fr_1fr] lg:items-start xl:gap-4">
+        <div className="relative aspect-[4/3] overflow-visible">
           <Link
             href={`/noticia/${p.slug}`}
             className="group relative block h-full w-full overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_40px_rgba(46,232,108,.08)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_55px_rgba(46,232,108,.18)]"
@@ -175,7 +175,7 @@ export default function HeroCarousel({ posts }) {
           )}
         </div>
 
-        <div className="relative grid gap-3 lg:grid-rows-2 xl:gap-4">
+        <div className="relative grid gap-3 lg:aspect-[4/3] lg:grid-rows-2 xl:gap-4">
           {cardsDireita.map((post) => (
             <SideCard key={post.slug} post={post} />
           ))}
