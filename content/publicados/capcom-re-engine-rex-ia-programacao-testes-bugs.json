@@ -1,0 +1,42 @@
+{
+  "slug": "capcom-re-engine-rex-ia-programacao-testes-bugs",
+  "category": "noticia",
+  "title": "Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs",
+  "excerpt": "Projeto REX vai evoluir a tecnologia usada em Resident Evil, Monster Hunter e Street Fighter sem substituir a RE Engine do zero. Meta é usar IA em código, testes e ferramentas, não gerar arte dos jogos.",
+  "author": "Bruno Vazquez",
+  "date": "03 out 2026",
+  "readTime": "6 min",
+  "cover": [
+    "#d51f26",
+    "#090909"
+  ],
+  "image": "https://www.shacknews.com/images/image-o-matic.x?/images/2023/10/Capcom-REX-Engine-RE-Engine-upgrade.jpg",
+  "imagePos": "center center",
+  "heroImagePos": "center center",
+  "imageCredit": "Capcom / Divulgação",
+  "imageAlt": "Apresentação da Capcom sobre o projeto REX, evolução tecnológica da RE Engine",
+  "publicadoEm": "2026-10-03T13:58:00-03:00",
+  "fonte": "Capcom",
+  "fonteUrl": "https://www.capcom.co.jp/ir/english/data/pdf/annual/2025/annual_2025_dev_04.pdf",
+  "body": [
+    "A Capcom abriu uma nova frente para a tecnologia que sustenta praticamente toda a sua produção moderna. Durante a Capcom Open Conference RE:2026, realizada em Tóquio, o programador Satoshi Ishida detalhou o REX, projeto de evolução gradual da RE Engine com uma meta explícita: preparar a ferramenta para uma geração de desenvolvimento em que sistemas de inteligência artificial possam auxiliar programadores e equipes de qualidade.",
+    "A mudança exige uma distinção importante. A Capcom não anunciou uma engine capaz de criar sozinha cenários, personagens ou jogos completos. A estratégia apresentada está concentrada na infraestrutura de produção: tornar código e dados mais fáceis de compreender, acelerar ferramentas e, no futuro, permitir que IA ajude a escrever programas e execute sessões automatizadas de teste para procurar falhas.",
+    "## REX não substitui a RE Engine",
+    "A própria Capcom já havia definido REX como RE neXt Engine. Em vez de abandonar a tecnologia atual e obrigar milhares de desenvolvedores a migrar para uma ferramenta completamente nova, a empresa pretende integrar os componentes do REX progressivamente à RE Engine.",
+    "Essa escolha é estratégica. A RE Engine estreou em Resident Evil 7 e se tornou uma plataforma compartilhada entre diferentes equipes da companhia. Resident Evil, Monster Hunter, Devil May Cry e Street Fighter estão entre as franquias que se beneficiaram da mesma base tecnológica, permitindo reaproveitar conhecimento, ferramentas e profissionais entre projetos.",
+    "img:https://www.shacknews.com/images/image-o-matic.x?/images/2023/10/Capcom-REX-Engine-RE-Engine-upgrade.jpg | Diagrama apresentado pela Capcom mostra a evolução gradual da RE Engine para o projeto REX. Imagem: Capcom/Divulgação",
+    "## Por que a Capcom quer uma engine compreensível para IA",
+    "Ishida apontou três pressões sobre o desenvolvimento contemporâneo: jogos maiores tornam até operações simples mais demoradas, as equipes são cada vez mais amplas e diversas e a inteligência artificial começa a ocupar espaço nas ferramentas de produção.",
+    "Uma das respostas do REX é aproximar partes da arquitetura de linguagens e padrões amplamente utilizados. A consequência pretendida não é apenas facilitar o trabalho humano. Um código mais padronizado também pode ser interpretado com maior eficiência por modelos de IA.",
+    "No cenário descrito pela Capcom, esses sistemas poderiam gerar trechos de programação e executar automaticamente versões de teste, procurando bugs que hoje exigem muitas horas de trabalho manual. Qualidade, desempenho e velocidade de iteração passam, portanto, a fazer parte da mesma estratégia.",
+    "## IA no desenvolvimento não significa arte gerada por IA",
+    "A diferença é particularmente relevante em um momento de forte discussão sobre conteúdo generativo nos videogames. Shinichi Inoue, vice-presidente responsável por plataforma de desenvolvimento e soluções de IA da Capcom, já afirmou que a empresa enxerga a tecnologia como uma forma de ampliar a capacidade dos criadores, e não como substituta para a criação artística.",
+    "Por enquanto, o REX deve ser entendido como uma modernização do ambiente que existe por trás dos jogos. Programação, organização de dados, depuração, testes e comunicação entre ferramentas são áreas muito menos visíveis ao jogador, mas que têm impacto direto sobre custo e tempo de produção.",
+    "## A disputa das engines entra em outra fase",
+    "A decisão também chama atenção por ocorrer enquanto parte da indústria AAA adota engines externas para reduzir o custo de manter tecnologia proprietária. A Capcom está escolhendo o caminho oposto: preservar sua própria plataforma e investir para que ela continue competitiva.",
+    "Esse controle permite que uma melhoria criada para um projeto possa ser absorvida por outros jogos da empresa. Em uma companhia que mantém várias produções de grande porte simultaneamente, a eficiência da engine deixa de ser apenas uma questão gráfica e passa a ser parte do modelo industrial.",
+    "Não há um jogo anunciado como primeiro título de uma hipotética 'REX Engine'. Isso acontece justamente porque a Capcom não trata REX como uma ruptura. A transformação será feita por partes, dentro da tecnologia que seus estúdios já utilizam.",
+    "Para quem joga, a consequência mais importante talvez não apareça como um novo efeito visual em uma caixa de configurações. Se a estratégia funcionar, ela será percebida em algo mais difícil de medir: equipes capazes de testar mais, corrigir problemas mais cedo e produzir jogos cada vez maiores sem permitir que a complexidade técnica cresça na mesma proporção.",
+    "link: Relatório integrado da Capcom sobre a evolução da RE Engine e o projeto REX | https://www.capcom.co.jp/ir/english/data/pdf/annual/2025/annual_2025_dev_04.pdf"
+  ]
+}
