@@ -10,8 +10,8 @@ function Thumb({ post, className = "" }) {
       <img
         src={post.image}
         alt={post.imageAlt || post.title}
-        className={`h-full w-full object-cover ${className}`}
-        style={{ objectPosition: post.heroImagePos || post.imagePos || "center center" }}
+        className={`h-full w-full object-contain object-center ${className}`}
+        style={{ objectPosition: "center center" }}
       />
     );
   }
@@ -110,7 +110,7 @@ export default function HeroCarousel({ posts }) {
       onMouseLeave={() => setPausado(false)}
       aria-roledescription="carrossel"
       aria-label="Principais manchetes"
-      className="mx-auto w-full px-4 py-3 sm:px-5 sm:py-4 lg:px-6 2xl:px-8"
+      className="mx-auto w-full max-w-[1300px] px-4 py-3 sm:px-5 sm:py-4 lg:px-0"
     >
       <div className="grid gap-4 lg:h-[calc(100svh-175px)] lg:min-h-[500px] lg:max-h-[650px] lg:grid-cols-[minmax(0,2.05fr)_minmax(280px,.95fr)] lg:items-stretch">
         <div className="grid min-h-[620px] grid-rows-[minmax(0,2.35fr)_minmax(150px,.95fr)] gap-3 lg:min-h-0 xl:gap-4">
