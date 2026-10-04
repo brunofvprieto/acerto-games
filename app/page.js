@@ -155,8 +155,9 @@ export default function Home() {
   const retro = posts.filter((p) => p.category === "retrô");
 
   return (
-    <main className="mx-auto max-w-6xl px-4">
+    <main>
       <HeroCarousel posts={posts.slice(0, 9)} />
+      <div className="mx-auto max-w-6xl px-4">
       <SecaoGTA6 />
       <SecaoZelda />
       <DoisEspeciais />
@@ -190,6 +191,6 @@ export default function Home() {
           </div>
         </section>
       )}
-    </main>
+          </div>\n    </main>
   );
 }
