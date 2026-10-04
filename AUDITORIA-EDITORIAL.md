@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 510
-- Forte: 486
+- Total analisado: 512
+- Forte: 488
 - Revisar: 22
 - Prioridade: 2
 
@@ -129,6 +129,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
 | FORTE | noticia | 1720 | 8 | 98 | Control Resonant terá 60 fps no PS5 e modo 4K com ray tracing no PS5 Pro | texto curto |
 | FORTE | notícia | 1739 | 9 | 98 | Onimusha: Way of the Sword sai da Gamescom 2026 com dois grandes prêmios | texto curto |
+| FORTE | notícia | 1716 | 7 | 98 | RuneScape vai ganhar série animada com Jagex, Lyrical Animation e MoistCr1TiKaL | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
 | FORTE | noticia | 1711 | 7 | 98 | Game Pass fecha setembro com Minecraft Dungeons II e já prepara Gears of War: E-Day | texto curto |
 | FORTE | notícia | 1704 | 7 | 98 | Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração | texto curto |
@@ -430,6 +431,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
 | FORTE | noticia | 2148 | 9 | 100 | The Rogue Prince of Persia ganha enorme atualização de aniversário com gelo, novos modos e armas | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
+| FORTE | notícia | 1891 | 7 | 100 | RuneScape prepara RS4, novo MMORPG em Unreal Engine que vai coexistir com os jogos atuais | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
