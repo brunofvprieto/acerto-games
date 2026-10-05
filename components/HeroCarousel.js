@@ -57,7 +57,7 @@ export default function HeroCarousel({ posts }) {
 
   return (
     <section onMouseEnter={() => setPausado(true)} onMouseLeave={() => setPausado(false)} aria-roledescription="carrossel" aria-label="Principais manchetes" className="mx-auto w-full max-w-[1300px] px-4 py-3 sm:px-5 sm:py-4 lg:px-0">
-      <div className="grid gap-4 lg:h-[calc(100svh-175px)] lg:min-h-[500px] lg:max-h-[650px] lg:grid-cols-[minmax(0,2.05fr)_minmax(280px,.95fr)] lg:items-stretch">
+      <div className="grid gap-4 lg:min-h-[580px] lg:grid-cols-[minmax(0,2.05fr)_minmax(280px,.95fr)] lg:items-stretch">
         <div className="min-h-0 lg:grid lg:grid-rows-[minmax(0,2.35fr)_minmax(150px,.95fr)] lg:gap-3 xl:gap-4">
           <div className="relative aspect-[4/5] min-h-0 max-h-[520px] overflow-hidden sm:aspect-[16/10] sm:max-h-none lg:aspect-auto lg:max-h-none">
             <Link href={`/noticia/${p.slug}`} className="group relative block h-full w-full overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_35px_rgba(46,232,108,.07)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_50px_rgba(46,232,108,.14)]">
