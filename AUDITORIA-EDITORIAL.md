@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 513
-- Forte: 489
+- Total analisado: 515
+- Forte: 491
 - Revisar: 22
 - Prioridade: 2
 
@@ -239,6 +239,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1799 | 8 | 100 | Final Fantasy Resonance ganha trailer da TGS 2026 antes do lançamento em outubro | texto curto |
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
+| FORTE | notícia | 2314 | 10 | 100 | Black Clover chega ao Fortnite com Asta, Noelle e Yuno em novo pacote | — |
 | FORTE | notícia | 3458 | 6 | 100 | Fortnite fez uma collab com filme de terror sobre abuso sexual — e o resultado foi constrangedor | — |
 | FORTE | notícia | 2733 | 11 | 100 | Fortnite Override: o passe de batalha traz Sonic e Tetris, e a temporada inteira virou um museu dos videogames | — |
 | FORTE | noticia | 5545 | 20 | 100 | Fortnite: Pesadelos 2026 reúne FNAF, Freddy Krueger, Hollow Knight e uma avalanche de crossovers | — |
@@ -315,6 +316,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
 | FORTE | notícia | 2093 | 10 | 100 | Kena: Scars of Kosmora é adiado para 2027 e ganha novos detalhes | — |
+| FORTE | notícia | 2818 | 10 | 100 | Kingdom Hearts celebra 25 anos com trailer especial e prepara nova coletânea para esta semana | — |
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
 | FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
 | FORTE | notícia | 3487 | 10 | 100 | Kojima retorna ao KOJI10 e mostra elenco inédito de PHYSINT aos apresentadores | — |
