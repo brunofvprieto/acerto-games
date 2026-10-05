@@ -157,7 +157,7 @@ export default function Home() {
   return (
     <main>
       <HeroCarousel posts={posts.slice(0, 10)} />
-      <div className="mx-auto w-full max-w-[1300px] px-4 sm:px-5 lg:px-0">
+      <div className="mx-auto w-full max-w-[1240px] px-4 sm:px-5 lg:px-0">
       <SecaoGTA6 />
       <SecaoZelda />
       <DoisEspeciais />
