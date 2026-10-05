@@ -191,6 +191,7 @@ export default function Home() {
           </div>
         </section>
       )}
-          </div>\n    </main>
+      </div>
+    </main>
   );
 }
