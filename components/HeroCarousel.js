@@ -56,7 +56,7 @@ export default function HeroCarousel({ posts }) {
   const p = destaques[Math.min(atual, total - 1)];
 
   return (
-    <section onMouseEnter={() => setPausado(true)} onMouseLeave={() => setPausado(false)} aria-roledescription="carrossel" aria-label="Principais manchetes" className="mx-auto w-full max-w-[1300px] px-4 py-3 sm:px-5 sm:py-4 lg:px-0">
+    <section onMouseEnter={() => setPausado(true)} onMouseLeave={() => setPausado(false)} aria-roledescription="carrossel" aria-label="Principais manchetes" className="mx-auto w-full max-w-[1240px] px-4 py-3 sm:px-5 sm:py-4 lg:px-0">
       <div className="grid gap-4 lg:min-h-[580px] lg:grid-cols-[minmax(0,2.05fr)_minmax(280px,.95fr)] lg:items-stretch">
         <div className="min-h-0 lg:grid lg:grid-rows-[minmax(0,2.35fr)_minmax(150px,.95fr)] lg:gap-3 xl:gap-4">
           <div className="relative aspect-[4/5] min-h-0 max-h-[520px] overflow-hidden sm:aspect-[16/10] sm:max-h-none lg:aspect-auto lg:max-h-none">
