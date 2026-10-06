@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 523
-- Forte: 499
+- Total analisado: 524
+- Forte: 500
 - Revisar: 22
 - Prioridade: 2
 
@@ -375,6 +375,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 2790 | 12 | 100 | Nintendo anuncia dois Directs seguidos; Zelda terá especial de 40 anos e comunidade já faz apostas | — |
 | FORTE | notícia | 4857 | 14 | 100 | Nintendo fatura menos, mas lucro operacional mais que dobra: o Switch 2 entrou na fase que dá dinheiro | — |
 | FORTE | noticia | 3354 | 14 | 100 | Nintendo diz que Switch 2 está “apenas no começo” e detalha estratégia para os próximos anos | — |
+| FORTE | notícia | 2706 | 11 | 100 | Nintendo anuncia novo bundle do Switch 2 no Japão com escolha entre três jogos | — |
 | FORTE | noticia | 1961 | 7 | 100 | Nintendo Switch 2 ganha bundle com EA SPORTS FC 27 no Brasil em 15 de outubro | — |
 | FORTE | notícia | 2567 | 7 | 100 | Nintendo Switch 2 terá novo preço no Brasil: R$ 4.599,90 a partir de setembro | — |
 | FORTE | notícia | 3032 | 16 | 100 | Nintendo anuncia novos bundles do Switch 2 com Mario Kart World e Switch Sports Resort | — |
