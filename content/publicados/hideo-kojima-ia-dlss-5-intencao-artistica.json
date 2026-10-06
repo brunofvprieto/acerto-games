@@ -1,0 +1,38 @@
+{
+  "slug": "hideo-kojima-ia-dlss-5-intencao-artistica",
+  "category": "notícia",
+  "title": "Kojima alerta para uso de IA capaz de alterar a intenção original de uma obra",
+  "excerpt": "Criador de Death Stranding reconhece aplicações úteis da inteligência artificial, mas questiona ferramentas que passam a tomar decisões visuais no lugar dos artistas.",
+  "author": "Bruno Vazquez",
+  "date": "06 out 2026",
+  "publicadoEm": "2026-10-06T08:42:00-03:00",
+  "readTime": "5 min",
+  "cover": [
+    "#2EE86C",
+    "#111111"
+  ],
+  "image": "/img/hideo-kojima-death-stranding-metal-gear.jpg",
+  "imageAlt": "Hideo Kojima, criador de Death Stranding e Metal Gear",
+  "imageCredit": "Kojima Productions / Divulgação",
+  "imagePos": "center center",
+  "fonte": "KOJI10 / GamesRadar+",
+  "fonteUrl": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+  "body": [
+    "Hideo Kojima vê utilidade na inteligência artificial, mas não gosta da ideia de entregar a ela decisões que pertencem aos artistas. Durante o novo episódio do KOJI10, o criador de Death Stranding falou sobre reconstrução de imagem, restauração de obras antigas e o avanço de ferramentas capazes de alterar aspectos visuais de uma produção.",
+    "A posição apresentada por Kojima não é uma rejeição completa da tecnologia. Ele reconheceu que IA pode ser útil em tarefas como restaurar fotografias antigas, adicionar cor a imagens ou acelerar processos que ainda exigem grande quantidade de trabalho manual.",
+    "## O problema começa quando a ferramenta passa a decidir",
+    "Para Kojima, existe uma diferença importante entre restaurar uma obra e reinterpretá-la. Um sistema pode reconstruir pixels, aumentar resolução ou modificar uma imagem, mas isso não significa que compreenda por que um diretor escolheu determinado enquadramento, uma luz específica ou determinada aparência para um personagem.",
+    "Durante a conversa, Kojima usou justamente a iluminação como exemplo. Uma cena pode ter sido construída daquela forma por uma razão artística. Se uma ferramenta altera esse resultado apenas para torná-lo mais realista ou tecnicamente mais limpo, a imagem pode acabar distante da intenção de quem a criou.",
+    "A discussão ganhou força porque Death Stranding 2 também entrou recentemente no debate sobre tecnologias de reconstrução associadas ao DLSS 5. Em entrevista repercutida nesta terça-feira, Kojima afirmou ter sentimentos mistos sobre o tema e disse não gostar da ideia de retirar dos artistas o trabalho ou o controle sobre suas próprias obras.",
+    "## Tecnologia pode ajudar sem substituir a autoria",
+    "Kojima também citou processos de restauração de filmes antigos, que hoje ainda passam por equipes especializadas. Na visão dele, é provável que a inteligência artificial automatize parte desse trabalho no futuro. O ponto de resistência aparece quando a automação deixa de auxiliar e passa a decidir como a obra deveria parecer.",
+    "O próprio nível de detalhe de Death Stranding 2 foi usado para ilustrar a questão. Elementos como cabelo, iluminação e materiais passam por decisões específicas durante a produção. Uma IA capaz de gerar uma versão diferente pode produzir algo visualmente convincente sem necessariamente preservar essas escolhas.",
+    "## Não foi uma crítica direta a Metal Gear Solid Delta",
+    "Parte da discussão nas redes associou a fala de Kojima a remakes e, especificamente, a Metal Gear Solid Delta: Snake Eater. Essa relação é interpretação de fãs e comentaristas. Kojima não citou o remake da Konami como alvo direto de sua crítica no trecho discutido.",
+    "O argumento é mais amplo: quanto mais as ferramentas conseguem interferir em luz, textura, materiais e aparência de personagens, maior fica a fronteira entre aprimorar tecnicamente uma imagem e reescrevê-la artisticamente.",
+    "Para Kojima, a tecnologia pode se tornar padrão. O desconforto está em outro lugar: se o criador perde o controle sobre as decisões que definem sua obra, a reconstrução deixa de ser apenas técnica.",
+    "link: GamesRadar+: entrevista e declarações de Kojima sobre IA e DLSS 5 | https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+    "video: https://www.youtube.com/watch?v=YDTq8SeY9s0"
+  ],
+  "observacao": "Separar a fala de Kojima da interpretação da comunidade. Não afirmar que ele criticou Metal Gear Solid Delta diretamente."
+}
