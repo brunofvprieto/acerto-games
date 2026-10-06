@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 515
-- Forte: 491
+- Total analisado: 520
+- Forte: 496
 - Revisar: 22
 - Prioridade: 2
 
@@ -160,6 +160,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2034 | 5 | 100 | GTA 6 deveria custar US$ 200? Analista acha que a Rockstar tá vendendo barato | — |
 | FORTE | notícia | 3132 | 6 | 100 | Analista avisa: o fim dos jogos físicos no PS5 pode fechar as lojas de games de vez | — |
 | FORTE | Artigos | 5915 | 15 | 100 | Antes de Phantom Blade Zero: conheça os jogos que deram origem ao universo da S-GAME | — |
+| FORTE | notícia | 3576 | 11 | 100 | ARC Raiders e The Finals terão adaptações para cinema e TV com a Chernin | — |
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
 | FORTE | notícia | 2074 | 6 | 100 | Black Flag Resynced ganha atualização que deixa esconder a zarabatana das costas do Edward | — |
 | FORTE | notícia | 2101 | 5 | 100 | DLC polêmico do dia 1 de Black Flag Resynced rendeu US$ 1 milhão só no Steam — e a galera tá furiosa | — |
@@ -354,6 +355,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
+| FORTE | notícia | 3933 | 13 | 100 | Monster Hunter Rise atinge 20 milhões de cópias e celebra caçadores de Kamura | — |
 | FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
 | FORTE | notícia | 3515 | 12 | 100 | Monster Hunter Wilds fica R$ 110 mais barato e ganha demo grátis que salva seu progresso | — |
 | FORTE | noticia | 1836 | 7 | 100 | Monster Hunter Wilds no Switch 2 começou a ser desenvolvido em junho de 2025 | — |
@@ -391,6 +393,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 5260 | 20 | 100 | A mídia física não está morrendo do jeito que a gente imagina — e o Switch 2 explica por quê | — |
 | FORTE | Opinião | 5655 | 15 | 100 | Outubro chegou: Phantom Blade Zero é o jogo mais aguardado do mês no Acerto Games | — |
 | FORTE | notícia | 2416 | 5 | 100 | Stadium, o modo que quis reinventar o Overwatch, vai murchar: sem novos heróis nem mapas | — |
+| FORTE | notícia | 3058 | 10 | 100 | Overwatch recebe Doctrine e transforma Sombra em suporte na Temporada 5 | — |
 | FORTE | notícia | 2115 | 5 | 100 | Palworld 1.0 já vendeu mais de 1,8 milhão de cópias desde o lançamento, aponta analista | — |
 | FORTE | notícia | 2467 | 6 | 100 | Palworld está dominando a Steam de novo — e quase repetiu a marca de 1 milhão de jogadores simultâneos | — |
 | FORTE | notícia | 3926 | 11 | 100 | As caçadas de Monster Hunter sobreviveram: Peace Walker mantém a parceria com a Capcom na Master Collection Vol. 2 | — |
@@ -418,6 +421,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
+| FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
 | FORTE | noticia | 5124 | 16 | 100 | Sony leva upscaling por IA ao PS5 comum com QSSR; Wolverine e Ghost of Yōtei estreiam tecnologia | — |
 | FORTE | notícia | 2452 | 10 | 100 | Nova revisão do PS5 Slim facilita troca da bateria e muda refrigeração | — |
@@ -453,6 +457,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1890 | 8 | 100 | Splatoon Raiders ganha novas builds oficiais para transformar Salmonids em caos no Switch 2 | — |
 | FORTE | notícia | 2348 | 6 | 100 | Splatoon Raiders faz história: maior nota de usuários da Nintendo no Metacritic (e top 10 de todos os tempos) | — |
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
+| FORTE | notícia | 3575 | 12 | 100 | Star Wars: Galactic Racer chega hoje com corridas clandestinas e Sebulba | — |
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
 | FORTE | notícia | 2407 | 5 | 100 | StarCraft na BlizzCon: a Blizzard está nos dando pistas de um novo jogo ou a gente tá vendo coisa? | — |
 | FORTE | noticia | 5961 | 23 | 100 | StarCraft está de volta: novo jogo chega em 2030 e primeiro trailer marca uma nova era para a franquia | — |
