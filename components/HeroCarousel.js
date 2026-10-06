@@ -6,7 +6,7 @@ import { CategoryTag } from "./Cards";
 
 function Thumb({ post, className = "" }) {
   if (post.image) {
-    return <img src={post.image} alt={post.imageAlt || post.title} className={`h-full w-full object-contain object-center ${className}`} style={{ objectPosition: "center center" }} />;
+    return <img src={post.image} alt={post.imageAlt || post.title} className={`h-full w-full object-cover ${className}`} style={{ objectPosition: post.heroImagePos || post.imagePos || "center center" }} />;
   }
   return <div className={`h-full w-full ${className}`} style={{ background: `linear-gradient(135deg, ${post.cover?.[0] || "#111"}, ${post.cover?.[1] || "#222"})` }} />;
 }
