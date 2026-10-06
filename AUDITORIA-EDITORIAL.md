@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 525
-- Forte: 501
+- Total analisado: 526
+- Forte: 502
 - Revisar: 22
 - Prioridade: 2
 
@@ -322,6 +322,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
 | FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
 | FORTE | notícia | 2884 | 12 | 100 | Kojima acredita que jogos em mídia física podem desaparecer em até três anos | — |
+| FORTE | notícia | 2917 | 11 | 100 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | — |
 | FORTE | notícia | 3487 | 10 | 100 | Kojima retorna ao KOJI10 e mostra elenco inédito de PHYSINT aos apresentadores | — |
 | FORTE | notícia | 2214 | 9 | 100 | Konami anuncia Press Start para 3 de setembro com Castlevania, Silent Hill: Townfall e imagens inéditas | — |
 | FORTE | notícia | 2689 | 7 | 100 | Konami ressuscita Suikoden 14 anos depois — mas tem uma pegadinha no caminho | — |
