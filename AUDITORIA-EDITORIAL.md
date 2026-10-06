@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 526
-- Forte: 502
+- Total analisado: 527
+- Forte: 503
 - Revisar: 22
 - Prioridade: 2
 
@@ -171,6 +171,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
 | FORTE | notícia | 4427 | 7 | 100 | Tsuru Reef é o maior mapa de Battlefield 6 — e pode ser aquele que você nunca joga de novo | — |
+| FORTE | noticia | 2618 | 10 | 100 | Battlefield 6 leva guerra a Las Vegas e Área 51 no trailer da Temporada 5 | — |
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
