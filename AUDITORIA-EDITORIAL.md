@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 530
-- Forte: 506
+- Total analisado: 532
+- Forte: 508
 - Revisar: 22
 - Prioridade: 2
 
@@ -77,6 +77,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4224 | 15 | 90 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | sem fonte |
 | FORTE | noticia | 6244 | 23 | 90 | Equipe de Gears of War: E-Day teme demissões após lançamento e possível perda de bônus | sem fonte |
 | FORTE | noticia | 4693 | 15 | 90 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | sem fonte |
+| FORTE | notícia | 3253 | 14 | 90 | GTA 6 terá streaming pelo Xbox Cloud Gaming, mas Microsoft nega exclusividade | sem fonte |
 | FORTE | noticia | 5584 | 16 | 90 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | sem fonte |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 2917 | 11 | 90 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | sem fonte |
@@ -86,6 +87,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5066 | 20 | 90 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | sem fonte |
 | FORTE | noticia | 2818 | 11 | 90 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | sem fonte |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
+| FORTE | notícia | 3363 | 16 | 90 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
 | FORTE | noticia | 4818 | 12 | 90 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | sem fonte |
 | FORTE | noticia | 8797 | 25 | 90 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | sem fonte |
