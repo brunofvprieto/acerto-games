@@ -77,7 +77,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4224 | 15 | 90 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | sem fonte |
 | FORTE | noticia | 6244 | 23 | 90 | Equipe de Gears of War: E-Day teme demissões após lançamento e possível perda de bônus | sem fonte |
 | FORTE | noticia | 4693 | 15 | 90 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | sem fonte |
-| FORTE | notícia | 3253 | 14 | 90 | GTA 6 terá streaming pelo Xbox Cloud Gaming, mas Microsoft nega exclusividade | sem fonte |
+| FORTE | notícia | 2962 | 15 | 90 | GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming no lançamento, diz executivo | sem fonte |
 | FORTE | noticia | 5584 | 16 | 90 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | sem fonte |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 2917 | 11 | 90 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | sem fonte |
