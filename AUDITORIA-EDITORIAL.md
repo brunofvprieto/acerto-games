@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 529
-- Forte: 505
+- Total analisado: 530
+- Forte: 506
 - Revisar: 22
 - Prioridade: 2
 
@@ -70,6 +70,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1764 | 7 | 89 | Rayman Legends Retold ganha trailer de seis minutos e detalha mundo inédito, poderes e Kung Foot Evo | texto curto, sem fonte |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
 | FORTE | noticia | 5042 | 17 | 90 | Armed Fantasia tem desenvolvimento descontinuado pela Digital Bros após anos de produção | sem fonte |
+| FORTE | notícia | 5666 | 24 | 90 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | sem fonte |
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | noticia | 1988 | 8 | 90 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | sem fonte |
 | FORTE | noticia | 1985 | 8 | 90 | Escape From Playtime leva os Smiling Critters ao terror cooperativo e chega em outubro | sem fonte |
