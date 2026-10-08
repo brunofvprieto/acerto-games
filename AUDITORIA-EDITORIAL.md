@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 537
-- Forte: 513
+- Total analisado: 538
+- Forte: 514
 - Revisar: 22
 - Prioridade: 2
 
@@ -221,6 +221,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4415 | 16 | 100 | Dave Bautista negocia para ser o novo Kratos da série de God of War | — |
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
 | FORTE | notícia | 2437 | 5 | 100 | Deborah Ann Woll sobre os haters de God of War Laufey: "Em nenhum universo o jogo é ruim" | — |
+| FORTE | noticia | 4725 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
 | FORTE | noticia | 2059 | 10 | 100 | Diablo IV no Switch 2 chega a 1440p e oferece modo de 40 FPS; Blizzard detalha a versão | — |
