@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 539
-- Forte: 515
+- Total analisado: 540
+- Forte: 516
 - Revisar: 22
 - Prioridade: 2
 
@@ -302,6 +302,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 11098 | 43 | 100 | GTA 6 finalmente mostrou o jogo — e agora é difícil fingir que o hype está exagerado | — |
 | FORTE | notícia | 2371 | 10 | 100 | Rumor: página vazada da Netflix indica que o "Olhar Estendido" de GTA 6 pode ter três episódios e mais de uma hora | — |
 | FORTE | notícia | 3766 | 7 | 100 | GTA 6 pode faturar até R$ 29 bilhões na semana de lançamento — e a pré-venda já é recorde histórico | — |
+| FORTE | notícia | 4592 | 17 | 100 | GTA VI: Bad Bunny, Lana Del Rey, Slayer e Burna Boy comandam as rádios de Leonida | — |
 | FORTE | notícia | 2476 | 11 | 100 | Bloomberg: Rockstar ainda não sabe quem é o Cyberleek nem como o acesso aconteceu | — |
 | FORTE | notícia | 1795 | 5 | 100 | Take-Two defende GTA 6 sem disco e diz que mídia física “não faz sentido” em alguns casos | texto curto |
 | FORTE | notícia | 2669 | 6 | 100 | GTA 6 sem PC não é ganância — ex-produtor da Rockstar explica o motivo de verdade | — |
