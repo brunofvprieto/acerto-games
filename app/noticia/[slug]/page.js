@@ -198,6 +198,9 @@ export default function Noticia({ params }) {
               }
               if (paragraph.startsWith("embed:")) {
                 const src = paragraph.slice(6).trim();
+                if (src.startsWith("https://www.rockstargames.com/VI/music/embed/")) {
+                  return <div key={i} className="w-full"><iframe className="h-[220px] w-full border border-edge" src={src} title="Prévia da estação de rádio de GTA VI" loading="lazy" allow="autoplay; encrypted-media" /></div>;
+                }
                 if (!src || !src.startsWith("https://www.cbsnews.com/")) return null;
                 return <div key={i} className="aspect-video"><iframe className="h-full w-full border border-edge" src={src} title="Vídeo da CBS News" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen /></div>;
               }
