@@ -63,9 +63,9 @@ export default function HeroCarousel({ posts }) {
             <Link href={`/noticia/${p.slug}`} className="group relative block h-full w-full overflow-hidden border border-arcade/80 bg-black shadow-[0_0_0_1px_rgba(46,232,108,.12),0_0_35px_rgba(46,232,108,.07)] transition-shadow hover:shadow-[0_0_0_1px_rgba(46,232,108,.5),0_0_50px_rgba(46,232,108,.14)]">
               <div className="absolute inset-0"><Thumb post={p} className="transition-transform duration-700 group-hover:scale-[1.015]" /></div>
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black via-black/25 to-black/0" />
-              <div className="absolute inset-x-0 bottom-0 z-10 max-w-[92%] p-4 sm:max-w-[82%] sm:p-6 xl:p-7">
+              <div className="absolute inset-x-0 bottom-0 z-10 max-w-full p-4 pb-10 sm:p-6 sm:pb-11 xl:p-7 xl:pb-12">
                 <CategoryTag category={p.category} />
-                <h2 className="mt-3 line-clamp-3 font-display text-xl uppercase leading-[1.02] text-paper transition-colors group-hover:text-arcade sm:text-2xl md:text-3xl xl:text-[2rem]">{p.title}</h2>
+                <h2 className="mt-3 font-display text-[1.3rem] uppercase leading-[1.08] text-paper transition-colors group-hover:text-arcade sm:text-[1.45rem] md:text-[1.65rem] xl:text-[1.8rem] [overflow-wrap:anywhere]">{p.title}</h2>
                 <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[8px] uppercase tracking-[.1em] text-paper/60"><span>{p.date}</span>{p.readTime && <span>{p.readTime} de leitura</span>}</div>
               </div>
             </Link>
