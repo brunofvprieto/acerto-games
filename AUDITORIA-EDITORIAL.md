@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 536
-- Forte: 512
+- Total analisado: 537
+- Forte: 513
 - Revisar: 22
 - Prioridade: 2
 
@@ -179,6 +179,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
+| FORTE | noticia | 3730 | 12 | 100 | Battlefield 6 chega ao Game Pass em outubro, enquanto jogo brasileiro Deep Dish Dungeon estreia no serviço | — |
 | FORTE | notícia | 4427 | 7 | 100 | Tsuru Reef é o maior mapa de Battlefield 6 — e pode ser aquele que você nunca joga de novo | — |
 | FORTE | noticia | 2618 | 10 | 100 | Battlefield 6 leva guerra a Las Vegas e Área 51 no trailer da Temporada 5 | — |
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
