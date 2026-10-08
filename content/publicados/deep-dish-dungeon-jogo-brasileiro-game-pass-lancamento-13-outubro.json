@@ -10,9 +10,9 @@
     "#8a5e35",
     "#0b0c0d"
   ],
-  "image": "https://img.youtube.com/vi/F32DqJa9TYo/hqdefault.jpg",
-  "imageFilename": "deep-dish-dungeon-trailer-lancamento-youtube.jpg",
-  "imageAlt": "Arte do trailer de Deep Dish Dungeon, jogo brasileiro da Behold Studios que estreia em outubro no Game Pass",
+  "image": "/img/deep-dish-dungeon-behold-studios-keyart.jpg",
+  "imageFilename": "deep-dish-dungeon-behold-studios-keyart.jpg",
+  "imageAlt": "Aventureiro com tocha em masmorra escura, arte de Deep Dish Dungeon",
   "imagePos": "center center",
   "imageCredit": "Behold Studios / Raw Fury / Divulgação",
   "fonte": "Raw Fury",
@@ -41,6 +41,6 @@
     "É tentador medir o sucesso de um jogo independente apenas pelo tamanho de seu lançamento. O caso de Deep Dish Dungeon sugere uma leitura mais interessante. Um estúdio com raízes em Brasília, reconhecido por projetos anteriores, chega a um catálogo global de assinatura com uma proposta autoral e sem tentar competir diretamente com o espetáculo dos grandes blockbusters.",
     "A presença no Game Pass não assegura vendas, audiência ou reconhecimento duradouro. Oferece, porém, uma vitrine significativa para um jogo que aposta em mecânicas menos convencionais. Para a cena brasileira, o lançamento é mais um exemplo de como produções locais podem circular internacionalmente preservando uma identidade própria.",
     "## Assista ao trailer de lançamento",
-    "https://www.youtube.com/watch?v=F32DqJa9TYo"
+    "video: https://www.youtube.com/watch?v=F32DqJa9TYo"
   ]
 }
