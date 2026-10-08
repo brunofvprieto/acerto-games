@@ -76,7 +76,7 @@ function ArtigoDestaque({ posts }) {
   );
 }
 
-const ARTE_GTA6 = "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg";
+const ARTE_GTA6 = "/img/gta-6-lucia-jason-arte-oficial.jpg";
 
 function SecaoGTA6() {
   return (
