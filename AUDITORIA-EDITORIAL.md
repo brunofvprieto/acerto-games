@@ -84,7 +84,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 2917 | 11 | 90 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | sem fonte |
 | FORTE | noticia | 2616 | 7 | 90 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | sem fonte |
-| FORTE | noticia | 3716 | 11 | 90 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | sem fonte |
+| FORTE | noticia | 3898 | 12 | 90 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | sem fonte |
 | FORTE | noticia | 3895 | 13 | 90 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | sem fonte |
 | FORTE | notícia | 5159 | 26 | 90 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | sem fonte |
 | FORTE | noticia | 2024 | 7 | 90 | Nintendo anuncia Switch 2 com Monster Hunter Wilds para dezembro; pacote inclui jogo digital e bônus | sem fonte |
