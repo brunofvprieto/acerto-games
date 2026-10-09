@@ -12,8 +12,7 @@ export function Cover({ colors, image, position, alt = "", className = "", fit =
       <div className={`cover ${className}`} style={{ background: gradiente }}>
         <div
           aria-hidden="true"
-          className="absolute inset-0 scale-125 opacity-50 blur-2xl"
-          style={{ background: `url(${image}) center / cover no-repeat` }}
+          className="absolute inset-0 bg-black"
         />
         <img
           src={image}
