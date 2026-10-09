@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 542
-- Forte: 518
+- Total analisado: 544
+- Forte: 520
 - Revisar: 22
 - Prioridade: 2
 
@@ -87,6 +87,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3895 | 13 | 90 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | sem fonte |
 | FORTE | notícia | 5159 | 26 | 90 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | sem fonte |
 | FORTE | noticia | 2024 | 7 | 90 | Nintendo anuncia Switch 2 com Monster Hunter Wilds para dezembro; pacote inclui jogo digital e bônus | sem fonte |
+| FORTE | noticia | 4152 | 10 | 90 | Nintendo supera PlayStation e Xbox na média de avaliações de 2026; veja todos os jogos | sem fonte |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | noticia | 2031 | 7 | 90 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | sem fonte |
 | FORTE | noticia | 4982 | 16 | 90 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | sem fonte |
@@ -96,6 +97,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3363 | 16 | 90 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
 | FORTE | noticia | 4818 | 12 | 90 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | sem fonte |
+| FORTE | noticia | 3642 | 10 | 90 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | sem fonte |
 | FORTE | noticia | 8797 | 25 | 90 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | sem fonte |
 | FORTE | noticia | 5786 | 17 | 90 | Xbox teria garantido exclusividade de GTA 6 no streaming em nuvem no lançamento | sem fonte |
 | FORTE | noticia | 4744 | 15 | 90 | Xbox Helix pode ter 40% mais TFLOPS que o PS6 — mas isso não significa 40% mais desempenho | sem fonte |
