@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 540
-- Forte: 516
+- Total analisado: 542
+- Forte: 518
 - Revisar: 22
 - Prioridade: 2
 
@@ -74,6 +74,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | noticia | 1988 | 8 | 90 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | sem fonte |
 | FORTE | noticia | 1985 | 8 | 90 | Escape From Playtime leva os Smiling Critters ao terror cooperativo e chega em outubro | sem fonte |
+| FORTE | noticia | 2760 | 7 | 90 | Forza Horizon 6 chega ao PS5 em janeiro de 2027 com 60 FPS, cross-save e primeira expansão | sem fonte |
 | FORTE | noticia | 4224 | 15 | 90 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | sem fonte |
 | FORTE | noticia | 6244 | 23 | 90 | Equipe de Gears of War: E-Day teme demissões após lançamento e possível perda de bônus | sem fonte |
 | FORTE | noticia | 4693 | 15 | 90 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | sem fonte |
@@ -82,6 +83,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 5584 | 16 | 90 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | sem fonte |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 2917 | 11 | 90 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | sem fonte |
+| FORTE | noticia | 2616 | 7 | 90 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | sem fonte |
 | FORTE | noticia | 3895 | 13 | 90 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | sem fonte |
 | FORTE | notícia | 5159 | 26 | 90 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | sem fonte |
 | FORTE | noticia | 2024 | 7 | 90 | Nintendo anuncia Switch 2 com Monster Hunter Wilds para dezembro; pacote inclui jogo digital e bônus | sem fonte |
