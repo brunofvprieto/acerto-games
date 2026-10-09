@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 545
-- Forte: 521
+- Total analisado: 546
+- Forte: 522
 - Revisar: 22
 - Prioridade: 2
 
@@ -78,6 +78,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4224 | 15 | 90 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | sem fonte |
 | FORTE | noticia | 6244 | 23 | 90 | Equipe de Gears of War: E-Day teme demissões após lançamento e possível perda de bônus | sem fonte |
 | FORTE | noticia | 4693 | 15 | 90 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | sem fonte |
+| FORTE | noticia | 2981 | 12 | 90 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | sem fonte |
 | FORTE | notícia | 2962 | 15 | 90 | GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming no lançamento, diz executivo | sem fonte |
 | FORTE | noticia | 5480 | 21 | 90 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | sem fonte |
 | FORTE | noticia | 5584 | 16 | 90 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | sem fonte |
