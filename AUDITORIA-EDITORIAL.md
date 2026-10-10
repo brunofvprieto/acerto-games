@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 547
-- Forte: 523
+- Total analisado: 548
+- Forte: 524
 - Revisar: 22
 - Prioridade: 2
 
@@ -89,6 +89,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3895 | 13 | 90 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | sem fonte |
 | FORTE | notícia | 5159 | 26 | 90 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | sem fonte |
 | FORTE | noticia | 2024 | 7 | 90 | Nintendo anuncia Switch 2 com Monster Hunter Wilds para dezembro; pacote inclui jogo digital e bônus | sem fonte |
+| FORTE | notícia | 3939 | 12 | 90 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | sem fonte |
 | FORTE | noticia | 4152 | 10 | 90 | Nintendo supera PlayStation e Xbox na média de avaliações de 2026; veja todos os jogos | sem fonte |
 | FORTE | notícia | 5211 | 14 | 90 | Phantom Blade Zero impressiona nas primeiras prévias, mas ainda deixa dúvidas sobre o desempenho | sem fonte |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
