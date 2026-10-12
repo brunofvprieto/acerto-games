@@ -200,6 +200,22 @@ export default function Noticia({ params }) {
                   <div key={i} className="rounded-lg border border-edge bg-surface p-5">
                     <h3 className="font-display text-xl font-bold text-arcade">Veredito</h3>
                     <p className="mt-2 text-base leading-relaxed">{detalhes[3] || ""}</p>
+                    {post.fichaTecnica && (
+                      <div className="mt-5 grid gap-4 border-t border-edge pt-5 sm:grid-cols-[120px_minmax(0,1fr)]">
+                        <img src={post.fichaTecnica.imagem || post.image} alt={post.imageAlt || post.title} loading="lazy" className="w-full rounded border border-edge object-cover" />
+                        <div className="min-w-0">
+                          <p className="font-mono text-xs uppercase tracking-wider text-arcade">Ficha técnica</p>
+                          <p className="mt-2 font-display text-lg font-bold text-paper">{post.fichaTecnica.nome}</p>
+                          <p className="mt-1 font-mono text-2xl font-bold text-arcade">{Number(post.fichaTecnica.nota).toFixed(1)}<span className="text-sm text-dim">/10</span> <span className="text-sm text-paper">{post.fichaTecnica.conceito}</span></p>
+                          <dl className="mt-3 grid gap-x-3 gap-y-1 text-sm sm:grid-cols-[100px_1fr]">
+                            <dt className="text-dim">Lançamento</dt><dd>{post.fichaTecnica.lancamento}</dd>
+                            <dt className="text-dim">Plataformas</dt><dd>{post.fichaTecnica.plataformas}</dd>
+                            <dt className="text-dim">Desenvolvedora</dt><dd>{post.fichaTecnica.desenvolvedora}</dd>
+                            <dt className="text-dim">Distribuidora</dt><dd>{post.fichaTecnica.distribuidora}</dd>
+                          </dl>
+                        </div>
+                      </div>
+                    )}
                   </div>
                 );
               }
