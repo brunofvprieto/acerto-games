@@ -154,9 +154,24 @@ export default function Noticia({ params }) {
           <CategoryTag category={post.category} />
           <h1 className="mt-3 font-display text-3xl leading-tight md:text-4xl">{post.title}</h1>
           <p className="mt-3 text-lg text-dim">{post.excerpt}</p>
-          <p className="mt-4 font-mono text-xs uppercase tracking-widest text-dim">
-            Por <Link href="/autor/bruno-vazquez" rel="author" className="text-paper hover:text-arcade">{post.author}</Link> · {post.date} · {post.readTime} de leitura
-          </p>
+          <div className="mt-4 flex items-center gap-3">
+            {post.authorImage && (
+              <img
+                src={post.authorImage}
+                alt={`Foto de ${post.author}`}
+                width="48"
+                height="48"
+                className="h-12 w-12 shrink-0 rounded-full border border-edge object-cover"
+              />
+            )}
+            <p className="font-mono text-xs uppercase tracking-widest text-dim">
+              Por {post.authorImage ? (
+                <span className="font-semibold text-paper">{post.author}</span>
+              ) : (
+                <Link href="/autor/bruno-vazquez" rel="author" className="text-paper hover:text-arcade">{post.author}</Link>
+              )} · {post.date} · {post.readTime} de leitura
+            </p>
+          </div>
 
           {isOpinion && (
             <aside className="mt-5 border-l-2 border-[#FF7A45] bg-surface px-4 py-3 text-sm leading-relaxed text-dim">
