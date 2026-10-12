@@ -12,7 +12,7 @@
     "#1c1516"
   ],
   "image": "/img/reviews/deep-dish-dungeon-sala-estatuas.jpeg",
-  "imageAlt": "Deep Dish Dungeon mostra salão de estátuas em cenário retrô de masmorra",
+  "imageAlt": "Salão de estátuas de Deep Dish Dungeon, cenário retrô com passagem ao fundo",
   "imageCredit": "Captura do jogo Deep Dish Dungeon. Créditos: Behold Studios / Raw Fury",
   "imagePos": "center center",
   "score": 8,
@@ -46,6 +46,8 @@
     "A organização desse arsenal, porém, poderia ser mais cômoda. Espaços dedicados às armaduras e um suporte específico para a tocha tornariam o inventário mais fácil de administrar. São sugestões de conforto que combinariam bem com a riqueza de opções já presente no jogo.",
     "## Três grandes confrontos, três ideias diferentes",
     "Os chefes ajudam a demonstrar a inventividade de Deep Dish Dungeon. A Aranha-Rainha se destaca pela atmosfera de terror e pelo impacto de sua presença. A Moreia aposta em uma dinâmica de interação com o ambiente, que faz o jogador pensar para além do ataque direto. A Harpia impressiona visualmente e tem uma introdução pouco convencional, acompanhada de um percurso que valoriza a observação e os quebra-cabeças.",
+    "img: /img/reviews/deep-dish-dungeon-cooperativo-aventureiro.jpeg | A exploração cooperativa permite enfrentar a masmorra acompanhado. Captura do jogo Deep Dish Dungeon. Créditos: Behold Studios / Raw Fury.",
+    "img: /img/reviews/deep-dish-dungeon-cooperativo-aranha.jpeg | Cooperação diante de uma criatura nas passagens da masmorra. Captura do jogo Deep Dish Dungeon. Créditos: Behold Studios / Raw Fury.",
     "A graça está em descobrir a lógica de cada encontro, por isso não vale antecipar suas soluções. Durante alguns confrontos, encontramos pequenas inconsistências no comportamento dos inimigos. A desenvolvedora já confirmou uma atualização de lançamento destinada a corrigir problemas identificados na versão antecipada, especialmente no multiplayer.",
     "img: /img/reviews/deep-dish-dungeon-criatura-encapuzada.jpeg | Criatura encapuzada encontrada durante a travessia das masmorras. Captura do jogo Deep Dish Dungeon. Créditos: Behold Studios / Raw Fury.",
     "## A movimentação pode acompanhar melhor a liberdade dos sistemas",
@@ -60,13 +62,11 @@
     "Deep Dish Dungeon entende o prazer da descoberta. Sua direção artística retrô dá personalidade aos ambientes, os enigmas recompensam a curiosidade e a variedade de equipamentos torna cada incursão mais interessante. A culinária é um dos grandes destaques, criando possibilidades de experimentação que fazem diferença real na maneira de jogar.",
     "Algumas inconsistências pontuais e aspectos da movimentação e do inventário merecem refinamento, mas não ofuscam a qualidade do conjunto. A criatividade dos três grandes confrontos e a satisfação de desvendar novos caminhos deixam uma impressão bastante positiva.",
     "Ao final da jornada, permaneci com vontade de voltar para encontrar os segredos que ficaram para trás. É um bom sinal para qualquer jogo construído em torno da curiosidade.",
-    "**Nota Acerto Games: 80/100.**",
-    "**Pontos positivos:** direção artística retrô, exploração recompensadora, puzzles bem elaborados, sistema culinário profundo e diversidade de equipamentos.",
-    "**Pontos a melhorar:** pequenas inconsistências de comportamento, movimentação e organização de inventário.",
+    "veredito: Deep Dish Dungeon | 8.0 | Bom | A exploração recompensa a curiosidade com cenários retrô expressivos, enigmas criativos e um sistema de culinária surpreendentemente profundo. Pequenas inconsistências e oportunidades de melhoria no inventário não ofuscam a qualidade da aventura. | Direção artística retrô;Exploração e puzzles;Culinária e equipamentos;Cooperativo divertido | Pequenas inconsistências;Movimentação e inventário",
     "## Agradecimento",
     "O Acerto Games agradece à Raw Fury e à Behold Studios pelo envio antecipado da chave de Deep Dish Dungeon e pela oportunidade de conhecer e analisar o jogo antes de seu lançamento."
   ],
-  "observacao": "Review final para publicação após liberação do embargo em 12/10/2026, às 11h (Brasília). Sem spoilers; Knight Sword omitida. 45 das 62 receitas experimentadas. A atualização de lançamento foi confirmada, mas não há confirmação de que o comportamento dos chefes esteja entre as correções. Agradecimento à Raw Fury e à Behold Studios. Capturas feitas durante o jogo; não publicar automaticamente.",
+  "observacao": "Review final para publicação após liberação do embargo em 12/10/2026, às 11h (Brasília). Sem spoilers; Knight Sword omitida. 45 das 62 receitas experimentadas. A atualização de lançamento foi confirmada, mas não há confirmação de que o comportamento dos chefes esteja entre as correções. Agradecimento à Raw Fury e à Behold Studios. Capturas feitas durante o jogo; não publicar automaticamente. | Pacote revisado: duas capturas cooperativas na seção de chefes; veredito visual compacto requer atualização do componente de página incluída no pacote.",
   "publicadoEm": "2026-10-12T11:00:00-03:00",
   "jogoReviewado": "Deep Dish Dungeon"
 }
