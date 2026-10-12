@@ -194,6 +194,15 @@ export default function Noticia({ params }) {
 
           <div className="mt-8 space-y-5 text-lg leading-relaxed">
             {post.body.map((paragraph, i) => {
+              if (paragraph.toLowerCase().startsWith("veredito:")) {
+                const detalhes = paragraph.slice(paragraph.indexOf(":") + 1).split("|").map((x) => x.trim());
+                return (
+                  <div key={i} className="rounded-lg border border-edge bg-surface p-5">
+                    <h3 className="font-display text-xl font-bold text-arcade">Veredito</h3>
+                    <p className="mt-2 text-base leading-relaxed">{detalhes[3] || ""}</p>
+                  </div>
+                );
+              }
               if (paragraph.startsWith("## ")) return <h2 key={i} className="font-display text-xl text-arcade pt-3">{paragraph.slice(3)}</h2>;
               if (paragraph.startsWith("img:")) {
                 const [url, credito] = paragraph.slice(4).split("|").map((s) => s.trim());
