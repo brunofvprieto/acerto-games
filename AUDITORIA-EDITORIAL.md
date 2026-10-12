@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 548
-- Forte: 524
+- Total analisado: 549
+- Forte: 525
 - Revisar: 22
 - Prioridade: 2
 
@@ -395,6 +395,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1988 | 7 | 100 | Nintendo marca Direct dedicado a Fire Emblem: Fortune's Weave para esta terça | — |
 | FORTE | noticia | 2726 | 10 | 100 | Nintendo transforma o DK Challenge em coleção física com 39 cards de Donkey Kong | — |
 | FORTE | Notícias | 2790 | 12 | 100 | Nintendo anuncia dois Directs seguidos; Zelda terá especial de 40 anos e comunidade já faz apostas | — |
+| FORTE | notícia | 2590 | 9 | 100 | Nintendo afirma que não pretende abandonar jogos em mídia física | — |
 | FORTE | notícia | 4857 | 14 | 100 | Nintendo fatura menos, mas lucro operacional mais que dobra: o Switch 2 entrou na fase que dá dinheiro | — |
 | FORTE | noticia | 3354 | 14 | 100 | Nintendo diz que Switch 2 está “apenas no começo” e detalha estratégia para os próximos anos | — |
 | FORTE | notícia | 2706 | 11 | 100 | Nintendo anuncia novo bundle do Switch 2 no Japão com escolha entre três jogos | — |
