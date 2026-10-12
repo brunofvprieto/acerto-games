@@ -126,7 +126,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1576 | 6 | 94 | Pokémon Pokopia: primeira parte do DLC, Bubbly Basin, chega em 5 de agosto | texto curto |
 | FORTE | review | 8929 | 22 | 95 | Análise: Resident Evil Requiem — o medo voltou, e ele tem nome de Grace Ashcroft | fonte sem URL |
 | FORTE | review | 11684 | 23 | 95 | Análise: Star Wars Outlaws — a fantasia de fora-da-lei que a galáxia merecia | fonte sem URL |
-| FORTE | review | 8162 | 27 | 95 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | fonte sem URL |
+| FORTE | review | 7971 | 27 | 95 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | fonte sem URL |
 | FORTE | notícia | 1599 | 5 | 95 | Dragon's Dogma 2 no Switch 2: produtor diz que a performance tá superando as expectativas deles | texto curto |
 | FORTE | retrô | 5300 | 11 | 95 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
 | FORTE | notícia | 5716 | 18 | 95 | A semana decisiva de GTA 6: reunião da Take-Two na sexta, trailer 3 no ar da esperança e um like da Rockstar que virou caso | fonte sem URL |
