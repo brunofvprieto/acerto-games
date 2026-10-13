@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 551
-- Forte: 527
+- Total analisado: 552
+- Forte: 528
 - Revisar: 22
 - Prioridade: 2
 
@@ -73,6 +73,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5666 | 24 | 90 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | sem fonte |
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | noticia | 1988 | 8 | 90 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | sem fonte |
+| FORTE | notícia | 5018 | 15 | 90 | Epic Games adia jogo de Marvel e Star Wars e determina uso intensivo de inteligência artificial | sem fonte |
 | FORTE | noticia | 1985 | 8 | 90 | Escape From Playtime leva os Smiling Critters ao terror cooperativo e chega em outubro | sem fonte |
 | FORTE | noticia | 2760 | 7 | 90 | Forza Horizon 6 chega ao PS5 em janeiro de 2027 com 60 FPS, cross-save e primeira expansão | sem fonte |
 | FORTE | noticia | 4224 | 15 | 90 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | sem fonte |
