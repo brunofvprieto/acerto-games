@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 552
-- Forte: 528
+- Total analisado: 557
+- Forte: 533
 - Revisar: 22
 - Prioridade: 2
 
@@ -54,6 +54,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
 | FORTE | notícia | 1285 | 6 | 87 | GTA 6 terá animais lendários e espécies raras para rastrear em Leonida | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
+| FORTE | noticia | 1279 | 5 | 87 | Metaphor: ReFantazio recebe demo gratuita no Switch 2 com transferência de progresso | texto curto |
 | FORTE | noticia | 1688 | 7 | 87 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto, sem fonte |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
@@ -117,6 +118,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1473 | 7 | 92 | Overwatch revela Doctrine, novo suporte vampiresco ligado a Doomfist | texto curto |
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
 | FORTE | notícia | 1493 | 8 | 92 | The Blood of Dawnwalker chega nesta semana: RPG dos ex-The Witcher mistura humano de dia e vampiro à noite | texto curto |
+| FORTE | noticia | 1517 | 6 | 93 | God of War: Laufey ganha caixa de colecionador de €149,99, mas jogo é vendido à parte | texto curto |
 | FORTE | noticia | 1515 | 7 | 93 | Heroes of the Storm volta à vida: Xal'atath é a primeira nova heroína em seis anos | texto curto |
 | FORTE | notícia | 1509 | 5 | 93 | Persona 4 Revival volta ao Midnight Channel em novo trailer focado nas Sombras | texto curto |
 | FORTE | noticia | 1519 | 7 | 93 | Star Fox ganha atualização grátis no Switch 2 com multiplayer para quatro jogadores e novas arenas | texto curto |
@@ -139,6 +141,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
 | FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | noticia | 1619 | 6 | 95 | Warcraft III recebe Forsaken Kingdom, primeira nova campanha em 23 anos | texto curto |
+| FORTE | noticia | 1639 | 6 | 96 | Castlevania: Belmont’s Curse agrada nas primeiras análises, mas exploração divide opiniões | texto curto |
 | FORTE | notícia | 1659 | 8 | 96 | GTA 6 terá academia, caiaque e mergulho entre as atividades de Jason e Lucia | texto curto |
 | FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
@@ -165,6 +168,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1762 | 9 | 99 | Ondeh Ondeh: Kaya’s Tasty Tale mistura ritmo, puzzles e cultura do Sudeste Asiático | texto curto |
 | FORTE | notícia | 1752 | 5 | 99 | Mario, GTA e mais 8: os ports mais caros da história que vão fazer seu bolso chorar | texto curto |
 | FORTE | noticia | 1771 | 8 | 99 | Solo Leveling: KARMA mostra guerra de 27 anos e gameplay roguelite em novos trailers | texto curto |
+| FORTE | noticia | 1763 | 6 | 99 | Squadron 42 chega à lista de desejos da Steam e mira lançamento em 2027 | texto curto |
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
 | FORTE | noticia | 1753 | 8 | 99 | The Duskbloods segue para 2026, mas data continua em segredo após falso vazamento de setembro | texto curto |
 | FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
@@ -381,6 +385,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
+| FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
 | FORTE | notícia | 3933 | 13 | 100 | Monster Hunter Rise atinge 20 milhões de cópias e celebra caçadores de Kamura | — |
 | FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
