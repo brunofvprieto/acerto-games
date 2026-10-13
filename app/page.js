@@ -27,32 +27,25 @@ function FaixaNews({posts}) {
   );
 }
 
-function DoisEspeciais() {
+function ArtigosEspeciais({posts}) {
+  const items=posts.filter((p)=>["artigo","especial"].includes(p.category) && p.image).slice(0,12);
+  if (!items.length) return null;
   return (
-    <section className="py-8">
-      <h2 className="mb-4 font-display text-xl uppercase"><span className="text-arcade">◆</span> Especiais</h2>
-      <div className="grid gap-4 md:grid-cols-2">
-        <Link href="/especial-metal-gear" className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[340px]">
-          <img src="/img/especiais/metal-gear-shinkawa.jpg" alt="Arte da saga Metal Gear por Yoji Shinkawa" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105" />
-          <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-transparent" />
-          <div className="relative">
-            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#E4C860]">Especial em cartaz</p>
-            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">A Saga <span className="text-[#E4C860]">Metal Gear</span></h3>
-            <p className="mt-2 max-w-sm text-sm text-paper/80">De Shadow Moses ao campo de flores de Snake Eater: história, bastidores e a cronologia genial, jogo a jogo.</p>
-            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#E4C860]">Entrar no especial ▸</span>
-          </div>
-        </Link>
-        <Link href="/artigos" className="group relative flex min-h-[300px] flex-col justify-end overflow-hidden border border-[#4D9FFF]/40 bg-surface p-6 transition-all hover:border-[#7DBBFF] md:min-h-[340px]">
-          <div className="absolute inset-0 bg-gradient-to-br from-surface via-ink to-ink opacity-90" />
-          <div className="pointer-events-none absolute right-4 top-4 font-display text-[7rem] leading-none text-[#4D9FFF]/5 md:text-[9rem]">✦</div>
-          <div className="relative">
-            <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[#7DBBFF]">Além da notícia</p>
-            <h3 className="mt-2 font-display text-3xl uppercase leading-none text-paper md:text-4xl">Artigos <span className="text-[#7DBBFF]">Especiais</span></h3>
-            <p className="mt-2 max-w-sm text-sm text-paper/70">Memória afetiva, cultura gamer e as histórias por trás dos jogos que marcaram a gente. Textos pra ler com calma.</p>
-            <span className="mt-3 inline-block font-mono text-xs uppercase tracking-widest text-[#7DBBFF]">Ver os artigos ▸</span>
-          </div>
-        </Link>
+    <section className="py-8" aria-label="Artigos especiais">
+      <div className="mb-5 flex items-end justify-between gap-3">
+        <h2 className="text-[2.5rem] font-black leading-none tracking-[-.065em] text-paper sm:text-6xl lg:text-[5rem]">Artigos especiais</h2>
+        <Link href="/artigos" className="shrink-0 pb-1 text-xs font-bold uppercase tracking-wider text-arcade hover:text-paper sm:text-sm">Mais artigos&nbsp; ›</Link>
       </div>
+      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
+        {items.map((p)=><Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
+          <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
+            <img src={p.image} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
+          </div>
+          <h3 className="mt-4 text-lg font-bold leading-[1.3] text-paper transition-colors group-hover:text-arcade">{p.title}</h3>
+          <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-dim"><span className="mr-3 text-arcade">◆ ◆ ◆</span>{p.date}</p>
+        </Link>)}
+      </div>
+      <Link href="/especial-metal-gear" className="mt-1 inline-block text-sm font-semibold text-[#E4C860] hover:text-paper">Conheça também o especial Metal Gear&nbsp; ›</Link>
     </section>
   );
 }
@@ -183,7 +176,7 @@ export default function Home() {
       <FaixaNews posts={posts.slice(5, 20)} />
       <SecaoGTA6 />
       <SecaoZelda />
-      <DoisEspeciais />
+      <ArtigosEspeciais posts={posts} />
       <OpiniaoDestaque posts={posts} />
       <ReviewDestaque posts={posts} />
       {noticias.length > 0 && (
