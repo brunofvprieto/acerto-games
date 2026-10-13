@@ -5,6 +5,28 @@ import CountdownGTA from "../components/CountdownGTA";
 import CountdownZelda from "../components/CountdownZelda";
 import HeroCarousel from "../components/HeroCarousel";
 
+function FaixaNews({posts}) {
+  const items=posts.filter(p=>p.image).slice(0,10);
+  if (!items.length) return null;
+  return (
+    <section className="py-8" aria-label="News">
+      <div className="mb-5 flex items-end justify-between gap-3">
+        <h2 className="text-5xl font-black tracking-[-.075em] text-paper sm:text-7xl lg:text-[6rem]">News</h2>
+        <Link href="/noticias" className="pb-2 text-sm font-bold uppercase tracking-wider text-arcade hover:text-paper">More news&nbsp; ›</Link>
+      </div>
+      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
+        {items.map((p)=><Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
+          <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
+            <img src={p.image} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
+          </div>
+          <h3 className="mt-4 text-lg font-bold leading-[1.3] text-paper transition-colors group-hover:text-arcade">{p.title}</h3>
+          <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-dim"><span className="mr-3 text-arcade">◆ ◆ ◆</span>{p.date}</p>
+        </Link>)}
+      </div>
+    </section>
+  );
+}
+
 function DoisEspeciais() {
   return (
     <section className="py-8">
@@ -158,6 +180,7 @@ export default function Home() {
     <main>
       <HeroCarousel posts={posts.slice(0, 10)} />
       <div className="mx-auto w-full max-w-[1240px] px-4 sm:px-5 lg:px-0">
+      <FaixaNews posts={posts.slice(5, 20)} />
       <SecaoGTA6 />
       <SecaoZelda />
       <DoisEspeciais />
