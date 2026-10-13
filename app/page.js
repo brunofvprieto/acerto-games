@@ -9,10 +9,10 @@ function FaixaNews({posts}) {
   const items=posts.filter(p=>p.image).slice(0,10);
   if (!items.length) return null;
   return (
-    <section className="py-8" aria-label="News">
+    <section className="py-8" aria-label="Notícias">
       <div className="mb-5 flex items-end justify-between gap-3">
-        <h2 className="text-5xl font-black tracking-[-.075em] text-paper sm:text-7xl lg:text-[6rem]">News</h2>
-        <Link href="/noticias" className="pb-2 text-sm font-bold uppercase tracking-wider text-arcade hover:text-paper">More news&nbsp; ›</Link>
+        <h2 className="text-5xl font-black tracking-[-.075em] text-paper sm:text-7xl lg:text-[6rem]">Notícias</h2>
+        <Link href="/noticias" className="pb-2 text-sm font-bold uppercase tracking-wider text-arcade hover:text-paper">Mais notícias&nbsp; ›</Link>
       </div>
       <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
         {items.map((p)=><Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
