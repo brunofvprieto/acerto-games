@@ -18,8 +18,8 @@ export default function HeroCarousel({posts=[]}) {
  useEffect(()=>{if(paused||top.length<2)return;const t=setInterval(()=>setActive(x=>(x+1)%top.length),8000);return()=>clearInterval(t)},[paused,top.length]);
  if(!main)return null;
  const side=[...top.slice(0,active),...top.slice(active+1),...posts.slice(5)].slice(0,4);
- return <section className="mx-auto w-full max-w-[1240px] px-4 pb-6 pt-6 sm:px-5 lg:px-0" onMouseEnter={()=>setPaused(true)} onMouseLeave={()=>setPaused(false)} aria-label="Games: destaques">
-  <div className="mb-5 flex items-center justify-between"><h2 className="text-[1.65rem] font-black tracking-tight text-paper sm:text-[2rem]">Games</h2><Link href="/noticias" className="text-sm font-bold text-[#ff8b4d] hover:text-paper">Ver tudo&nbsp; ›</Link></div>
+ return <section className="mx-auto w-full max-w-[1240px] px-4 pb-6 pt-6 sm:px-5 lg:px-0" onMouseEnter={()=>setPaused(true)} onMouseLeave={()=>setPaused(false)} aria-label="Destaques">
+  <div className="mb-5 flex items-center justify-end"><Link href="/noticias" className="text-sm font-bold text-[#ff8b4d] hover:text-paper">Ver tudo&nbsp; ›</Link></div>
   <div className="grid items-start gap-6 lg:grid-cols-[minmax(0,1.95fr)_minmax(0,1.95fr)] lg:gap-8">
    <div className="min-w-0">
     <Link href={`/noticia/${main.slug}`} className="group block">
