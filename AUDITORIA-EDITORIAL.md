@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 557
-- Forte: 533
+- Total analisado: 558
+- Forte: 534
 - Revisar: 22
 - Prioridade: 2
 
@@ -139,6 +139,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 13158 | 41 | 95 | As melhores sequências de abertura de todos os tempos — Parte 1 | fonte sem URL |
 | FORTE | noticia | 1581 | 8 | 95 | Monster Hunter Wilds: Ascendance transforma a Long Sword com novos counters e combos | texto curto |
 | FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
+| FORTE | notícia | 1816 | 7 | 95 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo da franquia para Nintendo Switch 2 | fonte sem URL |
 | FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | noticia | 1619 | 6 | 95 | Warcraft III recebe Forsaken Kingdom, primeira nova campanha em 23 anos | texto curto |
 | FORTE | noticia | 1639 | 6 | 96 | Castlevania: Belmont’s Curse agrada nas primeiras análises, mas exploração divide opiniões | texto curto |
