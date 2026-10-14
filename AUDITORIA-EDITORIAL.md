@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 562
-- Forte: 538
+- Total analisado: 563
+- Forte: 539
 - Revisar: 22
 - Prioridade: 2
 
@@ -112,6 +112,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 5786 | 17 | 90 | Xbox teria garantido exclusividade de GTA 6 no streaming em nuvem no lançamento | sem fonte |
 | FORTE | noticia | 4744 | 15 | 90 | Xbox Helix pode ter 40% mais TFLOPS que o PS6 — mas isso não significa 40% mais desempenho | sem fonte |
 | FORTE | noticia | 2423 | 11 | 90 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | sem fonte |
+| FORTE | notícia | 2835 | 10 | 90 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | sem fonte |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
 | FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
