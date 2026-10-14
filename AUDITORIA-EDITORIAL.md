@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 561
-- Forte: 537
+- Total analisado: 562
+- Forte: 538
 - Revisar: 22
 - Prioridade: 2
 
@@ -99,6 +99,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2031 | 7 | 90 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | sem fonte |
 | FORTE | noticia | 4982 | 16 | 90 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | sem fonte |
 | FORTE | notícia | 5066 | 20 | 90 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | sem fonte |
+| FORTE | notícia | 2483 | 11 | 90 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | sem fonte |
 | FORTE | notícia | 3827 | 12 | 90 | Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | sem fonte |
 | FORTE | noticia | 2818 | 11 | 90 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | sem fonte |
 | FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
