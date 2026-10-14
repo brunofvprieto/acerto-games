@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 559
-- Forte: 535
+- Total analisado: 560
+- Forte: 536
 - Revisar: 22
 - Prioridade: 2
 
@@ -72,6 +72,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
 | FORTE | noticia | 5042 | 17 | 90 | Armed Fantasia tem desenvolvimento descontinuado pela Digital Bros após anos de produção | sem fonte |
 | FORTE | notícia | 5666 | 24 | 90 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | sem fonte |
+| FORTE | notícia | 2859 | 9 | 90 | Battlefield 6 inicia Temporada 5 com Vegas Strip, dois mapas e quatro novas armas | sem fonte |
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | noticia | 1988 | 8 | 90 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | sem fonte |
 | FORTE | notícia | 5018 | 15 | 90 | Epic Games adia jogo de Marvel e Star Wars e determina uso intensivo de inteligência artificial | sem fonte |
