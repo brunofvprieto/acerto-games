@@ -50,58 +50,34 @@ function ArtigosEspeciais({posts}) {
   );
 }
 
-function OpiniaoDestaque({ posts }) {
-  const opinion = posts.find((p) => p.category === "opinião");
-  if (!opinion) return null;
+function FaixaEditorial({ posts, titulo, href, mais, categorias, id }) {
+  const items = posts.filter((p) => categorias.includes(p.category) && p.image).slice(0, 12);
+  if (!items.length) return null;
   return (
-    <section className="py-8">
-      <div className="mb-4 flex items-baseline justify-between gap-4">
-        <h2 className="font-display text-xl uppercase"><span className="text-[#FF9A6B]">▸</span> Voz do Acerto</h2>
-        <Link href="/opinioes" className="font-mono text-xs uppercase tracking-widest text-[#FF9A6B] hover:text-paper">Ver opiniões ▸</Link>
+    <section id={id} className="py-8" aria-label={titulo}>
+      <div className="mb-5 flex items-end justify-between gap-3">
+        <h2 className="text-[2.5rem] font-black leading-none tracking-[-.075em] text-paper sm:text-7xl lg:text-[6rem]">{titulo}</h2>
+        <Link href={href} className="shrink-0 pb-2 text-xs font-bold uppercase tracking-wider text-arcade hover:text-paper sm:text-sm">{mais}&nbsp; ›</Link>
       </div>
-      <Link href={`/noticia/${opinion.slug}`} className="group grid overflow-hidden border border-[#FF7A45]/50 bg-surface md:grid-cols-[1.15fr_1fr] hover:border-[#FF9A6B]">
-        <div className="relative min-h-[240px]">
-          <Cover colors={opinion.cover} image={opinion.image} position={opinion.imagePos} className="absolute inset-0 h-full w-full" />
-        </div>
-        <div className="flex flex-col justify-center p-6 md:p-8">
-          <span className="font-mono text-[10px] font-bold uppercase tracking-[0.25em] text-[#FF9A6B]">Opinião do Acerto Games</span>
-          <h3 className="mt-3 font-display text-2xl uppercase leading-tight group-hover:text-[#FF9A6B] md:text-3xl">{opinion.title}</h3>
-          <p className="mt-3 text-sm leading-relaxed text-dim md:text-base">{opinion.excerpt}</p>
-          <span className="mt-5 font-mono text-xs uppercase tracking-widest text-[#FF9A6B]">Ler a análise ▸</span>
-        </div>
-      </Link>
+      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
+        {items.map((p) => <Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
+          <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
+            <img src={p.image} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
+          </div>
+          <h3 className="mt-4 text-lg font-bold leading-[1.3] text-paper transition-colors group-hover:text-arcade">{p.title}</h3>
+          <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-dim"><span className="mr-3 text-arcade">◆ ◆ ◆</span>{p.date}{p.nota != null ? ` · Nota ${p.nota}` : ""}</p>
+        </Link>)}
+      </div>
     </section>
   );
 }
 
+function OpiniaoDestaque({ posts }) {
+  return <FaixaEditorial posts={posts} titulo="Voz do Acerto" href="/opinioes" mais="Mais opiniões" categorias={["opinião"]} id="opinioes" />;
+}
+
 function ReviewDestaque({ posts }) {
-  const review = posts.find((p) => p.category === "review");
-  if (!review) return null;
-  return (
-    <section id="reviews" className="py-8">
-      <div className="mb-4 flex items-baseline justify-between gap-4">
-        <h2 className="font-display text-xl uppercase"><span className="text-violet">▸</span> Reviews</h2>
-        <Link href="/reviews" className="font-mono text-xs uppercase tracking-widest text-violet hover:text-paper">Ver todos ▸</Link>
-      </div>
-      <Link href={`/noticia/${review.slug}`} className="group grid overflow-hidden border border-violet/50 bg-surface transition-all hover:border-violet md:grid-cols-[1.05fr_1fr]">
-        <div className="relative min-h-[260px] overflow-hidden md:min-h-[400px]">
-          <Cover colors={review.cover} image={review.image} position={review.imagePos} className="absolute inset-0 h-full w-full transition-transform duration-700 group-hover:scale-[1.02]" />
-          <div className="absolute inset-0 bg-gradient-to-t from-ink/40 via-transparent to-transparent md:bg-gradient-to-r md:from-transparent md:via-transparent md:to-ink/25" />
-        </div>
-        <div className="relative flex min-h-[320px] flex-col justify-center p-6 md:min-h-[400px] md:p-10">
-          {review.nota != null && (
-            <div className="absolute right-6 top-6 md:right-8 md:top-8"><Nota value={review.nota} size="lg" /></div>
-          )}
-          <div className="max-w-xl pr-16 md:pr-12">
-            <span className="inline-block bg-violet px-3 py-1 font-mono text-[10px] font-bold uppercase tracking-widest text-ink">Review</span>
-            <h3 className="mt-3 font-display text-2xl uppercase leading-tight text-paper group-hover:text-violet md:text-3xl">{review.title}</h3>
-            <p className="mt-3 text-sm leading-relaxed text-dim md:text-base">{review.excerpt}</p>
-            <span className="mt-5 inline-block font-mono text-xs uppercase tracking-widest text-violet">Ler o review ▸</span>
-          </div>
-        </div>
-      </Link>
-    </section>
-  );
+  return <FaixaEditorial posts={posts} titulo="Reviews" href="/reviews" mais="Mais reviews" categorias={["review"]} id="reviews" />;
 }
 
 const ARTE_GTA6 = "/img/gta-6-lucia-jason-arte-oficial.jpg";
@@ -179,17 +155,7 @@ export default function Home() {
       <ArtigosEspeciais posts={posts} />
       <OpiniaoDestaque posts={posts} />
       <ReviewDestaque posts={posts} />
-      {noticias.length > 0 && (
-        <section id="noticias" className="py-8">
-          <h2 className="mb-4 font-display text-xl uppercase"><span className="text-arcade">▸</span> Notícias</h2>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {noticias.slice(0, 12).map((p) => <NewsCard key={p.slug} post={p} />)}
-          </div>
-          <div className="mt-6 text-center">
-            <Link href="/noticias" className="inline-block border border-edge bg-surface px-6 py-3 font-mono text-xs uppercase tracking-widest text-arcade hover:border-arcade">Ver todas as notícias ▸</Link>
-          </div>
-        </section>
-      )}
+      <FaixaEditorial posts={noticias} titulo="Notícias" href="/noticias" mais="Mais notícias" categorias={["notícia", "noticias", "notícias", "news"]} id="noticias" />
       {retro.length > 0 && (
         <section id="retro" className="py-8">
           <h2 className="mb-4 font-display text-xl uppercase"><span className="text-retro">▸</span> Retrô</h2>
