@@ -1,0 +1,34 @@
+{
+  "slug": "gran-turismo-7-spec-iv-parte-1-sugo-seis-carros-dualsense-30-anos",
+  "category": "notícia",
+  "title": "Gran Turismo 7 recebe a atualização Spec IV com seis carros e o circuito Sportsland Sugo",
+  "excerpt": "A Parte 1 da Spec IV é gratuita e traz Xiaomi Vision Gran Turismo, Ferrari F355 e mais quatro carros. A Sony também mostrou o DualSense comemorativo dos 30 anos da série, com lançamento em 10 de dezembro.",
+  "author": "Bruno Vazquez",
+  "date": "14 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-14T20:55:00-03:00",
+  "cover": [
+    "#0f1b2d",
+    "#e11d2e"
+  ],
+  "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/10/0a6094e661e23a6b07164420bc5b6675016b5d83-scaled.jpg",
+  "imageAlt": "Imagem oficial da atualização Spec IV (Parte 1) de Gran Turismo 7, com carros e o circuito Sportsland Sugo",
+  "imageCredit": "Divulgação/Sony Interactive Entertainment/Polyphony Digital",
+  "fonte": "PlayStation Blog BR (Sony Interactive Entertainment)",
+  "fonteUrl": "https://blog.br.playstation.com/2026/10/14/spec-iv-parte-1-de-gran-turismo-7-e-lancada-hoje-e-uma-previa-do-controle-sem-fio-dualsense-edicao-limitada-gran-turismo/",
+  "body": [
+    "A Parte 1 da atualização Spec IV de Gran Turismo 7 foi anunciada nesta quarta-feira (14) pela Sony e pela Polyphony Digital. O pacote é gratuito para todos os jogadores e acrescenta seis carros, o circuito Sportsland Sugo, novos eventos, locais para o modo Scapes e recursos de jogabilidade. Pelos horários divulgados pela Sony (23h de 14 de outubro no Pacífico), ele chega às 3h de 15 de outubro no horário de Brasília, e a atualização exige conexão com a internet.",
+    "## Veja o vídeo da atualização",
+    "video: https://www.youtube.com/watch?v=0_7kHG8Hpx8",
+    "## Seis carros novos, de hipercarro elétrico a um Citroën 2 CV",
+    "O destaque é o Xiaomi Vision Gran Turismo, um hipercarro elétrico. A Sony cita coeficiente de arrasto de 0,29 e força descendente de menos 1,2, resultado de testes simulados, e afirma que o carro equilibra baixo arrasto e alta força descendente. O chefe de design da Xiaomi Auto, Tianyuan Li, descreveu esse equilíbrio como a pergunta central de um hipercarro elétrico, e o produtor da série, Kazunori Yamauchi, disse ter ficado impressionado com a solução.",
+    "A lista segue com a Ferrari F355 Berlinetta '94, com carroceria da Pininfarina, e o Honda Civic Si Group A version '87, baseado no Mugen Motul Civic que venceu a classificação geral do All-Japan Touring Car Championship de 1987. Também entram o Mazda RX-Vision GT3 Evo '26, o Honda Step WGN Spada Premium Line '23 e o Citroën 2 CV 6 Charleston '86. Os carros são comprados com créditos, obtidos no jogo ou por compra, e podem ser adquiridos na Brand Central.",
+    "## Sportsland Sugo, eventos e novos modos",
+    "Além do circuito Sportsland Sugo, que a Sony chama de lendário, a Parte 1 traz recursos novos de Visualização de Carros, o modo Experiência e 6 novos eventos de Circuitos Mundiais. Para cada carro, o comunicado sugere um uso: o Xiaomi no evento Troféu Vision Gran Turismo, em Spa-Francorchamps, a Ferrari e o 2 CV em Sugo, o Civic nos eventos da Copa dos Amadores, o Mazda em um evento de Mundial de Turismo e o Step WGN no Scapes.",
+    "## DualSense de 30 anos tem pré-venda em 22 de outubro",
+    "video: https://www.youtube.com/watch?v=vtR0nWWDCPc",
+    "A Sony também mostrou o controle sem fio DualSense Edição Limitada Gran Turismo, feito para marcar os 30 anos da série. O design reúne listras de corrida, gráficos inspirados no automobilismo e uma placa frontal texturizada em estilo fibra de carbono. Yamauchi, CEO da Polyphony Digital, afirmou no comunicado que o controle celebra a jornada compartilhada com os jogadores ao longo de três décadas.",
+    "O controle terá produção limitada. A pré-venda começa em 22 de outubro, às 10h no horário local, e o lançamento mundial está marcado para 10 de dezembro. Na versão em inglês do comunicado, o preço recomendado é de US$ 84,99, ¥12.480 com impostos, €84,99 e £74,99, com venda direta pela PlayStation nos Estados Unidos e em países europeus listados. A versão em português do comunicado não traz preço nem lista de países."
+  ],
+  "observacao": "Fontes: post em portugues do PlayStation Blog BR e post em ingles (blog.playstation.com, 14/10/2026). DIVERGENCIA: o post em portugues diz que a atualizacao sai 'hoje, 16 de outubro, as 3h BRT', mas o post em ingles informa 11pm PDT de 14/10 (= 15/10 07:00 BST e 15:00 JST), o que da 3h de 15/10 em Brasilia. O texto usa 15/10, 3h (calculado), conferir no dia. IMAGEM: capa e hotlink da og:image oficial do post BR da Sony. Nao consegui baixar nem visualizar o arquivo (blog.playstation.com bloqueia robos e o ambiente nao acessa o dominio), entao dimensoes (minimo de 1200 px) e conteudo nao foram verificados. Recomendado baixar essa imagem, conferir e salvar em public/img/ com nome descritivo, trocando 'image' e incluindo imageFilename. NAO usei a capa de GT7 do repositorio (update 1.71), por ser de outra atualizacao. Preco do controle so consta na versao em ingles; nao ha afirmacao sobre disponibilidade ou preco no Brasil."
+}
