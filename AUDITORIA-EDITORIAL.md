@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 567
-- Forte: 543
+- Total analisado: 569
+- Forte: 545
 - Revisar: 22
 - Prioridade: 2
 
@@ -305,6 +305,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2790 | 12 | 100 | Um jogo de Switch 2 será revelado hoje ao meio-dia — e a única pista são oito emojis | — |
 | FORTE | artigo | 8247 | 28 | 100 | Gráficos ou IA? A indústria vem escolhendo errado — e Rockstar, Nintendo e Kojima já provaram isso | — |
 | FORTE | notícia | 2416 | 10 | 100 | Gran Turismo 7 ganhou nova atualização e a mudança mais importante não é nos carros novos | — |
+| FORTE | notícia | 2635 | 6 | 100 | Gran Turismo 7 recebe a atualização Spec IV com seis carros e o circuito Sportsland Sugo | — |
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
 | FORTE | notícia | 2720 | 13 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
@@ -465,6 +466,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
+| FORTE | notícia | 3307 | 9 | 100 | PS Plus de outubro terá Mafia: The Old Country, Horizon Forbidden West e Dino Crisis 2 | — |
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
 | FORTE | noticia | 5124 | 16 | 100 | Sony leva upscaling por IA ao PS5 comum com QSSR; Wolverine e Ghost of Yōtei estreiam tecnologia | — |
