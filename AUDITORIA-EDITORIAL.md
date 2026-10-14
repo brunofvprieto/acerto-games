@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 563
-- Forte: 539
+- Total analisado: 566
+- Forte: 542
 - Revisar: 22
 - Prioridade: 2
 
@@ -97,6 +97,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5211 | 14 | 90 | Phantom Blade Zero impressiona nas primeiras prévias, mas ainda deixa dúvidas sobre o desempenho | sem fonte |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
 | FORTE | noticia | 2031 | 7 | 90 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | sem fonte |
+| FORTE | notícia | 3613 | 12 | 90 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | sem fonte |
 | FORTE | noticia | 4982 | 16 | 90 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | sem fonte |
 | FORTE | notícia | 5066 | 20 | 90 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | sem fonte |
 | FORTE | notícia | 2483 | 11 | 90 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | sem fonte |
@@ -306,6 +307,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
 | FORTE | notícia | 2720 | 13 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
+| FORTE | notícia | 3520 | 12 | 100 | GTA 6: Bloomberg revela bastidores de oito anos de desenvolvimento e abre as portas da Rockstar | — |
 | FORTE | notícia | 1914 | 6 | 100 | GTA 6: código da mídia física no PS5 vai ter trava de região — e o Xbox saiu por cima | — |
 | FORTE | notícia | 13508 | 43 | 100 | GTA 6 vai reagir às suas escolhas até no corpo de Jason e Lucia — tudo o que a Rockstar revelou à Dazed | — |
 | FORTE | notícia | 3519 | 14 | 100 | O primeiro grande racha de GTA 6 não é sobre gráficos: é sobre ter que abastecer o carro | — |
@@ -511,6 +513,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
+| FORTE | notícia | 2712 | 8 | 100 | Capcom aprova novo filme de Street Fighter, e diretor revela reação de criador dos jogos | — |
 | FORTE | noticia | 2165 | 9 | 100 | Filme de Street Fighter vai eternizar o EVO Moment 37 e terá Justin Wong em cena | — |
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
