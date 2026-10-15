@@ -1,4 +1,40 @@
 {
-  "_como_usar": "Cada oferta: titulo, preco (texto, ex: R$ 199,90), link (link de afiliado), imagem (opcional, /img/...), tema (zelda, gta6, playstation, switch2, retro, geral). Lista vazia = banner oculto.",
-  "ofertas": []
+  "_como_usar": "Cada oferta: titulo, preco (texto opcional, ex: R$ 199,90), link (afiliado), imagem (opcional, /img/...), tema (zelda, gta6, playstation, nintendo, retro, geral). Lista vazia = banner oculto.",
+  "ofertas": [
+    {
+      "titulo": "The Legend of Zelda: Ocarina of Time (Nintendo Switch)",
+      "tema": "zelda",
+      "link": "https://link.amazon/B05oTr1pj"
+    },
+    {
+      "titulo": "Console Nintendo Switch OLED",
+      "tema": "nintendo",
+      "link": "https://link.amazon/B045uXw2Y"
+    },
+    {
+      "titulo": "Nintendo Switch Pro Controller",
+      "tema": "nintendo",
+      "link": "https://link.amazon/B03dscegt"
+    },
+    {
+      "titulo": "PlayStation 5 Slim Edição Digital",
+      "tema": "playstation",
+      "link": "https://link.amazon/B00zW1GyT"
+    },
+    {
+      "titulo": "Grand Theft Auto VI (GTA 6) para PS5",
+      "tema": "gta6",
+      "link": "https://link.amazon/B06kXSEaY"
+    },
+    {
+      "titulo": "Controle sem fio DualSense",
+      "tema": "playstation",
+      "link": "https://link.amazon/B06wOZ9L8"
+    },
+    {
+      "titulo": "Base de carregamento DualSense",
+      "tema": "playstation",
+      "link": "https://link.amazon/B0hc0XonH"
+    }
+  ]
 }
