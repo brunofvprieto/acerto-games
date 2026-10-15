@@ -158,8 +158,8 @@ O texto de teste da Quatro Rodas sobre o Aston Martin Valhalla mostra uma técni
 - Evite "não é apenas X, é Y", "mais do que um jogo", "o tempo dirá", "muda tudo" e conclusões intercambiáveis. Uma formulação retórica só cabe se acrescentar precisão real.
 - Não imponha humor, nostalgia, opinião ou uma lição de vida a toda pauta.
 - Não use "a gente ama" nem fale em nome de todos os jogadores. Não fabrique consenso, lembrança de infância ou experiência pessoal.
-- Não narre decisões editoriais: "não faz sentido tratar a história como", "o foco desta matéria deve ser", "é importante destacar aqui" e justificativas semelhantes devem ser substituídas por fatos e atribuições.
-- Uma distinção relevante deve ser demonstrada. Em vez de ensinar que protótipo e jogo anunciado são diferentes, informe o estágio documentado do projeto e a fonte que o descreve.
+- Não narre decisões editoriais: "não faz sentido tratar a história como", "o foco desta matéria deve ser", "é importante destacar aqui" e justificativas semelhantes devem ser substituídas por fatos.
+- Uma distinção relevante deve ser demonstrada. Em vez de ensinar que protótipo e jogo anunciado são diferentes, informe o estágio documentado do projeto.
 - Não use metáforas para esconder lacunas. "Morreu nos bastidores" não substitui informação sobre interrupção, recusa ou arquivamento.
 - Crítica firme deve indicar decisão, evidência e consequência. Não depende de insulto, torcida ou julgamento obrigatório.
 - Sem palavrões, ataques a grupos ou autodepreciação.
