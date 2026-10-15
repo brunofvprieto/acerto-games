@@ -2,8 +2,8 @@
 
 ## Resumo
 - Total analisado: 575
-- Forte: 550
-- Revisar: 23
+- Forte: 551
+- Revisar: 22
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -13,7 +13,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 |---|---|---:|---:|---:|---|---|
 | PRIORIDADE | — | 0 | 0 | -10 | antes-de-phantom-blade-zero-jogos-universo-sgame.json | sem autor, resumo curto, texto curto, poucos parágrafos |
 | PRIORIDADE | noticia | 513 | 3 | 58 | Battlefield 6 leva a guerra de volta a Wake Island em novo trailer de gameplay | texto curto, poucos parágrafos |
-| REVISAR | notícia | 895 | 4 | 62 | GTA 6 ganha Launch Trailer oficial da Rockstar a pouco mais de um mês do lançamento | resumo curto, texto curto, poucos parágrafos |
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
@@ -323,6 +322,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
+| FORTE | notícia | 2301 | 7 | 100 | GTA 6 ganha Launch Trailer com música inédita do Justice e a sinopse oficial da história de Jason e Lucia | — |
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
 | FORTE | noticia | 3511 | 10 | 100 | GTA 6 ganha novas imagens de Jason e Lucia e Rockstar detalha construção da dupla | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
