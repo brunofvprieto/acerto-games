@@ -1,0 +1,39 @@
+{
+  "slug": "geforce-now-controles-dlss-4-5-enshrouded-1-0-warhammer-boltgun-2",
+  "category": "notícia",
+  "title": "GeForce NOW libera os controles do DLSS 4.5 e recebe Enshrouded 1.0 e Boltgun 2",
+  "excerpt": "Anunciados na Gamescom para o outono, os controles de qualidade e desempenho chegam ao app. O catálogo ganha dez jogos, e o DLSS 5 dobra o desempenho do modelo, com estreia em NBA 2K27.",
+  "author": "Bruno Vazquez",
+  "date": "15 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-15T12:35:00-03:00",
+  "cover": [
+    "#76b900",
+    "#111111"
+  ],
+  "image": "/img/geforce-now-controles-dlss-4-5-enshrouded-boltgun-2.jpg",
+  "imageFilename": "geforce-now-controles-dlss-4-5-enshrouded-boltgun-2.jpg",
+  "imageAlt": "Arte oficial do GeForce NOW com Gears of War: E-Day, CONTROL Resonant e o menu de controles do DLSS 4.5 em um notebook",
+  "imageCredit": "Divulgação/NVIDIA",
+  "fonte": "NVIDIA (comunicado) / Steam",
+  "fonteUrl": "https://www.nvidia.com/en-us/geforce-now/",
+  "body": [
+    "A NVIDIA liberou no GeForce NOW os controles do DLSS 4.5 prometidos na Gamescom para o outono. O app passa a permitir ajustar, em jogos compatíveis, a aplicação do DLSS Super Resolution, do Dynamic Multi Frame Generation e do Ray Reconstruction, para priorizar imagem, resposta ou um meio-termo. No anúncio de agosto, o recurso era restrito ao plano Ultimate. O comunicado de hoje diz apenas que as opções variam conforme o plano e o jogo.",
+    "## O que os controles mudam",
+    "Na descrição da NVIDIA, o Super Resolution reconstrói a imagem a partir de uma resolução menor, o Dynamic Multi Frame Generation atua sobre latência e interrupções de fluidez, e o Ray Reconstruction melhora os efeitos de ray tracing. A empresa cita 007 First Light, com path tracing, CONTROL Resonant e Resident Evil Requiem como exemplos de jogos compatíveis.",
+    "As configurações ficam no app para Windows, macOS, ChromeOS e SteamOS. A NVIDIA prometeu publicar recomendações de configuração para cada recurso, e o comunicado não traz números de resolução ou taxa de quadros por perfil.",
+    "## Enshrouded sai do acesso antecipado",
+    "Enshrouded, da Keen Games, chega à versão 1.0 hoje, no PC e no PS5, depois de mais de dois anos em acesso antecipado desde janeiro de 2024. A versão de Xbox segue prevista para a primavera de 2027. O RPG cooperativo de ação e sobrevivência custa R$ 119,99 na Steam, com tradução para português do Brasil.",
+    "A 1.0 traz nove novos feitiços, habilidades inéditas para magos e arqueiros, varinhas reformuladas, feitiços e flechas Eternos que podem ser aprimorados, novas variantes de inimigos e um bioma novo. O nível máximo dos personagens sobe para 50 e o dos equipamentos, para 55. Na nuvem, o jogador pula o download de cerca de 60 GB.",
+    "## Warhammer 40,000: Boltgun 2",
+    "A sequência do FPS retrô de Warhammer 40,000, desenvolvida pela Auroch Digital e publicada pela Big Fan Games, do selo Devolver, saiu na Steam em 14 de outubro por R$ 83,99 e já aparece no GeForce NOW. A campanha começa logo após o primeiro jogo e permite escolher entre Malum Caedo, um veterano Sternguard, e Nyra Veyrath, uma Irmã de Batalha ágil, cada um com habilidades, armas e estilo próprios. Há cidades-colmeia e pântanos de mangue como cenários, novos inimigos e caminhos alternativos nas fases.",
+    "## Dez jogos no catálogo",
+    "Chegam nesta semana: Deep Dish Dungeon, Planet Zoo 2, Total War: SHOGUN 2 - Complete Edition, Valor Mortis, Among the Trolls, over the hill e Warhammer 40,000: Boltgun 2, todos pela Steam. Beyond These Stars vem pela Steam e pelo Xbox, e está no Game Pass. Tenebris Somnia entra na Steam em 16 de outubro. The Witcher 3: Wild Hunt - Remastered chega pela Microsoft Store. A NVIDIA avisa que as datas são as das lojas, e a entrada no GeForce NOW pode ocorrer depois, ao longo da semana.",
+    "## DLSS 5 fica duas vezes mais rápido",
+    "A NVIDIA também afirma ter dobrado o desempenho do modelo de renderização neural do DLSS 5, que usa geometria 3D para melhorar iluminação e materiais. A nova versão estreia em NBA 2K27 em 16 de outubro, em placas GeForce RTX Série 50 e em notebooks RTX Spark. É um número da fabricante, sem medição independente por enquanto.",
+    "## Passe diário",
+    "Quem quiser testar os novos controles pode comprar o passe diário do plano premium. A NVIDIA diz que o valor pode ser convertido em crédito para a primeira mensalidade.",
+    "link: GeForce NOW | https://www.nvidia.com/en-us/geforce-now/"
+  ],
+  "observacao": "Fatos: comunicado da NVIDIA (e-mail da Theogames de 15/10/2026). Contexto do anúncio na Gamescom (controles do DLSS 4.5 no outono, limitados ao plano Ultimate): Geeknetic (28/08/2026), que chama o recurso de 'Dynamic Frame Generation'; o comunicado diz 'Dynamic Multi Frame Generation': mantive o termo do comunicado, confira no oficial. Enshrouded 1.0 em 15/10 e Xbox na primavera de 2027: RPG Site; preço R$ 119,99, tradução PT-BR e Boltgun 2 (14/10/2026, R$ 83,99, Auroch Digital, Big Fan/Devolver): Steam. Preços da Steam mudam, confira. 'Hoje' para a liberação dos controles: o comunicado é de 15/10, mas não diz o dia exato; ajuste se necessário. Não verifiquei se a 1.0 do Enshrouded já está no ar no PS5 a esta hora. DLSS 5: 'dobrar o desempenho' é afirmação da NVIDIA. Imagem: arte do comunicado (1920x1080), com marcas de jogos de terceiros (Gears of War: E-Day e CONTROL Resonant) como material de imprensa da NVIDIA."
+}
