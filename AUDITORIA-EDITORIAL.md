@@ -322,7 +322,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
-| FORTE | notícia | 1814 | 6 | 100 | GTA 6: Rockstar lança o Launch Trailer com a sinopse oficial e a estreia de "Flower in a Hurricane", do Justice | — |
+| FORTE | notícia | 1844 | 6 | 100 | GTA 6: Rockstar lança o Launch Trailer com a sinopse oficial e a estreia de "Flower in a Hurricane", do Justice | — |
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
 | FORTE | noticia | 3511 | 10 | 100 | GTA 6 ganha novas imagens de Jason e Lucia e Rockstar detalha construção da dupla | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
