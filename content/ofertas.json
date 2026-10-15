@@ -4,12 +4,14 @@
     {
       "titulo": "The Legend of Zelda: Ocarina of Time (Nintendo Switch)",
       "tema": "zelda",
-      "link": "https://link.amazon/B05oTr1pj"
+      "link": "https://link.amazon/B05oTr1pj",
+      "imagem": "/img/zelda-ocarina-remake-capa.webp"
     },
     {
       "titulo": "Console Nintendo Switch OLED",
       "tema": "nintendo",
-      "link": "https://link.amazon/B045uXw2Y"
+      "link": "https://link.amazon/B045uXw2Y",
+      "imagem": "/img/ofertas/nintendo-switch-oled.jpg"
     },
     {
       "titulo": "Nintendo Switch Pro Controller",
@@ -19,17 +21,20 @@
     {
       "titulo": "PlayStation 5 Slim Edição Digital",
       "tema": "playstation",
-      "link": "https://link.amazon/B00zW1GyT"
+      "link": "https://link.amazon/B00zW1GyT",
+      "imagem": "/img/ofertas/playstation-5-edicao-digital.jpg"
     },
     {
       "titulo": "Grand Theft Auto VI (GTA 6) para PS5",
       "tema": "gta6",
-      "link": "https://link.amazon/B06kXSEaY"
+      "link": "https://link.amazon/B06kXSEaY",
+      "imagem": "/img/gta-6-lucia-jason-arte-oficial.jpg"
     },
     {
       "titulo": "Controle sem fio DualSense",
       "tema": "playstation",
-      "link": "https://link.amazon/B06wOZ9L8"
+      "link": "https://link.amazon/B06wOZ9L8",
+      "imagem": "/img/ofertas/controle-dualsense-ps5.jpg"
     },
     {
       "titulo": "Base de carregamento DualSense",
