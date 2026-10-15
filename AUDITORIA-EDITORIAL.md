@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 570
-- Forte: 546
+- Total analisado: 572
+- Forte: 548
 - Revisar: 22
 - Prioridade: 2
 
@@ -62,6 +62,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | noticia | 1309 | 6 | 88 | Metroid Dread volta ao topo da eShop após anúncio de Metroid Ravenous | texto curto |
 | FORTE | notícia | 1302 | 7 | 88 | PS Plus libera hoje 4 jogos de setembro, incluindo Sniper Elite: Resistance e MLB The Show 26 | texto curto |
+| FORTE | notícia | 1372 | 6 | 89 | Acornia: Mirror Worlds ganha trailer de gameplay com confeitaria e batalhas contra espíritos | texto curto |
 | FORTE | noticia | 1352 | 7 | 89 | Dream Club Zero R+ é anunciado para 2027 com três novas host girls | texto curto |
 | FORTE | notícia | 1342 | 7 | 89 | Fire Emblem: Fortune’s Weave entra no mês de lançamento como um dos grandes exclusivos do Switch 2 | texto curto |
 | FORTE | notícia | 1360 | 5 | 89 | Helldivers 2: novo trailer de campanha "Permanent Enclosure" marca virada na Guerra Galáctica | texto curto |
@@ -132,6 +133,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1578 | 5 | 94 | O homem que nos deu Dead Space pendurou o controle: Glen Schofield anuncia aposentadoria | texto curto |
 | FORTE | notícia | 1541 | 6 | 94 | God of War: Laufey tem data marcada — e é mais cedo do que muita gente esperava | texto curto |
 | FORTE | noticia | 1577 | 6 | 94 | Monster Hunter World no Switch 2 é improvável: Capcom teria que refazer o jogo do zero | texto curto |
+| FORTE | notícia | 1578 | 7 | 94 | Phantom Blade Zero mostra o chefe The Hunt em novo vídeo e revela a aparência Blood-Steel Form | texto curto |
 | FORTE | notícia | 1576 | 6 | 94 | Pokémon Pokopia: primeira parte do DLC, Bubbly Basin, chega em 5 de agosto | texto curto |
 | FORTE | review | 8929 | 22 | 95 | Análise: Resident Evil Requiem — o medo voltou, e ele tem nome de Grace Ashcroft | fonte sem URL |
 | FORTE | review | 11684 | 23 | 95 | Análise: Star Wars Outlaws — a fantasia de fora-da-lei que a galáxia merecia | fonte sem URL |
