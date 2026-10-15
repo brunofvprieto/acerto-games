@@ -108,6 +108,19 @@ A escrita é dinâmica, direta e contextualizada. Informação densa não precis
 - Parágrafos de uma a quatro frases. Um parágrafo de uma frase só é válido quando a ideia merece destaque.
 - Leia mentalmente em voz alta. Se faltar fôlego ou a frase parecer fatiada demais, reescreva.
 
+**Referência de estilo: o ritmo da boa revista de testes (adaptado a games)**
+O texto de teste da Quatro Rodas sobre o Aston Martin Valhalla mostra uma técnica que serve ao jornalismo de games. O que vale copiar é o método, nunca a voz, as frases ou a estrutura.
+- **Abertura que situa e dá o gancho.** Frases curtas e seguidas montam o cenário em poucos segundos: o que o nome significa, onde o objeto se encaixa, por que isso importa. Depois vem a ponte para o assunto ("Nada mais apropriado para..."). Em games, o gancho pode ser o histórico da franquia, o ciclo de lançamentos ou o contraste com o jogo anterior, sempre em uma ou duas frases.
+- **Enumeração com ritmo e propósito.** Quando a lista for o ponto (as estreias do produto, as mudanças de uma versão), use um padrão que o leitor reconheça, como "é o primeiro..., o primeiro..., o primeiro...", e feche com o item mais forte. Lista que não constrói nada vira prosa ou ficha.
+- **Número no lugar do adjetivo.** O adjetivo forte só entra ao lado do dado que o sustenta ("2,5 segundos até os 100 km/h"). Em games: taxa de quadros, horas de campanha, tamanho do download, preço, número de jogadores, datas.
+- **Comparação com pares, direta e datada.** "Melhor do que num Ferrari, pior do que num McLaren." Em games: o jogo anterior, o concorrente direto, a versão de outra plataforma, o ciclo passado da mesma empresa. A comparação diz mais que o elogio.
+- **Frase curta de veredito depois de uma frase de contexto.** "Para trás, nada se vê." Uma constatação seca, em seguida a explicação do que isso significa. Use para dizer o que funciona e o que não funciona, com o motivo logo depois.
+- **Concessões curtas e honestas.** Um "embora não totalmente" ou "mas nada que compense" reconhece o limite sem enfraquecer o texto. Nada de elogio cego nem de crítica gratuita.
+- **Contraponto de contexto.** Uma frase que coloca o objeto na era em que ele existe ("nesta era de...") e mede o dado contra o que o mercado oferece.
+- **Humor e imagem com parcimônia.** Uma imagem vívida ou uma ironia leve é bem-vinda quando se apoia num fato e aparece uma vez no texto. Não decore todo parágrafo, e não use metáfora para tapar falta de informação.
+- **Primeira pessoa só com experiência real.** O "dirigimos" da revista existe porque a equipe dirigiu. Em games, "jogamos", "testamos" ou "vimos" só entram com experiência documentada fornecida por Bruno. Notícia tirada de comunicado ou de reportagem alheia fica na terceira pessoa, com atribuição, e a autoridade vem da comparação e do contexto.
+- **Variação.** O texto de referência alterna parágrafos de frases curtas com um período mais longo e bem construído. O objetivo é fluidez, não staccato. Frases longas continuam aceitas quando têm uma só ideia e poucas vírgulas.
+
 **Antes e depois (modelo de ajuste)**
 - Truncado: "A Rockstar publicou, nesta quinta-feira, durante a madrugada, no canal oficial do estúdio, o Launch Trailer, que, segundo a empresa, mostra a trama, a trilha e o álbum, em um vídeo de 1min30."
 - Fluido: "A Rockstar publicou o Launch Trailer de GTA VI nesta quinta (15). O vídeo tem cerca de 1min30 e vem com a primeira sinopse oficial e uma música inédita do Justice."
