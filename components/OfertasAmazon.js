@@ -36,7 +36,6 @@ export default function OfertasAmazon({ ofertas = [], tema, titulo = "Ofertas" }
           </a>
         ))}
       </div>
-      <p className="text-[11px] text-dim">Links de afiliado: o Acerto Games pode ganhar comissão nas compras qualificadas. Preço e disponibilidade podem mudar na Amazon.</p>
     </section>
   );
 }
