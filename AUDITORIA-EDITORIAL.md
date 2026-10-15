@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 574
+- Total analisado: 575
 - Forte: 550
-- Revisar: 22
+- Revisar: 23
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -13,6 +13,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 |---|---|---:|---:|---:|---|---|
 | PRIORIDADE | — | 0 | 0 | -10 | antes-de-phantom-blade-zero-jogos-universo-sgame.json | sem autor, resumo curto, texto curto, poucos parágrafos |
 | PRIORIDADE | noticia | 513 | 3 | 58 | Battlefield 6 leva a guerra de volta a Wake Island em novo trailer de gameplay | texto curto, poucos parágrafos |
+| REVISAR | notícia | 895 | 4 | 62 | GTA 6 ganha Launch Trailer oficial da Rockstar a pouco mais de um mês do lançamento | resumo curto, texto curto, poucos parágrafos |
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
