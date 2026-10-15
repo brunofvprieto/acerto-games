@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 583
-- Forte: 569
+- Total analisado: 584
+- Forte: 570
 - Revisar: 12
 - Prioridade: 2
 
@@ -45,7 +45,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
 | FORTE | notícia | 1246 | 6 | 86 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto |
 | FORTE | notícia | 1299 | 5 | 87 | 171 divulga a primeira cutscene do modo história, gravada com atores e captura de movimento e facial | texto curto |
-| FORTE | notícia | 1281 | 6 | 87 | Arizona Sunshine ganha remake em terceira pessoa em 21 de janeiro de 2027 | texto curto |
 | FORTE | notícia | 1285 | 6 | 87 | GTA 6 terá animais lendários e espécies raras para rastrear em Leonida | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1279 | 5 | 87 | Metaphor: ReFantazio recebe demo gratuita no Switch 2 com transferência de progresso | texto curto |
@@ -75,6 +74,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
 | FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
+| FORTE | notícia | 1497 | 7 | 92 | Arizona Sunshine ganha remake em terceira pessoa, uma década depois do original em VR | texto curto |
 | FORTE | notícia | 1463 | 7 | 92 | CONTROL Resonant mostra Manhattan em colapso e poderes de Dylan em novo trailer | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | notícia | 1468 | 6 | 92 | Morbid Metal ganha Kaizu e amplia sistema de troca de personagens em pleno combate | texto curto |
@@ -88,6 +88,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1552 | 5 | 94 | MrFreezy é o novo jogo do criador de Aerial Knight's — e ele envolve cortar cabeças de um jeito bem inusitado | texto curto |
 | FORTE | notícia | 1578 | 5 | 94 | O homem que nos deu Dead Space pendurou o controle: Glen Schofield anuncia aposentadoria | texto curto |
 | FORTE | notícia | 1541 | 6 | 94 | God of War: Laufey tem data marcada — e é mais cedo do que muita gente esperava | texto curto |
+| FORTE | notícia | 1559 | 6 | 94 | GTA VI: Launch Trailer mostra o que levou Jason ao crime e a intimidade do casal com Lucia | texto curto |
 | FORTE | noticia | 1577 | 6 | 94 | Monster Hunter World no Switch 2 é improvável: Capcom teria que refazer o jogo do zero | texto curto |
 | FORTE | notícia | 1578 | 7 | 94 | Phantom Blade Zero mostra o chefe The Hunt em novo vídeo e revela a aparência Blood-Steel Form | texto curto |
 | FORTE | notícia | 1576 | 6 | 94 | Pokémon Pokopia: primeira parte do DLC, Bubbly Basin, chega em 5 de agosto | texto curto |
