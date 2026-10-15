@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 576
-- Forte: 552
+- Total analisado: 578
+- Forte: 554
 - Revisar: 22
 - Prioridade: 2
 
@@ -199,6 +199,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Artigos | 5915 | 15 | 100 | Antes de Phantom Blade Zero: conheça os jogos que deram origem ao universo da S-GAME | — |
 | FORTE | notícia | 3576 | 11 | 100 | ARC Raiders e The Finals terão adaptações para cinema e TV com a Chernin | — |
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
+| FORTE | notícia | 3842 | 13 | 100 | Arknights: Endfield chega ao Steam com Santuário de Tinta, Si e Argent Flow | — |
 | FORTE | notícia | 2074 | 6 | 100 | Black Flag Resynced ganha atualização que deixa esconder a zarabatana das costas do Edward | — |
 | FORTE | notícia | 2101 | 5 | 100 | DLC polêmico do dia 1 de Black Flag Resynced rendeu US$ 1 milhão só no Steam — e a galera tá furiosa | — |
 | FORTE | notícia | 2646 | 5 | 100 | Diretor de Black Flag Resynced pede uma coisa só: que a gente não abandone o jogo quando GTA 6 chegar | — |
@@ -478,6 +479,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 5124 | 16 | 100 | Sony leva upscaling por IA ao PS5 comum com QSSR; Wolverine e Ghost of Yōtei estreiam tecnologia | — |
 | FORTE | notícia | 2452 | 10 | 100 | Nova revisão do PS5 Slim facilita troca da bateria e muda refrigeração | — |
 | FORTE | noticia | 1925 | 8 | 100 | Psikyo Memories resgata clássicos de navinha dos arcades no PS5 e Switch 2 | — |
+| FORTE | notícia | 3256 | 11 | 100 | PUBG: Atualização 43.2 traz Bentley, o modo PvE SLB: Dawnbreakers of Rondo e mudanças em veículos e lobby | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
