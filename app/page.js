@@ -4,6 +4,8 @@ import { Cover, CategoryTag, NewsCard, Nota } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
 import CountdownZelda from "../components/CountdownZelda";
 import HeroCarousel from "../components/HeroCarousel";
+import OfertasAmazon from "../components/OfertasAmazon";
+import ofertasData from "../content/ofertas.json";
 
 function FaixaNews({posts}) {
   const items=posts.filter(p=>p.image).slice(0,10);
@@ -153,6 +155,7 @@ export default function Home() {
       <SecaoGTA6 />
       <ReviewDestaque posts={posts} />
       <SecaoZelda />
+      <OfertasAmazon ofertas={ofertasData.ofertas} />
       <ArtigosEspeciais posts={posts} />
       <OpiniaoDestaque posts={posts} />
       <FaixaEditorial posts={noticias} titulo="Notícias" href="/noticias" mais="Mais notícias" categorias={["notícia", "noticias", "notícias", "news"]} id="noticias" />

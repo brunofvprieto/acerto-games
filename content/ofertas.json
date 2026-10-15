@@ -1,0 +1,4 @@
+{
+  "_como_usar": "Cada oferta: titulo, preco (texto, ex: R$ 199,90), link (link de afiliado), imagem (opcional, /img/...), tema (zelda, gta6, playstation, switch2, retro, geral). Lista vazia = banner oculto.",
+  "ofertas": []
+}
