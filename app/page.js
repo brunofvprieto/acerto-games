@@ -151,10 +151,10 @@ export default function Home() {
       <div className="mx-auto w-full max-w-[1240px] px-4 sm:px-5 lg:px-0">
       <FaixaNews posts={posts.slice(5, 20)} />
       <SecaoGTA6 />
+      <ReviewDestaque posts={posts} />
       <SecaoZelda />
       <ArtigosEspeciais posts={posts} />
       <OpiniaoDestaque posts={posts} />
-      <ReviewDestaque posts={posts} />
       <FaixaEditorial posts={noticias} titulo="Notícias" href="/noticias" mais="Mais notícias" categorias={["notícia", "noticias", "notícias", "news"]} id="noticias" />
       {retro.length > 0 && (
         <section id="retro" className="py-8">
