@@ -16,7 +16,8 @@
     {
       "titulo": "Nintendo Switch Pro Controller",
       "tema": "nintendo",
-      "link": "https://link.amazon/B03dscegt"
+      "link": "https://link.amazon/B03dscegt",
+      "imagem": "/img/ofertas/nintendo-switch-pro-controller.jpg"
     },
     {
       "titulo": "PlayStation 5 Slim Edição Digital",
@@ -39,7 +40,8 @@
     {
       "titulo": "Base de carregamento DualSense",
       "tema": "playstation",
-      "link": "https://link.amazon/B0hc0XonH"
+      "link": "https://link.amazon/B0hc0XonH",
+      "imagem": "/img/ofertas/base-carregamento-dualsense.jpg"
     }
   ]
 }
