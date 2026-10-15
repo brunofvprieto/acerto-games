@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 579
-- Forte: 555
-- Revisar: 22
+- Total analisado: 580
+- Forte: 568
+- Revisar: 10
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -11,54 +11,45 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 
 | Faixa | Categoria | Caracteres | Parágrafos | Score | Matéria | Problemas |
 |---|---|---:|---:|---:|---|---|
-| PRIORIDADE | — | 0 | 0 | -10 | antes-de-phantom-blade-zero-jogos-universo-sgame.json | sem autor, resumo curto, texto curto, poucos parágrafos |
+| PRIORIDADE | — | 0 | 0 | 0 | antes-de-phantom-blade-zero-jogos-universo-sgame.json | sem autor, resumo curto, texto curto, poucos parágrafos |
 | PRIORIDADE | noticia | 513 | 3 | 58 | Battlefield 6 leva a guerra de volta a Wake Island em novo trailer de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 697 | 3 | 62 | Phantom Blade Zero terá State of Play dedicado com quase 20 minutos de gameplay | texto curto, poucos parágrafos |
 | REVISAR | noticia | 620 | 4 | 66 | Phantom Blade Zero mostra 11 minutos de gameplay e revela participação de Donnie Yen | texto curto, poucos parágrafos |
 | REVISAR | noticia | 651 | 4 | 66 | WARDOGS prepara guerra para 100 jogadores e chega ao Acesso Antecipado em setembro | texto curto, poucos parágrafos |
-| REVISAR | noticia | 1019 | 5 | 70 | Arkane segue em consulta e futuro do estúdio permanece indefinido na reestruturação do Xbox | texto curto, sem fonte |
-| REVISAR | noticia | 994 | 5 | 70 | Playground Games e Turn 10 serão unidas em um único estúdio focado em Forza e Fable | texto curto, sem fonte |
 | REVISAR | noticia | 821 | 4 | 71 | 1666: Amsterdam entra em Acesso Antecipado no PC em 25 de agosto | texto curto, poucos parágrafos |
-| REVISAR | noticia | 1062 | 5 | 72 | Marvel’s Wolverine reduz rastros de odor após críticas e Insomniac estuda opção para desligá-los | texto curto, sem fonte |
-| REVISAR | notícia | 1110 | 7 | 73 | Metal Gear Solid 4 remove PS3 e PSP nas versões da Nintendo, e até uma piada clássica mudou | texto curto, sem fonte |
-| REVISAR | noticia | 1126 | 6 | 73 | Ninja Theory pode fechar após dois acordos de venda fracassarem, confirma Xbox | texto curto, sem fonte |
-| REVISAR | noticia | 1106 | 5 | 73 | Obsidian passa para a Bethesda e trabalhará em novo Fallout | texto curto, sem fonte |
 | REVISAR | notícia | 937 | 4 | 73 | Sanitarium volta em versão remasterizada quase 30 anos depois: Enhanced Edition chega em 2026 | texto curto, poucos parágrafos |
 | REVISAR | noticia | 973 | 4 | 74 | Resonance: A Plague Tale Legacy mostra combate brutal em novo trailer | texto curto, poucos parágrafos |
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
-| REVISAR | noticia | 1215 | 6 | 75 | Activision assume Halo e desenvolverá o próximo grande jogo da franquia | texto curto, sem fonte |
-| REVISAR | notícia | 1246 | 6 | 76 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto, sem fonte |
-| REVISAR | notícia | 1268 | 7 | 77 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto, sem fonte |
-| REVISAR | noticia | 1269 | 6 | 77 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto, sem fonte |
-| REVISAR | noticia | 1313 | 6 | 78 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto, sem fonte |
-| REVISAR | noticia | 1371 | 7 | 79 | Lufia I & II: The Sinistrals Saga é anunciado para PS5, Switch 2, Switch e PC | texto curto, sem fonte |
-| REVISAR | noticia | 1344 | 7 | 79 | Neon Abyss 2 deixa o acesso antecipado em 8 de outubro e revela novo chefe final | texto curto, sem fonte |
 | REVISAR | noticia | 976 | 5 | 79 | PC Gaming Show Tokyo Direct acontece neste domingo com mais de 35 jogos e estreias mundiais | texto curto |
 | REVISAR | Notícias | 949 | 5 | 79 | Red Dead Online abre setembro com recompensas triplas para Moonshiners | texto curto |
+| FORTE | noticia | 1019 | 5 | 80 | Arkane segue em consulta e futuro do estúdio permanece indefinido na reestruturação do Xbox | texto curto |
+| REVISAR | noticia | 994 | 5 | 80 | Playground Games e Turn 10 serão unidas em um único estúdio focado em Forza e Fable | texto curto |
 | FORTE | Notícias | 1030 | 5 | 81 | Another Eden Begins ganha demo no Switch 2, Switch e PC com progresso transferível | texto curto |
 | FORTE | Notícias | 1053 | 5 | 81 | Nintendo Switch 2 passa a custar US$ 499,99 nos EUA a partir de hoje | texto curto |
 | FORTE | Notícias | 1048 | 5 | 81 | RuneScape: Dragonwilds chega aos consoles em 15 de setembro e estreia no Game Pass | texto curto |
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
+| FORTE | noticia | 1062 | 5 | 82 | Marvel’s Wolverine reduz rastros de odor após críticas e Insomniac estuda opção para desligá-los | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
+| FORTE | notícia | 1110 | 7 | 83 | Metal Gear Solid 4 remove PS3 e PSP nas versões da Nintendo, e até uma piada clássica mudou | texto curto |
+| FORTE | noticia | 1126 | 6 | 83 | Ninja Theory pode fechar após dois acordos de venda fracassarem, confirma Xbox | texto curto |
+| FORTE | noticia | 1106 | 5 | 83 | Obsidian passa para a Bethesda e trabalhará em novo Fallout | texto curto |
 | FORTE | noticia | 1107 | 5 | 83 | Tokyo Game Show 2026 cancela último dia por aproximação de tufão | texto curto |
 | FORTE | notícia | 1149 | 5 | 84 | Physint: Schreier acredita que Xbox paga menos do que Kojima pediu à Sony | texto curto |
-| FORTE | noticia | 1590 | 7 | 85 | Beautiful Freaks of the Desert mistura boomer shooter, speedrun e um deserto aberto | texto curto, sem fonte |
+| FORTE | noticia | 1215 | 6 | 85 | Activision assume Halo e desenvolverá o próximo grande jogo da franquia | texto curto |
 | FORTE | Notícias | 1182 | 5 | 85 | Crimson Desert ganha demo de 20 minutos via streaming no Twitch | texto curto |
 | FORTE | notícia | 1205 | 6 | 85 | GTA 6 terá furacões e chuva localizada que deixa marcas em Leonida | texto curto |
-| FORTE | noticia | 1596 | 7 | 85 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto, sem fonte |
-| FORTE | noticia | 1596 | 7 | 85 | MR. RECORDS ganha demo no Steam e confirma versões para PS5 e Xbox Series | texto curto, sem fonte |
-| FORTE | noticia | 1603 | 7 | 85 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto, sem fonte |
 | FORTE | notícia | 1192 | 5 | 85 | Splatoon Raiders invade a Comic-Con com chá gelado e muito estilo | texto curto |
 | FORTE | notícia | 1231 | 5 | 86 | Aliens: Fireteam Elite 2 também terá versão para Nintendo Switch 2 | texto curto |
-| FORTE | noticia | 1657 | 7 | 86 | Dancing with Ghosts transforma luto em aventura sobre alegria e chega ao acesso antecipado em outubro | texto curto, sem fonte |
-| FORTE | noticia | 1633 | 8 | 86 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto, sem fonte |
+| FORTE | notícia | 1246 | 6 | 86 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto |
 | FORTE | notícia | 1299 | 5 | 87 | 171 divulga a primeira cutscene do modo história, gravada com atores e captura de movimento e facial | texto curto |
 | FORTE | notícia | 1285 | 6 | 87 | GTA 6 terá animais lendários e espécies raras para rastrear em Leonida | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1279 | 5 | 87 | Metaphor: ReFantazio recebe demo gratuita no Switch 2 com transferência de progresso | texto curto |
-| FORTE | noticia | 1688 | 7 | 87 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto, sem fonte |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
+| FORTE | notícia | 1268 | 7 | 87 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto |
+| FORTE | noticia | 1269 | 6 | 87 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto |
+| FORTE | noticia | 1313 | 6 | 88 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | noticia | 1309 | 6 | 88 | Metroid Dread volta ao topo da eShop após anúncio de Metroid Ravenous | texto curto |
@@ -68,57 +59,18 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1342 | 7 | 89 | Fire Emblem: Fortune’s Weave entra no mês de lançamento como um dos grandes exclusivos do Switch 2 | texto curto |
 | FORTE | notícia | 1360 | 5 | 89 | Helldivers 2: novo trailer de campanha "Permanent Enclosure" marca virada na Guerra Galáctica | texto curto |
 | FORTE | notícia | 1372 | 7 | 89 | Gameplay vazado mostra o Homem de Ferro que a Avalanche Studios nunca lançou | texto curto |
+| FORTE | noticia | 1371 | 7 | 89 | Lufia I & II: The Sinistrals Saga é anunciado para PS5, Switch 2, Switch e PC | texto curto |
+| FORTE | noticia | 1344 | 7 | 89 | Neon Abyss 2 deixa o acesso antecipado em 8 de outubro e revela novo chefe final | texto curto |
 | FORTE | Notícias | 1372 | 6 | 89 | Nintendo terá dois Directs seguidos: Zelda celebra 40 anos e apresentação geral vem no dia seguinte | texto curto |
 | FORTE | noticia | 1353 | 6 | 89 | Persona 4 Revival detalha personagens, combate e novos Location Episodes em transmissão | texto curto |
-| FORTE | noticia | 1764 | 7 | 89 | Rayman Legends Retold ganha trailer de seis minutos e detalha mundo inédito, poderes e Kung Foot Evo | texto curto, sem fonte |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
-| FORTE | noticia | 5042 | 17 | 90 | Armed Fantasia tem desenvolvimento descontinuado pela Digital Bros após anos de produção | sem fonte |
-| FORTE | notícia | 5666 | 24 | 90 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | sem fonte |
-| FORTE | notícia | 2859 | 9 | 90 | Battlefield 6 inicia Temporada 5 com Vegas Strip, dois mapas e quatro novas armas | sem fonte |
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
-| FORTE | notícia | 2897 | 13 | 90 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | sem fonte |
-| FORTE | noticia | 1988 | 8 | 90 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | sem fonte |
-| FORTE | notícia | 5018 | 15 | 90 | Epic Games adia jogo de Marvel e Star Wars e determina uso intensivo de inteligência artificial | sem fonte |
-| FORTE | noticia | 1985 | 8 | 90 | Escape From Playtime leva os Smiling Critters ao terror cooperativo e chega em outubro | sem fonte |
-| FORTE | noticia | 2760 | 7 | 90 | Forza Horizon 6 chega ao PS5 em janeiro de 2027 com 60 FPS, cross-save e primeira expansão | sem fonte |
-| FORTE | noticia | 4224 | 15 | 90 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | sem fonte |
-| FORTE | noticia | 6244 | 23 | 90 | Equipe de Gears of War: E-Day teme demissões após lançamento e possível perda de bônus | sem fonte |
-| FORTE | noticia | 4693 | 15 | 90 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | sem fonte |
-| FORTE | noticia | 2457 | 10 | 90 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | sem fonte |
-| FORTE | notícia | 2962 | 15 | 90 | GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming no lançamento, diz executivo | sem fonte |
-| FORTE | noticia | 5480 | 21 | 90 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | sem fonte |
-| FORTE | noticia | 5584 | 16 | 90 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | sem fonte |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
-| FORTE | notícia | 2917 | 11 | 90 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | sem fonte |
-| FORTE | noticia | 2616 | 7 | 90 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | sem fonte |
-| FORTE | noticia | 3760 | 12 | 90 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | sem fonte |
-| FORTE | noticia | 3895 | 13 | 90 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | sem fonte |
-| FORTE | notícia | 5159 | 26 | 90 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | sem fonte |
-| FORTE | noticia | 2024 | 7 | 90 | Nintendo anuncia Switch 2 com Monster Hunter Wilds para dezembro; pacote inclui jogo digital e bônus | sem fonte |
-| FORTE | notícia | 3939 | 12 | 90 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | sem fonte |
-| FORTE | noticia | 4152 | 10 | 90 | Nintendo supera PlayStation e Xbox na média de avaliações de 2026; veja todos os jogos | sem fonte |
-| FORTE | notícia | 5211 | 14 | 90 | Phantom Blade Zero impressiona nas primeiras prévias, mas ainda deixa dúvidas sobre o desempenho | sem fonte |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
-| FORTE | noticia | 2031 | 7 | 90 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | sem fonte |
-| FORTE | notícia | 3613 | 12 | 90 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | sem fonte |
-| FORTE | noticia | 4982 | 16 | 90 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | sem fonte |
-| FORTE | notícia | 5066 | 20 | 90 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | sem fonte |
-| FORTE | notícia | 2483 | 11 | 90 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | sem fonte |
-| FORTE | notícia | 3827 | 12 | 90 | Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | sem fonte |
-| FORTE | noticia | 2818 | 11 | 90 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | sem fonte |
-| FORTE | notícia | 5270 | 21 | 90 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | sem fonte |
-| FORTE | notícia | 3363 | 16 | 90 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | sem fonte |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
-| FORTE | noticia | 4818 | 12 | 90 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | sem fonte |
-| FORTE | noticia | 3642 | 10 | 90 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | sem fonte |
-| FORTE | notícia | 3497 | 12 | 90 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | sem fonte |
-| FORTE | noticia | 8797 | 25 | 90 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | sem fonte |
-| FORTE | noticia | 5786 | 17 | 90 | Xbox teria garantido exclusividade de GTA 6 no streaming em nuvem no lançamento | sem fonte |
-| FORTE | noticia | 4744 | 15 | 90 | Xbox Helix pode ter 40% mais TFLOPS que o PS6 — mas isso não significa 40% mais desempenho | sem fonte |
-| FORTE | noticia | 2423 | 11 | 90 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | sem fonte |
-| FORTE | notícia | 2835 | 10 | 90 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | sem fonte |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
+| FORTE | notícia | 1435 | 8 | 91 | Launch Trailer de GTA VI mostra a tornozeleira de Lucia e helicópteros em ação | texto curto |
 | FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
 | FORTE | notícia | 1463 | 7 | 92 | CONTROL Resonant mostra Manhattan em colapso e poderes de Dylan em novo trailer | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
@@ -136,27 +88,25 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1577 | 6 | 94 | Monster Hunter World no Switch 2 é improvável: Capcom teria que refazer o jogo do zero | texto curto |
 | FORTE | notícia | 1578 | 7 | 94 | Phantom Blade Zero mostra o chefe The Hunt em novo vídeo e revela a aparência Blood-Steel Form | texto curto |
 | FORTE | notícia | 1576 | 6 | 94 | Pokémon Pokopia: primeira parte do DLC, Bubbly Basin, chega em 5 de agosto | texto curto |
-| FORTE | review | 8929 | 22 | 95 | Análise: Resident Evil Requiem — o medo voltou, e ele tem nome de Grace Ashcroft | fonte sem URL |
-| FORTE | review | 11684 | 23 | 95 | Análise: Star Wars Outlaws — a fantasia de fora-da-lei que a galáxia merecia | fonte sem URL |
-| FORTE | review | 8260 | 28 | 95 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | fonte sem URL |
+| FORTE | noticia | 1590 | 7 | 95 | Beautiful Freaks of the Desert mistura boomer shooter, speedrun e um deserto aberto | texto curto |
 | FORTE | notícia | 1599 | 5 | 95 | Dragon's Dogma 2 no Switch 2: produtor diz que a performance tá superando as expectativas deles | texto curto |
-| FORTE | retrô | 5300 | 11 | 95 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
-| FORTE | notícia | 5716 | 18 | 95 | A semana decisiva de GTA 6: reunião da Take-Two na sexta, trailer 3 no ar da esperança e um like da Rockstar que virou caso | fonte sem URL |
 | FORTE | notícia | 1596 | 5 | 95 | Halo Studios teria cancelado um novo jogo multiplayer que estava em desenvolvimento | texto curto |
-| FORTE | guia | 5411 | 24 | 95 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
-| FORTE | notícia | 3420 | 10 | 95 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | fonte sem URL |
-| FORTE | artigo | 13158 | 41 | 95 | As melhores sequências de abertura de todos os tempos — Parte 1 | fonte sem URL |
+| FORTE | noticia | 1596 | 7 | 95 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto |
 | FORTE | noticia | 1581 | 8 | 95 | Monster Hunter Wilds: Ascendance transforma a Long Sword com novos counters e combos | texto curto |
+| FORTE | noticia | 1596 | 7 | 95 | MR. RECORDS ganha demo no Steam e confirma versões para PS5 e Xbox Series | texto curto |
+| FORTE | noticia | 1603 | 7 | 95 | Mycopunk chega ao PS5 e deixa o acesso antecipado no PC em 20 de outubro | texto curto |
 | FORTE | Notícias | 1586 | 7 | 95 | Persona 4 Revival destaca Kanji Tatsumi em novo trailer | texto curto |
-| FORTE | noticia | 1898 | 6 | 95 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | fonte sem URL |
 | FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | noticia | 1619 | 6 | 95 | Warcraft III recebe Forsaken Kingdom, primeira nova campanha em 23 anos | texto curto |
 | FORTE | noticia | 1639 | 6 | 96 | Castlevania: Belmont’s Curse agrada nas primeiras análises, mas exploração divide opiniões | texto curto |
+| FORTE | noticia | 1657 | 7 | 96 | Dancing with Ghosts transforma luto em aventura sobre alegria e chega ao acesso antecipado em outubro | texto curto |
 | FORTE | notícia | 1659 | 8 | 96 | GTA 6 terá academia, caiaque e mergulho entre as atividades de Jason e Lucia | texto curto |
+| FORTE | noticia | 1633 | 8 | 96 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto |
 | FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1687 | 6 | 97 | GTA 6 está dentro do prazo do The Game Awards 2026, com um dia de folga | texto curto |
+| FORTE | noticia | 1688 | 7 | 97 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
 | FORTE | notícia | 1682 | 9 | 97 | Pokémon Pokopia leva Ditto para o fundo do mar em Bubbly Basin — veja o que muda no Switch 2 | texto curto |
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
@@ -178,6 +128,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1753 | 5 | 99 | Nova vai ganhar filme no MCU com o roteirista de Loki no comando | texto curto |
 | FORTE | noticia | 1762 | 9 | 99 | Ondeh Ondeh: Kaya’s Tasty Tale mistura ritmo, puzzles e cultura do Sudeste Asiático | texto curto |
 | FORTE | notícia | 1752 | 5 | 99 | Mario, GTA e mais 8: os ports mais caros da história que vão fazer seu bolso chorar | texto curto |
+| FORTE | noticia | 1764 | 7 | 99 | Rayman Legends Retold ganha trailer de seis minutos e detalha mundo inédito, poderes e Kung Foot Evo | texto curto |
 | FORTE | noticia | 1771 | 8 | 99 | Solo Leveling: KARMA mostra guerra de 27 anos e gameplay roguelite em novos trailers | texto curto |
 | FORTE | noticia | 1763 | 6 | 99 | Squadron 42 chega à lista de desejos da Steam e mira lançamento em 2027 | texto curto |
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
@@ -194,12 +145,16 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | review | 14796 | 39 | 100 | Análise: Death Stranding 2 é uma obra-prima exuberante — Kojima entrega um dos grandes jogos da geração | — |
 | FORTE | review | 9924 | 37 | 100 | Análise: Hell is Us — um universo fascinante que merece ir muito além | — |
 | FORTE | artigo | 8037 | 25 | 100 | Netflix, Rockstar e o fim do disco: por que o trailer de GTA 6 é o sintoma, não a doença | — |
+| FORTE | review | 8929 | 22 | 100 | Análise: Resident Evil Requiem — o medo voltou, e ele tem nome de Grace Ashcroft | — |
+| FORTE | review | 11684 | 23 | 100 | Análise: Star Wars Outlaws — a fantasia de fora-da-lei que a galáxia merecia | — |
 | FORTE | notícia | 2034 | 5 | 100 | GTA 6 deveria custar US$ 200? Analista acha que a Rockstar tá vendendo barato | — |
 | FORTE | notícia | 3132 | 6 | 100 | Analista avisa: o fim dos jogos físicos no PS5 pode fechar as lojas de games de vez | — |
 | FORTE | Artigos | 5915 | 15 | 100 | Antes de Phantom Blade Zero: conheça os jogos que deram origem ao universo da S-GAME | — |
 | FORTE | notícia | 3576 | 11 | 100 | ARC Raiders e The Finals terão adaptações para cinema e TV com a Chernin | — |
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
 | FORTE | notícia | 3842 | 13 | 100 | Arknights: Endfield chega ao Steam com Santuário de Tinta, Si e Argent Flow | — |
+| FORTE | noticia | 5042 | 17 | 100 | Armed Fantasia tem desenvolvimento descontinuado pela Digital Bros após anos de produção | — |
+| FORTE | notícia | 5666 | 24 | 100 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | — |
 | FORTE | notícia | 2074 | 6 | 100 | Black Flag Resynced ganha atualização que deixa esconder a zarabatana das costas do Edward | — |
 | FORTE | notícia | 2101 | 5 | 100 | DLC polêmico do dia 1 de Black Flag Resynced rendeu US$ 1 milhão só no Steam — e a galera tá furiosa | — |
 | FORTE | notícia | 2646 | 5 | 100 | Diretor de Black Flag Resynced pede uma coisa só: que a gente não abandone o jogo quando GTA 6 chegar | — |
@@ -210,6 +165,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3730 | 12 | 100 | Battlefield 6 chega ao Game Pass em outubro, enquanto jogo brasileiro Deep Dish Dungeon estreia no serviço | — |
 | FORTE | notícia | 4427 | 7 | 100 | Tsuru Reef é o maior mapa de Battlefield 6 — e pode ser aquele que você nunca joga de novo | — |
 | FORTE | noticia | 2618 | 10 | 100 | Battlefield 6 leva guerra a Las Vegas e Área 51 no trailer da Temporada 5 | — |
+| FORTE | notícia | 2859 | 9 | 100 | Battlefield 6 inicia Temporada 5 com Vegas Strip, dois mapas e quatro novas armas | — |
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
@@ -250,6 +206,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
 | FORTE | notícia | 2437 | 5 | 100 | Deborah Ann Woll sobre os haters de God of War Laufey: "Em nenhum universo o jogo é ruim" | — |
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
+| FORTE | review | 8260 | 28 | 100 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | — |
+| FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
+| FORTE | noticia | 1988 | 8 | 100 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | — |
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
 | FORTE | noticia | 2059 | 10 | 100 | Diablo IV no Switch 2 chega a 1440p e oferece modo de 40 FPS; Blizzard detalha a versão | — |
@@ -266,9 +225,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2444 | 5 | 100 | As demissões da Xbox já estão batendo no Elder Scrolls Online — e a loja do jogo foi a primeira a sentir | — |
 | FORTE | notícia | 1905 | 5 | 100 | A liderança do Elder Scrolls Online foi varrida pelas demissões da Xbox — e a chefe do estúdio está entre as vítimas | — |
 | FORTE | artigo | 9345 | 32 | 100 | O maior desperdício da indústria: as engines que custaram fortunas e viraram pó | — |
+| FORTE | notícia | 5018 | 15 | 100 | Epic Games adia jogo de Marvel e Star Wars e determina uso intensivo de inteligência artificial | — |
 | FORTE | notícia | 3029 | 14 | 100 | Separa a graninha: Promoção de Verão da Epic tem jogão por menos de R$ 10 e descontos de até 90% | — |
+| FORTE | noticia | 1985 | 8 | 100 | Escape From Playtime leva os Smiling Critters ao terror cooperativo e chega em outubro | — |
 | FORTE | notícia | 3008 | 6 | 100 | Japão manda recado à Nintendo: escritório de patentes rejeita mais uma do processo contra Palworld | — |
 | FORTE | especial | 7386 | 26 | 100 | Hideo Kojima faz 63 anos: o homem que recusou fazer jogos normais e mudou a indústria três vezes | — |
+| FORTE | retrô | 5300 | 11 | 100 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
 | FORTE | especial | 11219 | 32 | 100 | Especial Metal Gear #2 — Sons of Liberty (2001): o jogo que enganou o mundo inteiro e previu o futuro | — |
 | FORTE | noticia | 2220 | 9 | 100 | Eternal Anima resgata a era de ouro dos JRPGs com viagem no tempo e batalhas que preveem o futuro | — |
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
@@ -286,6 +248,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2733 | 11 | 100 | Fortnite Override: o passe de batalha traz Sonic e Tetris, e a temporada inteira virou um museu dos videogames | — |
 | FORTE | noticia | 5545 | 20 | 100 | Fortnite: Pesadelos 2026 reúne FNAF, Freddy Krueger, Hollow Knight e uma avalanche de crossovers | — |
 | FORTE | noticia | 2293 | 10 | 100 | Sora chega a Fortnite nesta semana e crossover de Kingdom Hearts terá Riku, Kairi e Roxas | — |
+| FORTE | noticia | 2760 | 7 | 100 | Forza Horizon 6 chega ao PS5 em janeiro de 2027 com 60 FPS, cross-save e primeira expansão | — |
 | FORTE | noticia | 2578 | 12 | 100 | Game Freak anuncia Ame no Chi Hare Onna, novo jogo que transforma a previsão do tempo em mecânica | — |
 | FORTE | notícia | 2252 | 6 | 100 | War for Westeros escorrega no gelo e vai para 2027 | — |
 | FORTE | notícia | 3188 | 6 | 100 | Game Pass foi boa ideia, mas não funcionou: diretor de Forza Horizon 5 desabafa sobre o colapso do Xbox | — |
@@ -296,7 +259,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 12047 | 45 | 100 | Gamescom Opening Night Live 2026: veja os principais anúncios e trailers | — |
 | FORTE | notícia | 2680 | 5 | 100 | CEO da GameStop sobre jogos físicos: 'Não importa. Não importa nada' | — |
 | FORTE | notícia | 2223 | 7 | 100 | Gears of War: E-Day abre beta multiplayer em 6 de agosto — veja como garantir acesso antecipado | — |
+| FORTE | noticia | 4224 | 15 | 100 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | — |
 | FORTE | noticia | 2448 | 8 | 100 | Gears of War: E-Day abre acesso antecipado e ganha trailer de lançamento | — |
+| FORTE | noticia | 6244 | 23 | 100 | Equipe de Gears of War: E-Day teme demissões após lançamento e possível perda de bônus | — |
 | FORTE | noticia | 2056 | 9 | 100 | Gears of War: E-Day está pronto: jogo entra em fase gold e ganha data de pré-instalação | — |
 | FORTE | noticia | 2910 | 9 | 100 | Gears of War: E-Day dobra recorde de Gears 5 no Steam antes do lançamento geral | — |
 | FORTE | notícia | 3143 | 9 | 100 | GeForce NOW libera os controles do DLSS 4.5 e recebe Enshrouded 1.0 e Boltgun 2 | — |
@@ -333,24 +298,30 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 6326 | 37 | 100 | GTA 6: o que a Rockstar precisa mostrar no Olhar Estendido da Netflix | — |
 | FORTE | notícia | 11098 | 43 | 100 | GTA 6 finalmente mostrou o jogo — e agora é difícil fingir que o hype está exagerado | — |
 | FORTE | notícia | 2371 | 10 | 100 | Rumor: página vazada da Netflix indica que o "Olhar Estendido" de GTA 6 pode ter três episódios e mais de uma hora | — |
+| FORTE | noticia | 4693 | 15 | 100 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | — |
 | FORTE | notícia | 3766 | 7 | 100 | GTA 6 pode faturar até R$ 29 bilhões na semana de lançamento — e a pré-venda já é recorde histórico | — |
 | FORTE | notícia | 4592 | 17 | 100 | GTA VI: Bad Bunny, Lana Del Rey, Slayer e Burna Boy comandam as rádios de Leonida | — |
 | FORTE | notícia | 2476 | 11 | 100 | Bloomberg: Rockstar ainda não sabe quem é o Cyberleek nem como o acesso aconteceu | — |
 | FORTE | notícia | 1795 | 5 | 100 | Take-Two defende GTA 6 sem disco e diz que mídia física “não faz sentido” em alguns casos | texto curto |
 | FORTE | notícia | 2669 | 6 | 100 | GTA 6 sem PC não é ganância — ex-produtor da Rockstar explica o motivo de verdade | — |
+| FORTE | notícia | 5716 | 18 | 100 | A semana decisiva de GTA 6: reunião da Take-Two na sexta, trailer 3 no ar da esperança e um like da Rockstar que virou caso | — |
 | FORTE | noticia | 3259 | 11 | 100 | GTA 6 e Spotify levam campanha às ruas após teasers de Travis Scott, Future e outros artistas | — |
 | FORTE | noticia | 2136 | 8 | 100 | GTA 6 tem primeiro ator confirmado: Stephen Root revela participação no jogo da Rockstar | — |
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
+| FORTE | noticia | 2457 | 10 | 100 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | — |
 | FORTE | notícia | 2751 | 12 | 100 | GTA 6: novo clipe mostra Vice City à noite vista de avião, dez estações de rádio e um prompt de pesca no canto da tela | — |
 | FORTE | notícia | 7944 | 28 | 100 | GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta | — |
 | FORTE | artigo | 5801 | 40 | 100 | GTA 6: 8 sistemas que os vazamentos sugerem e que podem mudar a experiência | — |
 | FORTE | notícia | 1909 | 6 | 100 | Take-Two aposta que novo vídeo de GTA 6 na Netflix vai aumentar ainda mais a paixão dos fãs | — |
+| FORTE | notícia | 2962 | 15 | 100 | GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming no lançamento, diz executivo | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
+| FORTE | noticia | 5480 | 21 | 100 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
 | FORTE | noticia | 2065 | 9 | 100 | Harbor abre alpha fechado e quer jogadores ajudando a moldar seu survival pós-apocalíptico | — |
 | FORTE | noticia | 2238 | 10 | 100 | Hearthstone volta à era dos Old Gods em Reign of the Black Empire e confirma Monk para 2027 | — |
+| FORTE | guia | 5411 | 24 | 100 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
 | FORTE | noticia | 1802 | 8 | 100 | Helldivers 2 recebe Ironclad Democracy com lança-granadas, pistola-míssil e armadura de tanque | — |
 | FORTE | notícia | 2445 | 7 | 100 | Henry Cavill embarca de novo em Warhammer 40.000 — agora numa série animada da Amazon | — |
 | FORTE | notícia | 7571 | 24 | 100 | Heroes of Might and Magic III vai renascer — e a Ubisoft sabe que não pode simplesmente refazer um clássico | — |
@@ -358,6 +329,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 5936 | 22 | 100 | Kojima revela à IGN bastidores da saída da Sony de PHYSINT e temor pelo futuro do estúdio | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
+| FORTE | noticia | 5584 | 16 | 100 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | — |
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
 | FORTE | artigo | 5691 | 22 | 100 | A palestra mais importante da Gamescom não foi sobre jogo nenhum | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
@@ -368,18 +340,22 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
 | FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
 | FORTE | notícia | 2884 | 12 | 100 | Kojima acredita que jogos em mídia física podem desaparecer em até três anos | — |
+| FORTE | notícia | 2917 | 11 | 100 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | — |
 | FORTE | notícia | 3487 | 10 | 100 | Kojima retorna ao KOJI10 e mostra elenco inédito de PHYSINT aos apresentadores | — |
 | FORTE | notícia | 2214 | 9 | 100 | Konami anuncia Press Start para 3 de setembro com Castlevania, Silent Hill: Townfall e imagens inéditas | — |
 | FORTE | notícia | 2689 | 7 | 100 | Konami ressuscita Suikoden 14 anos depois — mas tem uma pegadinha no caminho | — |
 | FORTE | notícia | 2482 | 7 | 100 | Jon Hamm quase foi o detetive de LA Noire — e o roteirista explica por que foi melhor assim | — |
+| FORTE | notícia | 3420 | 10 | 100 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | — |
 | FORTE | notícia | 1853 | 5 | 100 | League of Legends Classic revela modo retrô, mas a galera já tá brigando por causa das skins | — |
 | FORTE | notícia | 3016 | 6 | 100 | O ator de Wolverine ficou com medo de si mesmo — e isso foi exatamente o que a Insomniac queria | — |
 | FORTE | especial | 4282 | 9 | 100 | Lies of P no Switch 2 mostra como um bom port deve ser feito | — |
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
+| FORTE | noticia | 2616 | 7 | 100 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | — |
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
+| FORTE | noticia | 3760 | 12 | 100 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | — |
 | FORTE | notícia | 1784 | 5 | 100 | Marvel Rivals na 9ª temporada e a galera já tá de saco cheio do caos visual | texto curto |
 | FORTE | notícia | 4906 | 14 | 100 | Marvel na San Diego Comic-Con 2026: o resumo de tudo que a Casa das Ideias anunciou | — |
 | FORTE | noticia | 3277 | 12 | 100 | Marvel's Wolverine chega hoje ao PS5 e Insomniac explica como transformou Logan em algo muito diferente de Spider-Man | — |
@@ -390,6 +366,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2366 | 6 | 100 | Clones de Meccha Chameleon no Roblox têm mais jogadores que o jogo original no Steam — e isso diz muito sobre a plataforma | — |
 | FORTE | notícia | 4623 | 17 | 100 | Mega Man: Dual Override nasceu das lições de Mega Man 11 — e Proto Man voltou porque os fãs pediram | — |
 | FORTE | notícia | 6474 | 20 | 100 | Mega Man: Dual Override não quer apenas trazer o Blue Bomber de volta — quer fazê-lo evoluir | — |
+| FORTE | artigo | 13158 | 41 | 100 | As melhores sequências de abertura de todos os tempos — Parte 1 | — |
 | FORTE | notícia | 3968 | 12 | 100 | É do Brasil! Konami confirma legendas em português para Metal Gear Solid: Master Collection Vol. 2 | — |
 | FORTE | notícia | 8209 | 25 | 100 | Master Collection Vol. 2: tudo que a Konami acertou (e o que ainda dói) no resgate de MGS4 | — |
 | FORTE | notícia | 2637 | 8 | 100 | Konami solta novo trailer de MGS Master Collection Vol. 2 na reta final pro lançamento | — |
@@ -399,14 +376,17 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1789 | 6 | 100 | Demanda por memória para IA aumenta pressão sobre cadeia que também abastece hardware gamer | texto curto |
 | FORTE | notícia | 3691 | 12 | 100 | Minecraft Dungeons II domina ranking da eShop e coloca duas edições no topo | — |
 | FORTE | noticia | 2717 | 9 | 100 | Minecraft Dungeons II é lançado com mundo interconectado, The Sift e estreia no Game Pass | — |
+| FORTE | noticia | 3895 | 13 | 100 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | — |
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
+| FORTE | notícia | 5159 | 26 | 100 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | — |
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
 | FORTE | notícia | 3933 | 13 | 100 | Monster Hunter Rise atinge 20 milhões de cópias e celebra caçadores de Kamura | — |
 | FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
+| FORTE | noticia | 2024 | 7 | 100 | Nintendo anuncia Switch 2 com Monster Hunter Wilds para dezembro; pacote inclui jogo digital e bônus | — |
 | FORTE | notícia | 3515 | 12 | 100 | Monster Hunter Wilds fica R$ 110 mais barato e ganha demo grátis que salva seu progresso | — |
 | FORTE | noticia | 1836 | 7 | 100 | Monster Hunter Wilds no Switch 2 começou a ser desenvolvido em junho de 2025 | — |
 | FORTE | noticia | 1974 | 9 | 100 | Monster Hunter Wilds no Switch 2: Capcom revela resolução, 30 FPS e modos gráficos | — |
@@ -418,9 +398,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
+| FORTE | notícia | 3939 | 12 | 100 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | — |
 | FORTE | notícia | 1988 | 7 | 100 | Nintendo marca Direct dedicado a Fire Emblem: Fortune's Weave para esta terça | — |
 | FORTE | noticia | 2726 | 10 | 100 | Nintendo transforma o DK Challenge em coleção física com 39 cards de Donkey Kong | — |
 | FORTE | Notícias | 2790 | 12 | 100 | Nintendo anuncia dois Directs seguidos; Zelda terá especial de 40 anos e comunidade já faz apostas | — |
+| FORTE | noticia | 4152 | 10 | 100 | Nintendo supera PlayStation e Xbox na média de avaliações de 2026; veja todos os jogos | — |
 | FORTE | notícia | 2590 | 9 | 100 | Nintendo afirma que não pretende abandonar jogos em mídia física | — |
 | FORTE | notícia | 4857 | 14 | 100 | Nintendo fatura menos, mas lucro operacional mais que dobra: o Switch 2 entrou na fase que dá dinheiro | — |
 | FORTE | noticia | 3354 | 14 | 100 | Nintendo diz que Switch 2 está “apenas no começo” e detalha estratégia para os próximos anos | — |
@@ -453,6 +435,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Artigos | 6827 | 22 | 100 | Phantom Blade Zero quer transformar kung fu em gameplay — e Donnie Yen ajudou a construir essa luta | — |
 | FORTE | Notícias | 2378 | 7 | 100 | Donnie Yen está em Phantom Blade Zero — e sua participação vai muito além de interpretar um personagem | — |
 | FORTE | Opinião | 5597 | 17 | 100 | Phantom Blade Zero: por que meu hype está nas alturas | — |
+| FORTE | notícia | 5211 | 14 | 100 | Phantom Blade Zero impressiona nas primeiras prévias, mas ainda deixa dúvidas sobre o desempenho | — |
 | FORTE | Artigos | 3408 | 13 | 100 | Quem é Soul? Entenda a história de Phantom Blade Zero e por que ele tem apenas 66 dias | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
 | FORTE | noticia | 2689 | 12 | 100 | Kojima revela protagonista de PHYSINT no Tokyo Game Show 2026: Bill Skarsgård assume papel principal | — |
@@ -463,6 +446,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
+| FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
@@ -490,9 +474,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 8345 | 32 | 100 | A Plague Tale não precisava de outra história — e é justamente por isso que Resonance precisa justificar sua existência | — |
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
+| FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
 | FORTE | noticia | 2148 | 9 | 100 | The Rogue Prince of Persia ganha enorme atualização de aniversário com gelo, novos modos e armas | — |
+| FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
+| FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
@@ -505,7 +492,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2137 | 10 | 100 | Signal Veil mistura survival horror, trauma psicológico e anime dos anos 90 | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
+| FORTE | notícia | 5066 | 20 | 100 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
+| FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
 | FORTE | notícia | 2166 | 7 | 100 | Marvel's Spider-Man 2 ganha update grátis com trajes de Brand New Day e Tōkon — e um bug engraçado | — |
 | FORTE | notícia | 2825 | 7 | 100 | O diretor de Spider-Man: Brand New Day usou os jogos da Insomniac como manual de acrobacias | — |
@@ -522,6 +511,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1861 | 8 | 100 | PlayStation anuncia State of Play duplo para 3 de setembro — e Final Fantasy VII Revelation fecha o evento | — |
 | FORTE | Notícias | 5475 | 29 | 100 | State of Play de setembro de 2026: veja todos os anúncios e trailers | — |
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
+| FORTE | notícia | 3827 | 12 | 100 | Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
@@ -542,21 +532,26 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
 | FORTE | notícia | 5261 | 24 | 100 | Vazamento revela os 14 personagens de The Duskbloods — e cada um deles é mais perturbado que o anterior | — |
 | FORTE | notícia | 2581 | 9 | 100 | The Elder Scrolls 6 será exclusivo do Xbox? CEO da Microsoft evita confirmar | — |
+| FORTE | noticia | 2818 | 11 | 100 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
 | FORTE | notícia | 3608 | 9 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
+| FORTE | notícia | 5270 | 21 | 100 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | — |
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 4712 | 21 | 100 | Tokyo Game Show 2026 entra na reta final: 30 anos, cinco dias e gigantes da indústria se movimentam | — |
 | FORTE | notícia | 3007 | 11 | 100 | Tomb Raider: Legacy of Atlantis mostra como refez o combate da Lara sem trair o jogo de 1996 | — |
+| FORTE | notícia | 3363 | 16 | 100 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
 | FORTE | notícia | 2764 | 10 | 100 | Ubisoft reúne The Division, Ghost Recon e Splinter Cell sob a Massive Entertainment | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
+| FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
 | FORTE | noticia | 3690 | 13 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
+| FORTE | noticia | 3642 | 10 | 100 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | — |
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
@@ -564,14 +559,18 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4648 | 15 | 100 | Sony tenta justificar saída de PHYSINT após romper com Kojima? | — |
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
+| FORTE | notícia | 3497 | 12 | 100 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
+| FORTE | noticia | 8797 | 25 | 100 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | — |
 | FORTE | noticia | 7300 | 22 | 100 | Xbox cria divisão XP para cinema, séries e parques temáticos; Minecraft ganha nova liderança | — |
 | FORTE | notícia | 3226 | 10 | 100 | Xbox libera Disc-to-Digital para todos e transforma discos físicos em licenças digitais | — |
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
 | FORTE | noticia | 1859 | 10 | 100 | Xbox Game Pass anuncia Gears of War: E-Day, Minecraft Dungeons II, Dune: Awakening e mais jogos | — |
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
 | FORTE | notícia | 3152 | 6 | 100 | Xbox vai te deixar jogar de graça na nuvem — mas tem um preço: seus ouvidos por dois minutinhos de anúncio | — |
+| FORTE | noticia | 5786 | 17 | 100 | Xbox teria garantido exclusividade de GTA 6 no streaming em nuvem no lançamento | — |
+| FORTE | noticia | 4744 | 15 | 100 | Xbox Helix pode ter 40% mais TFLOPS que o PS6 — mas isso não significa 40% mais desempenho | — |
 | FORTE | noticia | 2792 | 12 | 100 | Xbox e Kojima vão além dos games: parceria prevê projetos para cinema e televisão | — |
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
 | FORTE | notícia | 3693 | 12 | 100 | Xbox oficializa Mythic Achievements, sua resposta à Platina do PlayStation | — |
@@ -579,9 +578,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
+| FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
 | FORTE | Notícias | 2215 | 7 | 100 | Vazamento aponta Monolith Soft como desenvolvedora de Zelda: Ocarina of Time no Switch 2 | — |
 | FORTE | notícia | 2912 | 6 | 100 | A nota 99 de Ocarina of Time no Metacritic pode estar errada — e quem descobriu foi o Did You Know Gaming | — |
+| FORTE | notícia | 2835 | 10 | 100 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | — |
 | FORTE | notícia | 5675 | 15 | 100 | Prévias de Zelda: Ocarina of Time mostram pulo manual, Semente de Scrub Comerciante e mudanças em Hyrule | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
