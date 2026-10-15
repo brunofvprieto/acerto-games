@@ -4,7 +4,7 @@ Versão: 2026-09-25. Responsável: Bruno Vazquez (@brunofvprieto).
 Subordinado integralmente a scripts/persona.md. Não cria exceções às regras de fontes, precisão, linguagem, experiência ou governança.
 
 ## Análise
-Desenvolva uma interpretação a partir de evidências atribuídas. Explique mecanismos, antecedentes e consequências. Diferencie consequência documentada de cenário possível. Não preencha uma estrutura fixa com parágrafos genéricos.
+Desenvolva uma interpretação a partir de evidências. A interpretação é do portal e não cita outros veículos. Só declaração, entrevista, comunicado, mailing e apuração exclusiva de terceiros levam atribuição. Explique mecanismos, antecedentes e consequências. Diferencie consequência documentada de cenário possível. Não preencha uma estrutura fixa com parágrafos genéricos.
 
 ## Opinião
 Defenda uma tese específica, demonstre seus fundamentos e considere objeções relevantes. A posição deve ser reconhecível pelo argumento, sem exigir bordões como "eu acho" ou uma frase de veredito. Não simule a opinião pessoal de Bruno quando não fornecida; identifique a leitura editorial pelo gênero do texto.
