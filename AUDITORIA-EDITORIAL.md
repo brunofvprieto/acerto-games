@@ -1,9 +1,9 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 582
+- Total analisado: 583
 - Forte: 569
-- Revisar: 11
+- Revisar: 12
 - Prioridade: 2
 
 ## Ordem de trabalho
@@ -20,6 +20,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | REVISAR | notícia | 937 | 4 | 73 | Sanitarium volta em versão remasterizada quase 30 anos depois: Enhanced Edition chega em 2026 | texto curto, poucos parágrafos |
 | REVISAR | noticia | 973 | 4 | 74 | Resonance: A Plague Tale Legacy mostra combate brutal em novo trailer | texto curto, poucos parágrafos |
 | REVISAR | noticia | 967 | 4 | 74 | Wo Long 2 vai reformular sistema de Moral para seu mundo aberto | texto curto, poucos parágrafos |
+| REVISAR | notícia | 1133 | 4 | 78 | ONE PIECE: Grand Gourmet chega em 23 de outubro com texto em português e R$ 82,90 na Steam | texto curto, poucos parágrafos |
 | REVISAR | notícia | 965 | 6 | 79 | Control Resonant chega a 1 milhão de cópias vendidas em três semanas | texto curto |
 | REVISAR | noticia | 976 | 5 | 79 | PC Gaming Show Tokyo Direct acontece neste domingo com mais de 35 jogos e estreias mundiais | texto curto |
 | REVISAR | Notícias | 949 | 5 | 79 | Red Dead Online abre setembro com recompensas triplas para Moonshiners | texto curto |
