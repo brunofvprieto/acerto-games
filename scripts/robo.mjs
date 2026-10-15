@@ -291,12 +291,12 @@ async function escreverMateria(item, titulosRodada = []) {
 
   const material = [
     item.manual ? `⚠️ PAUTA MANUAL DO EDITOR — já aprovada na linha editorial; não recuse por escopo.` : "",
-    `FONTE: ${item.fonte} (${item.pais || "?"} — material original em ${item.idioma || "?"})`,
+    `ORIGEM DO MATERIAL (uso interno, não cite o veículo no texto): ${item.fonte} (${item.pais || "?"} — material original em ${item.idioma || "?"})`,
     `LINK ORIGINAL: ${item.link}`,
     `DATA DE PUBLICAÇÃO DA FONTE: ${item.data}`,
     `TÍTULO ORIGINAL: ${item.titulo}`,
     `RESUMO DO FEED: ${item.resumo}`,
-    item.textoCompleto ? `\nCONTEÚDO COMPLETO DA MATÉRIA (texto extraído da página original — sua principal fonte de apuração):\n${item.textoCompleto}` : "",
+    item.textoCompleto ? `\nCONTEÚDO COMPLETO DA MATÉRIA (texto extraído da página original — material de pesquisa; descreva e analise com voz própria, sem citar o veículo):\n${item.textoCompleto}` : "",
     ``,
     `DATA DE HOJE: ${hoje}`,
     ``,

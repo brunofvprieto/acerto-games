@@ -17,18 +17,11 @@ for (const arquivo of arquivos) {
     if (!post.excerpt || post.excerpt.length < 100) problemas.push("resumo curto");
     if (texto.length < 1800) problemas.push("texto curto");
     if (paragrafos.length < 5) problemas.push("poucos parágrafos");
-    if (["notícia", "noticia", "artigo", "especial", "opinião", "opiniao", "review"].includes(String(post.category || "").toLowerCase())) {
-      if (!post.fonte && !post.source) problemas.push("sem fonte");
-      if ((post.fonte || post.source) && !post.fonteUrl && !post.sourceUrl) problemas.push("fonte sem URL");
-    }
-
     let score = 100;
     score -= Math.min(45, Math.max(0, 1800 - texto.length) / 40);
     score -= Math.max(0, 5 - paragrafos.length) * 5;
     if (!post.author) score -= 20;
     if (!post.excerpt || post.excerpt.length < 100) score -= 10;
-    if (!post.fonte && !post.source) score -= 10;
-    if ((post.fonte || post.source) && !post.fonteUrl && !post.sourceUrl) score -= 5;
 
     const faixa = score >= 80 ? "FORTE" : score >= 60 ? "REVISAR" : "PRIORIDADE";
     resultados.push({ arquivo, slug: post.slug, title: post.title, category: post.category, chars: texto.length, paragraphs: paragrafos.length, score: Math.round(score), faixa, problemas });

@@ -60,7 +60,7 @@ export default function PoliticaDePrivacidade() {
 
         <h2 className="font-display text-lg text-arcade">6. Links externos</h2>
         <p>
-          Nossas matérias citam e linkam fontes externas. Não nos responsabilizamos
+          Algumas páginas do site podem apontar para endereços externos. Não nos responsabilizamos
           pelas práticas de privacidade de outros sites.
         </p>
 

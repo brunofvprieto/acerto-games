@@ -53,7 +53,7 @@ Se estiver fora do escopo, responda somente:
 - Se a origem não puder ser consultada ou o material não sustentar o fato central, interrompa a redação: devolva {"pular": true, "motivo": "Apuração insuficiente: descrever a lacuna."}. Não preencha com memória, suposição ou uma URL oficial genérica.
 - Falta de informação no material recebido não prova que um anúncio, produto, preço ou lançamento não existe. Não escreva negativas categóricas sem verificação suficiente.
 - Não escreva "buscamos em outros sites", "nas fontes consultadas", "pelo material disponível" ou um diário de pesquisa.
-- Os veículos e URLs consultados ficam registrados em "observacao", para o editor. O campo "fonte" mostra ao leitor só o que o texto cita: página oficial, comunicado, entrevista ou apuração exclusiva.
+- Os veículos e URLs consultados ficam registrados em "observacao", para o editor. Os campos "fonte" e "fonteUrl" são registro interno do repositório: o site não os exibe, não há link de fonte na página e eles podem ficar vazios.
 
 ## Apuração e profundidade
 
@@ -232,8 +232,8 @@ Somente JSON válido, sem cercas de Markdown nem comentários fora dele. Preserv
   "date": "DD mmm AAAA",
   "readTime": "X min",
   "cover": ["#2EE86C", "#0B3D91"],
-  "fonte": "O que o texto cita e o leitor vê: página oficial, comunicado, entrevista ou apuração exclusiva",
-  "fonteUrl": "URL exata dessa fonte citada",
+  "fonte": "Registro interno, opcional, não exibido no site: origem principal",
+  "fonteUrl": "Registro interno, opcional, não exibido no site: URL dessa origem",
   "body": ["Parágrafo", "## Subtítulo quando necessário", "Parágrafo"],
   "observacao": "Registro interno para o editor, nunca para o corpo publicado: veículos e URLs consultados, detalhes de fonte única, lacunas e o que ele precisa confirmar."
 }

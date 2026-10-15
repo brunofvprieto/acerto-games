@@ -19,14 +19,14 @@ export default function Editorial() {
         <section>
           <h2 className="font-display text-xl text-arcade">O que é notícia e o que é opinião?</h2>
           <p className="mt-3">
-            Notícias apresentam fatos apurados e identificam suas fontes. Análises interpretam fatos e consequências. Opiniões assumem uma posição editorial. Reviews são avaliações baseadas em experiência com o jogo ou produto. O Acerto Games procura deixar essa diferença visível para o leitor.
+            Notícias apresentam fatos apurados. Análises interpretam fatos e consequências. Opiniões assumem uma posição editorial. Reviews são avaliações baseadas em experiência com o jogo ou produto. O Acerto Games procura deixar essa diferença visível para o leitor.
           </p>
         </section>
 
         <section>
           <h2 className="font-display text-xl text-arcade">Fontes</h2>
           <p className="mt-3">
-            Priorizamos fontes primárias: comunicados oficiais, páginas de desenvolvedores e fabricantes, relatórios financeiros, classificações etárias, trailers oficiais e entrevistas. Quando uma informação nasce em outro veículo, identificamos a origem e acrescentamos contexto próprio em vez de simplesmente reproduzir o texto.
+            Priorizamos fontes primárias: comunicados oficiais, páginas de desenvolvedores e fabricantes, relatórios financeiros, classificações etárias, trailers oficiais e entrevistas.
           </p>
         </section>
 

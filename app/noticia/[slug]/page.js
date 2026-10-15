@@ -285,13 +285,6 @@ export default function Noticia({ params }) {
 
           <ShareButtons slug={post.slug} titulo={post.title} />
           <QRCode url={urlCompleta} />
-
-          {post.fonte && (
-            <p className="mt-8 border-t border-edge pt-4 font-mono text-xs uppercase tracking-widest text-dim">
-              Com informações de:{" "}
-              {post.fonteUrl ? <a href={post.fonteUrl} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{post.fonte}</a> : post.fonte}
-            </p>
-          )}
         </article>
 
         {materiasLaterais.length > 0 && (

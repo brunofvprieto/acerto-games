@@ -35,11 +35,6 @@ for (const arquivo of arquivos) {
   if (proibidos.some((re) => re.test(post.title || ""))) erros.push("título usa fórmula de clickbait proibida");
   if (!(post.editorialAngle || post.observacao) || String(post.editorialAngle || post.observacao).length < 60) erros.push("ângulo editorial/observação de apuração ausente ou superficial");
 
-  if (["notícia", "opinião", "artigo", "especial", "review"].includes(post.category)) {
-    if (!post.fonte && !post.source) erros.push("fonte não identificada");
-    if ((post.fonte || post.source) && !post.fonteUrl && !post.sourceUrl) erros.push("fonte sem URL verificável");
-  }
-
   if (post.category === "opinião") {
     const opiniao = `${post.title} ${texto}`.toLowerCase();
     const temTese = /minha posição|eu acho|eu não acho|para mim|na minha visão|o problema é|a pergunta mais importante|eu defendo|não me convence|me parece/i.test(opiniao);
