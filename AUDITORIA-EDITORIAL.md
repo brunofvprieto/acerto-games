@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 594
-- Forte: 580
+- Total analisado: 595
+- Forte: 581
 - Revisar: 12
 - Prioridade: 2
 
@@ -77,6 +77,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1402 | 7 | 90 | Tales of Eternia Remastered chega hoje a seis plataformas, mas sem legendas em português | texto curto |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
+| FORTE | notícia | 1441 | 6 | 91 | Fatal Fury: City of the Wolves devolve os visuais clássicos de Terry e Mai em DLC no dia 22 | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
 | FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
 | FORTE | notícia | 1497 | 7 | 92 | Arizona Sunshine ganha remake em terceira pessoa, uma década depois do original em VR | texto curto |
