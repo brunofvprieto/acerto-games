@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 590
-- Forte: 576
+- Total analisado: 593
+- Forte: 579
 - Revisar: 12
 - Prioridade: 2
 
@@ -74,7 +74,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
 | FORTE | notícia | 1419 | 8 | 90 | PS Store tem promoção com até 90% off até 27 de agosto: destaques de ação e últimas horas para aproveitar | texto curto |
+| FORTE | notícia | 1402 | 7 | 90 | Tales of Eternia Remastered chega hoje a seis plataformas, mas sem legendas em português | texto curto |
 | FORTE | Notícias | 1390 | 6 | 90 | Turok: Origins detalha classes, coop para 3 jogadores e batalha contra dinossauro com mísseis | texto curto |
+| FORTE | notícia | 1383 | 5 | 90 | Ubisoft leva os cortes à Alemanha e propõe saída voluntária de cerca de 100 pessoas nos estúdios de Anno e The Settlers | texto curto |
 | FORTE | notícia | 1441 | 6 | 91 | Aliens: Fireteam Elite 2 chega já no fim de agosto — e vai lotar ainda mais o mês | texto curto |
 | FORTE | noticia | 1444 | 7 | 91 | Final Fantasy VII Revelation abre pré-venda no Switch 2 com bônus e acesso antecipado | texto curto |
 | FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
@@ -89,6 +91,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1517 | 6 | 93 | God of War: Laufey ganha caixa de colecionador de €149,99, mas jogo é vendido à parte | texto curto |
 | FORTE | noticia | 1515 | 7 | 93 | Heroes of the Storm volta à vida: Xal'atath é a primeira nova heroína em seis anos | texto curto |
 | FORTE | notícia | 1509 | 5 | 93 | Persona 4 Revival volta ao Midnight Channel em novo trailer focado nas Sombras | texto curto |
+| FORTE | notícia | 1508 | 7 | 93 | Sega tira do ar o remaster de Total War: Shogun 2 dois dias depois do lançamento | texto curto |
 | FORTE | noticia | 1519 | 7 | 93 | Star Fox ganha atualização grátis no Switch 2 com multiplayer para quatro jogadores e novas arenas | texto curto |
 | FORTE | notícia | 1552 | 5 | 94 | MrFreezy é o novo jogo do criador de Aerial Knight's — e ele envolve cortar cabeças de um jeito bem inusitado | texto curto |
 | FORTE | notícia | 1578 | 5 | 94 | O homem que nos deu Dead Space pendurou o controle: Glen Schofield anuncia aposentadoria | texto curto |
