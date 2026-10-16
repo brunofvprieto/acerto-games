@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 592
-- Forte: 578
+- Total analisado: 594
+- Forte: 580
 - Revisar: 12
 - Prioridade: 2
 
@@ -113,11 +113,13 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1657 | 7 | 96 | Dancing with Ghosts transforma luto em aventura sobre alegria e chega ao acesso antecipado em outubro | texto curto |
 | FORTE | notícia | 1659 | 8 | 96 | GTA 6 terá academia, caiaque e mergulho entre as atividades de Jason e Lucia | texto curto |
 | FORTE | noticia | 1633 | 8 | 96 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto |
+| FORTE | notícia | 1635 | 7 | 96 | No Rest for the Wicked troca atributos por 24 classes ligadas às armas na versão 1.0 | texto curto |
 | FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1687 | 6 | 97 | GTA 6 está dentro do prazo do The Game Awards 2026, com um dia de folga | texto curto |
 | FORTE | noticia | 1688 | 7 | 97 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto |
+| FORTE | notícia | 1663 | 7 | 97 | Modern Warfare 4 ganha pop-up na Avenida Paulista com Ghost e encontros com criadores | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
 | FORTE | notícia | 1682 | 9 | 97 | Pokémon Pokopia leva Ditto para o fundo do mar em Bubbly Basin — veja o que muda no Switch 2 | texto curto |
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
