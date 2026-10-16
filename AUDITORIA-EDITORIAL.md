@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 584
-- Forte: 570
+- Total analisado: 586
+- Forte: 572
 - Revisar: 12
 - Prioridade: 2
 
@@ -77,6 +77,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1497 | 7 | 92 | Arizona Sunshine ganha remake em terceira pessoa, uma década depois do original em VR | texto curto |
 | FORTE | notícia | 1463 | 7 | 92 | CONTROL Resonant mostra Manhattan em colapso e poderes de Dylan em novo trailer | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
+| FORTE | notícia | 1486 | 7 | 92 | Monster Hunter Wilds abre a caçada no Switch 2 com demo grátis e pré-venda a R$ 199 | texto curto |
 | FORTE | notícia | 1468 | 6 | 92 | Morbid Metal ganha Kaizu e amplia sistema de troca de personagens em pleno combate | texto curto |
 | FORTE | noticia | 1473 | 7 | 92 | Overwatch revela Doctrine, novo suporte vampiresco ligado a Doomfist | texto curto |
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
@@ -102,6 +103,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1619 | 7 | 95 | Double Fine anuncia Thank You Bus Driver, um simulador de ônibus completamente caótico | texto curto |
 | FORTE | noticia | 1619 | 6 | 95 | Warcraft III recebe Forsaken Kingdom, primeira nova campanha em 23 anos | texto curto |
 | FORTE | noticia | 1639 | 6 | 96 | Castlevania: Belmont’s Curse agrada nas primeiras análises, mas exploração divide opiniões | texto curto |
+| FORTE | notícia | 1656 | 8 | 96 | Controle Xbox Nano chega ao Brasil em novembro por R$ 379 e mira o jogo fora do console | texto curto |
 | FORTE | noticia | 1657 | 7 | 96 | Dancing with Ghosts transforma luto em aventura sobre alegria e chega ao acesso antecipado em outubro | texto curto |
 | FORTE | notícia | 1659 | 8 | 96 | GTA 6 terá academia, caiaque e mergulho entre as atividades de Jason e Lucia | texto curto |
 | FORTE | noticia | 1633 | 8 | 96 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto |
