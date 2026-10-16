@@ -1,0 +1,34 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "16 out 2026",
+  "readTime": "2 min",
+  "publicadoEm": "2026-10-16T00:36:00-03:00",
+  "slug": "controle-xbox-nano-brasil-r-379-novembro-compacto-nuvem",
+  "title": "Controle Xbox Nano chega ao Brasil em novembro por R$ 379 e mira o jogo fora do console",
+  "excerpt": "O controle compacto da Microsoft tem 13 cm, bateria recarregável embutida e Bluetooth. Parece a peça que faltava para jogar na nuvem pela TV e pelo celular.",
+  "cover": [
+    "#107c10",
+    "#0b1f0b"
+  ],
+  "image": "/img/controle-xbox-nano-bolso-compacto-r-379-brasil.jpg",
+  "imageFilename": "controle-xbox-nano-bolso-compacto-r-379-brasil.jpg",
+  "imageAlt": "Controle Xbox Nano branco saindo do bolso de um moletom verde, em frente a uma TV",
+  "imageCredit": "Divulgação/Microsoft",
+  "fonte": "Microsoft (Xbox Wire, 14/10/2026)",
+  "body": [
+    "A Microsoft anunciou nesta quarta (14) o Controle Xbox Nano, versão compacta do controle sem fio. Ele chega ao Brasil em novembro por R$ 379. Nos Estados Unidos, custa US$ 49,99 e sai em 4 de novembro.",
+    "## Pequeno de verdade",
+    "São pouco mais de 13 cm e cerca de 100 g. A própria Microsoft o descreve como “menor, mais leve e mais curto que a maioria dos smartphones modernos”, feito para “caber em quase todo bolso e orçamento”. Mesmo encolhido, ele mantém os 18 comandos do controle padrão e ganha um botão de ação programável, para captura de tela, gravação de clipes e outros atalhos.",
+    "A diferença que mais pesa no dia a dia está dentro dele. O Nano tem bateria recarregável embutida, enquanto o controle padrão do Xbox ainda depende de pilhas AA ou de um kit vendido à parte. A conexão é pelo protocolo sem fio do Xbox ou por Bluetooth.",
+    "## Feito para a nuvem",
+    "O alvo não é só quem joga no console. A Microsoft cita o Xbox Cloud Gaming, as smart TVs e os celulares, além de jogadores com mãos menores e crianças. É coerente com a estratégia de levar o Xbox a qualquer tela. O controle padrão é grande demais para a mochila, e as opções compactas vinham de terceiros, quase sempre com fio.",
+    "O Nano parece menos um acessório de console e mais a peça que faltava para o Game Pass na nuvem funcionar fora da sala.",
+    "O controle já tinha aparecido antes do anúncio: o Tecnoblog revelou imagens dele em maio.",
+    "## O que ainda falta saber",
+    "Autonomia da bateria, cores e conteúdo da caixa ainda não aparecem nas informações divulgadas.",
+    "## Ficha",
+    "Produto: Controle Xbox Nano. Preço no Brasil: R$ 379. Lançamento: novembro de 2026 (4 de novembro nos EUA, por US$ 49,99). Compatibilidade: consoles Xbox, PC, celulares iOS e Android e smart TVs selecionadas."
+  ],
+  "observacao": "Plano: anúncio oficial em 14/10 (Xbox Wire, inacessível pelo WebFetch; frase oficial confirmada em Gematsu e Windows Central). Preço R$ 379 e lançamento em novembro no Brasil: Arkade, Tecnoblog, Terra, Mixvale. EUA: US$ 49,99 e 4/11 (VGC, Gematsu). 13 cm e ~100 g, 18 comandos, botão programável, bateria embutida, Xbox Wireless e Bluetooth: VGC, Arkade, Tecnoblog, Windows Central. Foco em nuvem, mãos menores e crianças: Tecnoblog, Arkade, Windows Central. Controle padrão com pilhas AA: VGC (fato conhecido). Revelação prévia em maio: Tecnoblog (apuração exclusiva, por isso citado). Histórico: site não tinha matéria sobre o Nano. Fonte única e fora do texto: caixa sem cabo USB-C (TalkEsport), sticks sem Hall Effect (opinião do Windows Central), Elite Series 3 homologado na Anatel (Tecnoblog), promoção com Meta Quest e Samsung nos EUA. A frase de leitura 'peça que faltava para o Game Pass na nuvem' é análise do portal. Preço oficial do controle padrão no Brasil não confirmado, por isso sem comparação em reais. Imagem: foto oficial de divulgação (1920x1080), obtida via Gematsu."
+}
