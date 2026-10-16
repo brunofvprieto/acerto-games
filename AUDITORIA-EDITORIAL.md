@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 596
-- Forte: 582
+- Total analisado: 597
+- Forte: 583
 - Revisar: 12
 - Prioridade: 2
 
@@ -137,6 +137,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1774 | 7 | 99 | Diablo IV chega ao Nintendo Switch 2 com a coleção Age of Hatred | texto curto |
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
 | FORTE | notícia | 1757 | 5 | 99 | O diretor de Fallout: New Vegas finalmente revelou qual final ele acha o melhor — e faz todo sentido | texto curto |
+| FORTE | notícia | 1756 | 7 | 99 | Miami vira Vice City: Rockstar põe carros de GTA VI nas ruas e um dirigível no céu | texto curto |
 | FORTE | notícia | 1762 | 5 | 99 | CEO da Take-Two chama GTA 6 de “pechincha incrível” por US$ 80 | texto curto |
 | FORTE | Notícias | 1743 | 8 | 99 | Maneater 2 é anunciado e leva o tubarão para um parque temático em 2027 | texto curto |
 | FORTE | notícia | 1751 | 9 | 99 | Marvel’s Wolverine detalha Rage, dezenas de trajes e New Game Plus antes do lançamento | texto curto |
