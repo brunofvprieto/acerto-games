@@ -556,7 +556,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
-| FORTE | noticia | 3690 | 13 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
+| FORTE | noticia | 3866 | 14 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
 | FORTE | noticia | 3642 | 10 | 100 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | — |
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
@@ -593,7 +593,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
-| FORTE | notícia | 2477 | 6 | 100 | Zelda: Ocarina of Time pode encarar GTA 6 de frente — remake teria data em novembro | — |
+| FORTE | notícia | 2721 | 7 | 100 | Zelda: Ocarina of Time chega em 5 de novembro; teoria do amiibo apontava 11, uma semana antes de GTA 6 | — |
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
 | FORTE | noticia | 2191 | 8 | 100 | Zelda: Ocarina of Time para Switch 2 abre pré-venda no Brasil e edição especial vira alvo de corrida dos fãs | — |
 | FORTE | notícia | 2496 | 6 | 100 | Link, Zelda e Ganondorf ganham action figures da Hasbro — e o preço não vai te quebrar | — |
