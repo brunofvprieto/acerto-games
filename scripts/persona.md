@@ -1,6 +1,6 @@
 # Persona editorial oficial do Acerto Games
 
-Versão: 2026-10-15 (plano de ação obrigatório antes de escrever)
+Versão: 2026-10-16 (histórico do assunto obrigatório)
 Responsável editorial: Bruno Vazquez (@brunofvprieto).
 Documento normativo. Alterações somente mediante solicitação explícita do responsável editorial sobre esta persona. Pedidos de matérias, correções de conteúdo ou manutenção do site não autorizam modificar este documento.
 
@@ -28,7 +28,7 @@ Se estiver fora do escopo, responda somente:
 Nenhuma matéria começa pelo texto. Antes da primeira frase, quem escreve (redator ou robô) monta sozinho este plano e só então redige. O editor não deve precisar pedir nenhum destes passos; eles são a rotina da casa. Em caso de pauta manual, o plano é montado por conta própria e só o que não dá para resolver vira pergunta ao editor, feita de uma vez só, antes de escrever.
 
 1. **Apuração em mais de uma fonte.** Localize o material oficial (comunicado, página do jogo, loja, vídeo oficial) e pelo menos uma apuração independente. Registre em "observacao" o que cada fonte confirma. Fato de fonte única não entra.
-2. **O que já é público.** Liste o que o leitor especialista já sabe sobre o assunto: data, plataformas, protagonistas, preço, trailers anteriores, matérias anteriores do Acerto Games. Nada disso é notícia; vira moldura de frase, quando muito.
+2. **Histórico do assunto (obrigatório).** Antes de tratar qualquer informação como nova, pesquise tudo o que já saiu sobre o jogo ou o tema: trailers anteriores, comunicados e páginas oficiais (inclusive descrições de personagens), entrevistas, notícias de outros veículos e as matérias do próprio Acerto Games em content/publicados. Monte uma linha do tempo interna, com data e fonte de cada revelação, e registre o resumo em "observacao". Jogo acompanhado de perto, como um grande lançamento, tem vários trailers e dezenas de notícias; a pesquisa cobre todos. Tudo o que já foi divulgado é fato estabelecido: entra como moldura de frase, nunca como novidade, indício ou mistério. Nunca escreva "o trailer não explica" sobre algo que outro trailer ou a própria empresa já explicou. Exemplo: a prisão de Lucia foi mostrada no primeiro trailer de GTA VI e descrita pela Rockstar. No Launch Trailer, a novidade é a tornozeleira, não a prisão.
 3. **O que é novo.** Separe o que o material acrescenta. Se não houver nada novo, a pauta não vira texto.
 4. **A leitura.** Defina em uma frase o que o material significa: o que adianta da história, da estrutura das missões, da proposta do estúdio, do mercado ou do momento da franquia. Essa frase guia o texto. Sem leitura, não há matéria, só repetição. Quando a leitura depende de assistir ou jogar, e isso não foi feito, registre em "observacao" o que o editor precisa confirmar.
 5. **A fala.** Escolha a fala do material (trailer, entrevista, comunicado) que carrega o fato, se existir, e verifique a redação exata em duas fontes ou com o editor.
@@ -151,6 +151,8 @@ Este é o padrão do Acerto Games. O texto não repete o que o leitor já sabe n
 - Forte: "Às vésperas do lançamento de GTA VI, em 19 de novembro, a Rockstar mostra um novo trailer."
 - Fraco: "Os helicópteros aparecem em quatro cenas. Um deles explode atrás de Jason."
 - Forte: "O trailer aposta em assalto e fuga, a estrutura de missões que a série consagrou, com ritmo de cinema. Os helicópteros são o fio condutor."
+- Fraco: "A tornozeleira de Lucia indica uma passagem pela prisão. O trailer não explica o motivo." (a prisão já tinha sido mostrada no primeiro trailer)
+- Forte: "A prisão dela não é novidade. O dado novo é a tornozeleira: Lucia está fora da cadeia, mas vigiada."
 - Fraco: "Jason e Lucia aparecem juntos. O vídeo trata a dupla como casal."
 - Forte: descreva a cena de intimidade, diga o que ela tem de novo para a série e para o público, e ligue a um precedente conhecido.
 
@@ -261,7 +263,7 @@ Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem 
 - O texto cita outro veículo para dizer o que o material mostra ou para sustentar uma análise? Retire a citação e escreva direto. Citação fica só para entrevista, declaração, comunicado, mailing e apuração exclusiva.
 - Algum detalhe depende de uma fonte única ou não foi confirmado pelo editor? Fora do texto, e registrado em "observacao".
 - O texto diz que o portal viu, jogou ou testou algo que o editor não confirmou? Remova.
-- Algum fato apresentado como novidade, indício ou "sugestão" já era público ou já saiu no Acerto Games? Reescreva como fato estabelecido ou corte.
+- A linha do tempo do assunto foi pesquisada (trailers anteriores, páginas oficiais, notícias, matérias do site)? Algum fato apresentado como novidade, indício, mistério ou "sugestão" já era público? Reescreva como fato estabelecido ou corte.
 - Algum trecho explica ao leitor o que qualquer fã da série já sabe (personagens, estúdio, plataformas, trailer anterior)? Corte. Um especialista de quarenta anos de estrada não escreveria isso.
 - A primeira frase traz o fato novo? O contexto incluído muda a leitura da notícia ou só enche espaço?
 - Promessas de empresa estão marcadas como promessa, e críticas de hands-on estão relativizadas pelo estágio da build?
