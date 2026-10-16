@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 595
-- Forte: 581
+- Total analisado: 596
+- Forte: 582
 - Revisar: 12
 - Prioridade: 2
 
@@ -70,6 +70,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1344 | 7 | 89 | Neon Abyss 2 deixa o acesso antecipado em 8 de outubro e revela novo chefe final | texto curto |
 | FORTE | Notícias | 1372 | 6 | 89 | Nintendo terá dois Directs seguidos: Zelda celebra 40 anos e apresentação geral vem no dia seguinte | texto curto |
 | FORTE | noticia | 1353 | 6 | 89 | Persona 4 Revival detalha personagens, combate e novos Location Episodes em transmissão | texto curto |
+| FORTE | notícia | 1372 | 7 | 89 | Stranger Than Heaven mostra a chegada de Makoto Daito ao Japão no navio de Orpheus, de Snoop Dogg | texto curto |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
