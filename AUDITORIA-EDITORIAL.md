@@ -70,7 +70,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1344 | 7 | 89 | Neon Abyss 2 deixa o acesso antecipado em 8 de outubro e revela novo chefe final | texto curto |
 | FORTE | Notícias | 1372 | 6 | 89 | Nintendo terá dois Directs seguidos: Zelda celebra 40 anos e apresentação geral vem no dia seguinte | texto curto |
 | FORTE | noticia | 1353 | 6 | 89 | Persona 4 Revival detalha personagens, combate e novos Location Episodes em transmissão | texto curto |
-| FORTE | notícia | 1372 | 7 | 89 | Stranger Than Heaven mostra a chegada de Makoto Daito ao Japão no navio de Orpheus, de Snoop Dogg | texto curto |
 | FORTE | Notícias | 1377 | 6 | 89 | Xbox Game Pass revela primeira leva de setembro com RuneScape: Dragonwilds, Black Ops Cold War e mais | texto curto |
 | FORTE | noticia | 1383 | 6 | 90 | Bill Skarsgård fala pela primeira vez sobre PHYSINT: “sou um grande fã de Hideo Kojima” | texto curto |
 | FORTE | notícia | 1417 | 5 | 90 | Kaz é o novo roguelike do Steam que vai fazer seus pulsos implorarem por misericórdia | texto curto |
@@ -131,6 +130,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1731 | 6 | 98 | GTA VI: Launch Trailer mostra o que levou Jason ao crime e a intimidade do casal com Lucia | texto curto |
 | FORTE | notícia | 1739 | 9 | 98 | Onimusha: Way of the Sword sai da Gamescom 2026 com dois grandes prêmios | texto curto |
 | FORTE | notícia | 1716 | 7 | 98 | RuneScape vai ganhar série animada com Jagex, Lyrical Animation e MoistCr1TiKaL | texto curto |
+| FORTE | notícia | 1736 | 8 | 98 | Stranger Than Heaven mostra a chegada de Makoto Daito ao Japão no navio de Orpheus, de Snoop Dogg | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
 | FORTE | noticia | 1711 | 7 | 98 | Game Pass fecha setembro com Minecraft Dungeons II e já prepara Gears of War: E-Day | texto curto |
 | FORTE | notícia | 1704 | 7 | 98 | Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração | texto curto |
