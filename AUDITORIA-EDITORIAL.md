@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 601
-- Forte: 587
+- Total analisado: 602
+- Forte: 588
 - Revisar: 12
 - Prioridade: 2
 
@@ -224,6 +224,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4415 | 16 | 100 | Dave Bautista negocia para ser o novo Kratos da série de God of War | — |
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
 | FORTE | notícia | 2437 | 5 | 100 | Deborah Ann Woll sobre os haters de God of War Laufey: "Em nenhum universo o jogo é ruim" | — |
+| FORTE | notícia | 3881 | 20 | 100 | Deep Dish Dungeon: o final verdadeiro exige devolver os tesouros à masmorra | — |
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
 | FORTE | review | 8260 | 28 | 100 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | — |
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
