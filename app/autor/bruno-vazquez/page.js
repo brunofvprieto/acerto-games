@@ -4,6 +4,7 @@ import { NewsCard } from "../../../components/Cards";
 
 export const metadata = {
   title: "Bruno Vazquez — Acerto Games",
+  robots: { index: false, follow: true },
   description:
     "Perfil de Bruno Vazquez, jornalista formado em 2008 e editor do Acerto Games, com matérias, análises e opiniões sobre games e a indústria.",
 };
