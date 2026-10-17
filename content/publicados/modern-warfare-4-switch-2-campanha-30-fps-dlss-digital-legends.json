@@ -1,0 +1,35 @@
+{
+  "slug": "modern-warfare-4-switch-2-campanha-30-fps-dlss-digital-legends",
+  "category": "notícia",
+  "title": "Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS",
+  "excerpt": "A versão feita pela Digital Legends chega completa, com as 16 missões, DMZ e controles próprios do console. É o primeiro Call of Duty principal na Nintendo desde Ghosts, de 2013.",
+  "author": "Bruno Vazquez",
+  "date": "17 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-17T13:10:00-03:00",
+  "cover": [
+    "#3a3a3a",
+    "#0a0a0a"
+  ],
+  "image": "/img/modern-warfare-4-arte-oficial-soldados-beco-switch-2.jpg",
+  "imageFilename": "modern-warfare-4-arte-oficial-soldados-beco-switch-2.jpg",
+  "imageAlt": "Arte oficial de Call of Duty: Modern Warfare 4 com três soldados armados avançando por um beco escuro",
+  "imageCredit": "Divulgação/Activision",
+  "fonte": "Activision (página oficial da versão Nintendo)",
+  "body": [
+    "Call of Duty não lançava um jogo principal em console da Nintendo desde Ghosts, no Wii U, em 2013. Modern Warfare 4 encerra esse intervalo no dia 23, e quem comprou na pré-venda digital já joga a campanha no Switch 2.",
+    "O que já se sabe da versão desfaz o medo de um port de compromisso. A campanha roda travada em 30 quadros por segundo, e o multiplayer mira 60. As 16 missões estão todas lá, assim como o DMZ e o multiplayer com jogo cruzado entre plataformas.",
+    "## Quem fez a versão",
+    "A Activision descreve o trabalho como desenvolvimento nativo para o Switch 2, feito pela Infinity Ward em parceria com a Digital Legends. O estúdio de Barcelona começou em jogos para celular e, já dentro da Activision, trabalhou em Black Ops 6, Black Ops 7 e Warzone.",
+    "A diferença de metas entre os modos parece seguir a lógica da série. Na campanha, cheia de cenas de efeito, a escolha foi estabilidade; no multiplayer, onde tempo de reação decide partida, a prioridade é a fluidez.",
+    "## DLSS ou SMAA",
+    "A versão oferece duas opções de reconstrução de imagem: o Filmic SMAA T2X, tecnologia de antisserrilhamento usada pela série, e o DLSS da Nvidia, embutido no hardware do console. Tom Morgan, da Digital Foundry, comparou as duas a pedido da Nintendo Life.",
+    "\"No Switch 2, a opção de DLSS da Nvidia parece interpretar os mesmos dados de pixel, a mesma resolução, que a opção Filmic SMAA, mas tem duas vantagens\", explicou Morgan. Segundo ele, o DLSS trata melhor as bordas serrilhadas e dá mais definição a texturas como folhagem.",
+    "O próprio Morgan aponta a pergunta que fica: \"o fato de haver uma opção no Switch 2 sugere fortemente que o desenvolvedor vê um custo-benefício entre elas\". A hipótese mais provável é que o DLSS cobre algo em desempenho, o que explicaria a escolha ficar na mão do jogador.",
+    "## Controles de Switch",
+    "A Activision aposta nos recursos do console. Além do Pro Controller, a versão aceita mira por giroscópio e o modo mouse do Joy-Con 2, que transforma o controle destacado em mouse sobre a mesa.",
+    "O modo mouse é o que nenhuma outra versão de console tem. Num multiplayer com jogo cruzado, ele pode se tornar o argumento mais forte do Switch 2 para quem leva as partidas a sério.",
+    "O lançamento para todas as plataformas é em 23 de outubro. Até lá, o acesso antecipado à campanha vale também no Switch 2 para quem fez a pré-venda digital."
+  ],
+  "observacao": "Base: página oficial callofduty.com/modernwarfare4/nintendo (desenvolvimento nativo com Digital Legends, modo portátil, mouse do Joy-Con 2, giroscópio, Pro Controller, HDR, três modos). 30 fps na campanha e 60 fps como meta no multiplayer: IGN (via Shattered) e Nintendo Life. 16 missões e acesso antecipado no Switch 2: comunicado da Activision via Theogames (16/10). Crossplay: Nintendo Life (beta) e Shattered. Digital Legends, Barcelona, origem mobile, comprada pela Activision, BO6, BO7 e Warzone: Nintendo Life e Shattered. Fala de Tom Morgan (Digital Foundry) dada à Nintendo Life: citada como declaração. A existência das duas opções de imagem aparece só na Nintendo Life e por isso entra atribuída à fala de Morgan. Ficaram fora: 4K na TV (fonte única, IGN), preço específico do Switch 2 e code-in-a-box. Leituras sobre o mouse e sobre o custo do DLSS são do portal. Imagem: arte oficial da página da Activision, 1920x1080."
+}
