@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 605
-- Forte: 591
+- Total analisado: 606
+- Forte: 592
 - Revisar: 12
 - Prioridade: 2
 
@@ -343,6 +343,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
 | FORTE | noticia | 2065 | 9 | 100 | Harbor abre alpha fechado e quer jogadores ajudando a moldar seu survival pós-apocalíptico | — |
 | FORTE | noticia | 2238 | 10 | 100 | Hearthstone volta à era dos Old Gods em Reign of the Black Empire e confirma Monk para 2027 | — |
+| FORTE | notícia | 2549 | 13 | 100 | Hell is Us ganha dez novos inimigos e responde à sua principal crítica | — |
 | FORTE | guia | 5411 | 24 | 100 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
 | FORTE | noticia | 1802 | 8 | 100 | Helldivers 2 recebe Ironclad Democracy com lança-granadas, pistola-míssil e armadura de tanque | — |
 | FORTE | notícia | 2445 | 7 | 100 | Henry Cavill embarca de novo em Warhammer 40.000 — agora numa série animada da Amazon | — |
