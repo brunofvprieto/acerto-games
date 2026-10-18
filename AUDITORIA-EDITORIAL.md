@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 602
-- Forte: 588
+- Total analisado: 606
+- Forte: 592
 - Revisar: 12
 - Prioridade: 2
 
@@ -207,6 +207,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
 | FORTE | noticia | 2535 | 9 | 100 | Control Resonant abre Manhattan e coloca Dylan Faden no centro do caos paranatural | — |
+| FORTE | notícia | 2807 | 11 | 100 | Coral Island chega ao Switch 2 com a atualização 1.4, em que os filhos crescem | — |
 | FORTE | notícia | 1929 | 7 | 100 | Crazy Taxi: World Tour ganha novo trailer e confirma chegada ao Switch 2 | — |
 | FORTE | notícia | 4197 | 15 | 100 | Crimson Desert no Switch 2: a Pearl Abyss mira o primeiro semestre de 2027 e admite que hoje o console só roda "o básico" | — |
 | FORTE | notícia | 1982 | 7 | 100 | Crimson Desert soma 17 atualizações em cinco meses e a Pearl Abyss soltou um trailer só pra mostrar isso | — |
@@ -215,6 +216,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2805 | 6 | 100 | Os maiores críticos do Game Pass estão dentro da própria Xbox | — |
 | FORTE | noticia | 1996 | 9 | 100 | Croc 2 está de volta: remaster chega em 29 de outubro com mais de 40 fases e museu histórico | — |
 | FORTE | artigo | 4142 | 15 | 100 | GTA 6 e o Cyberleek: o crime que virou entretenimento e o problema que ninguém está discutindo | — |
+| FORTE | notícia | 2805 | 11 | 100 | Cult of the Lamb chega ao Switch 2 em 22 de outubro, com upgrade grátis para quem tem no Switch | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
 | FORTE | notícia | 1878 | 6 | 100 | Dan Houser revela primeiros detalhes dos jogos da Absurd Ventures após deixar a Rockstar | — |
@@ -355,6 +357,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
+| FORTE | notícia | 3073 | 11 | 100 | Ken Kutaragi diz entender a revolta com o fim dos discos no PlayStation, mas defende a decisão | — |
 | FORTE | notícia | 2093 | 10 | 100 | Kena: Scars of Kosmora é adiado para 2027 e ganha novos detalhes | — |
 | FORTE | notícia | 2818 | 10 | 100 | Kingdom Hearts celebra 25 anos com trailer especial e prepara nova coletânea para esta semana | — |
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
@@ -400,6 +403,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
+| FORTE | notícia | 3248 | 11 | 100 | Campanha de Modern Warfare 4 agrada a crítica, mas o núcleo de Price decepciona | — |
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
 | FORTE | notícia | 5159 | 26 | 100 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
