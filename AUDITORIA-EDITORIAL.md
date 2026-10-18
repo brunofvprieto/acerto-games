@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 606
-- Forte: 592
+- Total analisado: 610
+- Forte: 596
 - Revisar: 12
 - Prioridade: 2
 
@@ -85,6 +85,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | notícia | 1486 | 7 | 92 | Monster Hunter Wilds abre a caçada no Switch 2 com demo grátis e pré-venda a R$ 199 | texto curto |
 | FORTE | notícia | 1468 | 6 | 92 | Morbid Metal ganha Kaizu e amplia sistema de troca de personagens em pleno combate | texto curto |
+| FORTE | notícia | 1474 | 6 | 92 | Nuuvem tem Mortal Kombat 11 por R$ 11,49, metade do preço do Steam | texto curto |
 | FORTE | noticia | 1473 | 7 | 92 | Overwatch revela Doctrine, novo suporte vampiresco ligado a Doomfist | texto curto |
 | FORTE | notícia | 1491 | 5 | 92 | Pokémon completa 30 anos e o lançamento comemorativo do TCG virou uma bagunça ainda maior que o normal | texto curto |
 | FORTE | notícia | 1493 | 8 | 92 | The Blood of Dawnwalker chega nesta semana: RPG dos ex-The Witcher mistura humano de dia e vampiro à noite | texto curto |
@@ -115,6 +116,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1659 | 8 | 96 | GTA 6 terá academia, caiaque e mergulho entre as atividades de Jason e Lucia | texto curto |
 | FORTE | noticia | 1633 | 8 | 96 | Marked for Mayhem mistura cooperação e sabotagem em dungeon crawler para quatro jogadores | texto curto |
 | FORTE | notícia | 1635 | 7 | 96 | No Rest for the Wicked troca atributos por 24 classes ligadas às armas na versão 1.0 | texto curto |
+| FORTE | notícia | 1642 | 5 | 96 | PS Store: promoção Escolha do Jogador tem Battlefield 6 por R$ 139,96 até quinta | texto curto |
 | FORTE | notícia | 1648 | 8 | 96 | Shrek 2 Remastered aparece na loja do Xbox antes do ID@Xbox Showcase | texto curto |
 | FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
@@ -125,6 +127,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
 | FORTE | notícia | 1682 | 9 | 97 | Pokémon Pokopia leva Ditto para o fundo do mar em Bubbly Basin — veja o que muda no Switch 2 | texto curto |
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
+| FORTE | notícia | 1692 | 6 | 97 | Steam tem Hogwarts Legacy por R$ 24,99 em promoção da Warner que vai até quinta | texto curto |
 | FORTE | noticia | 1672 | 9 | 97 | Stellar Blade chega ao Switch 2 em novembro e ganha colaboração com Bayonetta | texto curto |
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
 | FORTE | notícia | 1664 | 8 | 97 | The Wolf Among Us Remastered: versão de Switch é adiada, e as outras mantêm 29 de outubro | texto curto |
@@ -251,6 +254,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3029 | 14 | 100 | Separa a graninha: Promoção de Verão da Epic tem jogão por menos de R$ 10 e descontos de até 90% | — |
 | FORTE | noticia | 1985 | 8 | 100 | Escape From Playtime leva os Smiling Critters ao terror cooperativo e chega em outubro | — |
 | FORTE | notícia | 3008 | 6 | 100 | Japão manda recado à Nintendo: escritório de patentes rejeita mais uma do processo contra Palworld | — |
+| FORTE | notícia | 1786 | 10 | 100 | eShop tem promoção da Capcom com Street Fighter 6 por R$ 76,40 até 5 de novembro | texto curto |
 | FORTE | especial | 7386 | 26 | 100 | Hideo Kojima faz 63 anos: o homem que recusou fazer jogos normais e mudou a indústria três vezes | — |
 | FORTE | retrô | 5300 | 11 | 100 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
 | FORTE | especial | 11219 | 32 | 100 | Especial Metal Gear #2 — Sons of Liberty (2001): o jogo que enganou o mundo inteiro e previu o futuro | — |
