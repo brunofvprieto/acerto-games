@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 606
-- Forte: 592
+- Total analisado: 605
+- Forte: 591
 - Revisar: 12
 - Prioridade: 2
 
@@ -403,7 +403,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
-| FORTE | notícia | 3248 | 11 | 100 | Campanha de Modern Warfare 4 agrada a crítica, mas o núcleo de Price decepciona | — |
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
 | FORTE | notícia | 5159 | 26 | 100 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
