@@ -135,6 +135,24 @@ export default function Noticia({ params }) {
     ],
   };
 
+  // Dados estruturados de vídeo (Google): um VideoObject por vídeo do YouTube no corpo
+  const idsVideo = [...new Set((post.body || [])
+    .filter((par) => typeof par === "string" && par.startsWith("video:"))
+    .map((par) => youTubeId(par.slice(6).trim()))
+    .filter(Boolean))];
+  const schemasVideo = idsVideo.map((id, i) => ({
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: idsVideo.length > 1 ? `${post.title} (vídeo ${i + 1})` : post.title,
+    description: post.excerpt || post.title,
+    thumbnailUrl: [`https://i.ytimg.com/vi/${id}/hqdefault.jpg`],
+    ...(dataPublicacao ? { uploadDate: dataPublicacao } : {}),
+    embedUrl: `https://www.youtube.com/embed/${id}`,
+    contentUrl: `https://www.youtube.com/watch?v=${id}`,
+    inLanguage: "pt-BR",
+    isPartOf: { "@type": tipoSchema, "@id": urlCompleta },
+  }));
+
   const leiaTambem = relacionadas(post);
   const materiasLaterais = getAllPosts()
     .filter((p) => p.slug !== post.slug)
@@ -144,6 +162,9 @@ export default function Noticia({ params }) {
     <main className="mx-auto max-w-6xl px-4 py-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaArtigo) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaBreadcrumb) }} />
+      {schemasVideo.map((v, i) => (
+        <script key={`video-ld-${i}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(v) }} />
+      ))}
 
       <Link href="/" className="font-mono text-xs uppercase tracking-widest text-dim hover:text-arcade">
         ◂ Voltar para a home
