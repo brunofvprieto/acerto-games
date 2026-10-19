@@ -18,7 +18,7 @@
   "fonte": "Mailing da Theogames (NC), vídeo oficial no canal de Cinder City e página na Steam",
   "body": [
     "A NC divulgou nesta segunda-feira (19) um vídeo de bastidores de Cinder City, shooter em terceira pessoa e mundo aberto da BigFire Games. O foco está no que o jogo pede de quem joga em grupo: equipamentos táticos, veículos e chefes pensados para esquadrões.",
-    "O jogo se passa numa Seul destruída de um futuro próximo, onde armas atuais convivem com armamento do século 23. Depois do trailer da gamescom 2026, centrado na história do protagonista Seven, o novo vídeo troca a narrativa pela mecânica.",
+    "O jogo se passa numa Seul destruída de um futuro próximo, onde armas atuais convivem com armamento do século 23. Depois do trailer da gamescom 2026, centrado na história do protagonista Seven, o novo vídeo troca a narrativa pela mecânica. Do outro lado estão mercenários com equipamento de alta tecnologia, demônios e criaturas mutantes.",
     "video: https://www.youtube.com/watch?v=deXKMz1UyfY",
     "## Equipamentos táticos no centro do combate",
     "Segundo a NC, o combate gira em torno dos \"Equipamentos Táticos\", habilidades próprias de cada personagem. Entram escudos especializados, robôs de suporte, armadilhas posicionáveis e recursos que recuperam o escudo, cada um com o próprio tempo de recarga.",
@@ -34,10 +34,11 @@
     "img: /img/cinder-city-cooperativo-cinderknights.jpg | Cinderknights combatem juntos uma ameaça nas ruas de Seul. Imagem oficial de Cinder City. Divulgação/NC.",
     "Os chefes vêm em três camadas. Os chefes de campo aparecem durante a exploração, e as dungeons instanciadas são feitas para quatro jogadores. No topo, os chefes de mundo aberto reúnem inúmeros Cinderknights contra \"entidades colossais capazes de transformar o mundo\".",
     "## PC primeiro, consoles depois",
-    "Cinder City ainda não tem data de lançamento. A página na Steam já aceita a lista de desejos e indica apenas a versão de PC.",
+    "Cinder City ainda não tem data de lançamento. A página na Steam já aceita a lista de desejos e indica apenas a versão de PC. A NC, antiga NCSoft, também mantém um servidor oficial do jogo no Discord.",
     "Daniel Lafuente, diretor de operações da NC America, falou sobre o lançamento em entrevista à Inven Global, em setembro. Segundo ele, o jogo sai primeiro no PC, como compra única, e chega aos consoles depois. A loja do jogo terá itens cosméticos e passe de batalha.",
     "A dúvida que fica é quanto do mundo aberto funciona para quem joga sozinho. O próprio comunicado admite que, diante de um chefe de campo, o jogador solitário \"provavelmente\" vai precisar recuar e reunir um esquadrão maior.",
-    "link: Cinder City na Steam | https://store.steampowered.com/app/4651830/CINDER_CITY"
+    "link: Cinder City na Steam | https://store.steampowered.com/app/4651830/CINDER_CITY",
+    "link: Site oficial de Cinder City | https://cinder-city.com/"
   ],
   "observacao": "Base: mailing de Tayná Garcia (Theogames) em 19/10, com o comunicado da NC e o vídeo \"[CINDER CITY] Dev Talk | In-Game play & Tactical Systems\" (canal oficial @CINDERCITYGAME, deXKMz1UyfY, título conferido via oEmbed). Vídeo não assistido pelo editor: descrição atribuída ao comunicado (\"Segundo a NC\", \"O comunicado\"). Desenvolvedora BIG FIRE GAMES, publicadora NC, só PC e \"Em breve\": Steam appdetails (4651830) + comunicado. PC primeiro, consoles depois, compra única, loja de cosméticos e passe de batalha: entrevista de Daniel Lafuente à Inven Global (08/09) + GamesBeat (PC planejado; materiais anteriores citavam PS5 e Xbox). Fora por fonte única: alpha no 4º trimestre de 2026, ex-nome LLL. Comparação com The Division e Guild Wars 2 (eventos dinâmicos abertos): leitura do portal. Imagens: capturas oficiais da página na Steam (1920x1080)."
 }
