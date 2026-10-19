@@ -315,7 +315,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3783 | 12 | 100 | GTA VI: Digital Foundry vê 1440p a 30 fps no PS5 e nenhum sinal do QSSR no Launch Trailer | — |
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
-| FORTE | notícia | 3425 | 21 | 100 | Falta um mês para GTA 6: a passagem para Leonida está comprada, e o embarque é em 19 de novembro | — |
+| FORTE | notícia | 3428 | 21 | 100 | Falta um mês para GTA 6: a passagem para Leonida está comprada, e o embarque é em 19 de novembro | — |
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
 | FORTE | notícia | 1844 | 6 | 100 | GTA 6: Rockstar lança o Launch Trailer com a sinopse oficial e a estreia de "Flower in a Hurricane", do Justice | — |
