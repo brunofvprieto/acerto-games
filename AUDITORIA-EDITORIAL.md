@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 617
-- Forte: 603
+- Total analisado: 618
+- Forte: 604
 - Revisar: 12
 - Prioridade: 2
 
@@ -189,6 +189,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2618 | 10 | 100 | Battlefield 6 leva guerra a Las Vegas e Área 51 no trailer da Temporada 5 | — |
 | FORTE | notícia | 2859 | 9 | 100 | Battlefield 6 inicia Temporada 5 com Vegas Strip, dois mapas e quatro novas armas | — |
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
+| FORTE | review | 7203 | 36 | 100 | BeamNG.drive no PS5 cobra paciência, mas recompensa quem insiste | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
