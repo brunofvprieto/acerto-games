@@ -1,0 +1,41 @@
+{
+  "slug": "modern-warfare-4-campanha-avaliacoes-steam-muito-positivas",
+  "category": "notícia",
+  "title": "Campanha de Modern Warfare 4 tem 92% de aprovação no Steam, e as queixas são sobre o acesso, não o jogo",
+  "excerpt": "Três dias depois da abertura do acesso antecipado, a página de MW4 no Steam soma mais de 3.800 análises e a classificação Muito positivas. Entre os votos negativos, pesam o app de Call of Duty, o Secure Boot e travamentos no PC.",
+  "author": "Bruno Vazquez",
+  "date": "19 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-19T08:45:00-03:00",
+  "cover": [
+    "#4a3a2a",
+    "#0e0c0a"
+  ],
+  "image": "/img/modern-warfare-4-campanha-steam-soldado-rua-coreana.jpg",
+  "imageFilename": "modern-warfare-4-campanha-steam-soldado-rua-coreana.jpg",
+  "imageAlt": "Soldado salta sobre um carro em uma rua com letreiros em coreano em Call of Duty: Modern Warfare 4",
+  "imageCredit": "Divulgação/Activision",
+  "fonte": "Página de Call of Duty: Modern Warfare 4 no Steam (análises de usuários e respostas do desenvolvedor)",
+  "fonteUrl": "https://store.steampowered.com/app/4435490/",
+  "body": [
+    "A campanha de Call of Duty: Modern Warfare 4 passou pelo primeiro teste com os jogadores de PC com folga. Na manhã desta segunda (19), a página do jogo no Steam somava 3.817 análises, 3.532 delas positivas. São 92,5% de aprovação e a classificação Muito positivas, três dias depois da abertura do acesso antecipado.",
+    "Entre quem comprou direto no Steam, a conta fica em 92,1%, com 3.206 análises. As avaliações em português do Brasil ainda são poucas, 112, mas 107 recomendam o jogo.",
+    "O número só mede a campanha. DMZ e multiplayer ainda não abriram, e MW4 sai oficialmente em 23 de outubro, com o DMZ em acesso antecipado a partir desta terça (20).",
+    "## A curva dos primeiros dias",
+    "A aprovação subiu depois da estreia. Nas análises em inglês, o primeiro dia, sexta (16), fechou perto de 83% de recomendações. No sábado e no domingo, a taxa passou de 94%.",
+    "A diferença tem explicação nas próprias análises. Boa parte dos votos negativos do primeiro dia não fala de missão, roteiro ou tiroteio. Fala de não conseguir entrar no jogo.",
+    "Entre os positivos, o tom se repete: a história é o assunto mais citado, e muitos jogadores colocam a campanha entre as melhores da série desde o reboot de 2019. Para uma franquia em que a campanha costuma ser tratada como aperitivo do multiplayer, é uma inversão de expectativa logo na semana de lançamento.",
+    "## O app de Call of Duty no centro das reclamações",
+    "MW4 não se instala como um jogo separado. Ele entra como conteúdo dentro do app de Call of Duty, o mesmo hub que reúne Black Ops 6, Black Ops 7 e Warzone. Muitos compradores reclamam de não encontrar o ícone do jogo depois do download, de reinicializações do hub e do tamanho total quando vários títulos dividem a mesma instalação.",
+    "A equipe do jogo responde às análises na própria página e não recua. \"Modern Warfare 4 foi projetado para ser iniciado a partir do app de Call of Duty\", diz uma das respostas, que defende a instalação compartilhada como um benefício. Em outra, diz apenas que registrou as queixas sobre a confusão no hub.",
+    "## Secure Boot, BIOS e travamentos",
+    "O segundo foco de votos negativos é a segurança no PC. Jogadores relatam ter de ativar o Secure Boot ou atualizar a BIOS. Segundo as respostas do desenvolvedor, TPM 2.0 e Secure Boot são exigidos apenas para o jogo online, a partir do DMZ, e a campanha não deveria depender disso. A equipe admite que algumas configurações específicas falham na verificação e diz trabalhar com fabricantes de hardware para reduzir as incompatibilidades.",
+    "Há também quem não passe da tela inicial. \"Estamos investigando um problema em que alguns usuários sofrem travamento ao abrir o modo Campanha no PC\", responde a equipe a mais de um jogador. Não há prazo para a correção.",
+    "Uma terceira queixa é técnica e não vai mudar. O DLSS fica indisponível quando o denoiser de ray tracing está ativo. Segundo o desenvolvedor, a decisão é intencional, tomada depois de testes em que a combinação degradava a experiência em muitas máquinas. A recomendação é usar o Filmic SMAA T2X com Variable Rate Shading.",
+    "## O teste de verdade começa no DMZ",
+    "O saldo da primeira semana é favorável à Infinity Ward. Os problemas listados até aqui são de distribuição e de PC, não de conteúdo. Mas a exigência de TPM 2.0 e Secure Boot só entra em vigor com o DMZ, na terça. Se as falhas de verificação aparecerem em escala, é aí que a nota no Steam pode mudar, porque o voto passa a refletir quem não consegue jogar online.",
+    "## Ficha",
+    "Jogo: Call of Duty: Modern Warfare 4. Desenvolvimento: Infinity Ward. Campanha em acesso antecipado desde 16 de outubro, para a pré-venda digital. DMZ antecipado: 20 de outubro. Lançamento: 23 de outubro de 2026. Plataformas: PS5, Xbox Series X|S, Switch 2 e PC. Preço no Steam: R$ 299,00."
+  ],
+  "observacao": "Números lidos às 8h58 de Brasília de 19/10 na API pública de análises do Steam (store.steampowered.com/appreviews/4435490): todos os idiomas e compras 3.817 (3.532 positivas, Very Positive); compras no Steam 3.206 (2.954 positivas); inglês 1.516 (1.420 positivas); português do Brasil 112 (107 positivas). Confere com o GamingRoute (18/10, 20h30 UTC: 2.897 de 3.156, 91,8%, e queda de positivos no 16/10 por acesso/instalação). Curva diária: amostra própria das 1.498 análises recentes em inglês, por data UTC (16/10: 107 de 129; 17/10: 560 de 593; 18/10: 562 de 591); o GamingRoute deu 78% para o dia 16 em todos os idiomas, por isso o texto fala só em inglês e 'perto de 83%'. Temas dos negativos e positivos: leitura das análises na página (contagem de palavras-chave na amostra). Respostas do desenvolvedor (todas na página oficial do Steam, citadas em tradução): instalação compartilhada ('Modern Warfare 4 is designed to be launched from the Call of Duty app'); TPM 2.0 e Secure Boot só para online a partir do DMZ em 20/10, 'may require a BIOS update' em alguns casos, trabalho com fabricantes de hardware; travamento ao abrir a Campanha no PC ('We're investigating an issue where some users crash at the launch of Campaign mode on PC'); DLSS indisponível com o VRRT Denoiser por decisão intencional, recomendação de Filmic SMAA T2X com VRS. O GamingRoute também relata TPM, DLSS e travamentos. Ficou fora: pico de jogadores simultâneos (a API de jogadores atuais não retorna dados para o app 4435490, provavelmente porque a sessão conta no app de Call of Duty; SteamDB não consultado), críticas de enredo e spoilers presentes em análises. Atenção: a página do Steam BR mostra data '22 out. 2026' (provável horário das Américas); mantida a data oficial de 23/10, alinhada às matérias do site. Preço R$ 299,00: appdetails do Steam BR. Imagem: screenshot oficial da página do Steam (1920x1080), ainda não usada no site."
+}

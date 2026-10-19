@@ -1,0 +1,39 @@
+{
+  "slug": "gta-6-digital-foundry-launch-trailer-1440p-30fps-sem-qssr",
+  "category": "notícia",
+  "title": "GTA VI: Digital Foundry vê 1440p a 30 fps no PS5 e nenhum sinal do QSSR no Launch Trailer",
+  "excerpt": "A análise técnica do Launch Trailer aponta o mesmo alvo de imagem do material anterior, um velho problema de animação do RAGE aparentemente resolvido e nenhuma evidência do novo upscaler por IA da Sony.",
+  "author": "Bruno Vazquez",
+  "date": "19 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-19T08:55:00-03:00",
+  "cover": [
+    "#e8875a",
+    "#1b1530"
+  ],
+  "image": "/img/gta-6-launch-trailer-digital-foundry-vice-city-entardecer-iluminacao.jpg",
+  "imageFilename": "gta-6-launch-trailer-digital-foundry-vice-city-entardecer-iluminacao.jpg",
+  "imageAlt": "Helicóptero sobrevoa prédios iluminados e a baía de Vice City ao entardecer em screenshot oficial de GTA VI",
+  "imageCredit": "Divulgação/Rockstar Games",
+  "fonte": "Digital Foundry (vídeo e análise escrita do Launch Trailer de GTA VI)",
+  "fonteUrl": "https://www.digitalfoundry.net/features/gta-6-launch-trailer-analysis-has-a-long-standing-tech-issue-been-fixed",
+  "body": [
+    "A um mês do lançamento de GTA VI, a análise técnica do Launch Trailer chegou a uma conclusão que deve frustrar quem esperava um salto de última hora no PS5 base. A Digital Foundry estima que as imagens rodam em torno de 1440p reconstruídos para 4K, a 30 quadros por segundo, e não encontrou nenhum sinal do QSSR, o upscaler por inteligência artificial que a Sony levou ao console padrão no começo do mês.",
+    "A análise saiu em vídeo e em texto no fim da semana passada. O trailer foi publicado pela Rockstar na quinta (15), com aviso de que as cenas foram capturadas no PS5. A resolução e os modos de desempenho não foram anunciados pela Rockstar. Os números abaixo são medições da Digital Foundry, não especificações oficiais.",
+    "## O mesmo alvo do material anterior",
+    "O dado central é a ausência de mudança. A contagem de pixels não indica queda de resolução em relação ao que a Rockstar já havia mostrado no PS5, e a taxa de quadros segue travada em 30 fps nas cenas analisadas. O trailer não traz nada que sugira um modo de 60 fps no console base.",
+    "Para um jogo deste porte, a leitura parece clara. A um mês do lançamento, a Rockstar mantém o alvo técnico que vinha mostrando e prefere estabilidade a ambição de resolução. A imagem enevoada que parte do público notou foi confirmada na análise, assim como o bloom que lava as cores. A Digital Foundry aponta a saída em HDR como o ponto fraco do vídeo, mas pondera que isso pode ser característica desta captura, não do jogo.",
+    "## Por que o QSSR não aparece",
+    "Leadbetter foi direto ao comentar o recurso da Sony. \"Não acho que estejamos vendo isso aqui\", disse no vídeo da Digital Foundry. A dúvida dele é de conta simples: se o jogo já renderiza internamente em 1440p, o que exatamente o QSSR acrescentaria?",
+    "A resposta passa pelo custo. Nas medições da própria Digital Foundry em Marvel's Wolverine, um dos dois primeiros jogos com suporte ao QSSR, reconstruir a imagem para 4K consome cerca de 4 milissegundos por quadro. A 30 fps, o orçamento total é de 33 ms. O upscaler sozinho levaria mais de um décimo do tempo de cada quadro, gasto que Leadbetter classificou como \"bastante extravagante\".",
+    "Num mundo aberto com a densidade de Leonida, esse tempo de GPU parece valer mais em iluminação, simulação e detalhe de cena. Quando a Sony anunciou o QSSR, em 1º de outubro, a própria empresa apresentou a tecnologia como opção gráfica adicional, adotada jogo a jogo. A Rockstar não anunciou suporte, e o trailer não dá motivo para esperar a novidade no lançamento.",
+    "## Um velho defeito do RAGE que pode ter sumido",
+    "A boa notícia da análise está no movimento. Desde GTA IV, os jogos da Rockstar no motor RAGE carregam um tremido de animação nos giros lentos de câmera, presente também em GTA V, Red Dead Redemption e em materiais anteriores de GTA VI, incluindo o Extended Look da Netflix. No Launch Trailer, esse tremido não aparece, nem nas panorâmicas lentas em que costumava ser mais visível.",
+    "A própria Digital Foundry faz a ressalva. O trailer tem cerca de 90 segundos e a Rockstar escolhe os próprios planos. Se a captura refletir o jogo final, a correção resolve um defeito que acompanha a série há quase duas décadas e que pesa justamente a 30 fps, quando cada quadro irregular fica mais exposto.",
+    "No detalhe, a análise é elogiosa. A luz que atravessa as gotas d'água na pele nas cenas do chuveiro e a modelagem da fauna, com iguanas em destaque, são citadas como exemplos de um nível de acabamento que poucos jogos de mundo aberto alcançam no PS5 base.",
+    "## O que fica em aberto",
+    "A Rockstar ainda não detalhou modos gráficos, a versão de PS5 Pro nem o desempenho no Xbox Series X|S e no Series S. A página do jogo segue identificando o PS5 como a plataforma em que GTA VI \"roda melhor\", acordo de marketing que não se traduz, por enquanto, em uso do novo recurso de imagem da Sony.",
+    "GTA VI chega em 19 de novembro para PlayStation 5 e Xbox Series X|S. A versão de PC continua sem data."
+  ],
+  "observacao": "Fonte primária: Digital Foundry, vídeo 'Grand Theft Auto 6: Launch Trailer PS5 Tech Reaction/Breakdown' (canal oficial no YouTube) e texto 'GTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed?' (digitalfoundry.net, bloqueado para consulta direta daqui). Data exata do vídeo não confirmada: repercussão a partir de 16/10 (Notebookcheck) e 17/10 (iXBT), então 'fim da semana passada'. Conferido em: Push Square 18/10 (https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler: fala 'I don't think we're seeing it here', 'quite extravagant', cerca de 4 ms em 4K no Wolverine modo Qualidade, orçamento de 33 ms, captura no PS5), Notebookcheck 16/10 (https://www.notebookcheck.net/GTA-6-launch-trailer-analysis-praises-performance-boost-denying-PS5-resolution-downgrade.1426190.0.html: 1440p, 30 fps, sem queda de resolução, sem QSSR, HDR fraco, imagem enevoada e bloom, gotas d'água no chuveiro, comparação com Extended Look), play3.de 18/10 (https://www.play3.de/2026/10/18/gta-6-zeigt-der-launch-trailer-bereits-das-neue-ps5-feature-qssr-digital-foundry-zweifelt/: nomes Leadbetter, Linneman e Mackenzie, cerca de 4 ms, judder desde GTA IV corrigido, iguanas), iXBT 17/10 (judder em GTA IV, GTA V, Red Dead Redemption e material anterior de GTA VI; ressalva de vídeo curto e planos escolhidos pela Rockstar), Shane the Gamer 18/10 (ressalva dos ~90 segundos; números alternativos de 1,5 a 1,8 ms extras em saída 1440p e ~4,4 ms em 2160p, não usados no texto por divergirem do 'cerca de 4 ms' de Push Square e play3). Ponto não usado: Filippo Tarpini e tone mapping AgX (fonte única). A fala de Leadbetter foi traduzida da versão em inglês citada pela Push Square; conferir no vídeo se possível. Contexto do site: QSSR anunciado em 1/10 com Wolverine e Ghost of Yōtei (matéria ps5-qssr-upscaling-ia-wolverine-ghost-of-yotei); Launch Trailer de 15/10 e 'roda melhor' no PS5 (matéria gta-6-launch-trailer-oficial-rockstar-19-novembro). PC sem data: rumor de 1º tri 2027 (GamesBeat) não usado. Imagem: screenshot oficial 'Vice City 11' da página de mídia da Rockstar (rockstargames.com/VI/media), 3840x2160 na origem, salva em 2560x1440; não é frame do Launch Trailer (não foi possível baixar o vídeo daqui) e não foi usada antes no site."
+}
