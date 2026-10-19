@@ -579,7 +579,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2764 | 10 | 100 | Ubisoft reúne The Division, Ghost Recon e Splinter Cell sob a Massive Entertainment | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
-| FORTE | review | 4083 | 21 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
+| FORTE | review | 4535 | 23 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
 | FORTE | noticia | 3860 | 14 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
 | FORTE | noticia | 3642 | 10 | 100 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | — |
