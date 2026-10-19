@@ -11,9 +11,9 @@
     "#e8722c",
     "#101820"
   ],
-  "image": "/img/cinder-city-equipamento-tatico-escudo-chefe.jpg",
-  "imageFilename": "cinder-city-equipamento-tatico-escudo-chefe.jpg",
-  "imageAlt": "Imagem oficial de Cinder City com uma Cinderknight dentro de um escudo em cúpula durante combate com chefe em Seul",
+  "image": "/img/cinder-city-key-art-oficial-cinderknights.jpg",
+  "imageFilename": "cinder-city-key-art-oficial-cinderknights.jpg",
+  "imageAlt": "Arte oficial de Cinder City com cinco Cinderknights armados, um escudo pesado e um robô de suporte diante de uma Seul em chamas",
   "imageCredit": "Divulgação/NC",
   "fonte": "Mailing da Theogames (NC), vídeo oficial no canal de Cinder City e página na Steam",
   "body": [
@@ -40,5 +40,5 @@
     "link: Cinder City na Steam | https://store.steampowered.com/app/4651830/CINDER_CITY",
     "link: Site oficial de Cinder City | https://cinder-city.com/"
   ],
-  "observacao": "Base: mailing de Tayná Garcia (Theogames) em 19/10, com o comunicado da NC e o vídeo \"[CINDER CITY] Dev Talk | In-Game play & Tactical Systems\" (canal oficial @CINDERCITYGAME, deXKMz1UyfY, título conferido via oEmbed). Vídeo não assistido pelo editor: descrição atribuída ao comunicado (\"Segundo a NC\", \"O comunicado\"). Desenvolvedora BIG FIRE GAMES, publicadora NC, só PC e \"Em breve\": Steam appdetails (4651830) + comunicado. PC primeiro, consoles depois, compra única, loja de cosméticos e passe de batalha: entrevista de Daniel Lafuente à Inven Global (08/09) + GamesBeat (PC planejado; materiais anteriores citavam PS5 e Xbox). Fora por fonte única: alpha no 4º trimestre de 2026, ex-nome LLL. Comparação com The Division e Guild Wars 2 (eventos dinâmicos abertos): leitura do portal. Imagens: capturas oficiais da página na Steam (1920x1080)."
+  "observacao": "Base: mailing de Tayná Garcia (Theogames) em 19/10, com o comunicado da NC e o vídeo \"[CINDER CITY] Dev Talk | In-Game play & Tactical Systems\" (canal oficial @CINDERCITYGAME, deXKMz1UyfY, título conferido via oEmbed). Vídeo não assistido pelo editor: descrição atribuída ao comunicado (\"Segundo a NC\", \"O comunicado\"). Desenvolvedora BIG FIRE GAMES, publicadora NC, só PC e \"Em breve\": Steam appdetails (4651830) + comunicado. PC primeiro, consoles depois, compra única, loja de cosméticos e passe de batalha: entrevista de Daniel Lafuente à Inven Global (08/09) + GamesBeat (PC planejado; materiais anteriores citavam PS5 e Xbox). Fora por fonte única: alpha no 4º trimestre de 2026, ex-nome LLL. Comparação com The Division e Guild Wars 2 (eventos dinâmicos abertos): leitura do portal. Capa: arte oficial enviada pelo Bruno (press kit, 2000x1112). Imagens do corpo: capturas oficiais da página na Steam (1920x1080)."
 }
