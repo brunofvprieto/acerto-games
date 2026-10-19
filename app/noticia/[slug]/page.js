@@ -221,6 +221,20 @@ export default function Noticia({ params }) {
                   <div key={i} className="rounded-lg border border-edge bg-surface p-5">
                     <h3 className="font-display text-xl font-bold text-arcade">Veredito</h3>
                     <p className="mt-2 text-base leading-relaxed">{detalhes[3] || ""}</p>
+                    {(detalhes[4] || detalhes[5]) && (
+                      <div className="mt-5 grid gap-5 border-t border-edge pt-5 sm:grid-cols-2">
+                        {[["Pontos positivos", detalhes[4], "+", "text-arcade"], ["Pontos negativos", detalhes[5], "−", "text-[#FF6B6B]"]].filter(([, lista]) => lista).map(([rotulo, lista, sinal, cor]) => (
+                          <div key={rotulo} className="min-w-0">
+                            <p className={`font-mono text-xs uppercase tracking-wider ${cor}`}>{rotulo}</p>
+                            <ul className="mt-2 space-y-1.5 text-sm leading-snug">
+                              {lista.split(";").map((item) => item.trim()).filter(Boolean).map((item, j) => (
+                                <li key={j} className="flex gap-2"><span className={`font-mono font-bold ${cor}`} aria-hidden="true">{sinal}</span><span>{item}</span></li>
+                              ))}
+                            </ul>
+                          </div>
+                        ))}
+                      </div>
+                    )}
                     {post.fichaTecnica && (
                       <div className="mt-5 grid gap-4 border-t border-edge pt-5 sm:grid-cols-[120px_minmax(0,1fr)]">
                         <img src={post.fichaTecnica.imagem || post.image} alt={post.imageAlt || post.title} loading="lazy" className="w-full rounded border border-edge object-cover" />
