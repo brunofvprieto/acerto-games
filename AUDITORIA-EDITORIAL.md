@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 628
-- Forte: 614
+- Total analisado: 629
+- Forte: 615
 - Revisar: 12
 - Prioridade: 2
 
@@ -420,6 +420,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
 | FORTE | notícia | 3572 | 13 | 100 | Campanha de Modern Warfare 4 tem 92% de aprovação no Steam, e as queixas são sobre o acesso, não o jogo | — |
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
+| FORTE | notícia | 2783 | 10 | 100 | DMZ de Modern Warfare 4 abre no acesso antecipado, e Hajin ganha níveis de ameaça e nota de S++ a F | — |
 | FORTE | notícia | 5159 | 26 | 100 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
