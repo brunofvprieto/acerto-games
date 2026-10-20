@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 630
-- Forte: 616
+- Total analisado: 632
+- Forte: 618
 - Revisar: 12
 - Prioridade: 2
 
@@ -356,6 +356,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
 | FORTE | noticia | 2065 | 9 | 100 | Harbor abre alpha fechado e quer jogadores ajudando a moldar seu survival pós-apocalíptico | — |
 | FORTE | noticia | 2238 | 10 | 100 | Hearthstone volta à era dos Old Gods em Reign of the Black Empire e confirma Monk para 2027 | — |
+| FORTE | notícia | 2125 | 10 | 100 | Hearthstone: Reinado dos Deuses Antigos já está disponível com 135 cards e a nova Jornada | — |
 | FORTE | notícia | 2549 | 13 | 100 | Hell is Us ganha dez novos inimigos e responde à sua principal crítica | — |
 | FORTE | guia | 5411 | 24 | 100 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
 | FORTE | noticia | 1802 | 8 | 100 | Helldivers 2 recebe Ironclad Democracy com lança-granadas, pistola-míssil e armadura de tanque | — |
@@ -516,6 +517,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1844 | 6 | 100 | Capcom prepara encontro entre remakes e linha atual de Resident Evil desde Village | — |
 | FORTE | artigo | 5659 | 22 | 100 | 22% contra 55%: os números de Resident Evil Requiem mostram que o "fim natural" da mídia física é uma história contada com os dados de um país só | — |
 | FORTE | notícia | 8345 | 32 | 100 | A Plague Tale não precisava de outra história — e é justamente por isso que Resonance precisa justificar sua existência | — |
+| FORTE | notícia | 1796 | 9 | 100 | Riders Republic chega ao Nintendo Switch 2 em 9 de dezembro, no aniversário de cinco anos | texto curto |
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
 | FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
