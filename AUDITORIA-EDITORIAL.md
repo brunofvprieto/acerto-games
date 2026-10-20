@@ -506,7 +506,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1925 | 8 | 100 | Psikyo Memories resgata clássicos de navinha dos arcades no PS5 e Switch 2 | — |
 | FORTE | notícia | 3256 | 11 | 100 | PUBG: Atualização 43.2 traz Bentley, o modo PvE SLB: Dawnbreakers of Rondo e mudanças em veículos e lobby | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
-| FORTE | notícia | 1849 | 9 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
+| FORTE | notícia | 1850 | 9 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 2221 | 7 | 100 | Depois de 15 anos, Resident Evil 5 é destronado: RE2 Remake é o mais vendido da série | — |
