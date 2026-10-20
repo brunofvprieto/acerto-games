@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 620
-- Forte: 606
+- Total analisado: 623
+- Forte: 609
 - Revisar: 12
 - Prioridade: 2
 
@@ -243,6 +243,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3002 | 11 | 100 | Diablo IV celebra 30 anos da série com Hell's Legacy, retorno de Deckard Cain e os três Prime Evils | — |
 | FORTE | noticia | 3343 | 14 | 100 | Diablo V revela Plague Knight, retorno de Monk e Demon Hunter e um mundo que muda a cada viagem | — |
 | FORTE | noticia | 4916 | 22 | 100 | Diablo V é revelado na BlizzCon 2026 e mostra um Santuário já dominado pelo Senhor do Terror | — |
+| FORTE | notícia | 2922 | 10 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
 | FORTE | notícia | 2290 | 7 | 100 | Dragon Ball: Sparking! Zero mostra DLC "Super Limit-Breaking NEO" e update grátis com 33 lutadores novos | — |
@@ -382,6 +383,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1853 | 5 | 100 | League of Legends Classic revela modo retrô, mas a galera já tá brigando por causa das skins | — |
 | FORTE | notícia | 3016 | 6 | 100 | O ator de Wolverine ficou com medo de si mesmo — e isso foi exatamente o que a Insomniac queria | — |
 | FORTE | especial | 4282 | 9 | 100 | Lies of P no Switch 2 mostra como um bom port deve ser feito | — |
+| FORTE | notícia | 3456 | 12 | 100 | Liquid Swords fecha as portas seis meses depois de Samson, e o jogo vai a leilão com o estúdio | — |
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
 | FORTE | noticia | 2616 | 7 | 100 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | — |
@@ -519,6 +521,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
+| FORTE | notícia | 3391 | 11 | 100 | Saros recebe a Zenith, com New Game+, Maratona de Supremos e opção de desacelerar o jogo | — |
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
 | FORTE | notícia | 2503 | 5 | 100 | Mewtwo exclusivo do aniversário de Pokémon Go está sendo vendido no eBay por até R$ 56 mil | — |
