@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 632
-- Forte: 618
+- Total analisado: 638
+- Forte: 624
 - Revisar: 12
 - Prioridade: 2
 
@@ -29,12 +29,14 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1030 | 5 | 81 | Another Eden Begins ganha demo no Switch 2, Switch e PC com progresso transferível | texto curto |
 | FORTE | Notícias | 1053 | 5 | 81 | Nintendo Switch 2 passa a custar US$ 499,99 nos EUA a partir de hoje | texto curto |
 | FORTE | Notícias | 1048 | 5 | 81 | RuneScape: Dragonwilds chega aos consoles em 15 de setembro e estreia no Game Pass | texto curto |
+| FORTE | notícia | 1098 | 6 | 82 | Beyond the Dark: Nightwatch, terror cooperativo para dois no Switch 2, chega na quinta | texto curto |
 | FORTE | Notícias | 1074 | 6 | 82 | Fangtopia chega em 26 de outubro com construção relaxante, monstros simpáticos e zero pressão | texto curto |
 | FORTE | noticia | 1062 | 5 | 82 | Marvel’s Wolverine reduz rastros de odor após críticas e Insomniac estuda opção para desligá-los | texto curto |
 | FORTE | notícia | 1127 | 5 | 83 | Diablo IV pode chegar ao Nintendo Switch 2 já em setembro, aponta vazamento | texto curto |
 | FORTE | notícia | 1110 | 7 | 83 | Metal Gear Solid 4 remove PS3 e PSP nas versões da Nintendo, e até uma piada clássica mudou | texto curto |
 | FORTE | noticia | 1126 | 6 | 83 | Ninja Theory pode fechar após dois acordos de venda fracassarem, confirma Xbox | texto curto |
 | FORTE | noticia | 1106 | 5 | 83 | Obsidian passa para a Bethesda e trabalhará em novo Fallout | texto curto |
+| FORTE | notícia | 1130 | 6 | 83 | Phantom Blade Zero libera às 23h de 28 de outubro na PS Store brasileira; veja preços e edições | texto curto |
 | FORTE | noticia | 1107 | 5 | 83 | Tokyo Game Show 2026 cancela último dia por aproximação de tufão | texto curto |
 | FORTE | notícia | 1129 | 5 | 83 | Comercial japonês de Zelda: Ocarina of Time mostra o Link Sombrio pela primeira vez no remake | texto curto |
 | FORTE | notícia | 1147 | 5 | 84 | Modern Warfare 4 fecha a saga, e a Activision já prepara uma nova subfranquia de Call of Duty | texto curto |
@@ -52,12 +54,14 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1285 | 6 | 87 | GTA 6 terá animais lendários e espécies raras para rastrear em Leonida | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1279 | 5 | 87 | Metaphor: ReFantazio recebe demo gratuita no Switch 2 com transferência de progresso | texto curto |
+| FORTE | notícia | 1289 | 7 | 87 | Nintendo Switch Sports Resort chega ao Switch 2 na quinta com 12 esportes e queda de braço de polegar | texto curto |
 | FORTE | noticia | 1273 | 6 | 87 | Pokémon Pokopia mostra Parte 2 da expansão com novos acessórios e opções de personalização | texto curto |
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
 | FORTE | notícia | 1268 | 7 | 87 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto |
 | FORTE | noticia | 1269 | 6 | 87 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto |
 | FORTE | noticia | 1313 | 6 | 88 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
+| FORTE | notícia | 1308 | 7 | 88 | GTA V sai do PS Plus Extra em 17 de novembro, dois dias antes de GTA VI | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | noticia | 1309 | 6 | 88 | Metroid Dread volta ao topo da eShop após anúncio de Metroid Ravenous | texto curto |
 | FORTE | notícia | 1302 | 7 | 88 | PS Plus libera hoje 4 jogos de setembro, incluindo Sniper Elite: Resistance e MLB The Show 26 | texto curto |
@@ -132,6 +136,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
 | FORTE | notícia | 1664 | 8 | 97 | The Wolf Among Us Remastered: versão de Switch é adiada, e as outras mantêm 29 de outubro | texto curto |
 | FORTE | noticia | 1720 | 8 | 98 | Control Resonant terá 60 fps no PS5 e modo 4K com ray tracing no PS5 Pro | texto curto |
+| FORTE | notícia | 1732 | 9 | 98 | Crimson Desert: DLC Charting the Unknown ganha vídeo e mostra navio, mergulho, casamento e negócios | texto curto |
 | FORTE | notícia | 1731 | 6 | 98 | GTA VI: Launch Trailer mostra o que levou Jason ao crime e a intimidade do casal com Lucia | texto curto |
 | FORTE | notícia | 1739 | 9 | 98 | Onimusha: Way of the Sword sai da Gamescom 2026 com dois grandes prêmios | texto curto |
 | FORTE | notícia | 1716 | 7 | 98 | RuneScape vai ganhar série animada com Jagex, Lyrical Animation e MoistCr1TiKaL | texto curto |
@@ -142,6 +147,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1774 | 7 | 99 | Diablo IV chega ao Nintendo Switch 2 com a coleção Age of Hatred | texto curto |
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
 | FORTE | notícia | 1757 | 5 | 99 | O diretor de Fallout: New Vegas finalmente revelou qual final ele acha o melhor — e faz todo sentido | texto curto |
+| FORTE | notícia | 1744 | 8 | 99 | Final Fantasy Resonance recebe as primeiras notas: crítica elogia o HD-2D e se divide sobre a ousadia | texto curto |
 | FORTE | notícia | 1756 | 7 | 99 | Miami vira Vice City: Rockstar põe carros de GTA VI nas ruas e um dirigível no céu | texto curto |
 | FORTE | notícia | 1762 | 5 | 99 | CEO da Take-Two chama GTA 6 de “pechincha incrível” por US$ 80 | texto curto |
 | FORTE | Notícias | 1743 | 8 | 99 | Maneater 2 é anunciado e leva o tubarão para um parque temático em 2027 | texto curto |
