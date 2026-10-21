@@ -291,8 +291,30 @@ export default function Noticia({ params }) {
                 return <p key={i}><a href={url} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{texto || url}</a></p>;
               }
               if (paragraph.startsWith("instagram:")) {
-                const m = paragraph.slice(10).trim().match(/instagram\.com\/(reel|p|tv)\/([A-Za-z0-9_-]+)/);
+                const [igUrl, igCapa, igLegenda] = paragraph.slice(10).split("|").map((x) => x.trim());
+                const m = (igUrl || "").match(/instagram\.com\/(reel|p|tv)\/([A-Za-z0-9_-]+)/);
                 if (!m) return null;
+                const linkIg = `https://www.instagram.com/${m[1]}/${m[2]}/`;
+                // Com imagem: cartão 16:9 clicável (o player do Instagram força formato vertical
+                // e deixa vídeos horizontais minúsculos). Sem imagem: player oficial do Instagram.
+                if (igCapa && igCapa.startsWith("/")) {
+                  return (
+                    <figure key={i}>
+                      <a href={linkIg} target="_blank" rel="noopener noreferrer" className="group relative block aspect-video overflow-hidden border border-edge bg-black">
+                        <img {...imgOtimizada(igCapa, "(min-width: 1024px) 760px, 100vw")} alt={altDaLegenda(igLegenda, post.title)} loading="lazy" decoding="async" className="h-full w-full object-cover opacity-90 transition duration-300 group-hover:scale-[1.02] group-hover:opacity-100" />
+                        <span className="absolute inset-0 flex items-center justify-center">
+                          <span className="flex h-16 w-16 items-center justify-center rounded-full bg-black/70 ring-2 ring-white/80 transition group-hover:scale-110" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" className="ml-1 h-7 w-7 fill-white"><path d="M8 5v14l11-7z" /></svg>
+                          </span>
+                        </span>
+                        <span className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent px-4 pb-3 pt-8 font-mono text-xs uppercase tracking-widest text-paper">
+                          ▶ Assistir no Instagram
+                        </span>
+                      </a>
+                      {igLegenda && <figcaption className="mt-1 font-mono text-[10px] uppercase tracking-widest text-dim">🎬 {igLegenda}</figcaption>}
+                    </figure>
+                  );
+                }
                 return (
                   <div key={i} className="flex justify-center">
                     <iframe
