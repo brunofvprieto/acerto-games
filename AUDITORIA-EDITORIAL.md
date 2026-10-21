@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 655
-- Forte: 641
+- Total analisado: 657
+- Forte: 643
 - Revisar: 12
 - Prioridade: 2
 
@@ -261,6 +261,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2941 | 10 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
+| FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
 | FORTE | notícia | 2290 | 7 | 100 | Dragon Ball: Sparking! Zero mostra DLC "Super Limit-Breaking NEO" e update grátis com 33 lutadores novos | — |
 | FORTE | noticia | 1909 | 8 | 100 | Dragon Quest supera 100 milhões de unidades vendidas no ano de seu 40º aniversário | — |
 | FORTE | noticia | 3693 | 16 | 100 | Dragon's Dogma 2: Dark Arisen ganha trailer principal com Norgan, novos monstros e desafios | — |
@@ -611,6 +612,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 4712 | 21 | 100 | Tokyo Game Show 2026 entra na reta final: 30 anos, cinco dias e gigantes da indústria se movimentam | — |
+| FORTE | notícia | 2454 | 12 | 100 | Tomb Raider faz 30 anos com controles da 8BitDo, Mansão Croft em blocos e Lara contra a Cobra | — |
 | FORTE | notícia | 3007 | 11 | 100 | Tomb Raider: Legacy of Atlantis mostra como refez o combate da Lara sem trair o jogo de 1996 | — |
 | FORTE | notícia | 3363 | 16 | 100 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
