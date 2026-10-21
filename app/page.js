@@ -6,6 +6,7 @@ import CountdownZelda from "../components/CountdownZelda";
 import HeroCarousel from "../components/HeroCarousel";
 import OfertasAmazon from "../components/OfertasAmazon";
 import ofertasData from "../content/ofertas.json";
+import { imgOtimizada } from "../lib/img";
 
 function FaixaNews({posts}) {
   const items=posts.filter(p=>p.image).slice(0,10);
@@ -19,7 +20,7 @@ function FaixaNews({posts}) {
       <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
         {items.map((p)=><Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
           <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
-            <img src={p.image} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
+            <img {...imgOtimizada(p.image,"(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw")} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
           </div>
           <h3 className="mt-4 text-lg font-bold leading-[1.3] text-paper transition-colors group-hover:text-arcade">{p.title}</h3>
           <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-dim"><span className="mr-3 text-arcade">◆ ◆ ◆</span>{p.date}</p>
@@ -41,7 +42,7 @@ function ArtigosEspeciais({posts}) {
       <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
         {items.map((p)=><Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
           <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
-            <img src={p.image} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
+            <img {...imgOtimizada(p.image,"(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw")} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
           </div>
           <h3 className="mt-4 text-lg font-bold leading-[1.3] text-paper transition-colors group-hover:text-arcade">{p.title}</h3>
           <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-dim"><span className="mr-3 text-arcade">◆ ◆ ◆</span>{p.date}</p>
@@ -64,7 +65,7 @@ function FaixaEditorial({ posts, titulo, href, mais, categorias, id }) {
       <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
         {items.map((p) => <Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
           <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
-            <img src={p.image} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
+            <img {...imgOtimizada(p.image,"(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw")} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
           </div>
           <h3 className="mt-4 text-lg font-bold leading-[1.3] text-paper transition-colors group-hover:text-arcade">{p.title}</h3>
           <p className="mt-3 font-mono text-[10px] uppercase tracking-widest text-dim"><span className="mr-3 text-arcade">◆ ◆ ◆</span>{p.date}{p.nota != null ? ` · Nota ${p.nota}` : ""}</p>
@@ -90,7 +91,7 @@ function SecaoGTA6() {
       <div className="overflow-hidden border border-[#FF2E97]/50">
         <div className="grid md:grid-cols-2">
           <Link href="/gta6" className="cover relative block min-h-52 md:min-h-full">
-            <img src={ARTE_GTA6} alt="Jason e Lucia, protagonistas de GTA 6" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover" />
+            <img {...imgOtimizada(ARTE_GTA6)} alt="Jason e Lucia, protagonistas de GTA 6" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover" />
             <span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-paper/70">Divulgação/Rockstar Games</span>
           </Link>
           <div className="flex flex-col justify-center gap-3 p-6 md:p-8" style={{ background: "linear-gradient(135deg, #1A0A2E 0%, #0E1B4D 100%)" }}>
@@ -111,7 +112,7 @@ function SecaoZelda() {
       <div className="overflow-hidden border border-[#28E978]/50">
         <div className="grid md:grid-cols-2">
           <Link href="/noticias?busca=zelda" className="cover relative block min-h-52 md:min-h-full">
-            <img src="/img/zelda-ocarina-remake-capa.webp" alt="Link em The Legend of Zelda: Ocarina of Time" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover" />
+            <img {...imgOtimizada("/img/zelda-ocarina-remake-capa.webp")} alt="Link em The Legend of Zelda: Ocarina of Time" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover" />
             <span className="absolute bottom-2 left-3 font-mono text-[9px] uppercase tracking-widest text-paper/70">Divulgação/Nintendo</span>
           </Link>
           <div className="flex flex-col justify-center gap-3 p-6 md:p-8" style={{ background: "linear-gradient(135deg, #071D12 0%, #0B2B1C 55%, #102A21 100%)" }}>
@@ -149,6 +150,7 @@ export default function Home() {
 
   return (
     <main>
+      <h1 className="sr-only">Acerto Games: notícias, análises, reviews e opinião sobre games</h1>
       <HeroCarousel posts={posts.slice(0, 10)} />
       <div className="mx-auto w-full max-w-[1240px] px-4 sm:px-5 lg:px-0">
       <FaixaNews posts={posts.slice(5, 20)} />

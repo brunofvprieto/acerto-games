@@ -14,9 +14,9 @@ module.exports = {
         retro: "#2BD9C8",
       },
       fontFamily: {
-        display: ["Archivo Black", "sans-serif"],
-        body: ["Archivo", "sans-serif"],
-        mono: ["Space Mono", "monospace"],
+        display: ["var(--font-archivo-black)", "Archivo Black", "sans-serif"],
+        body: ["var(--font-archivo)", "Archivo", "sans-serif"],
+        mono: ["var(--font-space-mono)", "Space Mono", "monospace"],
       },
     },
   },

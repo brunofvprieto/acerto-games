@@ -1,9 +1,10 @@
 "use client";
 import {useEffect,useState} from "react";
 import Link from "next/link";
+import { imgOtimizada } from "../lib/img";
 
 function Photo({post,priority=false}) {
- return post.image ? <img src={post.image} alt={post.imageAlt||post.title} loading={priority?"eager":"lazy"} decoding="async" className="block h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:post.heroImagePos||post.imagePos||"center"}}/> : <div className="h-full w-full" style={{background:`linear-gradient(135deg,${post.cover?.[0]||"#1b222c"},${post.cover?.[1]||"#0d1116"})`}}/>;
+ return post.image ? <img {...imgOtimizada(post.image,"(min-width: 1024px) 66vw, 100vw")} alt={post.imageAlt||post.title} loading={priority?"eager":"lazy"} fetchPriority={priority?"high":"auto"} decoding="async" className="block h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:post.heroImagePos||post.imagePos||"center"}}/> : <div className="h-full w-full" style={{background:`linear-gradient(135deg,${post.cover?.[0]||"#1b222c"},${post.cover?.[1]||"#0d1116"})`}}/>;
 }
 function Small({post}) {
  return <Link href={`/noticia/${post.slug}`} className="group min-w-0">

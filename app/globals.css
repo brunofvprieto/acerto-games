@@ -55,7 +55,7 @@ button:focus-visible {
 
 /* Logo estilo letreiro arcade */
 .logo-arcade {
-  font-family: "Bungee", "Archivo Black", sans-serif;
+  font-family: var(--font-bungee), "Bungee", var(--font-archivo-black), sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.02em;
   color: #fff;

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllPosts } from "../../lib/posts";
 import { Cover, CategoryTag } from "../../components/Cards";
+import { imgOtimizada } from "../../lib/img";
 
 export const dynamic = "force-static";
 
@@ -37,7 +38,8 @@ export default function EspeciaisPage() {
         className="group relative mt-8 flex min-h-[220px] flex-col justify-end overflow-hidden border border-[#C9A227]/50 p-6 transition-all hover:border-[#E4C860] md:min-h-[260px]"
       >
         <img
-          src="/img/especiais/metal-gear-shinkawa.jpg"
+          {...imgOtimizada("/img/especiais/metal-gear-shinkawa.jpg")}
+          loading="lazy"
           alt="Arte da saga Metal Gear por Yoji Shinkawa"
           className="absolute inset-0 h-full w-full object-cover object-top opacity-90 transition-transform duration-700 group-hover:scale-105"
         />

@@ -33,7 +33,7 @@ export default function Header() {
       <Ticker />
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-y-2 px-4 py-3 md:py-4">
         <div className="flex items-center gap-3">
-          <Link href="/" className="logo-arcade text-xl" aria-label="Acerto Games — início">
+          <Link href="/" className="logo-arcade text-xl">
             ACERTO<span className="text-arcade">GAMES</span>
           </Link>
           <PreviewToggle />

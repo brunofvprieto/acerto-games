@@ -7,6 +7,7 @@ import RedditEmbed from "../../../components/RedditEmbed";
 import ShareButtons from "../../../components/ShareButtons";
 import QRCode from "../../../components/QRCode";
 import ArticleGallery from "../../../components/ArticleGallery";
+import { imgOtimizada, altDaLegenda } from "../../../lib/img";
 
 function redditId(texto) {
   const m = texto.match(/reddit\.com\/r\/\w+\/comments\/([a-z0-9]+)/i);
@@ -178,7 +179,7 @@ export default function Noticia({ params }) {
           <div className="mt-4 flex items-center gap-3">
             {post.authorImage && (
               <img
-                src={post.authorImage}
+                {...imgOtimizada(post.authorImage, "48px", { max: 384 })}
                 alt={`Foto de ${post.author}`}
                 width="48"
                 height="48"
@@ -237,7 +238,7 @@ export default function Noticia({ params }) {
                     )}
                     {post.fichaTecnica && (
                       <div className="mt-5 grid gap-4 border-t border-edge pt-5 sm:grid-cols-[120px_minmax(0,1fr)]">
-                        <img src={post.fichaTecnica.imagem || post.image} alt={post.imageAlt || post.title} loading="lazy" className="w-full rounded border border-edge object-cover" />
+                        <img {...imgOtimizada(post.fichaTecnica.imagem || post.image, "(min-width: 640px) 300px, 100vw", { max: 960 })} alt={post.imageAlt || post.title} loading="lazy" className="w-full rounded border border-edge object-cover" />
                         <div className="min-w-0">
                           <p className="font-mono text-xs uppercase tracking-wider text-arcade">Ficha técnica</p>
                           <p className="mt-2 font-display text-lg font-bold text-paper">{post.fichaTecnica.nome}</p>
@@ -258,7 +259,7 @@ export default function Noticia({ params }) {
               if (paragraph.startsWith("img:")) {
                 const [url, credito] = paragraph.slice(4).split("|").map((s) => s.trim());
                 if (!url || (!url.startsWith("http") && !url.startsWith("/"))) return null;
-                return <figure key={i}><img src={url} alt="" loading="lazy" className="w-full border border-edge" />{credito && <figcaption className="mt-1 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {credito}</figcaption>}</figure>;
+                return <figure key={i}><img {...imgOtimizada(url, "(min-width: 1024px) 760px, 100vw")} alt={altDaLegenda(credito, post.title)} loading="lazy" decoding="async" className="w-full border border-edge" />{credito && <figcaption className="mt-1 font-mono text-[10px] uppercase tracking-widest text-dim">📷 {credito}</figcaption>}</figure>;
               }
               if (paragraph.startsWith("gallery:")) {
                 const items = paragraph
@@ -333,7 +334,7 @@ export default function Noticia({ params }) {
               <div className="divide-y divide-edge">
                 {materiasLaterais.map((p) => (
                   <Link key={p.slug} href={`/noticia/${p.slug}`} className="group flex gap-3 py-4 first:pt-0">
-                    <Cover colors={p.cover} image={p.image} position={p.imagePos} fit="cover" className="aspect-video w-28 shrink-0 overflow-hidden" />
+                    <Cover colors={p.cover} image={p.image} position={p.imagePos} fit="cover" sizes="112px" className="aspect-video w-28 shrink-0 overflow-hidden" />
                     <div className="min-w-0">
                       <p className="line-clamp-3 font-display text-sm leading-snug transition-colors group-hover:text-arcade">{p.title}</p>
                       <p className="mt-2 font-mono text-[10px] uppercase tracking-widest text-dim">{p.date}</p>

@@ -1,3 +1,4 @@
+import { imgOtimizada } from "../lib/img";
 export default function ArticleGallery({ items = [] }) {
   if (!items.length) return null;
 
@@ -8,7 +9,7 @@ export default function ArticleGallery({ items = [] }) {
           <figure key={`${item.url}-${index}`} className="overflow-hidden border border-edge bg-surface">
             <a href={item.url} target="_blank" rel="noopener noreferrer" className="block">
               <img
-                src={item.url}
+                {...imgOtimizada(item.url, "(min-width: 640px) 380px, 100vw", { max: 960 })}
                 alt={item.alt || "Imagem da galeria"}
                 loading="lazy"
                 className="aspect-[3/4] w-full object-cover transition duration-300 hover:scale-[1.02]"

@@ -1,5 +1,6 @@
 import "./globals.css";
 import Script from "next/script";
+import { Archivo, Archivo_Black, Bungee, Space_Mono } from "next/font/google";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
@@ -9,9 +10,30 @@ export const metadata = {
   title: "Acerto Games — Notícias, análises, reviews e opinião",
   description:
     "Portal brasileiro independente de games: notícias, análises, opiniões, reviews e especiais sobre jogos, indústria, hardware e cultura gamer.",
+  openGraph: {
+    type: "website",
+    locale: "pt_BR",
+    siteName: "Acerto Games",
+    title: "Acerto Games: notícias, análises, reviews e opinião sobre games",
+    description:
+      "Portal brasileiro independente de games: notícias, análises, opiniões, reviews e especiais sobre jogos, indústria, hardware e cultura gamer.",
+    images: [{ url: "/og-acerto-games.jpg", width: 1200, height: 630, alt: "Acerto Games" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Acerto Games: notícias, análises, reviews e opinião sobre games",
+    images: ["/og-acerto-games.jpg"],
+  },
 };
 
 const GA4_ID = "G-JMHJN5CLSY";
+
+// Fontes hospedadas pelo próprio site (next/font): sem ida ao Google Fonts
+// no carregamento e sem bloquear o primeiro texto na tela.
+const archivo = Archivo({ subsets: ["latin"], weight: ["400", "500", "700"], display: "swap", variable: "--font-archivo" });
+const archivoBlack = Archivo_Black({ subsets: ["latin"], weight: "400", display: "swap", variable: "--font-archivo-black" });
+const bungee = Bungee({ subsets: ["latin"], weight: "400", display: "swap", variable: "--font-bungee" });
+const spaceMono = Space_Mono({ subsets: ["latin"], weight: ["400", "700"], display: "swap", variable: "--font-space-mono" });
 
 const schemaWebSite = {
   "@context": "https://schema.org",
@@ -36,14 +58,8 @@ const schemaWebSite = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="pt-BR">
+    <html lang="pt-BR" className={`${archivo.variable} ${archivoBlack.variable} ${bungee.variable} ${spaceMono.variable}`}>
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bungee&family=Archivo:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap"
-          rel="stylesheet"
-        />
 
         <meta name="google-adsense-account" content="ca-pub-5246089745607111" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaWebSite) }} />
@@ -57,7 +73,7 @@ export default function RootLayout({ children }) {
         <Script
           id="adsense-loader"
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5246089745607111"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
           crossOrigin="anonymous"
         />
         <Script

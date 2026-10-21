@@ -1,6 +1,7 @@
 import Link from "next/link";
+import { imgOtimizada } from "../lib/img";
 
-export function Cover({ colors, image, position, alt = "", className = "", fit = "cover", children }) {
+export function Cover({ colors, image, position, alt = "", className = "", fit = "cover", sizes, children }) {
   const paleta = Array.isArray(colors) && colors.length >= 2 ? colors : ["#111111", "#222222"];
   const gradiente = `linear-gradient(135deg, ${paleta[0]}, ${paleta[1]})`;
 
@@ -15,9 +16,10 @@ export function Cover({ colors, image, position, alt = "", className = "", fit =
           className="absolute inset-0 bg-black"
         />
         <img
-          src={image}
+          {...imgOtimizada(image, sizes || "(min-width: 1024px) 760px, 100vw")}
           alt={alt}
           decoding="async"
+          fetchPriority="high"
           className="absolute inset-0 h-full w-full object-contain"
         />
         {children}
@@ -31,7 +33,7 @@ export function Cover({ colors, image, position, alt = "", className = "", fit =
     <div className={`cover ${className}`} style={{ background: gradiente }}>
       {image && (
         <img
-          src={image}
+          {...imgOtimizada(image, sizes || "(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw")}
           alt={alt}
           loading="lazy"
           decoding="async"
