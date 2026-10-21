@@ -1,0 +1,40 @@
+{
+  "slug": "ace-combat-8-atualizacao-23-outubro-correcoes-missoes-online-flight-stick",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "21 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-21T10:30:00-03:00",
+  "title": "Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online",
+  "excerpt": "A Project Aces corrige travamentos e falhas de progressão em Wings of Theve, encurta o efeito das armas de guerra eletrônica no Ace Combat Online e ajusta periféricos no PC.",
+  "cover": [
+    "#1b3a5c",
+    "#0a0f18"
+  ],
+  "image": "/img/ace-combat-8-atualizacao-23-outubro-hangar-select-aircraft-oficial.jpg",
+  "imageFilename": "ace-combat-8-atualizacao-23-outubro-hangar-select-aircraft-oficial.jpg",
+  "imageAlt": "Caças enfileirados no hangar com o menu de seleção de aeronaves de Ace Combat 8: Wings of Theve",
+  "imageCredit": "Divulgação/Bandai Namco",
+  "fonte": "Project Aces (patch notes oficiais na Steam e no site oficial), Push Square e Final Weapon",
+  "fonteUrl": "https://www.pushsquare.com/news/2026/10/ace-combat-8-carpet-bombs-a-massive-list-of-bugs-in-an-upcoming-patch-on-ps5",
+  "body": [
+    "Três semanas depois do lançamento, Ace Combat 8: Wings of Theve ganha a sua primeira grande rodada de correções. A atualização chega nesta sexta-feira (23) e, segundo as notas publicadas pela Project Aces, resolve falhas que impediam o avanço em dez missões da campanha.",
+    "A lista é longa e vai das missões ao Ace Combat Online, o modo multiplayer, passando por ajustes de balanceamento e opções novas na versão de PC.",
+    "## Campanha destravada",
+    "O ponto central são os bloqueios de progressão. As correções atingem as missões 6, 10, 11, 13, 14, 16, 18, 25, 28 e 30, com problemas que iam de travamento após o pouso no porta-aviões, na missão 10, a um alvo que não podia ser destruído, na 30.",
+    "Alguns casos mostram o tipo de defeito que escapou dos testes. Na missão 18, destroços de foguete perto do solo podiam afundar no terreno e impedir o avanço. Na 25, o cronômetro podia parar depois de uma nova tentativa. Na 16, um ala podia atacar cargueiros comuns em vez dos navios disfarçados.",
+    "A atualização também corrige fechamentos do jogo nas telas de seleção de aeronave e na árvore de aeronaves, além de falhas de áudio, legendas, renderização e estabilidade em cutscenes e replays.",
+    "## Balanceamento e online",
+    "Há mexidas pontuais de dificuldade. O Ladon da missão 15 foi ajustado nas dificuldades Elite e superiores, e a quantidade máxima de flares do jogador e dos alas na missão 28 também mudou. As notas não dizem se os ajustes facilitam ou dificultam.",
+    "No Ace Combat Online, a mudança mais sensível é nas armas especiais de guerra eletrônica. ECM, ESM e IEWS tiveram a duração do efeito reduzida, o que parece indicar que a Project Aces considerou essas armas fortes demais nas partidas. O modo também recebe correções na criação de conta, no treinamento militar e em controles que paravam de responder depois de desconectados.",
+    "## PC e periféricos",
+    "Na Steam, a atualização acrescenta uma opção para ligar ou desligar o Async Compute, em placas compatíveis, e corrige a compra de moedas com o overlay desativado. Também ajusta a atribuição de teclas e a conexão de periféricos.",
+    "É uma resposta parcial a uma das queixas mais barulhentas do lançamento. Na semana do lançamento, donos de HOTAS e flight sticks reclamaram de opções de configuração que existiam em Ace Combat 7: Skies Unknown e sumiram no novo jogo, e a Project Aces disse estar analisando o problema. As notas atuais não prometem a volta dessas opções e recomendam procurar o fabricante do periférico em caso de falha.",
+    "A equipe avisa que melhorias na interface e nos menus do Ace Combat Online vão chegar aos poucos, em atualizações futuras.",
+    "Para quem ainda não terminou a campanha, a recomendação prática é esperar a atualização antes de encarar as missões listadas. Para quem travou nelas, a sexta-feira resolve.",
+    "## Serviço",
+    "Atualização de Ace Combat 8: Wings of Theve. Data: 23 de outubro de 2026. Plataformas do jogo: PS5, Xbox Series X|S e PC (Steam).",
+    "link: Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | /noticia/ace-combat-8-lancamento-hoje-trailer-multiplayer"
+  ],
+  "observacao": "Origem oficial: patch notes da Project Aces no blog da Steam do jogo e em acecombat.jp, divulgadas no X (@PROJECT_ACES). Data de 23/10, missões 6, 10, 11, 13, 14, 16, 18, 25, 28 e 30, crashes em SELECT AIRCRAFT e AIRCRAFT TREE, Ladon na missão 15 (Elite+), flares na missão 28, redução de ECM/ESM/IEWS, correções do online, Async Compute, ACE COINS com overlay e ajustes de periféricos: Push Square + Final Weapon. Detalhes de cada missão (pouso no porta-aviões, alvo HULL, destroços de foguete, cronômetro, cargueiros): Final Weapon com conferência parcial na Push Square. Queixa de HOTAS/flight stick e opções do AC7 ausentes: aviso oficial na Steam (30/09) + matéria de lançamento. Fora por fonte única: número da versão (1.01.002, só Final Weapon) e crash na tela-título de missões exclusivo do PS5 (só Push Square). Push Square cita o patch no PS5; plataformas da atualização não detalhadas nas fontes, por isso o serviço lista as plataformas do jogo. Capa: screenshot oficial da Steam (1920x1080) com o menu do hangar."
+}
