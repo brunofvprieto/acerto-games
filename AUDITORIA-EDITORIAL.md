@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 651
-- Forte: 637
+- Total analisado: 654
+- Forte: 640
 - Revisar: 12
 - Prioridade: 2
 
@@ -108,6 +108,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1576 | 6 | 94 | Pokémon Pokopia: primeira parte do DLC, Bubbly Basin, chega em 5 de agosto | texto curto |
 | FORTE | noticia | 1590 | 7 | 95 | Beautiful Freaks of the Desert mistura boomer shooter, speedrun e um deserto aberto | texto curto |
 | FORTE | notícia | 1599 | 5 | 95 | Dragon's Dogma 2 no Switch 2: produtor diz que a performance tá superando as expectativas deles | texto curto |
+| FORTE | notícia | 1618 | 9 | 95 | Gateholt, terror cooperativo em que limpar a casa atrai o espírito, chega à Steam na sexta | texto curto |
 | FORTE | notícia | 1596 | 5 | 95 | Halo Studios teria cancelado um novo jogo multiplayer que estava em desenvolvimento | texto curto |
 | FORTE | noticia | 1596 | 7 | 95 | HELLCARD II ganha nova demo no Steam e mostra seu RPG de papel em novo trailer | texto curto |
 | FORTE | noticia | 1581 | 8 | 95 | Monster Hunter Wilds: Ascendance transforma a Long Sword com novos counters e combos | texto curto |
@@ -296,6 +297,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2972 | 12 | 100 | FSR 4.1 chega ao Xbox Series X|S, e o Project Helix vai usar o FSR Diamond | — |
 | FORTE | noticia | 2578 | 12 | 100 | Game Freak anuncia Ame no Chi Hare Onna, novo jogo que transforma a previsão do tempo em mecânica | — |
 | FORTE | notícia | 2252 | 6 | 100 | War for Westeros escorrega no gelo e vai para 2027 | — |
+| FORTE | notícia | 2197 | 13 | 100 | Game Pass recebe Final Fantasy VII Remake, Plants vs. Zombies: Replanted e Mouthwashing até 3 de novembro | — |
 | FORTE | notícia | 3188 | 6 | 100 | Game Pass foi boa ideia, mas não funcionou: diretor de Forza Horizon 5 desabafa sobre o colapso do Xbox | — |
 | FORTE | notícia | 2472 | 5 | 100 | Esse cara tá criando cartuchos físicos pra jogos de Steam — e o resultado é surpreendentemente incrível | — |
 | FORTE | notícia | 3720 | 5 | 100 | Saiu do cinema ainda vibrando com The Odyssey? A Polygon listou 10 jogos pra manter o clima | — |
@@ -378,6 +380,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2901 | 10 | 100 | Kojima alerta para uso de IA capaz de alterar a intenção original de uma obra | — |
 | FORTE | especial | 5936 | 22 | 100 | Kojima revela à IGN bastidores da saída da Sony de PHYSINT e temor pelo futuro do estúdio | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
+| FORTE | notícia | 2043 | 11 | 100 | Honor of Kings faz aniversário com o herói Dunshan, visual inspirado em pagoda milenar e recompensas grátis | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
 | FORTE | noticia | 5584 | 16 | 100 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | — |
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
