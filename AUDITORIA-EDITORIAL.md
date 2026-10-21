@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 650
-- Forte: 636
+- Total analisado: 651
+- Forte: 637
 - Revisar: 12
 - Prioridade: 2
 
@@ -478,6 +478,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
+| FORTE | notícia | 5047 | 26 | 100 | OD - Knock: tudo o que já sabemos do terror de Hideo Kojima, e o novo vídeo no set de captura | — |
 | FORTE | notícia | 2191 | 8 | 100 | Onimusha: Way of the Sword ganha gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 7492 | 23 | 100 | Onimusha está de volta — e a Capcom parece ter entendido o peso de ressuscitar uma série após 20 anos | — |
 | FORTE | opinião | 9042 | 29 | 100 | Quando uma atualização gratuita vira respeito: The Witcher 3 e Crimson Desert lembram à indústria como tratar quem já pagou | — |
