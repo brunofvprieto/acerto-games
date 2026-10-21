@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 645
-- Forte: 631
+- Total analisado: 649
+- Forte: 635
 - Revisar: 12
 - Prioridade: 2
 
@@ -171,6 +171,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
 | FORTE | noticia | 2457 | 11 | 100 | Ace Combat 8 traz de volta Annihilation Battle e novo trailer mostra superarmas e a guerra de Wings of Theve | — |
+| FORTE | notícia | 2832 | 12 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
 | FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
 | FORTE | notícia | 4089 | 13 | 100 | Acts of Blood tem data no PC: 4 de dezembro, com consoles só em 2027 | — |
 | FORTE | review | 14796 | 39 | 100 | Análise: Death Stranding 2 é uma obra-prima exuberante — Kojima entrega um dos grandes jogos da geração | — |
@@ -445,6 +446,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3515 | 12 | 100 | Monster Hunter Wilds fica R$ 110 mais barato e ganha demo grátis que salva seu progresso | — |
 | FORTE | noticia | 1836 | 7 | 100 | Monster Hunter Wilds no Switch 2 começou a ser desenvolvido em junho de 2025 | — |
 | FORTE | noticia | 1974 | 9 | 100 | Monster Hunter Wilds no Switch 2: Capcom revela resolução, 30 FPS e modos gráficos | — |
+| FORTE | notícia | 2737 | 10 | 100 | Mortal Shell II ganha Rotten Autumn, atualização gratuita com 15 masmorras, modo foto e trilha alternativa | — |
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
 | FORTE | noticia | 2312 | 9 | 100 | Muramasa: Revenant Blades ganha data e mostra como o clássico da Vanillaware foi reconstruído | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
@@ -514,6 +516,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
+| FORTE | notícia | 2901 | 10 | 100 | Red Dead Redemption 2 também sai do PS Plus Extra em 17 de novembro, junto com GTA V e mais nove jogos | — |
 | FORTE | notícia | 3307 | 9 | 100 | PS Plus de outubro terá Mafia: The Old Country, Horizon Forbidden West e Dino Crisis 2 | — |
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
@@ -645,6 +648,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
+| FORTE | notícia | 2990 | 11 | 100 | Nintendo UK refaz o comercial de 1998 de Ocarina of Time e troca o slogan polêmico por "Willst thou flee? Or fight?" | — |
 | FORTE | Notícias | 2215 | 7 | 100 | Vazamento aponta Monolith Soft como desenvolvedora de Zelda: Ocarina of Time no Switch 2 | — |
 | FORTE | notícia | 2912 | 6 | 100 | A nota 99 de Ocarina of Time no Metacritic pode estar errada — e quem descobriu foi o Did You Know Gaming | — |
 | FORTE | notícia | 2835 | 10 | 100 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | — |
