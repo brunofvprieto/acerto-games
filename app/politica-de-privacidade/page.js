@@ -51,20 +51,25 @@ export default function PoliticaDePrivacidade() {
           navegador — o site continuará funcionando normalmente.
         </p>
 
+        {/* Seção "5. Seus direitos (LGPD)" guardada e oculta do site a pedido de Bruno Vazquez (21/10/2026). Para voltar a exibir, troque false por true. */}
+        {false && (
+          <>
         <h2 className="font-display text-lg text-arcade">5. Seus direitos (LGPD)</h2>
         <p>
           Você pode solicitar informações sobre o tratamento de seus dados, bem como
           correção ou exclusão de dados fornecidos por você (como e-mails de contato),
           escrevendo para <strong>contato@acertogames.com.br</strong>.
         </p>
+          </>
+        )}
 
-        <h2 className="font-display text-lg text-arcade">6. Links externos</h2>
+        <h2 className="font-display text-lg text-arcade">5. Links externos</h2>
         <p>
           Algumas páginas do site podem apontar para endereços externos. Não nos responsabilizamos
           pelas práticas de privacidade de outros sites.
         </p>
 
-        <h2 className="font-display text-lg text-arcade">7. Alterações</h2>
+        <h2 className="font-display text-lg text-arcade">6. Alterações</h2>
         <p>
           Esta política pode ser atualizada a qualquer momento. A data da última
           atualização estará sempre indicada no topo desta página.

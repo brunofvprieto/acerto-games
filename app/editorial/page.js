@@ -37,6 +37,9 @@ export default function Editorial() {
           </p>
         </section>
 
+        {/* Seção "Uso de inteligência artificial" guardada e oculta do site a pedido de Bruno Vazquez (21/10/2026). Para voltar a exibir, troque false por true. */}
+        {false && (
+          <>
         <section>
           <h2 className="font-display text-xl text-arcade">Uso de inteligência artificial</h2>
           <p className="mt-3">
@@ -46,6 +49,8 @@ export default function Editorial() {
             Quando uma matéria depende de experiência de primeira mão, essa experiência precisa existir de fato. Se não testamos um produto, não escrevemos como se tivéssemos testado.
           </p>
         </section>
+          </>
+        )}
 
         <section>
           <h2 className="font-display text-xl text-arcade">Opinião com responsabilidade</h2>
