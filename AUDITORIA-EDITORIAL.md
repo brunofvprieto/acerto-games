@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 654
-- Forte: 640
+- Total analisado: 655
+- Forte: 641
 - Revisar: 12
 - Prioridade: 2
 
@@ -479,6 +479,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
 | FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
+| FORTE | opinião | 4434 | 22 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
 | FORTE | notícia | 5436 | 28 | 100 | OD - Knock: tudo o que já sabemos do terror de Hideo Kojima, e o novo vídeo no set de captura | — |
