@@ -43,6 +43,9 @@ export default function Sobre() {
           </Link>
         </section>
 
+        {/* Seção "Como apuramos" guardada e oculta do site a pedido de Bruno Vazquez (21/10/2026). Para voltar a exibir, troque false por true. */}
+        {false && (
+          <>
         <h2 className="font-display text-xl text-arcade pt-4">Como apuramos</h2>
         <p>Nenhuma matéria deve nascer de uma simples troca de palavras em cima de outra matéria. O processo editorial prioriza:</p>
         <ul className="ml-5 list-disc space-y-2 text-base">
@@ -52,6 +55,8 @@ export default function Sobre() {
           <li><strong>Rumor é rumor:</strong> vazamentos, boatos e especulações são identificados como tais. Nunca apresentamos especulação como fato confirmado.</li>
           <li><strong>Brasil em primeiro plano:</strong> preço, disponibilidade, idioma, servidores, datas e condições para o público brasileiro entram no texto sempre que houver informação confiável.</li>
         </ul>
+          </>
+        )}
 
         <h2 className="font-display text-xl text-arcade pt-4">Notícia, análise e opinião</h2>
         <p>
@@ -75,6 +80,9 @@ export default function Sobre() {
           Cortesia não compra nota — se o jogo decepcionou, está escrito lá.
         </p>
 
+        {/* Seção "Uso de inteligência artificial" guardada e oculta do site a pedido de Bruno Vazquez (21/10/2026). Para voltar a exibir, troque false por true. */}
+        {false && (
+          <>
         <h2 className="font-display text-xl text-arcade pt-4">Uso de inteligência artificial</h2>
         <p>
           Ferramentas de inteligência artificial podem participar de etapas de pesquisa, organização,
@@ -84,6 +92,8 @@ export default function Sobre() {
         <p className="text-base text-dim">
           Nosso fluxo é: <strong>fonte → apuração → rascunho assistido → revisão humana → publicação.</strong>
         </p>
+          </>
+        )}
 
         <h2 className="font-display text-xl text-arcade pt-4">Erros e correções</h2>
         <p>
