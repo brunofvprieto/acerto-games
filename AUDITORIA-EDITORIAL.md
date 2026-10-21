@@ -256,7 +256,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3002 | 11 | 100 | Diablo IV celebra 30 anos da série com Hell's Legacy, retorno de Deckard Cain e os três Prime Evils | — |
 | FORTE | noticia | 3343 | 14 | 100 | Diablo V revela Plague Knight, retorno de Monk e Demon Hunter e um mundo que muda a cada viagem | — |
 | FORTE | noticia | 4916 | 22 | 100 | Diablo V é revelado na BlizzCon 2026 e mostra um Santuário já dominado pelo Senhor do Terror | — |
-| FORTE | notícia | 2932 | 14 | 100 | Diários de uma Apotecária ganha jogo em 18 de março de 2027, com Jinshi e o gato Maomao como investigadores | — |
+| FORTE | notícia | 2922 | 14 | 100 | Diários de uma Apotecária ganha jogo em 18 de março de 2027, com Jinshi e o gato Maomao como investigadores | — |
 | FORTE | notícia | 2941 | 10 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
