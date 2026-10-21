@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 638
-- Forte: 624
+- Total analisado: 642
+- Forte: 628
 - Revisar: 12
 - Prioridade: 2
 
@@ -51,6 +51,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1246 | 6 | 86 | Marvel’s Wolverine detalha combate brutal, New Game Plus e mais de 100 recursos de acessibilidade | texto curto |
 | FORTE | notícia | 1299 | 5 | 87 | 171 divulga a primeira cutscene do modo história, gravada com atores e captura de movimento e facial | texto curto |
 | FORTE | notícia | 1290 | 5 | 87 | Activision põe GTA VI e Modern Warfare 4 como os maiores do ano e aposta em carona na Rockstar | texto curto |
+| FORTE | notícia | 1286 | 9 | 87 | GTA 6 já teria US$ 630 milhões em pré-vendas digitais, e o PS5 responde por 74% | texto curto |
 | FORTE | notícia | 1285 | 6 | 87 | GTA 6 terá animais lendários e espécies raras para rastrear em Leonida | texto curto |
 | FORTE | Notícias | 1299 | 5 | 87 | GTA 6 domina a Netflix: Extended Look soma 31,1 milhões de visualizações e lidera em quase todo o mundo | texto curto |
 | FORTE | noticia | 1279 | 5 | 87 | Metaphor: ReFantazio recebe demo gratuita no Switch 2 com transferência de progresso | texto curto |
@@ -86,6 +87,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1449 | 6 | 91 | Warcraft 3, WoW: Forever e Heroes of the Storm no Xbox? Blizzard não fecha a porta | texto curto |
 | FORTE | notícia | 1497 | 7 | 92 | Arizona Sunshine ganha remake em terceira pessoa, uma década depois do original em VR | texto curto |
 | FORTE | notícia | 1463 | 7 | 92 | CONTROL Resonant mostra Manhattan em colapso e poderes de Dylan em novo trailer | texto curto |
+| FORTE | notícia | 1473 | 8 | 92 | Fight Night está de volta: EA Sports confirma retorno da série de boxe 15 anos depois | texto curto |
 | FORTE | notícia | 1499 | 5 | 92 | Aquele som que marcou uma geração: Hallmark lança enfeite de natal do PlayStation original com o startup clássico | texto curto |
 | FORTE | notícia | 1486 | 7 | 92 | Monster Hunter Wilds abre a caçada no Switch 2 com demo grátis e pré-venda a R$ 199 | texto curto |
 | FORTE | notícia | 1468 | 6 | 92 | Morbid Metal ganha Kaizu e amplia sistema de troca de personagens em pleno combate | texto curto |
@@ -143,6 +145,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1736 | 8 | 98 | Stranger Than Heaven mostra a chegada de Makoto Daito ao Japão no navio de Orpheus, de Snoop Dogg | texto curto |
 | FORTE | notícia | 1739 | 6 | 98 | Uli Latukefu será Ganondorf no filme live-action de The Legend of Zelda | texto curto |
 | FORTE | noticia | 1711 | 7 | 98 | Game Pass fecha setembro com Minecraft Dungeons II e já prepara Gears of War: E-Day | texto curto |
+| FORTE | notícia | 1719 | 9 | 98 | Xbox teria portátil em 2027 e Project Helix em 2028, com preço de até US$ 1.800 | texto curto |
 | FORTE | notícia | 1704 | 7 | 98 | Novo Xbox não será apenas um console: Microsoft confirma ‘família de dispositivos’ para a próxima geração | texto curto |
 | FORTE | noticia | 1774 | 7 | 99 | Diablo IV chega ao Nintendo Switch 2 com a coleção Age of Hatred | texto curto |
 | FORTE | notícia | 1741 | 5 | 99 | Dragon's Dogma 2 rodando a 30fps ou mais no Switch 2? A Capcom tá entregando milagres | texto curto |
@@ -215,6 +218,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 2497 | 10 | 100 | Civilization VII vai à Era Atômica com Arc of Tomorrow e anuncia expansão Earthrise | — |
 | FORTE | noticia | 2998 | 10 | 100 | Clair Obscur: Expedition 33 deixa o Game Pass em 15 de outubro | — |
 | FORTE | notícia | 2134 | 5 | 100 | Criador de Gears of War quer voltar a fazer jogos — mas esquece o PvP: "Boa sorte pra quem entrar nessa" | — |
+| FORTE | notícia | 1941 | 10 | 100 | C.L.T., o "GTA clássico" brasileiro, chega ao acesso antecipado no PC | — |
 | FORTE | notícia | 3603 | 6 | 100 | O Senhor dos Anéis influenciou Final Fantasy X — e a gente acabou de descobrir como | — |
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
