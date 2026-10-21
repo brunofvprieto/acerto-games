@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 658
-- Forte: 644
+- Total analisado: 659
+- Forte: 645
 - Revisar: 12
 - Prioridade: 2
 
@@ -138,6 +138,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1672 | 9 | 97 | Stellar Blade chega ao Switch 2 em novembro e ganha colaboração com Bayonetta | texto curto |
 | FORTE | noticia | 1679 | 7 | 97 | Switch 2 e Pro Controller dos 40 anos de Zelda aparecem em suposto vazamento | texto curto |
 | FORTE | notícia | 1664 | 8 | 97 | The Wolf Among Us Remastered: versão de Switch é adiada, e as outras mantêm 29 de outubro | texto curto |
+| FORTE | notícia | 1712 | 8 | 98 | Chivalware, roguelite de cavaleiros que lutam com disquetes, chega em 5 de novembro ao PC e ao Switch 2 | texto curto |
 | FORTE | noticia | 1720 | 8 | 98 | Control Resonant terá 60 fps no PS5 e modo 4K com ray tracing no PS5 Pro | texto curto |
 | FORTE | notícia | 1732 | 9 | 98 | Crimson Desert: DLC Charting the Unknown ganha vídeo e mostra navio, mergulho, casamento e negócios | texto curto |
 | FORTE | notícia | 1731 | 6 | 98 | GTA VI: Launch Trailer mostra o que levou Jason ao crime e a intimidade do casal com Lucia | texto curto |
