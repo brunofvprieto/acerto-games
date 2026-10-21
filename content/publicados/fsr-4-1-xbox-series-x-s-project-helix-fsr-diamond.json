@@ -1,0 +1,42 @@
+{
+  "slug": "fsr-4-1-xbox-series-x-s-project-helix-fsr-diamond",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "21 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-21T08:45:00-03:00",
+  "title": "FSR 4.1 chega ao Xbox Series X|S, e o Project Helix vai usar o FSR Diamond",
+  "excerpt": "AMD e Microsoft confirmam o upscaling por aprendizado de máquina nos consoles atuais, ainda sem data. Os portáteis ROG Xbox Ally recebem uma prévia em 23 de outubro.",
+  "cover": [
+    "#ed1c24",
+    "#0a0a0a"
+  ],
+  "image": "/img/fsr-4-1-xbox-series-amd-october-2026-update-oficial.jpg",
+  "imageFilename": "fsr-4-1-xbox-series-amd-october-2026-update-oficial.jpg",
+  "imageAlt": "Arte oficial da AMD com o texto AMD FSR October 2026 Update, do vídeo que anunciou o FSR 4.1 no Xbox Series X|S",
+  "imageCredit": "Divulgação/AMD",
+  "fonte": "AMD (vídeo oficial de 20/10/2026), Windows Central, Pure Xbox e Inven Global",
+  "fonteUrl": "https://www.youtube.com/watch?v=fT6TIXnmv-s",
+  "body": [
+    "O Xbox Series X|S vai receber o FSR 4.1, o upscaling por aprendizado de máquina da AMD. O anúncio saiu nesta terça-feira (20), num vídeo da fabricante com participação de Scott Van Vliet, CTO do Xbox. A data ficou em aberto: AMD e Microsoft dizem apenas que a novidade chega em breve aos consoles.",
+    "Os portáteis ROG Xbox Ally saem na frente. A ASUS começa a distribuir uma versão de prévia em 23 de outubro, e a versão final está prometida para antes do fim do ano.",
+    "## O que muda no Series X|S",
+    "Até aqui, os jogos de Series X|S dependem do FSR 2 e do FSR 3, que reconstroem a imagem por algoritmo, ou de soluções próprias de cada estúdio. O FSR 4 trocou esse método por um modelo treinado, capaz de entregar imagem mais limpa a partir de resoluções internas mais baixas. No PC, ele estreou em 2025 restrito às Radeon RX 9000.",
+    "O dado técnico mais relevante é a arquitetura. Os consoles da Microsoft usam GPU RDNA 2, de 2020. A AMD já tinha estendido o FSR 4.1 às Radeon RX 7000 em julho e agora leva a tecnologia também às RX 6000, da mesma geração dos consoles.",
+    "O maior beneficiado pode ser o Series S, que roda muitos jogos em resolução baixa e sofre com imagem borrada. A AMD, porém, não divulgou números de desempenho nem a lista de jogos de console compatíveis. Como no PC, o suporte deve depender de cada estúdio.",
+    "O custo também conta. Nas medições da Digital Foundry com Marvel's Wolverine, o QSSR do PS5 consome cerca de 4 milissegundos por quadro para reconstruir a imagem em 4K. Numa GPU de 2020, cada milissegundo gasto no upscaler sai do orçamento de iluminação e simulação, e o resultado no Series S vai depender dessa conta.",
+    "## A resposta ao PSSR",
+    "O anúncio fecha uma diferença que vinha crescendo nesta geração. A Sony usa o PSSR no PS5 Pro e, desde o começo de outubro, oferece o QSSR no PS5 padrão. As duas soluções nasceram do Project Amethyst, a pesquisa conjunta de Sony e AMD em aprendizado de máquina para gráficos.",
+    "O FSR 4.1 sai do mesmo trabalho. Na prática, uma tecnologia que a Sony ajudou a desenvolver chega ao console da concorrente. Para o Xbox, ela vem no sexto ano da geração, quando o Series X|S já divide as atenções com a próxima família de aparelhos.",
+    "## FSR Diamond no Project Helix",
+    "Van Vliet usou o mesmo vídeo para falar da próxima geração. Segundo ele, há \"ainda mais pela frente com o Project Helix, usando o FSR Diamond para impulsionar o que vem a seguir\".",
+    "O nome não é novo. O FSR Diamond apareceu em março, quando Microsoft e AMD detalharam a parceria do Helix, e reúne upscaling por aprendizado de máquina de nova geração e multi-frame generation. É o salto que separa o Helix do que o Series X|S recebe agora, mas os detalhes técnicos seguem sem confirmação oficial.",
+    "O calendário publicado pela Fortune nesta semana coloca o Helix no fim de 2028, depois de um portátil previsto para 2027. A Microsoft não confirmou essas datas.",
+    "## Serviço",
+    "FSR 4.1 no Xbox Series X e Series S: em breve, sem data. ROG Xbox Ally X e Ally: prévia a partir de 23 de outubro, versão final até o fim de 2026. Project Helix: FSR Diamond, sem data.",
+    "link: Xbox teria portátil em 2027 e Project Helix em 2028, com preço de até US$ 1.800 | /noticia/xbox-portatil-2027-project-helix-2028-ate-1800-dolares-fortune",
+    "link: Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | /noticia/asha-sharma-xbox-series-helix-game-pass-planos-futuro",
+    "link: GTA VI: Digital Foundry vê 1440p a 30 fps no PS5 e nenhum sinal do QSSR no Launch Trailer |/noticia/gta-6-digital-foundry-launch-trailer-1440p-30fps-sem-qssr"
+  ],
+  "observacao": "Origem oficial: vídeo da AMD 'AMD FSR Upscaling 4.1 for Desktop, Laptop, Handheld and Console' (canal AMD Gaming, https://www.youtube.com/watch?v=fT6TIXnmv-s) e post de Jack Huynh no X (20/10). FSR 4.1 no Series X|S 'em breve', sem data: Windows Central + Pure Xbox + Inven Global. Prévia nos ROG Xbox Ally em 23/10 e final até o fim do ano: Windows Central + Inven Global. RX 6000 incluídas: Pure Xbox + Inven Global. RX 7000 em julho e FSR 4 restrito às RX 9000 em 2025: Inven Global + histórico público. Project Amethyst como base: Inven Global + Wccftech (enquadramento PSSR/QSSR). QSSR no PS5 padrão desde 1º/10 e custo de cerca de 4 ms por quadro em Marvel's Wolverine: matéria do site sobre a Digital Foundry (Launch Trailer de GTA VI). Fala de Van Vliet sobre o Helix: Windows Central + Pure Xbox + Inven Global (tradução nossa). FSR Diamond em março, com upscaling ML e multi-frame generation: igor'sLAB (13/03, citando Xbox Wire de 11/03) + Inven Global. Fora por fonte única ou instável: '400 jogos' compatíveis (só ROGAllyLife via Windows Central), driver Adrenalin 26.10.1 e modelo menor no portátil (só Inven), componente de ray tracing do Diamond (fontes divergem entre 'ray reconstruction' e 'ray regeneration'). Capa: thumbnail oficial do vídeo da AMD (1280x720)."
+}
