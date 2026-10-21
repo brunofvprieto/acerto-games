@@ -290,6 +290,22 @@ export default function Noticia({ params }) {
                 if (!url || !url.startsWith("http")) return null;
                 return <p key={i}><a href={url} className="text-arcade underline" target="_blank" rel="noopener noreferrer">{texto || url}</a></p>;
               }
+              if (paragraph.startsWith("instagram:")) {
+                const m = paragraph.slice(10).trim().match(/instagram\.com\/(reel|p|tv)\/([A-Za-z0-9_-]+)/);
+                if (!m) return null;
+                return (
+                  <div key={i} className="flex justify-center">
+                    <iframe
+                      src={`https://www.instagram.com/${m[1]}/${m[2]}/embed/captioned/`}
+                      title="Publicação do Instagram"
+                      loading="lazy"
+                      scrolling="no"
+                      allowFullScreen
+                      className="h-[640px] w-full max-w-[420px] rounded-lg border border-edge bg-white"
+                    />
+                  </div>
+                );
+              }
               if (paragraph.startsWith("reddit:")) {
                 const rid = redditId(paragraph.slice(7).trim());
                 if (!rid) return null;
