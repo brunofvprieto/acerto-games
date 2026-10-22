@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 675
-- Forte: 661
+- Total analisado: 676
+- Forte: 662
 - Revisar: 12
 - Prioridade: 2
 
@@ -446,6 +446,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2294 | 10 | 100 | Moadra chega hoje: metroidvania alienígena evolui a protagonista com protoplasma | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
+| FORTE | notícia | 2274 | 10 | 100 | Modern Warfare 4 chega com 33 armas, acessórios que valem para todas e duas trilhas de Prestígio | — |
 | FORTE | notícia | 3572 | 13 | 100 | Campanha de Modern Warfare 4 tem 92% de aprovação no Steam, e as queixas são sobre o acesso, não o jogo | — |
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
 | FORTE | notícia | 2783 | 10 | 100 | DMZ de Modern Warfare 4 abre no acesso antecipado, e Hajin ganha níveis de ameaça e nota de S++ a F | — |
