@@ -1,0 +1,36 @@
+{
+  "slug": "gta-6-exigira-firmware-14-10-ps5-hacker-mostra-menu-debug",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "22 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-22T10:05:00-03:00",
+  "title": "GTA 6 deve exigir o firmware 14.10 do PS5, e hacker mostra o menu de debug do sistema",
+  "excerpt": "Dados da PS Store indicam atualização mínima para rodar o jogo. Console desbloqueado em versão antiga não vai jogar o lançamento de 19 de novembro.",
+  "cover": [
+    "#e2527a",
+    "#1a0a1f"
+  ],
+  "image": "/img/gta-6-pre-vendas-vice-city-entardecer-megamundo-oficial.jpg",
+  "imageFilename": "gta-6-pre-vendas-vice-city-entardecer-megamundo-oficial.jpg",
+  "imageAlt": "Vice City ao entardecer em imagem oficial de GTA 6",
+  "imageCredit": "Divulgação/Rockstar Games",
+  "fonte": "Dados da PS Store e vídeo do pesquisador Gezine",
+  "body": [
+    "A um mês de GTA 6, a cena de desbloqueio do PS5 voltou a ser notícia. Dados encontrados na base da PS Store indicam que o jogo vai exigir o firmware 14.10.00.00 ou superior. Na prática, quem mantém o console em versão antiga não vai conseguir rodar o lançamento.",
+    "## O que a exigência significa",
+    "O PS5 desbloqueado costuma ficar parado numa versão de sistema vulnerável, justamente para não perder a brecha. Se o jogo pedir uma versão mais nova, essas pessoas ficam diante de uma escolha. Ou atualizam e perdem o acesso, ou abrem mão de GTA 6.",
+    "img: /img/gta-6-pre-vendas-vice-city-entardecer-megamundo-oficial.jpg | Vice City ao entardecer, em imagem oficial de GTA 6. Divulgação/Rockstar Games.",
+    "A Sony não comentou o assunto. Exigir uma atualização mínima é prática comum nos consoles, e a informação sobre a versão 14.10 vem dos dados da loja, não de um comunicado.",
+    "## Hacker mostra o menu de debug",
+    "No dia 19, o pesquisador Gezine publicou um vídeo em que aparece o menu de configurações de debug de um PS5 com o firmware 14.10. Esse tipo de menu é de uso interno e costuma ficar escondido nos consoles de varejo.",
+    "Segundo o próprio hacker, o acesso ao sistema continua privado. O recurso que permitiria rodar cópias de jogos, um desvio do hipervisor, ainda não funciona. Ou seja, ver o menu não significa que seja possível jogar GTA 6 pirata.",
+    "img: /img/gta-6-launch-trailer-jason-lucia-carro-vermelho-19-novembro.jpg | Jason e Lucia num carro vermelho, cena do trailer de lançamento. Divulgação/Rockstar Games.",
+    "## A corrida contra o relógio",
+    "A Sony já mexeu no assunto este mês. A atualização de 1º de outubro fechou o exploit conhecido como Relapse, que era a porta de entrada mais usada pela comunidade.",
+    "Com GTA 6 marcado para 19 de novembro, o interesse em burlar a proteção só cresce. Um jogo desse tamanho é o tipo de lançamento que atrai tanto curiosos quanto quem quer evitar o preço cheio.",
+    "Vale lembrar que um vídeo mostrando menus não prova uma quebra completa de segurança. A história pode mudar depois da estreia, mas, por enquanto, o que existe é uma exigência de firmware e uma demonstração parcial.",
+    "link: GTA 6: códigos na mídia física do PS5 e trava de região | /noticia/gta-6-codigos-midia-fisica-ps5-trava-de-regiao"
+  ],
+  "observacao": "Pauta escolhida pelo Bruno em 22/10. Exigência do firmware 14.10.00.00: dados da base da PS Store (PlayStation Game Size) via Canaltech 06/10 e Notebookcheck. Vídeo de Gezine (@gezine_dev) em 19/10 com menu de debug no 14.10: Engadget 20/10 e Notebookcheck. Hipervisor sem bypass e acesso privado: relatos de Notebookcheck e Engadget. Atualização de 01/10 que bloqueou o exploit Relapse: ARY News e Notebookcheck. Lançamento de GTA 6 em 19/11: matérias do site. Alegação de firmware 14.20 apareceu só na HotHardware, deixada de fora. Texto neutro, sem instruções. Sony não comentou: sem posicionamento localizado até 22/10. Imagens: oficiais da Rockstar já usadas em matérias do site."
+}
