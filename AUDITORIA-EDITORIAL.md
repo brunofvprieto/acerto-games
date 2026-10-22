@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 662
-- Forte: 648
+- Total analisado: 667
+- Forte: 653
 - Revisar: 12
 - Prioridade: 2
 
@@ -444,6 +444,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
 | FORTE | notícia | 2783 | 10 | 100 | DMZ de Modern Warfare 4 abre no acesso antecipado, e Hajin ganha níveis de ameaça e nota de S++ a F | — |
 | FORTE | notícia | 5159 | 26 | 100 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | — |
+| FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
@@ -514,8 +515,10 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
+| FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
+| FORTE | notícia | 2841 | 12 | 100 | Pokémon terá loja permanente em Londres até 2029, a primeira fora da Ásia | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
 | FORTE | artigo | 11566 | 39 | 100 | Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos | — |
@@ -576,6 +579,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1890 | 8 | 100 | Splatoon Raiders ganha novas builds oficiais para transformar Salmonids em caos no Switch 2 | — |
 | FORTE | notícia | 2348 | 6 | 100 | Splatoon Raiders faz história: maior nota de usuários da Nintendo no Metacritic (e top 10 de todos os tempos) | — |
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
+| FORTE | notícia | 2776 | 12 | 100 | Star Wars Battlefront 3 estaria em produção na DICE e na Respawn, diz Variety | — |
 | FORTE | notícia | 3575 | 12 | 100 | Star Wars: Galactic Racer chega hoje com corridas clandestinas e Sebulba | — |
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
 | FORTE | notícia | 2407 | 5 | 100 | StarCraft na BlizzCon: a Blizzard está nos dando pistas de um novo jogo ou a gente tá vendo coisa? | — |
@@ -627,6 +631,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
 | FORTE | review | 4535 | 23 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
+| FORTE | notícia | 2768 | 12 | 100 | Valor Mortis se paga em sete dias, mesmo lançado no Game Pass | — |
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
 | FORTE | noticia | 3860 | 14 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
 | FORTE | noticia | 3642 | 10 | 100 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | — |
