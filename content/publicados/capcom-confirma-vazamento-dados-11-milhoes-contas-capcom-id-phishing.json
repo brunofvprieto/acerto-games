@@ -1,0 +1,35 @@
+{
+  "slug": "capcom-confirma-vazamento-dados-11-milhoes-contas-capcom-id-phishing",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "22 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-22T15:00:00-03:00",
+  "title": "Capcom confirma vazamento de dados de 11,7 milhões de contas do Capcom ID",
+  "excerpt": "Empresa diz que e-mails e identificadores foram acessados e 196 senhas foram trocadas sem autorização. Cartões não foram afetados.",
+  "cover": [
+    "#c8102e",
+    "#0a0c0e"
+  ],
+  "image": "/img/capcom-id-street-fighter-6-vazamento-dados.jpg",
+  "imageFilename": "capcom-id-street-fighter-6-vazamento-dados.jpg",
+  "imageAlt": "Metro City, o hub online de Street Fighter 6, cheio de painéis luminosos",
+  "imageCredit": "Divulgação/Capcom",
+  "fonte": "Capcom (comunicado oficial)",
+  "fonteUrl": "https://www.capcom.co.jp/ir/english/news/html/e261022.html",
+  "body": [
+    "A Capcom confirmou nesta quinta (22) que um terceiro acessou, sem autorização, dados de clientes do Capcom ID. A conta é usada em vários serviços da empresa e necessária em alguns jogos online. Segundo o comunicado oficial, 11.774.247 registros foram atingidos no mundo todo.",
+    "img: /img/capcom-id-street-fighter-6-vazamento-dados.jpg | Metro City, o hub online de Street Fighter 6, que usa o Capcom ID. Divulgação/Capcom.",
+    "## O que foi acessado",
+    "Os registros incluem o e-mail e identificadores do sistema, além da data de criação da conta, do último login, do número de logins e do endereço IP usado no último acesso. Em 43 casos, também apareceram data de nascimento, gênero, país ou região e apelido.",
+    "A empresa diz que dados de cartão de crédito não foram afetados, e o comunicado não lista nomes entre as informações acessadas. Foram 196 contas com a senha trocada sem autorização, e todas já foram redefinidas. A Capcom afirma que não confirmou o comprometimento de senhas criadas pelos próprios clientes.",
+    "## Cronologia",
+    "A Capcom detectou a atividade suspeita em 19 de outubro, bloqueou o acesso e confirmou a invasão no mesmo dia. No dia 20, montou uma central interna de resposta e confirmou que as informações tinham sido acessadas. No dia 21, comunicou o caso à polícia da província de Osaka e à autoridade japonesa de proteção de dados pessoais.",
+    "A empresa afirma que já identificou e corrigiu o método do ataque. Os jogos e o Capcom ID continuam funcionando normalmente, e a apuração do alcance total segue em andamento.",
+    "## O que fazer agora",
+    "O aviso da Capcom é direto: os dados roubados podem ser usados em e-mails e mensagens de golpe que se passam pela empresa ou por parceiros. A orientação é desconfiar de qualquer mensagem suspeita e não abrir links nem anexos. A empresa também diz que vai avisar os clientes afetados.",
+    "O dado exposto parece limitado, sem senha própria nem pagamento. Mesmo assim, uma lista de milhões de e-mails ligados a contas de jogadores é um terreno fértil para phishing. Como cuidado extra, vale trocar a senha do Capcom ID e não repeti-la em outros serviços.",
+    "Na América do Sul, o atendimento da empresa é pelo formulário da Capcom USA, no site capcom-support.com."
+  ],
+  "observacao": "Pauta pedida pelo Bruno em 22/10 (rodada nos portais brasileiros). Todos os números, datas, dados acessados, 43 registros com dados pessoais, 196 senhas, cronologia (19, 20 e 21/10), polícia de Osaka, órgão japonês de proteção de dados, orientação contra phishing e canal de atendimento: comunicado oficial da Capcom de 22/10 (página de relações com investidores). Capcom ID usado em Street Fighter 6: conhecimento geral, imagem do hub de SF6 da página da Steam. Recomendação de trocar a senha: conselho nosso, marcado como cuidado extra. Leitura de que o dado parece limitado: análise própria com marca de hipótese. Sem oferta de chave."
+}
