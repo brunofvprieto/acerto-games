@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 677
-- Forte: 663
+- Total analisado: 680
+- Forte: 666
 - Revisar: 12
 - Prioridade: 2
 
@@ -60,6 +60,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1270 | 5 | 87 | Rockstar apresenta nopixel V e reforça aposta no GTA RP em setembro | texto curto |
 | FORTE | notícia | 1268 | 7 | 87 | Silent Hill: Townfall terá apresentação especial e gameplay comentado na TGS 2026 | texto curto |
 | FORTE | noticia | 1269 | 6 | 87 | Stellar Blade ganha demo no Switch 2 e revela quarto traje da colaboração com Bayonetta | texto curto |
+| FORTE | notícia | 1724 | 6 | 88 | Ana de Armas estaria em conversas para ser Samus Aran em filme de Metroid, diz boato | resumo curto, texto curto |
 | FORTE | noticia | 1313 | 6 | 88 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1308 | 7 | 88 | GTA V sai do PS Plus Extra em 17 de novembro, dois dias antes de GTA VI | texto curto |
@@ -134,6 +135,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1697 | 8 | 97 | GTA 6 deve exigir o firmware 14.10 do PS5, e hacker mostra o menu de debug do sistema | texto curto |
 | FORTE | noticia | 1688 | 7 | 97 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto |
 | FORTE | notícia | 1663 | 7 | 97 | Modern Warfare 4 ganha pop-up na Avenida Paulista com Ghost e encontros com criadores | texto curto |
+| FORTE | notícia | 1696 | 7 | 97 | Ordinary Oddness é anunciado: RPG de mundo aberto numa cidade flutuante, para PS5, Xbox Series e PC | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
 | FORTE | notícia | 1682 | 9 | 97 | Pokémon Pokopia leva Ditto para o fundo do mar em Bubbly Basin — veja o que muda no Switch 2 | texto curto |
 | FORTE | notícia | 1672 | 5 | 97 | A Sega quer reviver seus clássicos — e desta vez mira nos veteranos E na molecada | texto curto |
@@ -220,6 +222,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2325 | 8 | 100 | Call of Duty: Modern Warfare 4 mostra a campanha pela primeira vez — e leva Price de volta a Paris | — |
 | FORTE | notícia | 2525 | 6 | 100 | Infinity Ward bate o pé: Gunny, o assistente de Modern Warfare 4, não é IA — é feito à mão mesmo | — |
 | FORTE | notícia | 2878 | 6 | 100 | Modern Warfare 4 vai parecer melhor no console mais caro — e a Sony não tá nem um pouco envergonhada disso | — |
+| FORTE | notícia | 1997 | 8 | 100 | Capcom confirma vazamento de dados de 11,7 milhões de contas do Capcom ID | — |
 | FORTE | notícia | 2527 | 8 | 100 | Capcom dispara: lucro sobe 69% no trimestre, puxado por Pragmata e Resident Evil | — |
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
