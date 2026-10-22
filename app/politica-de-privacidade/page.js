@@ -8,7 +8,7 @@ export default function PoliticaDePrivacidade() {
     <main className="mx-auto max-w-3xl px-4 py-10">
       <h1 className="logo-arcade text-3xl">Política de Privacidade</h1>
       <p className="mt-2 font-mono text-xs uppercase tracking-widest text-dim">
-        Última atualização: julho de 2026
+        Última atualização: outubro de 2026
       </p>
       <div className="mt-6 space-y-5 leading-relaxed">
         <p>
@@ -63,13 +63,32 @@ export default function PoliticaDePrivacidade() {
           </>
         )}
 
-        <h2 className="font-display text-lg text-arcade">5. Links externos</h2>
+        <h2 className="font-display text-lg text-arcade">5. Newsletter</h2>
+        <p>
+          Se você se inscrever na newsletter, coletamos o seu <strong>endereço de e-mail</strong> e a
+          página em que a inscrição foi feita. Enviamos uma mensagem para você confirmar o cadastro, e só
+          depois disso o endereço entra na lista. Usamos o e-mail apenas para enviar o resumo de notícias
+          do Acerto Games e comunicados do próprio site, e não vendemos nem cedemos a lista a terceiros.
+        </p>
+        <p>
+          O envio e o armazenamento da lista são feitos pelo <strong>Brevo</strong>, serviço de e-mail que
+          atua como nosso operador de dados e pode tratar as informações em servidores fora do Brasil. O
+          Brevo também registra aberturas e cliques nas mensagens, para medirmos o interesse pelo conteúdo.
+        </p>
+        <p>
+          Você pode cancelar a inscrição a qualquer momento, no link ao final de cada e-mail. Para
+          pedir acesso, correção ou exclusão dos dados que nos forneceu, escreva para{" "}
+          <strong>contato@acertogames.com.br</strong>. A base legal do tratamento é o seu consentimento, que
+          pode ser retirado quando quiser.
+        </p>
+
+        <h2 className="font-display text-lg text-arcade">6. Links externos</h2>
         <p>
           Algumas páginas do site podem apontar para endereços externos. Não nos responsabilizamos
           pelas práticas de privacidade de outros sites.
         </p>
 
-        <h2 className="font-display text-lg text-arcade">6. Alterações</h2>
+        <h2 className="font-display text-lg text-arcade">7. Alterações</h2>
         <p>
           Esta política pode ser atualizada a qualquer momento. A data da última
           atualização estará sempre indicada no topo desta página.

@@ -5,6 +5,7 @@ import { Cover, CategoryTag, Nota, NewsCard } from "../../../components/Cards";
 import TweetEmbed from "../../../components/TweetEmbed";
 import RedditEmbed from "../../../components/RedditEmbed";
 import ShareButtons from "../../../components/ShareButtons";
+import NewsletterBox from "../../../components/NewsletterBox";
 import QRCode from "../../../components/QRCode";
 import ArticleGallery from "../../../components/ArticleGallery";
 import { imgOtimizada, altDaLegenda } from "../../../lib/img";
@@ -356,6 +357,8 @@ export default function Noticia({ params }) {
             </p>
             <Link href="/autor/bruno-vazquez" className="mt-3 inline-block text-sm text-arcade underline">Ver perfil e matérias →</Link>
           </section>
+
+          <NewsletterBox origem="materia" />
 
           <ShareButtons slug={post.slug} titulo={post.title} />
           <QRCode url={urlCompleta} />
