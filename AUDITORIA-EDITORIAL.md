@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 669
-- Forte: 655
+- Total analisado: 673
+- Forte: 659
 - Revisar: 12
 - Prioridade: 2
 
@@ -63,9 +63,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1313 | 6 | 88 | Castlevania: Belmont’s Curse terá demo em 1º de outubro com progresso transferível | texto curto |
 | FORTE | notícia | 1329 | 5 | 88 | Take-Two manda recado sobre GTA 6: “Se você não assina Netflix, deveria” | texto curto |
 | FORTE | notícia | 1308 | 7 | 88 | GTA V sai do PS Plus Extra em 17 de novembro, dois dias antes de GTA VI | texto curto |
+| FORTE | notícia | 1317 | 7 | 88 | Clive Barker diz estar orgulhoso de Hellraiser: Revival e fala em novos projetos com a equipe | texto curto |
 | FORTE | notícia | 1305 | 5 | 88 | Kingdom Hearts 4 pode ganhar novas imagens já no mês que vem | texto curto |
 | FORTE | noticia | 1309 | 6 | 88 | Metroid Dread volta ao topo da eShop após anúncio de Metroid Ravenous | texto curto |
 | FORTE | notícia | 1302 | 7 | 88 | PS Plus libera hoje 4 jogos de setembro, incluindo Sniper Elite: Resistance e MLB The Show 26 | texto curto |
+| FORTE | notícia | 1322 | 7 | 88 | Série de Mass Effect da Amazon segue em desenvolvimento, apesar do fechamento da BioWare | texto curto |
 | FORTE | notícia | 1372 | 6 | 89 | Acornia: Mirror Worlds ganha trailer de gameplay com confeitaria e batalhas contra espíritos | texto curto |
 | FORTE | noticia | 1352 | 7 | 89 | Dream Club Zero R+ é anunciado para 2027 com três novas host girls | texto curto |
 | FORTE | notícia | 1342 | 7 | 89 | Fire Emblem: Fortune’s Weave entra no mês de lançamento como um dos grandes exclusivos do Switch 2 | texto curto |
@@ -129,6 +131,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1687 | 6 | 97 | GTA 6 está dentro do prazo do The Game Awards 2026, com um dia de folga | texto curto |
+| FORTE | notícia | 1697 | 8 | 97 | GTA 6 deve exigir o firmware 14.10 do PS5, e hacker mostra o menu de debug do sistema | texto curto |
 | FORTE | noticia | 1688 | 7 | 97 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto |
 | FORTE | notícia | 1663 | 7 | 97 | Modern Warfare 4 ganha pop-up na Avenida Paulista com Ghost e encontros com criadores | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
@@ -164,6 +167,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1764 | 7 | 99 | Rayman Legends Retold ganha trailer de seis minutos e detalha mundo inédito, poderes e Kung Foot Evo | texto curto |
 | FORTE | noticia | 1771 | 8 | 99 | Solo Leveling: KARMA mostra guerra de 27 anos e gameplay roguelite em novos trailers | texto curto |
 | FORTE | noticia | 1763 | 6 | 99 | Squadron 42 chega à lista de desejos da Steam e mira lançamento em 2027 | texto curto |
+| FORTE | notícia | 1770 | 9 | 99 | Steam Next Fest: sete demos para testar até segunda-feira, seis com português do Brasil | texto curto |
 | FORTE | notícia | 1746 | 5 | 99 | Super Mario Sunshine chega ao Nintendo Switch Online em 13 de agosto | texto curto |
 | FORTE | noticia | 1753 | 8 | 99 | The Duskbloods segue para 2026, mas data continua em segredo após falso vazamento de setembro | texto curto |
 | FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
@@ -203,7 +207,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2859 | 9 | 100 | Battlefield 6 inicia Temporada 5 com Vegas Strip, dois mapas e quatro novas armas | — |
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
 | FORTE | review | 7351 | 37 | 100 | BeamNG.drive no PS5 cobra paciência | — |
-| FORTE | notícia | 3575 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
+| FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
