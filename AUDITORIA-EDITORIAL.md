@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 680
-- Forte: 666
+- Total analisado: 681
+- Forte: 667
 - Revisar: 12
 - Prioridade: 2
 
@@ -130,6 +130,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1648 | 8 | 96 | Shrek 2 Remastered aparece na loja do Xbox antes do ID@Xbox Showcase | texto curto |
 | FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
+| FORTE | notícia | 1683 | 7 | 97 | Black Flag Resynced vai ganhar Novo Jogo+ na próxima semana, confirma a Ubisoft | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1687 | 6 | 97 | GTA 6 está dentro do prazo do The Game Awards 2026, com um dia de folga | texto curto |
 | FORTE | notícia | 1697 | 8 | 97 | GTA 6 deve exigir o firmware 14.10 do PS5, e hacker mostra o menu de debug do sistema | texto curto |
