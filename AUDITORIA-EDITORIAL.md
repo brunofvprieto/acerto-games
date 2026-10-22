@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 676
-- Forte: 662
+- Total analisado: 677
+- Forte: 663
 - Revisar: 12
 - Prioridade: 2
 
@@ -290,6 +290,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
+| FORTE | notícia | 2290 | 9 | 100 | Fatal Fury: City of the Wolves chega ao Switch 2 e recebe Mikey e Draken, de Tokyo Revengers | — |
 | FORTE | notícia | 1999 | 5 | 100 | Final Fantasy XIV revela arte oficial do Kefka Imaginário, o chefe final da nova fase Extrema | — |
 | FORTE | notícia | 2369 | 5 | 100 | Filme de Call of Duty tem data confirmada — e vai se passar no universo Modern Warfare | — |
 | FORTE | artigo | 7973 | 21 | 100 | O fim das engines próprias? Halo entregou os pontos — e a conta chegou pra todo mundo | — |
