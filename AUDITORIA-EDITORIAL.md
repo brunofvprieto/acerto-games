@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 674
-- Forte: 660
+- Total analisado: 675
+- Forte: 661
 - Revisar: 12
 - Prioridade: 2
 
@@ -610,6 +610,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
+| FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
 | FORTE | notícia | 2417 | 10 | 100 | Em The Blood of Dawnwalker, o herói é frágil de dia de propósito: "não queríamos um protagonista superpoderoso" | — |
 | FORTE | notícia | 1896 | 5 | 100 | The Blood of Dawnwalker mostra missão completa com pixie obcecada por dentes — e a magia de Coen em ação | — |
 | FORTE | noticia | 4827 | 20 | 100 | The Crew Motorfest: Showcase 2026 revela Ano 4, nova ilha, Tomb Raider e chegada ao Switch 2 | — |
