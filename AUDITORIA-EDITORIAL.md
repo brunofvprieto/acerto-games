@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 660
-- Forte: 646
+- Total analisado: 662
+- Forte: 648
 - Revisar: 12
 - Prioridade: 2
 
@@ -504,6 +504,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Opinião | 5597 | 17 | 100 | Phantom Blade Zero: por que meu hype está nas alturas | — |
 | FORTE | notícia | 5211 | 14 | 100 | Phantom Blade Zero impressiona nas primeiras prévias, mas ainda deixa dúvidas sobre o desempenho | — |
 | FORTE | Artigos | 3408 | 13 | 100 | Quem é Soul? Entenda a história de Phantom Blade Zero e por que ele tem apenas 66 dias | — |
+| FORTE | notícia | 2489 | 12 | 100 | Phantom Blade Zero ganha trailer de lançamento, e edição física no PS5 fica para 2027 | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
 | FORTE | noticia | 2689 | 12 | 100 | Kojima revela protagonista de PHYSINT no Tokyo Game Show 2026: Bill Skarsgård assume papel principal | — |
 | FORTE | notícia | 6398 | 23 | 100 | E a Decima Engine? A ida de PHYSINT para o Xbox abre uma das maiores perguntas sobre o futuro do projeto | — |
@@ -561,6 +562,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
+| FORTE | notícia | 1977 | 10 | 100 | Serious Sam: The Third Encounter é anunciado e continua a história de The Second Encounter | — |
 | FORTE | noticia | 2137 | 10 | 100 | Signal Veil mistura survival horror, trauma psicológico e anime dos anos 90 | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
