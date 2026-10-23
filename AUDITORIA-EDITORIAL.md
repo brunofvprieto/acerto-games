@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 681
-- Forte: 667
+- Total analisado: 682
+- Forte: 668
 - Revisar: 12
 - Prioridade: 2
 
@@ -308,6 +308,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2293 | 10 | 100 | Sora chega a Fortnite nesta semana e crossover de Kingdom Hearts terá Riku, Kairi e Roxas | — |
 | FORTE | noticia | 2760 | 7 | 100 | Forza Horizon 6 chega ao PS5 em janeiro de 2027 com 60 FPS, cross-save e primeira expansão | — |
 | FORTE | notícia | 2972 | 12 | 100 | FSR 4.1 chega ao Xbox Series X|S, e o Project Helix vai usar o FSR Diamond | — |
+| FORTE | notícia | 2021 | 9 | 100 | Nintendo Classics recebe Avenging Spirit, Mole Mania e Revenge of the 'Gator no Game Boy em 27 de outubro | — |
 | FORTE | noticia | 2578 | 12 | 100 | Game Freak anuncia Ame no Chi Hare Onna, novo jogo que transforma a previsão do tempo em mecânica | — |
 | FORTE | notícia | 2252 | 6 | 100 | War for Westeros escorrega no gelo e vai para 2027 | — |
 | FORTE | notícia | 2197 | 13 | 100 | Game Pass recebe Final Fantasy VII Remake, Plants vs. Zombies: Replanted e Mouthwashing até 3 de novembro | — |
