@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 698
-- Forte: 684
+- Total analisado: 699
+- Forte: 685
 - Revisar: 12
 - Prioridade: 2
 
@@ -215,6 +215,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
+| FORTE | notícia | 2681 | 10 | 100 | Boato: Rockstar teria oferecido ao Daft Punk uma volta com orçamento ilimitado para GTA 6 | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
 | FORTE | notícia | 3071 | 14 | 100 | Breathedge 2 chega ao Acesso Antecipado com construção, exploração espacial e uma galinha imortal | — |
 | FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
