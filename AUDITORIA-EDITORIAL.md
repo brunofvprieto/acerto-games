@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 682
-- Forte: 668
+- Total analisado: 683
+- Forte: 669
 - Revisar: 12
 - Prioridade: 2
 
@@ -655,6 +655,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
 | FORTE | noticia | 4648 | 15 | 100 | Sony tenta justificar saída de PHYSINT após romper com Kojima? | — |
+| FORTE | artigo | 3355 | 14 | 100 | Jogamos Wonderia: exploração que lembra Terraria e um Modo Criativo que tira o peso da sobrevivência | — |
 | FORTE | notícia | 2709 | 10 | 100 | Wonderia ganha Modo Criativo, com Modo Deus, plantas reutilizáveis e opção de pausar o mundo | — |
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
