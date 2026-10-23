@@ -43,7 +43,9 @@ if (!posts.length) {
 }
 
 // Destaque: review, especial ou análise recente sobe; depois vale a ordem de publicação.
-const peso = (p) => (/^(review|especial)/i.test(p.category || "") ? 1 : 0);
+// Boato e rumor nunca abrem o resumo: descem para o fim da lista.
+const peso = (p) =>
+  /boato|rumor|supostamente|estaria/i.test(p.title || "") ? -1 : /^(review|especial)/i.test(p.category || "") ? 1 : 0;
 const lista = [...posts].sort((a, b) => peso(b) - peso(a) || b.ts - a.ts).slice(0, maximo);
 const [destaque, ...demais] = lista;
 
