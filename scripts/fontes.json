@@ -111,6 +111,38 @@
       "url": "https://news.xbox.com/pt-br/feed/",
       "imagensLiberadas": true,
       "credito": "Divulgação"
+    },
+    {
+      "nome": "Gematsu",
+      "pais": "EUA",
+      "idioma": "inglês",
+      "url": "https://www.gematsu.com/feed",
+      "imagensLiberadas": false,
+      "credito": "Divulgação"
+    },
+    {
+      "nome": "Gaming Trend",
+      "pais": "EUA",
+      "idioma": "inglês",
+      "url": "https://gamingtrend.com/feed/",
+      "imagensLiberadas": false,
+      "credito": "Divulgação"
+    },
+    {
+      "nome": "Windows Central Games",
+      "pais": "EUA",
+      "idioma": "inglês",
+      "url": "https://www.windowscentral.com/feeds/tag/gaming",
+      "imagensLiberadas": false,
+      "credito": "Divulgação"
+    },
+    {
+      "nome": "Digital Chumps",
+      "pais": "EUA",
+      "idioma": "inglês",
+      "url": "https://digitalchumps.com/feed/",
+      "imagensLiberadas": false,
+      "credito": "Divulgação"
     }
   ],
   "maxMateriasPorRodada": 3,
