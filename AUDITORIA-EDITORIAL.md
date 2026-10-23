@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 691
-- Forte: 677
+- Total analisado: 695
+- Forte: 681
 - Revisar: 12
 - Prioridade: 2
 
@@ -235,6 +235,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2134 | 5 | 100 | Criador de Gears of War quer voltar a fazer jogos — mas esquece o PvP: "Boa sorte pra quem entrar nessa" | — |
 | FORTE | notícia | 1941 | 10 | 100 | C.L.T., o "GTA clássico" brasileiro, chega ao acesso antecipado no PC | — |
 | FORTE | artigo | 6600 | 24 | 100 | C.L.T. resgata a liberdade dos primeiros GTA e já diverte no acesso antecipado | — |
+| FORTE | notícia | 2812 | 12 | 100 | CODE EXIT lança a Demo 2.0, com uma IA que aprende seus esconderijos e um robô para quem morre | — |
 | FORTE | notícia | 3603 | 6 | 100 | O Senhor dos Anéis influenciou Final Fantasy X — e a gente acabou de descobrir como | — |
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
@@ -330,6 +331,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2056 | 9 | 100 | Gears of War: E-Day está pronto: jogo entra em fase gold e ganha data de pré-instalação | — |
 | FORTE | noticia | 2910 | 9 | 100 | Gears of War: E-Day dobra recorde de Gears 5 no Steam antes do lançamento geral | — |
 | FORTE | notícia | 3143 | 9 | 100 | GeForce NOW libera os controles do DLSS 4.5 e recebe Enshrouded 1.0 e Boltgun 2 | — |
+| FORTE | notícia | 2901 | 12 | 100 | Genshin Impact 7.2, Hour of Ruin, chega em 4 de novembro com Mitya, Valeriy e a cidade subterrânea de Novokitezhgrad | — |
 | FORTE | noticia | 3437 | 10 | 100 | Jin Sakai está de volta em Ghost of Yōtei e divide espaço com a geração de Atsu | — |
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
 | FORTE | artigo | 9123 | 36 | 100 | Glossário do jogador: DLSS, FSR, ray tracing, Nanite e todo o resto do palavrório técnico, explicado | — |
@@ -544,6 +546,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 10180 | 29 | 100 | Por que Assassin’s Creed II é uma obra-prima e como Ezio transformou a Ubisoft | — |
 | FORTE | artigo | 6982 | 17 | 100 | Por que a gente sempre volta a jogar os games que já zerou mil vezes? | — |
 | FORTE | notícia | 7768 | 30 | 100 | Por que a Sony abandonou PHYSINT? Bastidores apontam atrasos, orçamento e retorno abaixo do esperado | — |
+| FORTE | notícia | 2841 | 12 | 100 | Potion-making: Path of the Alchemist chega em 10 de novembro com seis mapas e peões personalizáveis | — |
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
@@ -571,6 +574,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
 | FORTE | noticia | 2148 | 9 | 100 | The Rogue Prince of Persia ganha enorme atualização de aniversário com gelo, novos modos e armas | — |
+| FORTE | notícia | 2806 | 11 | 100 | Romancing SaGa 2: Revenge of the Seven passa de 1 milhão de cópias, a primeira marca do tipo da série desde 1997 | — |
 | FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
