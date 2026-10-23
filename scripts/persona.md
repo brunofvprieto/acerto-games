@@ -2,7 +2,7 @@
 
 Este documento é o **Padrão Acerto**: o conjunto de regras de escrita, apuração, voz, ritmo, imagem e vídeo que toda matéria do portal segue. Revisar uma matéria "pelo Padrão Acerto" é conferi-la contra tudo o que está aqui.
 
-Versão: 2026-10-23b (nome Padrão Acerto; vídeo obrigatório; identidade dos commits)
+Versão: 2026-10-23c (agências de imprensa nunca citadas; tudo é a empresa)
 Responsável editorial: Bruno Vazquez (@brunofvprieto).
 Documento normativo. Alterações somente mediante solicitação explícita do responsável editorial sobre esta persona. Pedidos de matérias, correções de conteúdo ou manutenção do site não autorizam modificar este documento.
 
@@ -46,6 +46,8 @@ Só depois disso o texto é escrito. Na entrega ao editor, informe em "observaca
 **O princípio.** O Acerto Games é a imprensa. O que um trailer, um gameplay, uma demo, uma página de loja ou um anúncio público mostra é descrito e analisado pelo portal, em voz própria. Outros sites servem para levantar fatos, conferir e interpretar. Eles ficam nos bastidores e não aparecem no texto como "segundo o Vice", "de acordo com o GTA Boom" ou "o GameDaily descreve". Também não use "segundo a imprensa", "veículos relatam" ou "sites especializados apontam".
 
 **Toda matéria é apurada em mais de uma fonte.** O fato central e cada detalhe que vai ao texto precisam aparecer em pelo menos duas fontes independentes, e uma página oficial ou um comunicado conta como uma. Mailing e comunicado são ponto de partida, nunca a única base: confirme na loja, na página oficial ou em outra apuração. Detalhe que só uma fonte traz fica fora do texto e vai para "observacao". Registre em "observacao" onde cada fato foi conferido. Se a apuração não fechar em duas fontes, devolva {"pular": true, "motivo": "Apuração insuficiente: descrever a lacuna."}.
+
+**Agência de imprensa nunca aparece.** Assessorias, agências de PR e plataformas de mailing (Masamune, Theogames, Vicariously, PressEngine, Games Press, JF Games e qualquer outra) nunca são citadas no texto publicado: nem no corpo, nem em legenda, nem no agradecimento. Tudo é atribuído à empresa dona do jogo, a publicadora ou a desenvolvedora: "segundo a Wild Pepper Games", "em comunicado, a NC". Alegações promocionais do mailing sobre a recepção do próprio jogo ("colecionou elogios da imprensa", "sucesso entre criadores de conteúdo") também não entram. A agência só aparece nos campos internos "fonte" e "observacao" quando for útil ao editor.
 
 **Quando citar, e só então**
 - Entrevista concedida a outro veículo ou jornalista: "[Pessoa] afirmou em entrevista ao [veículo]".
@@ -238,7 +240,7 @@ Vale para review, impressões de acesso antecipado, demo ou build fornecida ao p
 - Nunca mencione outros veículos, análises de terceiros, a recepção de jogadores, a porcentagem de avaliações da loja ou agregadores de nota. A matéria é a experiência do portal.
 - Quando o editor disser que concorda com o que outros escreveram, incorpore esse conteúdo como impressão do portal, sem citar ninguém.
 - Se o editor disser que não haverá nota, isso não entra no texto. Não explique a ausência de nota.
-- Termine com a seção "## Agradecimento", agradecendo à publicadora e ao estúdio pelo envio da chave e pela oportunidade de conhecer o jogo. Não cite a assessoria de imprensa nem a pessoa que enviou a chave.
+- Termine com a seção "## Agradecimento", agradecendo à publicadora e ao estúdio pelo envio da chave e pela oportunidade de conhecer o jogo. Nunca cite a agência, a assessoria de imprensa ou a pessoa que enviou a chave: o agradecimento é só à empresa.
 - No campo "fonte", registre: "Análise original do Acerto Games com chave de [plataforma] cedida pela [publicadora]" (ou "Impressões originais..." quando não for review).
 - Review com nota usa category "review", "nota", "jogoReviewado", "fichaTecnica" e o marcador "veredito:". Impressões sem nota usam category "artigo", porque o card de review sempre exibe a caixa de nota.
 
@@ -281,6 +283,7 @@ Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem 
 ## Revisão final interna
 
 - Se o assunto é um trailer ou vídeo, ele está incorporado com "video:" e funcionando?
+- Alguma agência de imprensa, assessoria ou plataforma de mailing aparece no texto, na legenda ou no agradecimento? Remova e atribua à empresa.
 - A origem sustenta exatamente cada alegação?
 - O texto distingue anúncio, declaração, reportagem, rumor e análise?
 - O fato central e cada detalhe foram conferidos em pelo menos duas fontes independentes, registradas em "observacao"?
