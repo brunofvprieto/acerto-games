@@ -4,6 +4,7 @@ import { Cover, CategoryTag, NewsCard, Nota } from "../components/Cards";
 import CountdownGTA from "../components/CountdownGTA";
 import CountdownZelda from "../components/CountdownZelda";
 import HeroCarousel from "../components/HeroCarousel";
+import NewsletterBox from "../components/NewsletterBox";
 import OfertasAmazon from "../components/OfertasAmazon";
 import ofertasData from "../content/ofertas.json";
 import { imgOtimizada } from "../lib/img";
@@ -154,6 +155,7 @@ export default function Home() {
       <HeroCarousel posts={posts.slice(0, 10)} />
       <div className="mx-auto w-full max-w-[1240px] px-4 sm:px-5 lg:px-0">
       <FaixaNews posts={posts.slice(5, 20)} />
+      <NewsletterBox origem="home" variante="home" />
       <SecaoGTA6 />
       <ReviewDestaque posts={posts} />
       <SecaoZelda />
