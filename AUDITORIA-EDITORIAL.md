@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 690
-- Forte: 676
+- Total analisado: 691
+- Forte: 677
 - Revisar: 12
 - Prioridade: 2
 
@@ -504,6 +504,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 4950 | 24 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
+| FORTE | notícia | 2819 | 11 | 100 | Obscurium, roguelike de cartas com o folclore brasileiro, ganha demo gratuita no Steam | — |
 | FORTE | notícia | 5436 | 28 | 100 | OD - Knock: tudo o que já sabemos do terror de Hideo Kojima, e o novo vídeo no set de captura | — |
 | FORTE | notícia | 2191 | 8 | 100 | Onimusha: Way of the Sword ganha gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 7492 | 23 | 100 | Onimusha está de volta — e a Capcom parece ter entendido o peso de ressuscitar uma série após 20 anos | — |
