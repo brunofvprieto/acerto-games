@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 695
-- Forte: 681
+- Total analisado: 694
+- Forte: 680
 - Revisar: 12
 - Prioridade: 2
 
@@ -210,7 +210,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2618 | 10 | 100 | Battlefield 6 leva guerra a Las Vegas e Área 51 no trailer da Temporada 5 | — |
 | FORTE | notícia | 2859 | 9 | 100 | Battlefield 6 inicia Temporada 5 com Vegas Strip, dois mapas e quatro novas armas | — |
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
-| FORTE | review | 7351 | 37 | 100 | BeamNG.drive no PS5 cobra paciência | — |
+| FORTE | review | 7335 | 37 | 100 | BeamNG.drive no PS5 cobra paciência | — |
 | FORTE | notícia | 2063 | 8 | 100 | Beyond the Dark: Nightwatch chega ao Switch 2 com campeonato que premia a melhor dupla com viagem à Escócia | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
@@ -506,7 +506,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 4950 | 24 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
-| FORTE | notícia | 2819 | 11 | 100 | Obscurium, roguelike de cartas com o folclore brasileiro, ganha demo gratuita no Steam | — |
+| FORTE | notícia | 2705 | 11 | 100 | Obscurium, roguelike de cartas com o folclore brasileiro, ganha demo gratuita no Steam | — |
 | FORTE | notícia | 5436 | 28 | 100 | OD - Knock: tudo o que já sabemos do terror de Hideo Kojima, e o novo vídeo no set de captura | — |
 | FORTE | notícia | 2191 | 8 | 100 | Onimusha: Way of the Sword ganha gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 7492 | 23 | 100 | Onimusha está de volta — e a Capcom parece ter entendido o peso de ressuscitar uma série após 20 anos | — |
@@ -546,7 +546,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 10180 | 29 | 100 | Por que Assassin’s Creed II é uma obra-prima e como Ezio transformou a Ubisoft | — |
 | FORTE | artigo | 6982 | 17 | 100 | Por que a gente sempre volta a jogar os games que já zerou mil vezes? | — |
 | FORTE | notícia | 7768 | 30 | 100 | Por que a Sony abandonou PHYSINT? Bastidores apontam atrasos, orçamento e retorno abaixo do esperado | — |
-| FORTE | notícia | 2841 | 12 | 100 | Potion-making: Path of the Alchemist chega em 10 de novembro com seis mapas e peões personalizáveis | — |
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
