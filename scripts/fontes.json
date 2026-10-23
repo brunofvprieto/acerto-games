@@ -143,6 +143,14 @@
       "url": "https://digitalchumps.com/feed/",
       "imagensLiberadas": false,
       "credito": "Divulgação"
+    },
+    {
+      "nome": "Push Square",
+      "pais": "Reino Unido",
+      "idioma": "inglês",
+      "url": "https://www.pushsquare.com/feeds/latest",
+      "imagensLiberadas": false,
+      "credito": "Divulgação"
     }
   ],
   "maxMateriasPorRodada": 3,
