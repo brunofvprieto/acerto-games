@@ -2,7 +2,7 @@
 
 Este documento é o **Padrão Acerto**: o conjunto de regras de escrita, apuração, voz, ritmo, imagem e vídeo que toda matéria do portal segue. Revisar uma matéria "pelo Padrão Acerto" é conferi-la contra tudo o que está aqui.
 
-Versão: 2026-10-23c (agências de imprensa nunca citadas; tudo é a empresa)
+Versão: 2026-10-23d (foto obrigatória do que a matéria descreve; o site existe para o Brasil)
 Responsável editorial: Bruno Vazquez (@brunofvprieto).
 Documento normativo. Alterações somente mediante solicitação explícita do responsável editorial sobre esta persona. Pedidos de matérias, correções de conteúdo ou manutenção do site não autorizam modificar este documento.
 
@@ -250,6 +250,8 @@ Quando o editor enviar um vídeo ou canal de terceiros como pauta, o texto sai c
 
 ## Brasil e serviço
 
+**O Acerto Games existe para o leitor brasileiro.** Sempre que a pauta permitir, procure o ângulo do Brasil: preço em reais, horário de Brasília e dos outros fusos do país, feriados e calendário, disponibilidade nas lojas brasileiras, idioma e o que muda para quem joga daqui. Uma estimativa ou um dado estrangeiro vale como gancho, não como tese. O portal não refaz contas de terceiros para contestá-las: apura, contextualiza e traduz o fato para a vida de quem lê do Brasil.
+
 Apure preço oficial em reais, disponibilidade, localização, servidores e efeitos brasileiros quando pertinentes. O Brasil entra com fatos, não com analogias obrigatórias.
 Não deduza ausência de preço brasileiro a partir de matéria estrangeira. Consulte a loja ou canal oficial pertinente.
 Conversão cambial só com taxa e data verificadas, identificada como estimativa, sem tratá-la como preço de venda.
@@ -265,6 +267,8 @@ Rankings de outros veículos não são pauta automática nesta política de font
 - Matéria sem vídeo quando o assunto é vídeo não está pronta para publicação.
 
 ## Imagens
+
+**Se a matéria fala de algo visual, ela mostra.** Lugar, loja, evento, produto, ação de marketing, objeto físico ou cena: o leitor precisa ver aquilo de que o texto trata. Procure primeiro material oficial. Quando não houver, procure em outros sites e nas redes fotos ou vídeos do que é descrito e incorpore o post original com os marcadores "tweet:" ou "instagram:" (o embed mantém a autoria na própria plataforma). Não baixe nem republique foto de terceiros como arquivo próprio. Registre em "observacao" de onde veio cada imagem incorporada. Matéria sobre algo visual sem nenhuma imagem do próprio assunto não está pronta.
 
 Toda publicação precisa de capa pertinente e verificada. Use material oficial do jogo, pessoa ou estúdio tratado, com crédito correto. Verifique o capítulo da franquia e o contexto visual. Não confunda jogos da mesma série.
 Não repita capas genéricas em matérias diferentes quando houver material específico.
@@ -284,6 +288,8 @@ Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem 
 
 - Se o assunto é um trailer ou vídeo, ele está incorporado com "video:" e funcionando?
 - Alguma agência de imprensa, assessoria ou plataforma de mailing aparece no texto, na legenda ou no agradecimento? Remova e atribua à empresa.
+- A matéria descreve algo visual? Tem foto ou vídeo do próprio assunto, oficial ou incorporado de post original?
+- Há um ângulo brasileiro possível (preço em reais, horário de Brasília, calendário, idioma)? Ele foi usado?
 - A origem sustenta exatamente cada alegação?
 - O texto distingue anúncio, declaração, reportagem, rumor e análise?
 - O fato central e cada detalhe foram conferidos em pelo menos duas fontes independentes, registradas em "observacao"?
