@@ -82,8 +82,8 @@ const linhas = demais
 
 // Canais parceiros: avatar redondo, nome e link para o canal.
 const CANAIS = [
-  { nome: "ColvaraDX", desc: "Games clássicos e Nintendo, com olhar brasileiro", url: "https://www.youtube.com/@ColvaraDX", foto: "/img/canais/colvaradx.jpg" },
-  { nome: "NormalDan", desc: "Switch, Nintendo e o dia a dia de quem joga", url: "https://www.youtube.com/@normaldan_yt", foto: "/img/canais/normaldan.jpg" },
+  { nome: "ColvaraDX", desc: "Games clássicos e Nintendo", url: "https://www.youtube.com/@ColvaraDX", foto: "/img/canais/colvaradx.jpg" },
+  { nome: "NormalDan", desc: "Switch e Nintendo no dia a dia", url: "https://www.youtube.com/@normaldan_yt", foto: "/img/canais/normaldan.jpg" },
 ];
 const celulaCanal = (c) => `
       <td width="50%" valign="top" style="padding:0 6px;">
