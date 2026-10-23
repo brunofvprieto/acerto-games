@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 683
-- Forte: 669
+- Total analisado: 688
+- Forte: 674
 - Revisar: 12
 - Prioridade: 2
 
@@ -228,6 +228,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
+| FORTE | notícia | 3092 | 12 | 100 | Wolverine lidera setembro nos EUA, PS5 sobe 22% e Xbox tem o pior setembro da sua história | — |
 | FORTE | Notícias | 2497 | 10 | 100 | Civilization VII vai à Era Atômica com Arc of Tomorrow e anuncia expansão Earthrise | — |
 | FORTE | noticia | 2998 | 10 | 100 | Clair Obscur: Expedition 33 deixa o Game Pass em 15 de outubro | — |
 | FORTE | notícia | 2134 | 5 | 100 | Criador de Gears of War quer voltar a fazer jogos — mas esquece o PvP: "Boa sorte pra quem entrar nessa" | — |
@@ -295,6 +296,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
 | FORTE | notícia | 2290 | 9 | 100 | Fatal Fury: City of the Wolves chega ao Switch 2 e recebe Mikey e Draken, de Tokyo Revengers | — |
+| FORTE | notícia | 2755 | 10 | 100 | Fatekeeper passa de 500 mil cópias vendidas ainda em acesso antecipado | — |
 | FORTE | notícia | 1999 | 5 | 100 | Final Fantasy XIV revela arte oficial do Kefka Imaginário, o chefe final da nova fase Extrema | — |
 | FORTE | notícia | 2369 | 5 | 100 | Filme de Call of Duty tem data confirmada — e vai se passar no universo Modern Warfare | — |
 | FORTE | artigo | 7973 | 21 | 100 | O fim das engines próprias? Halo entregou os pontos — e a conta chegou pra todo mundo | — |
@@ -432,6 +434,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3277 | 12 | 100 | Marvel's Wolverine chega hoje ao PS5 e Insomniac explica como transformou Logan em algo muito diferente de Spider-Man | — |
 | FORTE | notícia | 2276 | 5 | 100 | Marvel's Wolverine terá cenas com Logan sem roupa, revela classificação da ESRB | — |
 | FORTE | notícia | 1928 | 5 | 100 | Marvel's Wolverine solta trailer brutal, revela Lady Letal e crava lançamento pra setembro | — |
+| FORTE | notícia | 2852 | 11 | 100 | Vaza o trailer de Mass Effect: Universe, o jogo que a EA cancelou ao fechar a BioWare | — |
 | FORTE | notícia | 2633 | 5 | 100 | Matt Damon finalmente chegou ao Fortnite — mas sua estreia nos games quase aconteceu anos atrás, graças a Jason Bourne | — |
 | FORTE | notícia | 2743 | 5 | 100 | Matt Damon chegou ao Fortnite — mas quase tinha entrado nos games bem antes, como Jason Bourne | — |
 | FORTE | notícia | 2366 | 6 | 100 | Clones de Meccha Chameleon no Roblox têm mais jogadores que o jogo original no Steam — e isso diz muito sobre a plataforma | — |
@@ -654,6 +657,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
+| FORTE | notícia | 3369 | 12 | 100 | Wo Long 2 muda Insight Skills, Espírito e magias depois da Alpha Demo, mas mexe pouco na Moral | — |
 | FORTE | noticia | 4648 | 15 | 100 | Sony tenta justificar saída de PHYSINT após romper com Kojima? | — |
 | FORTE | artigo | 3490 | 15 | 100 | Wonderia lembra Terraria na exploração e ganha força com um Modo Criativo sem a pressão da sobrevivência | — |
 | FORTE | notícia | 2709 | 10 | 100 | Wonderia ganha Modo Criativo, com Modo Deus, plantas reutilizáveis e opção de pausar o mundo | — |
@@ -675,6 +679,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2792 | 12 | 100 | Xbox e Kojima vão além dos games: parceria prevê projetos para cinema e televisão | — |
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
 | FORTE | notícia | 3693 | 12 | 100 | Xbox oficializa Mythic Achievements, sua resposta à Platina do PlayStation | — |
+| FORTE | notícia | 2731 | 10 | 100 | Xbox vai exigir quatro dias de escritório a partir de fevereiro, no meio das demissões | — |
 | FORTE | notícia | 2530 | 5 | 100 | Xbox Series X chega perto dos US$ 900 na Europa após aumento de até 40% — e o Brasil já sentiu o baque | — |
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
