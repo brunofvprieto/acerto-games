@@ -1,0 +1,40 @@
+{
+  "slug": "aion-2-12-mil-anos-de-jogo-108-milhoes-de-horas-infografico-nc",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "23 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-23T11:40:00-03:00",
+  "title": "AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado",
+  "excerpt": "Infográfico da NC soma 108,2 milhões de horas, 6,3 milhões de personagens e 26,4 milhões de eliminações em PvP. Os dados cobrem de 30 de setembro a 20 de outubro, com o Gladiador como classe favorita.",
+  "cover": [
+    "#5b3fa0",
+    "#0d1030"
+  ],
+  "image": "/img/aion-2-infografico-108-milhoes-horas-6-milhoes-personagens.jpg",
+  "imageFilename": "aion-2-infografico-108-milhoes-horas-6-milhoes-personagens.jpg",
+  "imageAlt": "Infográfico de AION 2 com 6,3 milhões de personagens criados, 108,2 milhões de horas jogadas, 35,6 milhões de horas assistidas na Twitch e as classes mais populares",
+  "imageCredit": "AION 2. Divulgação/NC",
+  "fonte": "Comunicado da NC enviado pela Theogames e infográfico oficial",
+  "fonteUrl": "https://store.steampowered.com/app/3393110/AION_2/",
+  "body": [
+    "Os jogadores de AION 2 já somam 108,2 milhões de horas em Atreia, o equivalente a mais de 12 mil anos de jogo. O número saiu nesta sexta-feira (23) num infográfico da NC, que fez o balanço das primeiras semanas do MMORPG.",
+    "O mesmo levantamento traz 6,3 milhões de personagens criados, 53,2 milhões de instâncias concluídas e 26,4 milhões de eliminações em PvP. Na Twitch, o jogo acumula 35,6 milhões de horas assistidas.",
+    "## A conta começa no acesso antecipado",
+    "O comunicado fala nos primeiros 18 dias após o lançamento global, mas o rodapé do infográfico diz outra coisa. Os dados foram coletados entre 30 de setembro e 20 de outubro. Ou seja, a conta inclui os cinco dias de acesso antecipado pago, liberado a quem comprou o Founder's Pack, antes da estreia gratuita em 5 de outubro.",
+    "O detalhe não diminui o resultado, mas muda a leitura. São três semanas de jogo, e a primeira foi restrita a um público disposto a pagar para entrar antes. Ainda assim, a média dá mais de 5 milhões de horas por dia no período.",
+    "Outra conta ajuda a dimensionar o volume. Dividindo as horas pelo total de personagens, dá cerca de 17 horas por personagem criado. Como muita gente cria mais de um, o tempo por jogador tende a ser maior. Na Twitch, as 35,6 milhões de horas assistidas equivalem a um terço de tudo o que foi jogado.",
+    "img: /img/aion-2-infografico-108-milhoes-horas-6-milhoes-personagens.jpg | O infográfico da NC com os números de AION 2 entre 30 de setembro e 20 de outubro. Divulgação/NC.",
+    "## Quem joga e o que joga",
+    "A classe mais escolhida é o Gladiador, com 17% dos personagens. Logo atrás aparecem Chanter e Feiticeiro, empatados com 13% cada. Gladiador na frente não surpreende. É a porta de entrada clássica da série, com combate corpo a corpo direto e sem a exigência de posicionamento das classes de suporte.",
+    "Nas atividades em grupo, a NC contabiliza 21,1 milhões de incursões em dungeons. A instância mais concluída é o Canyon de Urugugu, com quase quatro milhões de conclusões na dificuldade Normal. As 26,4 milhões de eliminações em PvP mostram que a guerra entre Elyos e Asmodianos, o coração da série desde o primeiro AION, segue movimentada.",
+    "## Um MMORPG coreano que vingou no Ocidente",
+    "Os números reforçam uma estreia acima do esperado. Na semana de lançamento, AION 2 passou de 400 mil jogadores simultâneos, segundo a NC. Só no Steam, o pico foi de 397.905 jogadores em 5 de outubro, contra 171.530 no acesso antecipado.",
+    "Para a NC, o resultado tem peso próprio. A empresa tratou AION 2 como lançamento global desde o início. A estreia foi simultânea no Steam e na PURPLE, a plataforma da casa, com jogadores das duas lojas nos mesmos servidores. A NC também cita a Twitch: segundo a empresa, o jogo foi o quarto mais assistido da plataforma entre 5 e 12 de outubro.",
+    "O desafio agora é outro. MMORPG vive de retenção, e o primeiro mês costuma ser o pico. O próximo balanço deve dizer se AION 2 virou hábito ou se foi uma grande festa de lançamento.",
+    "video: https://www.youtube.com/watch?v=WTlzCHX80wk",
+    "## Serviço",
+    "AION 2 é gratuito para jogar no PC, pelo Steam e pela PURPLE. O jogo tem interface e legendas em português do Brasil."
+  ],
+  "observacao": "Pauta: e-mail da Theogames (Tayná Garcia, 23/10, 13h30 UTC), comunicado da NC em português + infográfico oficial (1920x1080, mailchimp) + vídeo oficial de bastidores (canal AION 2 Official, WTlzCHX80wk, embed liberado). Também no digest da Games Press de 23/10. CONFLITOS: (1) o comunicado diz 'primeiros 18 dias após o lançamento global', mas o rodapé do infográfico diz 'Data Collected from September 30 to October 20' (21 dias, com o acesso antecipado do Founder's Pack desde 30/9): o texto usa o infográfico e aponta a diferença. (2) o comunicado em português lista 'Gladiador, Clérigo e Feiticeiro', mas o infográfico diz Gladiator 17%, Chanter 13%, Sorcerer 13%: o texto segue o infográfico (Chanter mantido no original, tradução oficial em PT-BR não confirmada). 400 mil simultâneos: comunicado da NC; pico só no Steam de 397.905 em 5/10 e 171.530 no acesso antecipado: Inven Global (dados do SteamDB). Acesso antecipado de cinco dias para quem comprou o Founder's Pack e passagem para gratuito em 5/10: Inven Global; gratuito confirmado na API do Steam (is_free). Twitch 4º mais assistido de 5 a 12/10: comunicado (atribuído à NC; o comunicado cita 'Steam Charts' com link do SteamDB). 17 horas por personagem (108,2/6,3) e Twitch como um terço das horas jogadas (35,6/108,2): cálculos do portal. Média de 5 milhões de horas por dia: 108,2 mi / 21 dias = 5,15 mi (cálculo do portal). 12 mil anos: 108,2 mi / 8.760 h = 12.352 anos. Leitura sobre Gladiador como porta de entrada, retenção de MMORPG: análise do portal. Fora por fonte única: comparação com o pico de Throne and Liberty no Steam (336.300, Inven). Idiomas e plataforma: API do Steam (português do Brasil, só Windows). Chave/oferta: não houve."
+}
