@@ -80,6 +80,27 @@ const linhas = demais
   )
   .join("");
 
+// Canais parceiros: avatar redondo, nome e link para o canal.
+const CANAIS = [
+  { nome: "ColvaraDX", desc: "Games clássicos e Nintendo, com olhar brasileiro", url: "https://www.youtube.com/@ColvaraDX", foto: "/img/canais/colvaradx.jpg" },
+  { nome: "NormalDan", desc: "Switch, Nintendo e o dia a dia de quem joga", url: "https://www.youtube.com/@normaldan_yt", foto: "/img/canais/normaldan.jpg" },
+];
+const celulaCanal = (c) => `
+      <td width="50%" valign="top" style="padding:0 6px;">
+        <a href="${c.url}" style="display:block;text-decoration:none;color:${C.texto};background:${C.fundo};border:1px solid ${C.borda};padding:16px 10px;text-align:center;">
+          <img src="${BASE}${c.foto}" width="72" height="72" alt="${esc(c.nome)}" style="display:block;margin:0 auto 10px auto;width:72px;height:72px;border-radius:50%;border:2px solid ${C.verde};">
+          <span style="display:block;font:700 15px ${FONTE};color:${C.texto};">${esc(c.nome)}</span>
+          <span style="display:block;margin:4px 0 10px 0;font:400 12px/1.4 ${FONTE};color:${C.suave};">${esc(c.desc)}</span>
+          <span style="display:inline-block;font:700 11px ${FONTE};letter-spacing:1px;text-transform:uppercase;color:${C.verde};">Ver canal &rarr;</span>
+        </a>
+      </td>`;
+const blocoCanais = `
+<tr><td style="padding:20px 18px 24px 18px;border-top:1px solid ${C.borda};">
+  <p style="margin:0 6px 12px 6px;font:700 11px ${FONTE};letter-spacing:2px;text-transform:uppercase;color:${C.verde};">Canais parceiros</p>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>${CANAIS.map(celulaCanal).join("")}
+  </tr></table>
+</td></tr>`;
+
 const unsub = preview ? "#cancelar" : "{{ unsubscribe }}";
 const espelho = preview ? "#navegador" : "{{ mirror }}";
 
@@ -100,6 +121,7 @@ const html = `<!doctype html>
   </td></tr>
   ${bloqueDestaque}
   ${linhas}
+  ${blocoCanais}
   <tr><td align="center" style="padding:24px;border-top:1px solid ${C.borda};">
     <a href="${BASE}/?utm_source=newsletter&utm_medium=email&utm_campaign=resumo-diario" style="display:inline-block;background:${C.verde};color:${C.fundo};font:700 13px ${FONTE};letter-spacing:1px;text-transform:uppercase;text-decoration:none;padding:13px 22px;">Ver todas as notícias no site</a>
   </td></tr>
