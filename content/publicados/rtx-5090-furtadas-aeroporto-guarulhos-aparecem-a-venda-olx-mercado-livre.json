@@ -1,0 +1,39 @@
+{
+  "slug": "rtx-5090-furtadas-aeroporto-guarulhos-aparecem-a-venda-olx-mercado-livre",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "24 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-24T12:30:00-03:00",
+  "title": "RTX 5090 furtadas no Aeroporto de Guarulhos aparecem à venda na OLX, e comprador acaba preso",
+  "excerpt": "Carga de placas Zotac avaliada em R$ 2,5 milhões sumiu do terminal em setembro. Uma das placas foi anunciada por R$ 32 mil e identificada pelo número de série; três funcionários são investigados.",
+  "cover": [
+    "#76b900",
+    "#0b0f0a"
+  ],
+  "image": "/img/rtx-5090-nvidia-placa-de-video-furto-guarulhos.jpg",
+  "imageFilename": "rtx-5090-nvidia-placa-de-video-furto-guarulhos.jpg",
+  "imageAlt": "Placa de vídeo Nvidia GeForce RTX 5090, modelo cuja carga foi furtada no Aeroporto de Guarulhos",
+  "imageCredit": "GeForce RTX 5090. Divulgação/Nvidia",
+  "fonte": "Polícia Civil de SP e GRU Airport, via apuração da imprensa",
+  "fonteUrl": "https://canaltech.com.br/hardware/placas-de-video-de-r-25-milhoes-furtadas-em-guarulhos-vao-parar-em-site-de-vendas/",
+  "body": [
+    "As placas de vídeo RTX 5090 que sumiram do terminal de cargas do Aeroporto de Guarulhos começaram a aparecer no mercado de usados. Uma Zotac GeForce RTX 5090 da carga foi anunciada na OLX por R$ 32 mil. Pelo número de série visível numa das fotos do anúncio, a polícia ligou a placa ao lote desaparecido.",
+    "A carga era de dois paletes de placas Zotac importadas dos Estados Unidos pelo Grupo Oderço. A distribuidora estima o prejuízo em R$ 2,5 milhões, a preço de custo. No varejo brasileiro, cada RTX 5090 dessa linha custa cerca de R$ 35 mil. Até agora, só uma placa foi recuperada.",
+    "img: /img/rtx-5090-nvidia-placa-de-video-furto-guarulhos.jpg | A GeForce RTX 5090, placa mais potente da Nvidia para jogos. Na imagem, o modelo Founders Edition; a carga furtada era de placas Zotac. Divulgação/Nvidia.",
+    "## Empilhadeira, etiqueta e caminhão",
+    "A investigação aponta para dentro do aeroporto. Segundo a Polícia Civil, dois operadores de empilhadeira de uma empresa terceirizada aparecem nas câmeras retirando os paletes sem autorização, em 21 de setembro. Um terceiro funcionário liberou a carga no sistema do terminal, o que fez as caixas passarem pelos controles eletrônicos.",
+    "Com a etiqueta de liberação colada, a mercadoria foi colocada num caminhão e saiu sem nenhum bloqueio. Os três funcionários são investigados pela Polícia Civil de São Paulo e pela Polícia Federal. A GRU Airport, que administra o aeroporto, diz que o caso está com as autoridades competentes.",
+    "A cronologia mostra o tamanho da falha. A carga chegou ao Brasil em 20 de setembro e foi retirada do armazém no dia seguinte. A Receita Federal só autorizou a liberação no dia 25. Ou seja, os paletes já tinham deixado o armazém quatro dias antes de a papelada dizer que eles podiam sair.",
+    "As mesmas etiquetas ajudaram a desfazer o caminho. Foi por elas, e pelos números de série, que os investigadores identificaram as placas nos anúncios on-line.",
+    "## Quem comprou foi preso",
+    "O vendedor do anúncio na OLX, um jovem de Santa Bárbara d'Oeste, no interior paulista, foi preso por receptação. Segundo a defesa, ele tinha comprado a placa no Mercado Livre por cerca de R$ 26,4 mil, no início de outubro, e só estava revendendo. A família diz que ele não sabia que o produto era furtado, e a Justiça mandou soltá-lo no dia seguinte.",
+    "O vendedor do Mercado Livre era identificado apenas por um código, sem nome nem foto. Segundo a família, ele não respondeu aos pedidos de nota fiscal e teve os anúncios suspensos depois da reclamação.",
+    "O caso é um alerta para quem procura placa de vídeo usada. Uma RTX 5090 por R$ 26 mil estava bem abaixo do preço das lojas, e o vendedor não tinha nome nem nota para mostrar. Num mercado em que a placa mais cobiçada do PC gamer custa o preço de um carro popular usado, desconfiar do desconto é parte da compra.",
+    "## O que falta esclarecer",
+    "A polícia ainda não informou quantas placas havia nos dois paletes nem onde está o restante da carga. A investigação segue em andamento, e a Oderço cobra explicações sobre a falha no terminal.",
+    "O furto acontece num momento de preços em alta. A Nvidia vem reajustando os valores da linha RTX 50 ao longo do ano. Lá fora, a RTX 5090 também virou item raro, e unidades revendidas passam dos US$ 10 mil.",
+    "link: Nvidia sobe preços das placas de vídeo de novo: GeForce RTX até 30% mais caras | /noticia/nvidia-aumento-precos-placas-ate-30-por-cento"
+  ],
+  "observacao": "Fontes: Canaltech 22/10 (três funcionários, empilhadeiras de terceirizada nas câmeras, terceiro liberou no sistema, etiqueta de liberação, caminhão saiu sem bloqueio, PF e Polícia Civil, anúncios identificados pelas etiquetas); Tom's Hardware 22/10 (cronologia: chegada 20/9, retirada 21/9 pelos operadores, liberação 25/9; anúncio na OLX com número de série visível; GRU diz que investigação é das autoridades; unidades a mais de US$ 10 mil lá fora); GameVicio 23/10 (OLX por R$ 32 mil, identificação pelo número de série, preso por receptação em Santa Bárbara d'Oeste, compra no Mercado Livre por ~R$ 26,4 mil, soltura pela Justiça, só uma placa recuperada, Oderço cobra explicações, dois paletes, R$ 2,5 mi a preço de custo); Aeroin 23/10 (compra no ML em 5/10 por R$ 26.450, vendedor só com código, sem resposta sobre nota, anúncios suspensos, família diz que ele não sabia, soltura no dia seguinte, Oderço pagou ~R$ 33 mil no atacado); Tecnoblog 20/10 (Grupo Oderço, Zotac, R$ 2,5 mi a preço de custo, ~R$ 35 mil cada no varejo). Cronologia 20/9 chegada, 21/9 retirada, 25/9 liberação da Receita: Tom's Hardware e TweakTown (registro aduaneiro em 24/9 só no Tom's, ficou fora). Divergência: Tecnoblog citou 14/10 como data da perda segundo a GRU; Canaltech, Tom's e GameVicio dão 21/9 para a retirada; usei setembro/21 de setembro (três fontes). Nome do jovem preso omitido de propósito (pessoa privada, solta e alegando boa-fé). Imagem: Nvidia Founders Edition (oficial, 1200x630), legenda deixa claro que a carga era Zotac; site da Zotac bloqueou o acesso (403) e não achei post original com a foto do anúncio para incorporar."
+}
