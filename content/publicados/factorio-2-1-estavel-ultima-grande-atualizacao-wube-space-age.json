@@ -1,0 +1,40 @@
+{
+  "slug": "factorio-2-1-estavel-ultima-grande-atualizacao-wube-space-age",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "24 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-24T17:25:00-03:00",
+  "title": "Factorio recebe a última grande atualização, 14 anos depois do início do desenvolvimento",
+  "excerpt": "A versão 2.1 virou estável dois anos depois de Space Age e encerra a fase de conteúdo novo. O jogo, que nunca entra em promoção, custa R$ 101,99 na Steam brasileira.",
+  "cover": [
+    "#f39c12",
+    "#2c2416"
+  ],
+  "image": "/img/factorio-2-1-estavel-ultima-grande-atualizacao.jpg",
+  "imageFilename": "factorio-2-1-estavel-ultima-grande-atualizacao.jpg",
+  "imageAlt": "Arte oficial de Factorio anunciando a versão 2.1 estável, com fábrica, esteiras e canos",
+  "imageCredit": "Factorio. Divulgação/Wube Software",
+  "fonte": "Wube Software (Friday Facts #449 e #440)",
+  "fonteUrl": "https://factorio.com/blog/post/fff-449",
+  "body": [
+    "Factorio recebeu a sua última grande atualização. A versão 2.1 deixou a fase experimental nesta sexta-feira (23) e virou a versão estável para todos os jogadores, exatamente dois anos depois do lançamento da expansão Space Age.",
+    "A Wube Software já tinha avisado que seria assim. \"Vemos a 2.1 como a nossa última grande atualização de Factorio\", escreveu o estúdio em maio, ao apresentar o plano. A partir de agora, o foco passa a ser suporte de longo prazo: correção de bugs, compatibilidade com novas plataformas e recursos para mods.",
+    "video: https://www.youtube.com/watch?v=oF1zCD7NwNY",
+    "O estúdio aproveitou para atualizar o trailer clássico do jogo, segundo a Wube, pela última vez.",
+    "## Sem planeta novo, com muito ajuste",
+    "A 2.1 não traz planetas, inimigos ou árvores de pesquisa. A proposta é outra: reunir melhorias de qualidade de vida, ajustes de equilíbrio e tudo o que a equipe queria ter feito na 2.0 e não deu tempo.",
+    "A maior parte das mudanças mira a logística espacial de Space Age. Foguetes agora levam itens diferentes num mesmo lançamento, plataformas trocam itens entre si em órbita e o hub pode ser controlado pela rede de circuitos. A plataforma de pouso ganhou um compartimento de descarga, que permite tirar a carga direto para trens, esteiras e baús.",
+    "img: /img/factorio-2-1-novas-maquinas-de-montagem.jpg | As novas máquinas de montagem, parte da última grande revisão gráfica de Factorio. Divulgação/Wube Software.",
+    "Há também mudanças para quem divide opiniões. Space Age agora pode ser jogado sem o sistema de Qualidade, que virou um mod recomendado e ligado por padrão. E o truque que a comunidade chamava de cassino espacial acabou: módulos de qualidade não funcionam mais no reprocessamento de asteroides.",
+    "Os inimigos também mudaram de comportamento. As expansões dos biters agora crescem com a evolução, em grupos maiores e menos frequentes. A Wube chama a revisão gráfica desta versão de a última grande passada no visual do jogo, com novas máquinas de montagem, refinaria e silo de foguete.",
+    "## Antes de atualizar",
+    "Saves da 2.0 abrem na 2.1, mas algumas mudanças podem quebrar fábricas montadas. A separação entre leitura e escrita na rede de circuitos é a mais sensível. Depois de atualizar, não dá para voltar: plantas e saves não podem ser convertidos de volta para a 2.0. A recomendação do estúdio é fazer backup antes.",
+    "## O jogo que nunca entra em promoção",
+    "Factorio começou a ser desenvolvido em 2012, passou anos em acesso antecipado e chegou à versão 1.0 em agosto de 2020. É um caso raro também na loja: a Wube mantém a política de nunca colocar o jogo em promoção, e ainda assim ele segue entre os mais bem avaliados da Steam.",
+    "No Brasil, o jogo base custa R$ 101,99 na Steam, e a expansão Space Age sai pelo mesmo valor. Factorio tem interface em português do Brasil. Com a 2.1, a Wube também passa a rodar o jogo nativamente em Linux ARM64, o que inclui o Steam Frame e servidores em Raspberry Pi.",
+    "## Serviço",
+    "Factorio está disponível para PC e Mac, Linux e Switch. A atualização 2.1 já é a versão padrão na Steam e no site oficial do jogo."
+  ],
+  "observacao": "2.1 estável em 23/10, dois anos de Space Age, trailer clássico atualizado 'one last time', lista de mudanças (foguetes mistos, Import from Any, transferência entre plataformas, hub por circuito, unloading bay, I/O split, Quality opcional como mod recomendado, fim do 'space casino', expansões de biters, nova arte de assembler, refinaria, silo, ARM64 Linux com Steam Frame e Raspberry Pi) e avisos de backup/downgrade: Friday Facts #449 (oficial). Também noticiado por PC Gamer e GamesRadar (24/10). 'We envision 2.1 as our last major update of Factorio' e foco em suporte de longo prazo: Friday Facts #440 (29/5) e GamingOnLinux (junho). Desenvolvimento desde 2012: manchete do PC Gamer (14 anos) e histórico público; 1.0 em 14/8/2020: Steam. Política de nunca dar desconto: manchete do GamesRadar e política pública da Wube. Preços R$ 101,99 (base e Space Age) e PT-BR: API da Steam Brasil. Plataformas (PC, Mac, Linux, Switch): conhecimento estável. Vídeo: oF1zCD7NwNY, 'Factorio - Trailer 2026', canal oficial, oEmbed ok. Imagens oficiais do blog da Wube."
+}
