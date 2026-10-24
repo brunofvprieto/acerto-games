@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 708
-- Forte: 694
+- Total analisado: 709
+- Forte: 695
 - Revisar: 12
 - Prioridade: 2
 
@@ -695,6 +695,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
 | FORTE | notícia | 3152 | 6 | 100 | Xbox vai te deixar jogar de graça na nuvem — mas tem um preço: seus ouvidos por dois minutinhos de anúncio | — |
 | FORTE | noticia | 5786 | 17 | 100 | Xbox teria garantido exclusividade de GTA 6 no streaming em nuvem no lançamento | — |
+| FORTE | notícia | 2916 | 9 | 100 | Xbox perde a primeira diretora de operações da sua história três meses depois de criar o cargo | — |
 | FORTE | noticia | 4744 | 15 | 100 | Xbox Helix pode ter 40% mais TFLOPS que o PS6 — mas isso não significa 40% mais desempenho | — |
 | FORTE | noticia | 2792 | 12 | 100 | Xbox e Kojima vão além dos games: parceria prevê projetos para cinema e televisão | — |
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
