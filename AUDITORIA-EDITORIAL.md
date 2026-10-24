@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 709
-- Forte: 695
+- Total analisado: 710
+- Forte: 696
 - Revisar: 12
 - Prioridade: 2
 
@@ -476,6 +476,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3348 | 15 | 100 | Modern Warfare 4 chega com UAV mais resistente, SMGs mais fortes e sem Desafios Semanais na Temporada 1 | — |
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2784 | 10 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
+| FORTE | notícia | 2755 | 10 | 100 | Modern Warfare 4 pede 39 GB livres para atualizar no Switch 2, e o jogo já ocupa um terço do console | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
