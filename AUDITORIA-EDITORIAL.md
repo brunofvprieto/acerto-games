@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 704
-- Forte: 690
+- Total analisado: 705
+- Forte: 691
 - Revisar: 12
 - Prioridade: 2
 
@@ -584,6 +584,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
 | FORTE | noticia | 2148 | 9 | 100 | The Rogue Prince of Persia ganha enorme atualização de aniversário com gelo, novos modos e armas | — |
 | FORTE | notícia | 2806 | 11 | 100 | Romancing SaGa 2: Revenge of the Seven passa de 1 milhão de cópias, a primeira marca do tipo da série desde 1997 | — |
+| FORTE | notícia | 2916 | 11 | 100 | RTX 5090 furtadas no Aeroporto de Guarulhos aparecem à venda na OLX, e comprador acaba preso | — |
 | FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
