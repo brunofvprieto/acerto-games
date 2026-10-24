@@ -46,7 +46,23 @@ if (!posts.length) {
 // Boato e rumor nunca abrem o resumo: descem para o fim da lista.
 const peso = (p) =>
   /boato|rumor|supostamente|estaria/i.test(p.title || "") ? -1 : /^(review|especial)/i.test(p.category || "") ? 1 : 0;
-const lista = [...posts].sort((a, b) => peso(b) - peso(a) || b.ts - a.ts).slice(0, maximo);
+let ordenados = [...posts].sort((a, b) => peso(b) - peso(a) || b.ts - a.ts);
+// --destaque <slug>: a rotina escolhe a matéria mais forte do dia e ela abre o resumo,
+// mesmo que a regra automática colocasse outra na frente. Boato continua barrado.
+const slugDestaque = arg("destaque");
+if (slugDestaque) {
+  const escolhida = ordenados.find((p) => p.slug === slugDestaque);
+  if (!escolhida) {
+    console.error(`Destaque "${slugDestaque}" não está nas matérias do período.`);
+    process.exit(3);
+  }
+  if (peso(escolhida) < 0) {
+    console.error(`Destaque "${slugDestaque}" é boato ou rumor e não pode abrir o resumo.`);
+    process.exit(3);
+  }
+  ordenados = [escolhida, ...ordenados.filter((p) => p !== escolhida)];
+}
+const lista = ordenados.slice(0, maximo);
 const [destaque, ...demais] = lista;
 
 const C = { fundo: "#0A0D10", cartao: "#10161C", borda: "#22303A", texto: "#EDEFF7", suave: "#93A3AF", verde: "#2EE86C" };
@@ -134,5 +150,21 @@ const html = `<!doctype html>
 </table></td></tr></table></body></html>`;
 
 fs.writeFileSync(saida, html);
-const assunto = `${destaque.title}`.slice(0, 90);
-console.log(JSON.stringify({ arquivo: saida, materias: lista.length, assunto }, null, 2));
+
+// Assunto de reserva: título do destaque cortado em fim de palavra, sem terminar em conectivo.
+// O assunto final é escrito pela rotina a partir de "candidatas" (curto, com o fato, sem travessão).
+const LIMITE_ASSUNTO = 70;
+const CONECTIVOS = /\s+(e|ou|de|do|da|dos|das|em|no|na|nos|nas|com|para|por|pelo|pela|que|sem|sobre|entre|ao|aos|à|às|a|o|as|os|um|uma)$/i;
+const cortar = (texto, max) => {
+  let t = String(texto).trim();
+  if (t.length <= max) return t;
+  t = t.slice(0, max + 1);
+  t = t.slice(0, t.lastIndexOf(" ")).trim().replace(/[,:;]+$/, "");
+  while (CONECTIVOS.test(t)) t = t.replace(CONECTIVOS, "").replace(/[,:;]+$/, "");
+  return t;
+};
+const assunto = cortar(destaque.title, LIMITE_ASSUNTO);
+const candidatas = lista.map((p) => ({ slug: p.slug, categoria: p.category || "notícia", titulo: p.title, resumo: p.excerpt || "" }));
+console.log(
+  JSON.stringify({ arquivo: saida, materias: lista.length, destaque: destaque.slug, assunto, candidatas }, null, 2)
+);
