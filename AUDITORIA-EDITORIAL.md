@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 710
-- Forte: 696
+- Total analisado: 711
+- Forte: 697
 - Revisar: 12
 - Prioridade: 2
 
@@ -299,6 +299,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 2898 | 9 | 100 | Exodus refaz o rosto de Jun Aslan depois das críticas, e a versão feminina vem em breve | — |
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
+| FORTE | notícia | 2745 | 11 | 100 | Factorio recebe a última grande atualização, 14 anos depois do início do desenvolvimento | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
 | FORTE | notícia | 2766 | 11 | 100 | Fatal Fury: City of the Wolves ganha comercial live-action no Switch 2 com Justin Wong, Tokido e a VTuber La+ Darknesss | — |
