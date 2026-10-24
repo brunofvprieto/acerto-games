@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 707
-- Forte: 693
+- Total analisado: 708
+- Forte: 694
 - Revisar: 12
 - Prioridade: 2
 
@@ -390,6 +390,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2679 | 11 | 100 | GTA 6 chega na véspera do feriado de 20 de novembro, e o lançamento vira feriadão no Brasil | — |
 | FORTE | notícia | 1909 | 6 | 100 | Take-Two aposta que novo vídeo de GTA 6 na Netflix vai aumentar ainda mais a paixão dos fãs | — |
 | FORTE | notícia | 2962 | 15 | 100 | GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming no lançamento, diz executivo | — |
+| FORTE | retrô | 3756 | 14 | 100 | GTA III faz 25 anos: o jogo que passou quase todo o desenvolvimento quebrado e deixou a planta de GTA 6 | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
