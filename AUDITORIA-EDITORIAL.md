@@ -106,6 +106,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1552 | 5 | 94 | MrFreezy é o novo jogo do criador de Aerial Knight's — e ele envolve cortar cabeças de um jeito bem inusitado | texto curto |
 | FORTE | notícia | 1578 | 5 | 94 | O homem que nos deu Dead Space pendurou o controle: Glen Schofield anuncia aposentadoria | texto curto |
 | FORTE | notícia | 1541 | 6 | 94 | God of War: Laufey tem data marcada — e é mais cedo do que muita gente esperava | texto curto |
+| FORTE | notícia | 1569 | 7 | 94 | Modern Warfare 4 ganha pop-up na Avenida Paulista com Ghost e encontros com criadores | texto curto |
 | FORTE | noticia | 1577 | 6 | 94 | Monster Hunter World no Switch 2 é improvável: Capcom teria que refazer o jogo do zero | texto curto |
 | FORTE | notícia | 1578 | 7 | 94 | Phantom Blade Zero mostra o chefe The Hunt em novo vídeo e revela a aparência Blood-Steel Form | texto curto |
 | FORTE | notícia | 1576 | 6 | 94 | Pokémon Pokopia: primeira parte do DLC, Bubbly Basin, chega em 5 de agosto | texto curto |
@@ -135,7 +136,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1687 | 6 | 97 | GTA 6 está dentro do prazo do The Game Awards 2026, com um dia de folga | texto curto |
 | FORTE | notícia | 1697 | 8 | 97 | GTA 6 deve exigir o firmware 14.10 do PS5, e hacker mostra o menu de debug do sistema | texto curto |
 | FORTE | noticia | 1688 | 7 | 97 | Shadow of Mordor e Shadow of War chegam ao Switch 2 com o sistema Nemesis em setembro | texto curto |
-| FORTE | notícia | 1663 | 7 | 97 | Modern Warfare 4 ganha pop-up na Avenida Paulista com Ghost e encontros com criadores | texto curto |
 | FORTE | notícia | 1696 | 7 | 97 | Ordinary Oddness é anunciado: RPG de mundo aberto numa cidade flutuante, para PS5, Xbox Series e PC | texto curto |
 | FORTE | notícia | 1679 | 5 | 97 | PC Gaming Show Tokyo Direct volta em setembro — e o Japão vai receber a galera de novo | texto curto |
 | FORTE | notícia | 1682 | 9 | 97 | Pokémon Pokopia leva Ditto para o fundo do mar em Bubbly Basin — veja o que muda no Switch 2 | texto curto |
@@ -180,7 +180,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
 | FORTE | noticia | 2457 | 11 | 100 | Ace Combat 8 traz de volta Annihilation Battle e novo trailer mostra superarmas e a guerra de Wings of Theve | — |
-| FORTE | notícia | 2832 | 12 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
+| FORTE | notícia | 2702 | 11 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
 | FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
 | FORTE | notícia | 4089 | 13 | 100 | Acts of Blood tem data no PC: 4 de dezembro, com consoles só em 2027 | — |
 | FORTE | notícia | 2788 | 11 | 100 | AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado | — |
@@ -205,7 +205,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
-| FORTE | notícia | 2949 | 10 | 100 | Battlefield 6 abre o evento de Dead Space: Marker Incursion põe 16 jogadores contra soldados infectados na Área 51 | — |
+| FORTE | notícia | 2733 | 9 | 100 | Battlefield 6 abre o evento de Dead Space: Marker Incursion põe 16 jogadores contra soldados infectados na Área 51 | — |
 | FORTE | noticia | 3730 | 12 | 100 | Battlefield 6 chega ao Game Pass em outubro, enquanto jogo brasileiro Deep Dish Dungeon estreia no serviço | — |
 | FORTE | notícia | 4427 | 7 | 100 | Tsuru Reef é o maior mapa de Battlefield 6 — e pode ser aquele que você nunca joga de novo | — |
 | FORTE | noticia | 2618 | 10 | 100 | Battlefield 6 leva guerra a Las Vegas e Área 51 no trailer da Temporada 5 | — |
@@ -253,7 +253,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 4142 | 15 | 100 | GTA 6 e o Cyberleek: o crime que virou entretenimento e o problema que ninguém está discutindo | — |
 | FORTE | notícia | 2805 | 11 | 100 | Cult of the Lamb chega ao Switch 2 em 22 de outubro, com upgrade grátis para quem tem no Switch | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
-| FORTE | notícia | 2875 | 10 | 100 | Cyberpunk 2077 recebe atualização 2.5 de Edgerunners 2 na quinta, com duas armas e implantes personalizáveis | — |
+| FORTE | notícia | 2605 | 9 | 100 | Cyberpunk 2077 recebe atualização 2.5 de Edgerunners 2 na quinta, com duas armas e implantes personalizáveis | — |
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
 | FORTE | notícia | 2186 | 10 | 100 | Hideo Kojima volta a Night City como Hideyoshi Oshima em Cyberpunk: Edgerunners 2 | — |
 | FORTE | notícia | 1878 | 6 | 100 | Dan Houser revela primeiros detalhes dos jogos da Absurd Ventures após deixar a Rockstar | — |
@@ -275,7 +275,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3343 | 14 | 100 | Diablo V revela Plague Knight, retorno de Monk e Demon Hunter e um mundo que muda a cada viagem | — |
 | FORTE | noticia | 4916 | 22 | 100 | Diablo V é revelado na BlizzCon 2026 e mostra um Santuário já dominado pelo Senhor do Terror | — |
 | FORTE | notícia | 2922 | 14 | 100 | Diários de uma Apotecária ganha jogo em 18 de março de 2027, com Jinshi e o gato Maomao como investigadores | — |
-| FORTE | notícia | 2941 | 10 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
+| FORTE | notícia | 2623 | 9 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
 | FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
@@ -299,10 +299,10 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 2898 | 9 | 100 | Exodus refaz o rosto de Jun Aslan depois das críticas, e a versão feminina vem em breve | — |
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
-| FORTE | notícia | 2745 | 11 | 100 | Factorio recebe a última grande atualização, 14 anos depois do início do desenvolvimento | — |
+| FORTE | notícia | 2614 | 10 | 100 | Factorio recebe a última grande atualização, 14 anos depois do início do desenvolvimento | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
-| FORTE | notícia | 2766 | 11 | 100 | Fatal Fury: City of the Wolves ganha comercial live-action no Switch 2 com Justin Wong, Tokido e a VTuber La+ Darknesss | — |
+| FORTE | notícia | 2544 | 10 | 100 | Fatal Fury: City of the Wolves ganha comercial live-action no Switch 2 com Justin Wong, Tokido e a VTuber La+ Darknesss | — |
 | FORTE | notícia | 2290 | 9 | 100 | Fatal Fury: City of the Wolves chega ao Switch 2 e recebe Mikey e Draken, de Tokyo Revengers | — |
 | FORTE | notícia | 2755 | 10 | 100 | Fatekeeper passa de 500 mil cópias vendidas ainda em acesso antecipado | — |
 | FORTE | notícia | 1999 | 5 | 100 | Final Fantasy XIV revela arte oficial do Kefka Imaginário, o chefe final da nova fase Extrema | — |
@@ -317,7 +317,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 5545 | 20 | 100 | Fortnite: Pesadelos 2026 reúne FNAF, Freddy Krueger, Hollow Knight e uma avalanche de crossovers | — |
 | FORTE | noticia | 2293 | 10 | 100 | Sora chega a Fortnite nesta semana e crossover de Kingdom Hearts terá Riku, Kairi e Roxas | — |
 | FORTE | noticia | 2760 | 7 | 100 | Forza Horizon 6 chega ao PS5 em janeiro de 2027 com 60 FPS, cross-save e primeira expansão | — |
-| FORTE | notícia | 2972 | 12 | 100 | FSR 4.1 chega ao Xbox Series X|S, e o Project Helix vai usar o FSR Diamond | — |
+| FORTE | notícia | 2787 | 11 | 100 | FSR 4.1 chega ao Xbox Series X|S, e o Project Helix vai usar o FSR Diamond | — |
 | FORTE | notícia | 2021 | 9 | 100 | Nintendo Classics recebe Avenging Spirit, Mole Mania e Revenge of the 'Gator no Game Boy em 27 de outubro | — |
 | FORTE | noticia | 2578 | 12 | 100 | Game Freak anuncia Ame no Chi Hare Onna, novo jogo que transforma a previsão do tempo em mecânica | — |
 | FORTE | notícia | 2252 | 6 | 100 | War for Westeros escorrega no gelo e vai para 2027 | — |
@@ -336,7 +336,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2056 | 9 | 100 | Gears of War: E-Day está pronto: jogo entra em fase gold e ganha data de pré-instalação | — |
 | FORTE | noticia | 2910 | 9 | 100 | Gears of War: E-Day dobra recorde de Gears 5 no Steam antes do lançamento geral | — |
 | FORTE | notícia | 3143 | 9 | 100 | GeForce NOW libera os controles do DLSS 4.5 e recebe Enshrouded 1.0 e Boltgun 2 | — |
-| FORTE | notícia | 2901 | 12 | 100 | Genshin Impact 7.2, Hour of Ruin, chega em 4 de novembro com Mitya, Valeriy e a cidade subterrânea de Novokitezhgrad | — |
+| FORTE | notícia | 2730 | 11 | 100 | Genshin Impact 7.2, Hour of Ruin, chega em 4 de novembro com Mitya, Valeriy e a cidade subterrânea de Novokitezhgrad | — |
 | FORTE | noticia | 3437 | 10 | 100 | Jin Sakai está de volta em Ghost of Yōtei e divide espaço com a geração de Atsu | — |
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
 | FORTE | artigo | 9123 | 36 | 100 | Glossário do jogador: DLSS, FSR, ray tracing, Nanite e todo o resto do palavrório técnico, explicado | — |
@@ -388,7 +388,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2751 | 12 | 100 | GTA 6: novo clipe mostra Vice City à noite vista de avião, dez estações de rádio e um prompt de pesca no canto da tela | — |
 | FORTE | notícia | 7944 | 28 | 100 | GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta | — |
 | FORTE | artigo | 5801 | 40 | 100 | GTA 6: 8 sistemas que os vazamentos sugerem e que podem mudar a experiência | — |
-| FORTE | notícia | 2679 | 11 | 100 | GTA 6 chega na véspera do feriado de 20 de novembro, e o lançamento vira feriadão no Brasil | — |
+| FORTE | notícia | 2436 | 10 | 100 | GTA 6 chega na véspera do feriado de 20 de novembro, e o lançamento vira feriadão no Brasil | — |
 | FORTE | notícia | 1909 | 6 | 100 | Take-Two aposta que novo vídeo de GTA 6 na Netflix vai aumentar ainda mais a paixão dos fãs | — |
 | FORTE | notícia | 2962 | 15 | 100 | GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming no lançamento, diz executivo | — |
 | FORTE | retrô | 3756 | 14 | 100 | GTA III faz 25 anos: o clássico que só funcionou nos últimos seis meses | — |
@@ -435,7 +435,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3016 | 6 | 100 | O ator de Wolverine ficou com medo de si mesmo — e isso foi exatamente o que a Insomniac queria | — |
 | FORTE | especial | 4282 | 9 | 100 | Lies of P no Switch 2 mostra como um bom port deve ser feito | — |
 | FORTE | notícia | 3456 | 12 | 100 | Liquid Swords fecha as portas seis meses depois de Samson, e o jogo vai a leilão com o estúdio | — |
-| FORTE | notícia | 2717 | 12 | 100 | Look Outside, o terror em que olhar pela janela vira monstro, chega ao PS5 e ao Switch 2 em 30 de outubro | — |
+| FORTE | notícia | 2616 | 11 | 100 | Look Outside, o terror em que olhar pela janela vira monstro, chega ao PS5 e ao Switch 2 em 30 de outubro | — |
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
 | FORTE | noticia | 2616 | 7 | 100 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | — |
@@ -477,8 +477,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5159 | 26 | 100 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | — |
 | FORTE | notícia | 3348 | 15 | 100 | Modern Warfare 4 chega com UAV mais resistente, SMGs mais fortes e sem Desafios Semanais na Temporada 1 | — |
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
-| FORTE | notícia | 2784 | 10 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
-| FORTE | notícia | 2755 | 10 | 100 | Modern Warfare 4 pede 39 GB livres para atualizar no Switch 2, e o jogo já ocupa um terço do console | — |
+| FORTE | notícia | 2523 | 9 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
+| FORTE | notícia | 2449 | 9 | 100 | Modern Warfare 4 pede 39 GB livres para atualizar no Switch 2, e o jogo já ocupa um terço do console | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
@@ -488,7 +488,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3515 | 12 | 100 | Monster Hunter Wilds fica R$ 110 mais barato e ganha demo grátis que salva seu progresso | — |
 | FORTE | noticia | 1836 | 7 | 100 | Monster Hunter Wilds no Switch 2 começou a ser desenvolvido em junho de 2025 | — |
 | FORTE | noticia | 1974 | 9 | 100 | Monster Hunter Wilds no Switch 2: Capcom revela resolução, 30 FPS e modos gráficos | — |
-| FORTE | notícia | 2737 | 10 | 100 | Mortal Shell II ganha Rotten Autumn, atualização gratuita com 15 masmorras, modo foto e trilha alternativa | — |
+| FORTE | notícia | 2566 | 10 | 100 | Mortal Shell II ganha Rotten Autumn, atualização gratuita com 15 masmorras, modo foto e trilha alternativa | — |
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
 | FORTE | noticia | 2312 | 9 | 100 | Muramasa: Revenant Blades ganha data e mostra como o clássico da Vanillaware foi reconstruído | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
@@ -504,7 +504,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4152 | 10 | 100 | Nintendo supera PlayStation e Xbox na média de avaliações de 2026; veja todos os jogos | — |
 | FORTE | notícia | 2590 | 9 | 100 | Nintendo afirma que não pretende abandonar jogos em mídia física | — |
 | FORTE | notícia | 4857 | 14 | 100 | Nintendo fatura menos, mas lucro operacional mais que dobra: o Switch 2 entrou na fase que dá dinheiro | — |
-| FORTE | notícia | 3230 | 11 | 100 | Nintendo admite que subestimou a procura pelo Switch 2 de Zelda, e o Brasil está entre os mercados sem estoque | — |
+| FORTE | notícia | 3161 | 11 | 100 | Nintendo admite que subestimou a procura pelo Switch 2 de Zelda, e o Brasil está entre os mercados sem estoque | — |
 | FORTE | noticia | 3354 | 14 | 100 | Nintendo diz que Switch 2 está “apenas no começo” e detalha estratégia para os próximos anos | — |
 | FORTE | notícia | 2706 | 11 | 100 | Nintendo anuncia novo bundle do Switch 2 no Japão com escolha entre três jogos | — |
 | FORTE | noticia | 1961 | 7 | 100 | Nintendo Switch 2 ganha bundle com EA SPORTS FC 27 no Brasil em 15 de outubro | — |
@@ -535,7 +535,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2467 | 6 | 100 | Palworld está dominando a Steam de novo — e quase repetiu a marca de 1 milhão de jogadores simultâneos | — |
 | FORTE | notícia | 3926 | 11 | 100 | As caçadas de Monster Hunter sobreviveram: Peace Walker mantém a parceria com a Capcom na Master Collection Vol. 2 | — |
 | FORTE | notícia | 2222 | 8 | 100 | Persona 4 Revival troca todo o elenco em inglês — e Atlus explica por quê | — |
-| FORTE | notícia | 2874 | 11 | 100 | Phantom Blade Zero vende 500 mil cópias na Steam antes de lançar e entra no top 12 do Brasil | — |
+| FORTE | notícia | 2663 | 10 | 100 | Phantom Blade Zero vende 500 mil cópias na Steam antes de lançar e entra no top 12 do Brasil | — |
 | FORTE | Artigos | 6827 | 22 | 100 | Phantom Blade Zero quer transformar kung fu em gameplay — e Donnie Yen ajudou a construir essa luta | — |
 | FORTE | Notícias | 2378 | 7 | 100 | Donnie Yen está em Phantom Blade Zero — e sua participação vai muito além de interpretar um personagem | — |
 | FORTE | Opinião | 5597 | 17 | 100 | Phantom Blade Zero: por que meu hype está nas alturas | — |
@@ -565,7 +565,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
-| FORTE | notícia | 2901 | 10 | 100 | Red Dead Redemption 2 também sai do PS Plus Extra em 17 de novembro, junto com GTA V e mais nove jogos | — |
+| FORTE | notícia | 2536 | 9 | 100 | Red Dead Redemption 2 também sai do PS Plus Extra em 17 de novembro, junto com GTA V e mais nove jogos | — |
 | FORTE | notícia | 3307 | 9 | 100 | PS Plus de outubro terá Mafia: The Old Country, Horizon Forbidden West e Dino Crisis 2 | — |
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | notícia | 2443 | 14 | 100 | Planeta das Ofertas na PS Store: Final Fantasy VII Rebirth por R$ 85 e Hogwarts Legacy por R$ 52 | — |
@@ -575,7 +575,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1925 | 8 | 100 | Psikyo Memories resgata clássicos de navinha dos arcades no PS5 e Switch 2 | — |
 | FORTE | notícia | 3256 | 11 | 100 | PUBG: Atualização 43.2 traz Bentley, o modo PvE SLB: Dawnbreakers of Rondo e mudanças em veículos e lobby | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
-| FORTE | notícia | 3280 | 11 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
+| FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
@@ -656,7 +656,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
 | FORTE | notícia | 3608 | 9 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
 | FORTE | notícia | 5270 | 21 | 100 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | — |
-| FORTE | notícia | 3342 | 11 | 100 | The Witcher 3 Remastered recebe no Switch 2 o patch 5.01, com imagem mais nítida e as correções que as outras versões já tinham | — |
+| FORTE | notícia | 3046 | 10 | 100 | The Witcher 3 Remastered recebe no Switch 2 o patch 5.01, com imagem mais nítida e as correções que as outras versões já tinham | — |
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
