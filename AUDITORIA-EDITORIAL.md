@@ -386,7 +386,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3259 | 11 | 100 | GTA 6 e Spotify levam campanha às ruas após teasers de Travis Scott, Future e outros artistas | — |
 | FORTE | noticia | 2136 | 8 | 100 | GTA 6 tem primeiro ator confirmado: Stephen Root revela participação no jogo da Rockstar | — |
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
-| FORTE | notícia | 2735 | 10 | 100 | Vanoss Crew vai alugar mansão em Miami para o lançamento de GTA 6, e a Rockstar já pediu a lista de convidados | — |
+| FORTE | notícia | 2741 | 9 | 100 | Vanoss Crew aluga mansão em Miami para o lançamento de GTA 6, e a Rockstar já sabe | — |
 | FORTE | noticia | 2457 | 10 | 100 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | — |
 | FORTE | notícia | 2751 | 12 | 100 | GTA 6: novo clipe mostra Vice City à noite vista de avião, dez estações de rádio e um prompt de pesca no canto da tela | — |
 | FORTE | notícia | 7944 | 28 | 100 | GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta | — |
