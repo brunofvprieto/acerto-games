@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 712
-- Forte: 698
+- Total analisado: 713
+- Forte: 699
 - Revisar: 12
 - Prioridade: 2
 
@@ -663,6 +663,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 4712 | 21 | 100 | Tokyo Game Show 2026 entra na reta final: 30 anos, cinco dias e gigantes da indústria se movimentam | — |
 | FORTE | notícia | 2454 | 12 | 100 | Tomb Raider faz 30 anos com controles da 8BitDo, Mansão Croft em blocos e Lara contra a Cobra | — |
+| FORTE | notícia | 2757 | 10 | 100 | Tomb Raider faz 30 anos com vídeo comemorativo, álbum lo-fi e 500 músicas a caminho do streaming | — |
 | FORTE | notícia | 3007 | 11 | 100 | Tomb Raider: Legacy of Atlantis mostra como refez o combate da Lara sem trair o jogo de 1996 | — |
 | FORTE | notícia | 3363 | 16 | 100 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
