@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 713
-- Forte: 699
+- Total analisado: 717
+- Forte: 703
 - Revisar: 12
 - Prioridade: 2
 
@@ -313,6 +313,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
 | FORTE | notícia | 2314 | 10 | 100 | Black Clover chega ao Fortnite com Asta, Noelle e Yuno em novo pacote | — |
 | FORTE | notícia | 3458 | 6 | 100 | Fortnite fez uma collab com filme de terror sobre abuso sexual — e o resultado foi constrangedor | — |
+| FORTE | notícia | 2161 | 9 | 100 | One Piece chega ao Fortnite em Treasure Hunters, e o primeiro a aparecer é o Going Merry | — |
 | FORTE | notícia | 2733 | 11 | 100 | Fortnite Override: o passe de batalha traz Sonic e Tetris, e a temporada inteira virou um museu dos videogames | — |
 | FORTE | noticia | 5545 | 20 | 100 | Fortnite: Pesadelos 2026 reúne FNAF, Freddy Krueger, Hollow Knight e uma avalanche de crossovers | — |
 | FORTE | noticia | 2293 | 10 | 100 | Sora chega a Fortnite nesta semana e crossover de Kingdom Hearts terá Riku, Kairi e Roxas | — |
@@ -351,6 +352,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2416 | 10 | 100 | Gran Turismo 7 ganhou nova atualização e a mudança mais importante não é nos carros novos | — |
 | FORTE | notícia | 2635 | 6 | 100 | Gran Turismo 7 recebe a atualização Spec IV com seis carros e o circuito Sportsland Sugo | — |
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
+| FORTE | notícia | 2835 | 10 | 100 | Rumor: análises de GTA 6 sairiam em 18 de novembro, na véspera do lançamento | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
 | FORTE | notícia | 2720 | 13 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
 | FORTE | notícia | 3520 | 12 | 100 | GTA 6: Bloomberg revela bastidores de oito anos de desenvolvimento e abre as portas da Rockstar | — |
@@ -478,6 +480,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3348 | 15 | 100 | Modern Warfare 4 chega com UAV mais resistente, SMGs mais fortes e sem Desafios Semanais na Temporada 1 | — |
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2523 | 9 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
+| FORTE | notícia | 2324 | 9 | 100 | Modern Warfare 4 tem o dobro de jogadores de Black Ops 7 no Steam, mas fica abaixo de Black Ops 6 | — |
 | FORTE | notícia | 2449 | 9 | 100 | Modern Warfare 4 pede 39 GB livres para atualizar no Switch 2, e o jogo já ocupa um terço do console | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
@@ -618,6 +621,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1890 | 8 | 100 | Splatoon Raiders ganha novas builds oficiais para transformar Salmonids em caos no Switch 2 | — |
 | FORTE | notícia | 2348 | 6 | 100 | Splatoon Raiders faz história: maior nota de usuários da Nintendo no Metacritic (e top 10 de todos os tempos) | — |
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
+| FORTE | notícia | 2336 | 9 | 100 | PlayStation Asia antecipa a atualização 2.1 de STALKER 2, que amplia o alcance do A-Life | — |
 | FORTE | notícia | 2776 | 12 | 100 | Star Wars Battlefront 3 estaria em produção na DICE e na Respawn, diz Variety | — |
 | FORTE | notícia | 3575 | 12 | 100 | Star Wars: Galactic Racer chega hoje com corridas clandestinas e Sebulba | — |
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
