@@ -281,7 +281,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
 | FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
 | FORTE | notícia | 2290 | 7 | 100 | Dragon Ball: Sparking! Zero mostra DLC "Super Limit-Breaking NEO" e update grátis com 33 lutadores novos | — |
-| FORTE | notícia | 3049 | 12 | 100 | Dragon Ball Xenoverse 2 faz 10 anos com o Final Festival, que dá itens para Xenoverse 3 | — |
+| FORTE | notícia | 2781 | 11 | 100 | Dragon Ball Xenoverse 2 faz 10 anos com o Festival Final dos Universos, que dá itens para Xenoverse 3 | — |
 | FORTE | noticia | 1909 | 8 | 100 | Dragon Quest supera 100 milhões de unidades vendidas no ano de seu 40º aniversário | — |
 | FORTE | noticia | 3693 | 16 | 100 | Dragon's Dogma 2: Dark Arisen ganha trailer principal com Norgan, novos monstros e desafios | — |
 | FORTE | notícia | 2479 | 6 | 100 | Venda da EA por US$ 55 bilhões será concluída na próxima semana — a maior da história dos games | — |
@@ -631,7 +631,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1890 | 8 | 100 | Splatoon Raiders ganha novas builds oficiais para transformar Salmonids em caos no Switch 2 | — |
 | FORTE | notícia | 2348 | 6 | 100 | Splatoon Raiders faz história: maior nota de usuários da Nintendo no Metacritic (e top 10 de todos os tempos) | — |
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
-| FORTE | notícia | 2336 | 9 | 100 | PlayStation Asia antecipa a atualização 2.1 de STALKER 2, que amplia o alcance do A-Life | — |
+| FORTE | notícia | 3114 | 12 | 100 | Atualização 2.1 de STALKER 2 já está disponível e amplia o alcance do A-Life | — |
 | FORTE | notícia | 2776 | 12 | 100 | Star Wars Battlefront 3 estaria em produção na DICE e na Respawn, diz Variety | — |
 | FORTE | notícia | 3575 | 12 | 100 | Star Wars: Galactic Racer chega hoje com corridas clandestinas e Sebulba | — |
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
