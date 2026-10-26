@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 734
-- Forte: 720
+- Total analisado: 735
+- Forte: 721
 - Revisar: 12
 - Prioridade: 2
 
@@ -572,6 +572,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 2841 | 12 | 100 | Pokémon terá loja permanente em Londres até 2029, a primeira fora da Ásia | — |
+| FORTE | notícia | 2718 | 13 | 100 | Pokémon Pokopia: vazamento revela 24 Pokémon do DLC 2 e eventos de fim de ano | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
 | FORTE | artigo | 11566 | 39 | 100 | Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos | — |
