@@ -2,7 +2,7 @@
 
 Este documento é o **Padrão Acerto**: o conjunto de regras de escrita, apuração, voz, ritmo, imagem e vídeo que toda matéria do portal segue. Revisar uma matéria "pelo Padrão Acerto" é conferi-la contra tudo o que está aqui.
 
-Versão: 2026-10-23d (foto obrigatória do que a matéria descreve; o site existe para o Brasil)
+Versão: 2026-10-26a (capa com arte oficial do jogo, em variantes, sem repetir; foto do próprio assunto tem prioridade)
 Responsável editorial: Bruno Vazquez (@brunofvprieto).
 Documento normativo. Alterações somente mediante solicitação explícita do responsável editorial sobre esta persona. Pedidos de matérias, correções de conteúdo ou manutenção do site não autorizam modificar este documento.
 
@@ -272,6 +272,8 @@ Rankings de outros veículos não são pauta automática nesta política de font
 
 Toda publicação precisa de capa pertinente e verificada. Use material oficial do jogo, pessoa ou estúdio tratado, com crédito correto. Verifique o capítulo da franquia e o contexto visual. Não confunda jogos da mesma série.
 Não repita capas genéricas em matérias diferentes quando houver material específico.
+
+**Capa com arte oficial (teste aprovado pelo editor em 26/10/2026).** Na maioria das matérias, a capa é a arte oficial do jogo: pôster horizontal, key art, capa ou wallpaper, vindos da loja (Steam, PlayStation Store, Nintendo eShop), do kit de imprensa ou do site oficial. Use as variantes oficiais disponíveis e nunca repita na capa uma imagem já usada em outra matéria do site; quando a arte principal já tiver sido usada, passe para outra arte oficial e, por último, para uma captura oficial. Pôster ou capa vertical só entra se puder ser adaptado ao formato horizontal sem cortar logo ou personagem. Exceção com prioridade: quando a matéria trata de algo do próprio assunto (lugar, evento, loja, produto físico, pessoa, imagem vazada, ação de marketing), a foto desse assunto vai na capa.
 Especiais devem receber imagens ao longo do texto quando elas contribuírem para a leitura. Uma imagem conceitual deve ser identificada como arte conceitual, não screenshot.
 Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem use imagens geradas como documentação de acontecimentos ou jogos reais.
 

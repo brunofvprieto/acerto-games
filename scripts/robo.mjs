@@ -126,6 +126,60 @@ async function baixarImagem(url, slug, referer) {
   }
 }
 
+// ---------- Capa com arte oficial (teste iniciado em 26/10/2026) ----------
+// Prioridade: arte oficial da loja do jogo (key art/wallpaper da Steam) e, depois,
+// variantes oficiais (capturas da página da Steam), sem repetir imagem já usada no site.
+// Exceção: quando a matéria trata de algo visual específico (capaDoAssunto), a foto
+// do próprio assunto vem primeiro. Para voltar ao modelo anterior, veja
+// docs/capa-arte-oficial.md (branch backup/antes-capa-arte-oficial).
+
+const normalizarNome = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+const semQuery = (u) => (u || "").split("?")[0];
+
+function origensJaUsadas() {
+  const usadas = new Set();
+  for (const dir of [DIR_PUBLICADOS, path.join(RAIZ, "content/rascunhos")]) {
+    let arquivos = [];
+    try { arquivos = fs.readdirSync(dir).filter((f) => f.endsWith(".json")); } catch { continue; }
+    for (const f of arquivos) {
+      try {
+        const p = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"));
+        if (p.imageOrigem) usadas.add(semQuery(p.imageOrigem));
+      } catch {}
+    }
+  }
+  return usadas;
+}
+
+async function artesOficiaisSteam(jogo) {
+  if (!jogo) return [];
+  try {
+    const busca = await fetch(`https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(jogo)}&cc=br&l=portuguese`, { signal: AbortSignal.timeout(15000) });
+    if (!busca.ok) return [];
+    const itens = (await busca.json()).items || [];
+    const alvo = normalizarNome(jogo);
+    const fora = /soundtrack|\bost\b|demo|artbook|art book|dlc|season pass|playtest|bundle/i;
+    const escolhido =
+      itens.find((i) => normalizarNome(i.name) === alvo && !fora.test(i.name)) ||
+      itens.find((i) => normalizarNome(i.name).startsWith(alvo) && !fora.test(i.name));
+    if (!escolhido) return [];
+    const det = await fetch(`https://store.steampowered.com/api/appdetails?appids=${escolhido.id}&cc=br&l=portuguese`, { signal: AbortSignal.timeout(15000) });
+    if (!det.ok) return [];
+    const dados = (await det.json())[escolhido.id]?.data;
+    if (!dados) return [];
+    const empresa = (dados.publishers && dados.publishers[0]) || (dados.developers && dados.developers[0]) || "divulgação";
+    const credito = `${dados.name}. Divulgação/${empresa.trim()}`;
+    const lista = [];
+    if (dados.background_raw) lista.push({ url: dados.background_raw, credito, tipo: "arte oficial (Steam)" });
+    for (const s of dados.screenshots || []) {
+      if (s.path_full) lista.push({ url: s.path_full, credito, tipo: "captura oficial (Steam)" });
+    }
+    return lista;
+  } catch {
+    return [];
+  }
+}
+
 // Canais/publishers oficiais — o vídeo PRECISA vir de uma dessas fontes
 const CANAIS_OFICIAIS = [
   "playstation", "xbox", "nintendo", "rockstar games", "ubisoft", "bethesda",
@@ -304,6 +358,7 @@ async function escreverMateria(item, titulosRodada = []) {
     ...[...titulosRodada, ...titulosJaPublicados().slice(0, 30)].map((t) => `- ${t}`),
     ``,
     `Escreva a matéria seguindo a persona e as regras. Lembre: se o material for insuficiente, sinalize na "observacao".`,
+    `Inclua também no JSON dois campos para a escolha da capa: "jogo" (nome oficial do jogo principal da matéria, como aparece na Steam, ou "" se não houver um jogo específico) e "capaDoAssunto" (true quando a notícia trata de algo visual específico, como lugar, evento, loja, produto físico, pessoa ou imagem vazada, e a foto da fonte mostra esse assunto; false nos demais casos).`,
   ].join("\n");
 
   const res = await fetch("https://api.anthropic.com/v1/messages", {
@@ -490,19 +545,25 @@ async function main() {
         console.log(`   🎬 Player do trailer embutido na matéria`);
       }
 
-      const candidatas = [];
-      if (item.imagem) candidatas.push({ url: item.imagem, credito: `${item.credito}/${item.fonte}` });
+      const daFonte = [];
+      if (item.imagem) daFonte.push({ url: item.imagem, credito: `${item.credito}/${item.fonte}`, tipo: "imagem da fonte" });
       if (item.videoYT) {
-        candidatas.push({ url: `https://img.youtube.com/vi/${item.videoYT}/maxresdefault.jpg`, credito: "Reprodução/YouTube" });
-        candidatas.push({ url: `https://img.youtube.com/vi/${item.videoYT}/hqdefault.jpg`, credito: "Reprodução/YouTube" });
+        daFonte.push({ url: `https://img.youtube.com/vi/${item.videoYT}/maxresdefault.jpg`, credito: "Reprodução/YouTube", tipo: "miniatura do trailer" });
+        daFonte.push({ url: `https://img.youtube.com/vi/${item.videoYT}/hqdefault.jpg`, credito: "Reprodução/YouTube", tipo: "miniatura do trailer" });
       }
+      const usadas = origensJaUsadas();
+      const oficiais = (await artesOficiaisSteam(materia.jogo)).filter((c) => !usadas.has(semQuery(c.url)));
+      if (materia.jogo) console.log(oficiais.length ? `🎨 ${oficiais.length} arte(s) oficial(is) inédita(s) de "${materia.jogo}" na Steam` : `🎨 Sem arte oficial inédita de "${materia.jogo}" na Steam`);
+      const candidatas = materia.capaDoAssunto ? [...daFonte, ...oficiais] : [...oficiais, ...daFonte];
+      if (materia.capaDoAssunto) console.log(`   📸 Matéria sobre algo visual: foto do próprio assunto tem prioridade`);
       if (candidatas.length) console.log(`💾 Baixando imagem pra casa (${candidatas.length} candidata(s))...`);
       for (const c of candidatas) {
         const local = await baixarImagem(c.url, materia.slug, item.link);
         if (local) {
           materia.image = local;
           materia.imageCredit = c.credito;
-          console.log(`   ✓ Imagem hospedada em ${local}`);
+          materia.imageOrigem = semQuery(c.url);
+          console.log(`   ✓ Imagem hospedada em ${local} (${c.tipo || "imagem"})`);
           break;
         }
       }
@@ -513,6 +574,8 @@ async function main() {
       }
       if (!materia.image) console.log(`   ⚠ ATENÇÃO: nenhuma imagem em nenhuma camada — caso raríssimo, adicione manualmente.`);
 
+      delete materia.capaDoAssunto;
+      delete materia.jogo;
       if (materia.observacao) console.log(`   📝 Obs do robô: ${materia.observacao}`);
       if (AUTO) delete materia.observacao; // nota interna não vai ao ar
       materia.publicadoEm = new Date().toISOString(); // carimbo p/ ordenação precisa
