@@ -131,7 +131,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1648 | 8 | 96 | Shrek 2 Remastered aparece na loja do Xbox antes do ID@Xbox Showcase | texto curto |
 | FORTE | noticia | 1652 | 7 | 96 | Silent Hill: Townfall detalha recursos do PS5 e aposta em áudio 3D para ampliar o terror | texto curto |
 | FORTE | notícia | 1645 | 5 | 96 | Splatoon Raiders estreia em 1º no Reino Unido — e olha que só teve dois dias de venda | texto curto |
-| FORTE | notícia | 1683 | 7 | 97 | Black Flag Resynced vai ganhar Novo Jogo+ na próxima semana, confirma a Ubisoft | texto curto |
 | FORTE | notícia | 1681 | 5 | 97 | Ex-produtor da Rockstar sobre GTA 6: "Deve ser monstruoso" | texto curto |
 | FORTE | notícia | 1687 | 6 | 97 | GTA 6 está dentro do prazo do The Game Awards 2026, com um dia de folga | texto curto |
 | FORTE | notícia | 1697 | 8 | 97 | GTA 6 deve exigir o firmware 14.10 do PS5, e hacker mostra o menu de debug do sistema | texto curto |
@@ -200,6 +199,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5666 | 24 | 100 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | — |
 | FORTE | notícia | 2074 | 6 | 100 | Black Flag Resynced ganha atualização que deixa esconder a zarabatana das costas do Edward | — |
 | FORTE | notícia | 2101 | 5 | 100 | DLC polêmico do dia 1 de Black Flag Resynced rendeu US$ 1 milhão só no Steam — e a galera tá furiosa | — |
+| FORTE | notícia | 2779 | 11 | 100 | Black Flag Resynced recebe Novo Jogo+ e modo Pesadelo nesta terça, na última grande atualização | — |
 | FORTE | notícia | 2646 | 5 | 100 | Diretor de Black Flag Resynced pede uma coisa só: que a gente não abandone o jogo quando GTA 6 chegar | — |
 | FORTE | Notícias | 2001 | 7 | 100 | Assassin's Creed Black Flag Resynced pode chegar ao Switch 2 após nova listagem no varejo francês | — |
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
