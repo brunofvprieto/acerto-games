@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 724
-- Forte: 710
+- Total analisado: 725
+- Forte: 711
 - Revisar: 12
 - Prioridade: 2
 
@@ -255,6 +255,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
 | FORTE | notícia | 2605 | 9 | 100 | Cyberpunk 2077 recebe atualização 2.5 de Edgerunners 2 na quinta, com duas armas e implantes personalizáveis | — |
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
+| FORTE | notícia | 2777 | 13 | 100 | Cyberpunk 2077 tem maior pico na Steam desde 2023 e lidera vendas no Brasil | — |
 | FORTE | notícia | 2186 | 10 | 100 | Hideo Kojima volta a Night City como Hideyoshi Oshima em Cyberpunk: Edgerunners 2 | — |
 | FORTE | notícia | 1878 | 6 | 100 | Dan Houser revela primeiros detalhes dos jogos da Absurd Ventures após deixar a Rockstar | — |
 | FORTE | notícia | 3076 | 10 | 100 | Rumor: toda a trilogia Dark Souls pode estar sendo refeita, e a pergunta que ninguém respondeu é quem está fazendo | — |
