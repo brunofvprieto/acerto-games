@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 726
-- Forte: 712
+- Total analisado: 727
+- Forte: 713
 - Revisar: 12
 - Prioridade: 2
 
@@ -309,6 +309,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2755 | 10 | 100 | Fatekeeper passa de 500 mil cópias vendidas ainda em acesso antecipado | — |
 | FORTE | notícia | 1999 | 5 | 100 | Final Fantasy XIV revela arte oficial do Kefka Imaginário, o chefe final da nova fase Extrema | — |
 | FORTE | notícia | 2369 | 5 | 100 | Filme de Call of Duty tem data confirmada — e vai se passar no universo Modern Warfare | — |
+| FORTE | notícia | 2749 | 11 | 100 | Filme de Elden Ring custa quase US$ 200 milhões e é o mais caro da A24 | — |
 | FORTE | artigo | 7973 | 21 | 100 | O fim das engines próprias? Halo entregou os pontos — e a conta chegou pra todo mundo | — |
 | FORTE | noticia | 1799 | 8 | 100 | Final Fantasy Resonance ganha trailer da TGS 2026 antes do lançamento em outubro | texto curto |
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
