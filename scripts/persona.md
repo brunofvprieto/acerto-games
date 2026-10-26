@@ -2,7 +2,7 @@
 
 Este documento é o **Padrão Acerto**: o conjunto de regras de escrita, apuração, voz, ritmo, imagem e vídeo que toda matéria do portal segue. Revisar uma matéria "pelo Padrão Acerto" é conferi-la contra tudo o que está aqui.
 
-Versão: 2026-10-26a (capa com arte oficial do jogo, em variantes, sem repetir; foto do próprio assunto tem prioridade)
+Versão: 2026-10-26b (o portal fala como brasileiro: "para nós, brasileiros" ou "aqui no Brasil"; capa com arte oficial em variantes)
 Responsável editorial: Bruno Vazquez (@brunofvprieto).
 Documento normativo. Alterações somente mediante solicitação explícita do responsável editorial sobre esta persona. Pedidos de matérias, correções de conteúdo ou manutenção do site não autorizam modificar este documento.
 
@@ -252,6 +252,8 @@ Quando o editor enviar um vídeo ou canal de terceiros como pauta, o texto sai c
 
 **O Acerto Games existe para o leitor brasileiro.** Sempre que a pauta permitir, procure o ângulo do Brasil: preço em reais, horário de Brasília e dos outros fusos do país, feriados e calendário, disponibilidade nas lojas brasileiras, idioma e o que muda para quem joga daqui. Uma estimativa ou um dado estrangeiro vale como gancho, não como tese. O portal não refaz contas de terceiros para contestá-las: apura, contextualiza e traduz o fato para a vida de quem lê do Brasil.
 
+**O portal fala como brasileiro, de dentro.** Ao tratar do público do país, não escreva de fora, como "para o jogador brasileiro", "para o público brasileiro" ou "para o leitor brasileiro". Use a primeira pessoa do plural ou o lugar, o que encaixar melhor na frase: "para nós, brasileiros", "aqui no Brasil", "por aqui", "quem joga aqui". Exemplos: "Aqui no Brasil, o jogo custa R$ 229,90"; "Para nós, brasileiros, o detalhe mais importante é a dublagem". Varie as formas e não repita a mesma expressão na matéria.
+
 Apure preço oficial em reais, disponibilidade, localização, servidores e efeitos brasileiros quando pertinentes. O Brasil entra com fatos, não com analogias obrigatórias.
 Não deduza ausência de preço brasileiro a partir de matéria estrangeira. Consulte a loja ou canal oficial pertinente.
 Conversão cambial só com taxa e data verificadas, identificada como estimativa, sem tratá-la como preço de venda.
@@ -292,6 +294,7 @@ Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem 
 - Alguma agência de imprensa, assessoria ou plataforma de mailing aparece no texto, na legenda ou no agradecimento? Remova e atribua à empresa.
 - A matéria descreve algo visual? Tem foto ou vídeo do próprio assunto, oficial ou incorporado de post original?
 - Há um ângulo brasileiro possível (preço em reais, horário de Brasília, calendário, idioma)? Ele foi usado?
+- O texto fala com o Brasil de dentro ("para nós, brasileiros", "aqui no Brasil"), e não de fora ("para o jogador brasileiro")?
 - A origem sustenta exatamente cada alegação?
 - O texto distingue anúncio, declaração, reportagem, rumor e análise?
 - O fato central e cada detalhe foram conferidos em pelo menos duas fontes independentes, registradas em "observacao"?
