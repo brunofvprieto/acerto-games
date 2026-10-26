@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 732
-- Forte: 718
+- Total analisado: 733
+- Forte: 719
 - Revisar: 12
 - Prioridade: 2
 
@@ -553,6 +553,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2664 | 10 | 100 | Phantom Blade Zero vende 500 mil cópias na Steam antes de lançar e entra no top 12 do Brasil | — |
 | FORTE | Artigos | 6827 | 22 | 100 | Phantom Blade Zero quer transformar kung fu em gameplay — e Donnie Yen ajudou a construir essa luta | — |
 | FORTE | Notícias | 2378 | 7 | 100 | Donnie Yen está em Phantom Blade Zero — e sua participação vai muito além de interpretar um personagem | — |
+| FORTE | notícia | 2740 | 11 | 100 | Phantom Blade Zero: pré-download pede 300 GB no PC; veja quanto tempo leva para zerar | — |
 | FORTE | Opinião | 5597 | 17 | 100 | Phantom Blade Zero: por que meu hype está nas alturas | — |
 | FORTE | notícia | 5211 | 14 | 100 | Phantom Blade Zero impressiona nas primeiras prévias, mas ainda deixa dúvidas sobre o desempenho | — |
 | FORTE | Artigos | 3408 | 13 | 100 | Quem é Soul? Entenda a história de Phantom Blade Zero e por que ele tem apenas 66 dias | — |
