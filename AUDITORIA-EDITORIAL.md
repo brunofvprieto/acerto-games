@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 727
-- Forte: 713
+- Total analisado: 729
+- Forte: 715
 - Revisar: 12
 - Prioridade: 2
 
@@ -205,6 +205,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
+| FORTE | notícia | 2759 | 10 | 100 | Ayasa: Shadows of Silence, terror contado sem palavras, chega ao PS5 e ao Xbox | — |
 | FORTE | notícia | 2733 | 9 | 100 | Battlefield 6 abre o evento de Dead Space: Marker Incursion põe 16 jogadores contra soldados infectados na Área 51 | — |
 | FORTE | noticia | 3730 | 12 | 100 | Battlefield 6 chega ao Game Pass em outubro, enquanto jogo brasileiro Deep Dish Dungeon estreia no serviço | — |
 | FORTE | notícia | 4427 | 7 | 100 | Tsuru Reef é o maior mapa de Battlefield 6 — e pode ser aquele que você nunca joga de novo | — |
@@ -450,6 +451,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
 | FORTE | notícia | 3129 | 13 | 100 | Arquivos de Mario Kart World indicam DLC em ondas com piloto, taça e item | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
+| FORTE | notícia | 2738 | 11 | 100 | Marvel Cosmic Invasion revela modo roguelite no Castelo do Destino | — |
 | FORTE | noticia | 3760 | 12 | 100 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | — |
 | FORTE | notícia | 1784 | 5 | 100 | Marvel Rivals na 9ª temporada e a galera já tá de saco cheio do caos visual | texto curto |
 | FORTE | notícia | 4906 | 14 | 100 | Marvel na San Diego Comic-Con 2026: o resumo de tudo que a Casa das Ideias anunciou | — |
