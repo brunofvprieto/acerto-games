@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 720
-- Forte: 706
+- Total analisado: 721
+- Forte: 707
 - Revisar: 12
 - Prioridade: 2
 
@@ -445,6 +445,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2616 | 7 | 100 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | — |
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
+| FORTE | notícia | 3129 | 13 | 100 | Arquivos de Mario Kart World indicam DLC em ondas com piloto, taça e item | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
 | FORTE | noticia | 3760 | 12 | 100 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | — |
 | FORTE | notícia | 1784 | 5 | 100 | Marvel Rivals na 9ª temporada e a galera já tá de saco cheio do caos visual | texto curto |
