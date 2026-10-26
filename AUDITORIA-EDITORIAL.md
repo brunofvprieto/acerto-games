@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 735
-- Forte: 721
+- Total analisado: 736
+- Forte: 722
 - Revisar: 12
 - Prioridade: 2
 
@@ -252,6 +252,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2805 | 6 | 100 | Os maiores críticos do Game Pass estão dentro da própria Xbox | — |
 | FORTE | noticia | 1996 | 9 | 100 | Croc 2 está de volta: remaster chega em 29 de outubro com mais de 40 fases e museu histórico | — |
 | FORTE | artigo | 4142 | 15 | 100 | GTA 6 e o Cyberleek: o crime que virou entretenimento e o problema que ninguém está discutindo | — |
+| FORTE | notícia | 2744 | 12 | 100 | Cronos: The New Dawn ganha modo foto em atualização grátis e fica 50% mais barato | — |
 | FORTE | notícia | 2805 | 11 | 100 | Cult of the Lamb chega ao Switch 2 em 22 de outubro, com upgrade grátis para quem tem no Switch | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
 | FORTE | notícia | 2605 | 9 | 100 | Cyberpunk 2077 recebe atualização 2.5 de Edgerunners 2 na quinta, com duas armas e implantes personalizáveis | — |
