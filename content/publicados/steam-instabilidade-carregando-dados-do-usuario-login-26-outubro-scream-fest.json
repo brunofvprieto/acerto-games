@@ -1,0 +1,39 @@
+{
+  "slug": "steam-instabilidade-carregando-dados-do-usuario-login-26-outubro-scream-fest",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "26 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-26T16:29:00-03:00",
+  "title": "Steam fica instável e trava jogadores na tela \"Carregando dados do usuário\"",
+  "excerpt": "Parte dos usuários não conseguiu entrar no aplicativo nesta segunda (26), primeiro dia do Steam Scream Fest. A loja seguiu funcionando pelo navegador, e a Valve não comentou.",
+  "cover": [
+    "#1b2838",
+    "#0b0f17"
+  ],
+  "image": "/img/steam-instabilidade-carregando-dados-do-usuario-26-outubro.jpg",
+  "imageFilename": "steam-instabilidade-carregando-dados-do-usuario-26-outubro.jpg",
+  "imageAlt": "Logotipo da Steam sobre um mosaico de capas de jogos da loja",
+  "imageCredit": "Steam. Divulgação/Valve",
+  "fonte": "Relatos de usuários (Downdetector) e Valve",
+  "fonteUrl": "https://store.steampowered.com/",
+  "imageOrigem": "https://cdn.akamai.steamstatic.com/store/home/store_home_share.jpg",
+  "observacao": "Início por volta de 6h ET (7h de Brasília) segundo o Downdetector: PC Gamer e GamesRadar (8h ET o pico). Tela 'loading user data', sem acesso à biblioteca: PC Gamer, GamesRadar, Vice, GamingBible, Kotaku. Vários países (EUA, Japão, Polônia, Indonésia na Vice; Ásia na GamingBible); PC e Steam Deck: Vice. Loja e comunidade pelo navegador: Vice e GamingBible (GamesRadar sugere a loja web). SteamDB/status verde: PC Gamer e GamesRadar. Suspeita de ligação com compra/resgate e download: PC Gamer e GamesRadar. Soluções irregulares (administrador, desconectar rede, esperar) e o que não funcionou (reinstalar, trocar senha): Vice, PC Gamer, GamingBible. Valve sem comentário, inclusive no X: todas (Vice cita a conta oficial no X). Nome em português da tela ('Carregando dados do usuário'): tradução do cliente em PT-BR. Brasil afetado não confirmado por fonte; texto fala em vários países. Queda anterior em 21/10 (só GamesRadar) ficou fora. Scream V Fest de 26/10 10h PT (14h de Brasília) a 2/11: SteamPageAnalyzer e FullCleared (calendário da Valve). Oferta de Cyberpunk até 15h: contador da Steam (matéria do site). Recorde de 43,5 milhões em 11/10: matéria do site. 300 GB livres para o pré-download de PBZ no PC: PC Gamer e GamesRadar (26/10); lançamento 28/10 23h: matéria do site. Modo offline exige ativação prévia com login: funcionamento conhecido do cliente. Imagem: arte oficial de compartilhamento da loja Steam.",
+  "body": [
+    "A Steam amanheceu instável nesta segunda-feira (26). Parte dos jogadores não conseguiu entrar no aplicativo, que ficou travado na tela \"Carregando dados do usuário\". Sem passar dela, não dá para abrir a biblioteca nem iniciar os jogos.",
+    "Os relatos começaram por volta das 7h de Brasília e cresceram ao longo da manhã, segundo o Downdetector. Vieram de vários países, e o problema atingiu tanto o PC quanto o Steam Deck. Até a publicação desta matéria, a Valve não tinha se pronunciado, nem pelo site oficial nem pelas contas da Steam nas redes sociais. Também não há estimativa de quando o acesso volta ao normal para todos.",
+    "## O que funciona e o que não funciona",
+    "A falha parece concentrada no aplicativo. A loja e a comunidade continuaram abrindo normalmente pelo navegador, e os painéis que monitoram os servidores da Valve mostravam os serviços funcionando. Para muita gente, o login simplesmente não terminava.",
+    "Há uma suspeita entre os jogadores, ainda sem confirmação. Vários relatos apontam que o travamento aparece depois de comprar um jogo ou resgatar um código e começar o download. Em alguns casos, a tela de carregamento passou sozinha depois de alguns minutos.",
+    "As soluções caseiras tiveram resultado irregular. Fechar a Steam e abrir de novo como administrador, desconectar o PC da internet e reconectar ou simplesmente esperar funcionaram para alguns usuários, mas não para todos. Reinstalar o aplicativo e trocar a senha não resolveram.",
+    "## No pior dia possível",
+    "O momento não ajudou. A instabilidade caiu justamente no primeiro dia do Steam Scream Fest, a promoção de Halloween da loja, que começou às 14h de Brasília e vai até 2 de novembro.",
+    "Também foi o último dia da oferta de 70% em Cyberpunk 2077, que terminou às 15h e levou o jogo ao topo das vendas da Steam no Brasil. Para quem tentou aproveitar os descontos pelo aplicativo, a saída foi comprar pelo navegador e esperar o login voltar para baixar.",
+    "## Antes de uma semana pesada",
+    "O alerta vale para os próximos dias. Phantom Blade Zero libera na quarta-feira (28), às 23h de Brasília, e a S-GAME pede pelo menos 300 GB livres no PC para o pré-download. É o tipo de lançamento em que um login travado na hora errada vira horas de atraso para começar a jogar.",
+    "Para quem ficar preso na tela de carregamento, o caminho mais seguro é não reinstalar nada. Vale fechar o aplicativo, conferir pelo navegador se a compra aparece na conta e tentar de novo mais tarde. Jogos já instalados podem rodar no modo offline da Steam, desde que ele tenha sido ativado antes da falha.",
+    "A queda chega duas semanas depois de a Steam bater o recorde de 43,5 milhões de usuários simultâneos. Com uma base desse tamanho, qualquer instabilidade na entrada do aplicativo vira um problema de milhões de jogadores, ainda mais com a semana de lançamentos pesados que vem pela frente.",
+    "link: Cyberpunk 2077 tem maior pico na Steam desde 2023 e lidera vendas no Brasil | /noticia/cyberpunk-2077-maior-pico-steam-desde-2023-mais-vendido-brasil-desconto-70",
+    "link: Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | /noticia/steam-recorde-43-milhoes-usuarios-simultaneos-brasil-outubro-2026"
+  ]
+}
