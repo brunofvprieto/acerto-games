@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 721
-- Forte: 707
+- Total analisado: 724
+- Forte: 710
 - Revisar: 12
 - Prioridade: 2
 
@@ -280,6 +280,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
 | FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
 | FORTE | notícia | 2290 | 7 | 100 | Dragon Ball: Sparking! Zero mostra DLC "Super Limit-Breaking NEO" e update grátis com 33 lutadores novos | — |
+| FORTE | notícia | 3049 | 12 | 100 | Dragon Ball Xenoverse 2 faz 10 anos com o Final Festival, que dá itens para Xenoverse 3 | — |
 | FORTE | noticia | 1909 | 8 | 100 | Dragon Quest supera 100 milhões de unidades vendidas no ano de seu 40º aniversário | — |
 | FORTE | noticia | 3693 | 16 | 100 | Dragon's Dogma 2: Dark Arisen ganha trailer principal com Norgan, novos monstros e desafios | — |
 | FORTE | notícia | 2479 | 6 | 100 | Venda da EA por US$ 55 bilhões será concluída na próxima semana — a maior da história dos games | — |
@@ -483,6 +484,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3348 | 15 | 100 | Modern Warfare 4 chega com UAV mais resistente, SMGs mais fortes e sem Desafios Semanais na Temporada 1 | — |
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2523 | 9 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
+| FORTE | notícia | 3675 | 14 | 100 | Modern Warfare 4 triplica o XP por abate no Search & Destroy e desfaz correção da bomba feita um dia antes | — |
 | FORTE | notícia | 2324 | 9 | 100 | Modern Warfare 4 tem o dobro de jogadores de Black Ops 7 no Steam, mas fica abaixo de Black Ops 6 | — |
 | FORTE | notícia | 2449 | 9 | 100 | Modern Warfare 4 pede 39 GB livres para atualizar no Switch 2, e o jogo já ocupa um terço do console | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
@@ -618,6 +620,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5066 | 20 | 100 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
+| FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
 | FORTE | notícia | 2166 | 7 | 100 | Marvel's Spider-Man 2 ganha update grátis com trajes de Brand New Day e Tōkon — e um bug engraçado | — |
 | FORTE | notícia | 2825 | 7 | 100 | O diretor de Spider-Man: Brand New Day usou os jogos da Insomniac como manual de acrobacias | — |
