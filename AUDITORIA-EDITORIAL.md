@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 733
-- Forte: 719
+- Total analisado: 734
+- Forte: 720
 - Revisar: 12
 - Prioridade: 2
 
@@ -656,6 +656,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2712 | 8 | 100 | Capcom aprova novo filme de Street Fighter, e diretor revela reação de criador dos jogos | — |
 | FORTE | noticia | 2165 | 9 | 100 | Filme de Street Fighter vai eternizar o EVO Moment 37 e terá Justin Wong em cena | — |
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
+| FORTE | notícia | 2784 | 12 | 100 | Sucker Punch, de Ghost of Yōtei, demite 26 funcionários | — |
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
 | FORTE | notícia | 3810 | 13 | 100 | Switch 2 ganha o primeiro jailbreak, feito com ajuda de IA, e Mario Kart World recebe Peter Griffin e Hatsune Miku | — |
