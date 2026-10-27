@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 733
-- Forte: 719
+- Total analisado: 738
+- Forte: 724
 - Revisar: 12
 - Prioridade: 2
 
@@ -204,6 +204,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 2001 | 7 | 100 | Assassin's Creed Black Flag Resynced pode chegar ao Switch 2 após nova listagem no varejo francês | — |
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
+| FORTE | notícia | 2718 | 11 | 100 | Estúdio de Boltgun 2 vai cortar um quarto da equipe 12 dias depois do lançamento | — |
+| FORTE | notícia | 3201 | 13 | 100 | Compositor de Journey publica a música que criou para o Mass Effect cancelado; ouça | — |
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
 | FORTE | notícia | 2759 | 10 | 100 | Ayasa: Shadows of Silence, terror contado sem palavras, chega ao PS5 e ao Xbox | — |
 | FORTE | notícia | 2733 | 9 | 100 | Battlefield 6 abre o evento de Dead Space: Marker Incursion põe 16 jogadores contra soldados infectados na Área 51 | — |
@@ -230,6 +232,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1997 | 8 | 100 | Capcom confirma vazamento de dados de 11,7 milhões de contas do Capcom ID | — |
 | FORTE | notícia | 2527 | 8 | 100 | Capcom dispara: lucro sobe 69% no trimestre, puxado por Pragmata e Resident Evil | — |
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
+| FORTE | notícia | 3011 | 11 | 100 | Capcom cresce 49% no semestre; Pragmata passa de 2,7 milhões e Onimusha de 1,7 milhão | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
 | FORTE | notícia | 3093 | 12 | 100 | Wolverine lidera setembro nos EUA, PS5 sobe 22% e Xbox tem o pior setembro da sua história | — |
@@ -573,6 +576,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 2841 | 12 | 100 | Pokémon terá loja permanente em Londres até 2029, a primeira fora da Ásia | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
+| FORTE | notícia | 3632 | 15 | 100 | Pokémon UNITE vai sair do ar em 23 de março de 2027, e a venda de gemas já acabou | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
 | FORTE | artigo | 11566 | 39 | 100 | Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos | — |
 | FORTE | artigo | 10180 | 29 | 100 | Por que Assassin’s Creed II é uma obra-prima e como Ezio transformou a Ubisoft | — |
@@ -690,6 +694,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
 | FORTE | notícia | 2764 | 10 | 100 | Ubisoft reúne The Division, Ghost Recon e Splinter Cell sob a Massive Entertainment | — |
+| FORTE | notícia | 2685 | 11 | 100 | Modern Warfare 4 estreia em 1º no Reino Unido, com 78% das cópias físicas vendidas no PS5 | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
 | FORTE | review | 4535 | 23 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
