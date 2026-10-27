@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 756
-- Forte: 742
+- Total analisado: 757
+- Forte: 743
 - Revisar: 12
 - Prioridade: 2
 
@@ -456,6 +456,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3016 | 6 | 100 | O ator de Wolverine ficou com medo de si mesmo — e isso foi exatamente o que a Insomniac queria | — |
 | FORTE | especial | 4282 | 9 | 100 | Lies of P no Switch 2 mostra como um bom port deve ser feito | — |
 | FORTE | notícia | 3456 | 12 | 100 | Liquid Swords fecha as portas seis meses depois de Samson, e o jogo vai a leilão com o estúdio | — |
+| FORTE | notícia | 2816 | 11 | 100 | Livro oficial dos 30 anos do PlayStation, com protótipos inéditos, começa a ser enviado em novembro | — |
 | FORTE | notícia | 2616 | 11 | 100 | Look Outside, o terror em que olhar pela janela vira monstro, chega ao PS5 e ao Switch 2 em 30 de outubro | — |
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
