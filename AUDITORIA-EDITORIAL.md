@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 736
-- Forte: 722
+- Total analisado: 734
+- Forte: 720
 - Revisar: 12
 - Prioridade: 2
 
@@ -452,7 +452,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2616 | 7 | 100 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | — |
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
-| FORTE | notícia | 3129 | 13 | 100 | Arquivos de Mario Kart World indicam DLC em ondas com piloto, taça e item | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
 | FORTE | notícia | 2738 | 11 | 100 | Marvel Cosmic Invasion revela modo roguelite no Castelo do Destino | — |
 | FORTE | noticia | 3760 | 12 | 100 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | — |
@@ -573,7 +572,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 2841 | 12 | 100 | Pokémon terá loja permanente em Londres até 2029, a primeira fora da Ásia | — |
-| FORTE | notícia | 2718 | 13 | 100 | Pokémon Pokopia: vazamento revela 24 Pokémon do DLC 2 e eventos de fim de ano | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
 | FORTE | artigo | 11566 | 39 | 100 | Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos | — |
