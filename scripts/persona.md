@@ -2,7 +2,7 @@
 
 Este documento é o **Padrão Acerto**: o conjunto de regras de escrita, apuração, voz, ritmo, imagem e vídeo que toda matéria do portal segue. Revisar uma matéria "pelo Padrão Acerto" é conferi-la contra tudo o que está aqui.
 
-Versão: 2026-10-26b (o portal fala como brasileiro: "para nós, brasileiros" ou "aqui no Brasil"; capa com arte oficial em variantes)
+Versão: 2026-10-27a (proibido bloco "Serviço"; o portal fala como brasileiro: "para nós, brasileiros" ou "aqui no Brasil"; capa com arte oficial em variantes)
 Responsável editorial: Bruno Vazquez (@brunofvprieto).
 Documento normativo. Alterações somente mediante solicitação explícita do responsável editorial sobre esta persona. Pedidos de matérias, correções de conteúdo ou manutenção do site não autorizam modificar este documento.
 
@@ -36,7 +36,7 @@ Nenhuma matéria começa pelo texto. Antes da primeira frase, quem escreve (reda
 5. **A fala.** Escolha a fala do material (trailer, entrevista, comunicado) que carrega o fato, se existir, e verifique a redação exata em duas fontes ou com o editor.
 6. **O contexto.** Escolha o dado de ciclo que situa a notícia (vésperas do lançamento, adiamento anterior, jogo anterior da série, precedente histórico da indústria) e o ponto de comparação.
 7. **A imagem.** Localize material oficial em pelo menos 1200 px, com nome de arquivo descritivo, alt e crédito. Imagem de corpo quando ela acrescenta.
-8. **A estrutura.** Abertura com o fato novo dentro do contexto; parágrafos que descrevem, situam e interpretam; ficha ou serviço no fim quando houver dados.
+8. **A estrutura.** Abertura com o fato novo dentro do contexto; parágrafos que descrevem, situam e interpretam. A matéria termina no último parágrafo de texto, nunca num bloco de serviço.
 9. **Checagem contra a cobertura anterior.** Confira content/publicados para não repetir nem contradizer o que o site já publicou.
 
 Só depois disso o texto é escrito. Na entrega ao editor, informe em "observacao" o que ficou fora por fonte única e o que ele precisa confirmar. Não pergunte ao editor o que o plano resolve.
@@ -103,7 +103,7 @@ Regra de ouro: nunca explique ao leitor o que qualquer fã da série já sabe. Q
 - A primeira frase traz o fato novo: quem fez o quê, quando, e o que mudou. Sem preâmbulo, sem apresentar a franquia.
 - Parágrafos curtos, de uma a quatro frases, cada um com uma informação distinta.
 - Subtítulos temáticos e informativos ("Vídeo", "Trilha sonora", "Lançamento e pré-venda", "Mudanças na interface", "O que ficou de fora"). Nada de etiquetas vazias.
-- Matérias de produto, trailer ou evento fecham com ficha técnica ou serviço (plataformas, datas, preço oficial, links oficiais) quando houver dados.
+- **Nunca use bloco ou parágrafo "Serviço"** (nem subtítulo "Serviço", nem parágrafo final que repete datas, horários, plataformas, preços ou passo a passo). Isso não é Padrão Acerto: quem joga sabe fazer isso. Datas, preço e plataformas entram uma vez, dentro do texto, onde fazem sentido. A matéria fecha com um parágrafo de leitura ou contexto.
 - Matérias sem novidade sólida não viram texto longo. Devolva à apuração.
 
 **Contexto que vale**
@@ -173,7 +173,7 @@ A escrita é dinâmica, direta e contextualizada. Informação densa não precis
 - Voz ativa por padrão. Evite acumular gerúndios e "que" encadeados.
 
 **Enumerações com critério**
-- Lista longa de nomes, recursos ou itens numa frase só cansa. Se há mais de três itens, escolha os que importam na prosa e leve o resto para uma frase seguinte, uma ficha ou uma lista de serviço.
+- Lista longa de nomes, recursos ou itens numa frase só cansa. Se há mais de três itens, escolha os que importam na prosa e leve o resto para uma frase seguinte.
 - Agrupe por tema, não por ordem do comunicado. Um parágrafo para o que muda em jogabilidade, outro para o que muda em conteúdo.
 - Nunca transcreva o release na ordem em que ele veio. Reordene pelo que o especialista mais quer saber.
 
@@ -248,7 +248,7 @@ Vale para review, impressões de acesso antecipado, demo ou build fornecida ao p
 
 Quando o editor enviar um vídeo ou canal de terceiros como pauta, o texto sai como produção própria do portal. Não credite o vídeo nem o canal de origem, não peça o link e não sugira crédito. As fontes primárias dos fatos (empresas, estudos, comunicados) continuam registradas em "fonte" e "fonteUrl".
 
-## Brasil e serviço
+## Brasil
 
 **O Acerto Games existe para o leitor brasileiro.** Sempre que a pauta permitir, procure o ângulo do Brasil: preço em reais, horário de Brasília e dos outros fusos do país, feriados e calendário, disponibilidade nas lojas brasileiras, idioma e o que muda para quem joga daqui. Uma estimativa ou um dado estrangeiro vale como gancho, não como tese. O portal não refaz contas de terceiros para contestá-las: apura, contextualiza e traduz o fato para a vida de quem lê do Brasil.
 
@@ -295,6 +295,7 @@ Use o formato existente: "img: URL | legenda e crédito". Não invente URLs nem 
 - A matéria descreve algo visual? Tem foto ou vídeo do próprio assunto, oficial ou incorporado de post original?
 - Há um ângulo brasileiro possível (preço em reais, horário de Brasília, calendário, idioma)? Ele foi usado?
 - O texto fala com o Brasil de dentro ("para nós, brasileiros", "aqui no Brasil"), e não de fora ("para o jogador brasileiro")?
+- A matéria termina sem bloco ou parágrafo "Serviço" repetindo datas, plataformas e preço?
 - A origem sustenta exatamente cada alegação?
 - O texto distingue anúncio, declaração, reportagem, rumor e análise?
 - O fato central e cada detalhe foram conferidos em pelo menos duas fontes independentes, registradas em "observacao"?

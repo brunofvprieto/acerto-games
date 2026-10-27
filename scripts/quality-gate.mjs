@@ -30,6 +30,7 @@ for (const arquivo of arquivos) {
   if (!post.category) erros.push("categoria ausente");
   if (post.category && !categorias.has(post.category)) erros.push(`categoria desconhecida: ${post.category}`);
   if (!post.excerpt || post.excerpt.length < 100) erros.push("resumo curto demais");
+  if (body.some((p) => typeof p === "string" && /^##\s*servi[çc]o\b/i.test(p.trim()))) erros.push('bloco "Serviço" proibido pelo Padrão Acerto: integre datas e preço ao texto');
   if (texto.length < 2800) erros.push(`texto muito curto (${texto.length} caracteres; mínimo editorial: 2800)`);
   if (paragrafos.length < 6) erros.push(`poucos parágrafos substanciais (${paragrafos.length}; mínimo: 6)`);
   if (proibidos.some((re) => re.test(post.title || ""))) erros.push("título usa fórmula de clickbait proibida");
