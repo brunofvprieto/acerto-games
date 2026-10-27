@@ -155,6 +155,35 @@ export default function Noticia({ params }) {
     isPartOf: { "@type": tipoSchema, "@id": urlCompleta },
   }));
 
+  // Vídeos do Instagram (reel/tv) incorporados no corpo também viram VideoObject,
+  // com a capa indicada no marcador ou a imagem principal da matéria como miniatura.
+  const absoluta = (src) => (src && src.startsWith("/") ? `https://acertogames.com.br${src}` : src);
+  const videosInstagram = [...new Map((post.body || [])
+    .filter((par) => typeof par === "string" && par.startsWith("instagram:"))
+    .map((par) => {
+      const [igUrl, igCapa] = par.slice(10).split("|").map((x) => x.trim());
+      const m = (igUrl || "").match(/instagram\.com\/(reel|tv)\/([A-Za-z0-9_-]+)/);
+      return m ? [m[2], { tipo: m[1], id: m[2], capa: igCapa && igCapa.startsWith("/") ? igCapa : null }] : null;
+    })
+    .filter(Boolean)).values()];
+  const totalVideos = idsVideo.length + videosInstagram.length;
+  videosInstagram.forEach((v, i) => {
+    const miniatura = absoluta(v.capa || post.image);
+    if (!miniatura) return;
+    schemasVideo.push({
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      name: totalVideos > 1 ? `${post.title} (vídeo ${idsVideo.length + i + 1})` : post.title,
+      description: post.excerpt || post.title,
+      thumbnailUrl: [miniatura],
+      ...(dataPublicacao ? { uploadDate: dataPublicacao } : {}),
+      embedUrl: `https://www.instagram.com/${v.tipo}/${v.id}/embed/`,
+      contentUrl: `https://www.instagram.com/${v.tipo}/${v.id}/`,
+      inLanguage: "pt-BR",
+      isPartOf: { "@type": tipoSchema, "@id": urlCompleta },
+    });
+  });
+
   const leiaTambem = relacionadas(post);
   const materiasLaterais = getAllPosts()
     .filter((p) => p.slug !== post.slug)
