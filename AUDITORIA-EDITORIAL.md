@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 753
-- Forte: 739
+- Total analisado: 754
+- Forte: 740
 - Revisar: 12
 - Prioridade: 2
 
@@ -470,6 +470,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2276 | 5 | 100 | Marvel's Wolverine terá cenas com Logan sem roupa, revela classificação da ESRB | — |
 | FORTE | notícia | 1928 | 5 | 100 | Marvel's Wolverine solta trailer brutal, revela Lady Letal e crava lançamento pra setembro | — |
 | FORTE | notícia | 2871 | 11 | 100 | EA tira Mass Effect de Battlefield 6, e petição para salvar a série passa de 200 mil | — |
+| FORTE | notícia | 2751 | 11 | 100 | Fãs de Mass Effect pagam outdoors na frente da EA em 15 minutos, e Sam Hulick vai refazer trilha do trailer vazado | — |
 | FORTE | notícia | 2862 | 11 | 100 | Vaza o trailer de Mass Effect: Universe, o jogo que a EA cancelou ao fechar a BioWare | — |
 | FORTE | notícia | 2633 | 5 | 100 | Matt Damon finalmente chegou ao Fortnite — mas sua estreia nos games quase aconteceu anos atrás, graças a Jason Bourne | — |
 | FORTE | notícia | 2743 | 5 | 100 | Matt Damon chegou ao Fortnite — mas quase tinha entrado nos games bem antes, como Jason Bourne | — |
