@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 734
-- Forte: 720
+- Total analisado: 733
+- Forte: 719
 - Revisar: 12
 - Prioridade: 2
 
@@ -659,7 +659,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2784 | 12 | 100 | Sucker Punch, de Ghost of Yōtei, demite 26 funcionários | — |
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
-| FORTE | notícia | 3810 | 13 | 100 | Switch 2 ganha o primeiro jailbreak, feito com ajuda de IA, e Mario Kart World recebe Peter Griffin e Hatsune Miku | — |
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
