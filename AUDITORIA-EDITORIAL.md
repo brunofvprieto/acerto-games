@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 743
-- Forte: 729
+- Total analisado: 744
+- Forte: 730
 - Revisar: 12
 - Prioridade: 2
 
@@ -472,6 +472,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2366 | 6 | 100 | Clones de Meccha Chameleon no Roblox têm mais jogadores que o jogo original no Steam — e isso diz muito sobre a plataforma | — |
 | FORTE | notícia | 4623 | 17 | 100 | Mega Man: Dual Override nasceu das lições de Mega Man 11 — e Proto Man voltou porque os fãs pediram | — |
 | FORTE | notícia | 6474 | 20 | 100 | Mega Man: Dual Override não quer apenas trazer o Blue Bomber de volta — quer fazê-lo evoluir | — |
+| FORTE | notícia | 2736 | 12 | 100 | Mega Man: Dual Override revela Tank Man, um gerente de petróleo furioso | — |
 | FORTE | artigo | 13158 | 41 | 100 | As melhores sequências de abertura de todos os tempos — Parte 1 | — |
 | FORTE | notícia | 3968 | 12 | 100 | É do Brasil! Konami confirma legendas em português para Metal Gear Solid: Master Collection Vol. 2 | — |
 | FORTE | notícia | 8209 | 25 | 100 | Master Collection Vol. 2: tudo que a Konami acertou (e o que ainda dói) no resgate de MGS4 | — |
