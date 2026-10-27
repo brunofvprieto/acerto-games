@@ -494,7 +494,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3348 | 15 | 100 | Modern Warfare 4 chega com UAV mais resistente, SMGs mais fortes e sem Desafios Semanais na Temporada 1 | — |
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2523 | 9 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
-| FORTE | notícia | 3675 | 14 | 100 | Modern Warfare 4 triplica o XP por abate no Search & Destroy e desfaz correção da bomba feita um dia antes | — |
+| FORTE | notícia | 3411 | 13 | 100 | Modern Warfare 4 triplica o XP por abate no Search & Destroy e desfaz correção da bomba feita um dia antes | — |
 | FORTE | notícia | 2324 | 9 | 100 | Modern Warfare 4 tem o dobro de jogadores de Black Ops 7 no Steam, mas fica abaixo de Black Ops 6 | — |
 | FORTE | notícia | 2449 | 9 | 100 | Modern Warfare 4 pede 39 GB livres para atualizar no Switch 2, e o jogo já ocupa um terço do console | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
@@ -576,7 +576,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 2841 | 12 | 100 | Pokémon terá loja permanente em Londres até 2029, a primeira fora da Ásia | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
-| FORTE | notícia | 3632 | 15 | 100 | Pokémon UNITE vai sair do ar em 23 de março de 2027, e a venda de gemas já acabou | — |
+| FORTE | notícia | 3307 | 14 | 100 | Pokémon UNITE vai sair do ar em 23 de março de 2027, e a venda de gemas já acabou | — |
 | FORTE | notícia | 2922 | 5 | 100 | Um Gastrodon amarelo que nunca existiu pode finalmente aparecer em Pokémon Winds & Waves — e a história tem 20 anos | — |
 | FORTE | artigo | 11566 | 39 | 100 | Por que ainda jogamos? Da criança que fomos ao pai, filho e marido que nos tornamos | — |
 | FORTE | artigo | 10180 | 29 | 100 | Por que Assassin’s Creed II é uma obra-prima e como Ezio transformou a Ubisoft | — |
