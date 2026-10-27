@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 751
-- Forte: 737
+- Total analisado: 752
+- Forte: 738
 - Revisar: 12
 - Prioridade: 2
 
@@ -307,6 +307,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 5300 | 11 | 100 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
 | FORTE | especial | 11219 | 32 | 100 | Especial Metal Gear #2 — Sons of Liberty (2001): o jogo que enganou o mundo inteiro e previu o futuro | — |
 | FORTE | noticia | 2220 | 9 | 100 | Eternal Anima resgata a era de ouro dos JRPGs com viagem no tempo e batalhas que preveem o futuro | — |
+| FORTE | notícia | 2781 | 12 | 100 | Evo Brazil 2027 terá oito jogos e R$ 1 milhão em prêmios; ingressos custam a partir de R$ 240 | — |
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 2898 | 9 | 100 | Exodus refaz o rosto de Jun Aslan depois das críticas, e a versão feminina vem em breve | — |
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
