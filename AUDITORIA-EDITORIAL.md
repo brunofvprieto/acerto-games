@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 742
-- Forte: 728
+- Total analisado: 743
+- Forte: 729
 - Revisar: 12
 - Prioridade: 2
 
@@ -230,6 +230,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2525 | 6 | 100 | Infinity Ward bate o pé: Gunny, o assistente de Modern Warfare 4, não é IA — é feito à mão mesmo | — |
 | FORTE | notícia | 2878 | 6 | 100 | Modern Warfare 4 vai parecer melhor no console mais caro — e a Sony não tá nem um pouco envergonhada disso | — |
 | FORTE | notícia | 2748 | 11 | 100 | Call of Duty passa de US$ 40 bilhões em receita, e Shipment chega a Modern Warfare 4 | — |
+| FORTE | notícia | 2952 | 13 | 100 | Capcom já vende 92% dos jogos em formato digital, e o PC passou dos consoles | — |
 | FORTE | notícia | 1997 | 8 | 100 | Capcom confirma vazamento de dados de 11,7 milhões de contas do Capcom ID | — |
 | FORTE | notícia | 2527 | 8 | 100 | Capcom dispara: lucro sobe 69% no trimestre, puxado por Pragmata e Resident Evil | — |
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
