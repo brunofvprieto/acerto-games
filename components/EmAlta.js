@@ -44,7 +44,7 @@ export default function EmAlta() {
                 {i + 1}
               </span>
               <div className="absolute inset-x-0 bottom-0 p-3">
-                <CategoryTag category={p.category} />
+                <CategoryTag category={p.category} label={p.rotulo} />
                 <h3 className="mt-1.5 line-clamp-3 font-display text-sm leading-snug text-paper group-hover:text-arcade">
                   {p.title}
                 </h3>

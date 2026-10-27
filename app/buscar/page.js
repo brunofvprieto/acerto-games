@@ -13,6 +13,7 @@ export default function Buscar() {
     title: p.title,
     excerpt: p.excerpt,
     category: p.category,
+    ...(p.rotulo ? { rotulo: p.rotulo } : {}),
     date: p.date,
   }));
   return (

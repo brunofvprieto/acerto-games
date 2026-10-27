@@ -171,7 +171,7 @@ export default function Home() {
               <Link key={p.slug} href={`/noticia/${p.slug}`} className="group flex gap-4 border border-edge bg-surface p-4 transition-colors hover:border-retro">
                 <Cover colors={p.cover} image={p.image} position={p.imagePos} className="h-24 w-24 shrink-0" />
                 <div className="space-y-1.5">
-                  <CategoryTag category={p.category} />
+                  <CategoryTag category={p.category} label={p.rotulo} />
                   <h3 className="font-display leading-snug group-hover:text-retro">{p.title}</h3>
                   <p className="font-mono text-[11px] uppercase tracking-wide text-dim">{p.date} · {p.readTime}</p>
                 </div>

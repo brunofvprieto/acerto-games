@@ -46,7 +46,7 @@ export function Cover({ colors, image, position, alt = "", className = "", fit =
   );
 }
 
-export function CategoryTag({ category }) {
+export function CategoryTag({ category, label }) {
   const styles = {
     notícia: "bg-arcade text-ink",
     review: "bg-violet text-paper",
@@ -59,7 +59,7 @@ export function CategoryTag({ category }) {
     <span
       className={`inline-block px-2 py-0.5 font-mono text-[10px] font-bold uppercase tracking-widest ${styles[category] || styles["notícia"]}`}
     >
-      {category}
+      {label || category}
     </span>
   );
 }
@@ -88,7 +88,7 @@ export function NewsCard({ post }) {
     >
       <Cover colors={post.cover} image={post.image} alt={post.imageAlt || post.title} position={post.imagePos} className="h-40" />
       <div className="space-y-2 p-4">
-        <CategoryTag category={post.category} />
+        <CategoryTag category={post.category} label={post.rotulo} />
         <h3 className="font-display text-lg leading-snug group-hover:text-paper">
           {post.title}
         </h3>
@@ -114,7 +114,7 @@ export function ReviewCard({ post }) {
         </div>
       )}
       <div className="space-y-2 p-4 pt-6">
-        <CategoryTag category={post.category} />
+        <CategoryTag category={post.category} label={post.rotulo} />
         <h3 className="font-display text-lg leading-snug group-hover:text-violet">
           {post.title}
         </h3>

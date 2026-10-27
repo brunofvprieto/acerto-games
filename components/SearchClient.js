@@ -43,7 +43,7 @@ export default function SearchClient({ posts }) {
             href={`/noticia/${p.slug}`}
             className="group block border border-edge bg-surface p-4 hover:border-arcade"
           >
-            <CategoryTag category={p.category} />
+            <CategoryTag category={p.category} label={p.rotulo} />
             <h2 className="mt-2 font-display leading-snug group-hover:text-arcade">
               {p.title}
             </h2>

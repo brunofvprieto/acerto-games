@@ -203,7 +203,7 @@ export default function Noticia({ params }) {
 
       <div className="mt-6 grid items-start gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <article className="min-w-0">
-          <CategoryTag category={post.category} />
+          <CategoryTag category={post.category} label={post.rotulo} />
           <h1 className="mt-3 font-display text-3xl leading-tight md:text-4xl">{post.title}</h1>
           <p className="mt-3 text-lg text-dim">{post.excerpt}</p>
           <div className="mt-4 flex items-center gap-3">
