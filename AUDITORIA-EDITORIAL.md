@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 755
-- Forte: 741
+- Total analisado: 756
+- Forte: 742
 - Revisar: 12
 - Prioridade: 2
 
@@ -251,6 +251,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2535 | 9 | 100 | Control Resonant abre Manhattan e coloca Dylan Faden no centro do caos paranatural | — |
 | FORTE | notícia | 2807 | 11 | 100 | Coral Island chega ao Switch 2 com a atualização 1.4, em que os filhos crescem | — |
 | FORTE | notícia | 1929 | 7 | 100 | Crazy Taxi: World Tour ganha novo trailer e confirma chegada ao Switch 2 | — |
+| FORTE | notícia | 2802 | 11 | 100 | Crimson Desert: história da DLC Charting the Unknown exige terminar o jogo base | — |
 | FORTE | notícia | 4197 | 15 | 100 | Crimson Desert no Switch 2: a Pearl Abyss mira o primeiro semestre de 2027 e admite que hoje o console só roda "o básico" | — |
 | FORTE | notícia | 1982 | 7 | 100 | Crimson Desert soma 17 atualizações em cinco meses e a Pearl Abyss soltou um trailer só pra mostrar isso | — |
 | FORTE | notícia | 1849 | 5 | 100 | Estúdio de Crisol demite todo o time menos de seis meses após o lançamento e admite que fechar de vez é uma possibilidade real | — |
