@@ -9,7 +9,7 @@ export const metadata = {
 };
 
 export default function Reviews() {
-  const reviews = getAllPosts().filter((p) => p.category === "review");
+  const reviews = getAllPosts().filter((p) => p.category === "review" || p.secao === "reviews");
 
   return (
     <main className="mx-auto max-w-6xl px-4">

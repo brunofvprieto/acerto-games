@@ -108,9 +108,11 @@ export function ReviewCard({ post }) {
       className="group relative block border border-edge bg-surface transition-colors hover:border-violet"
     >
       <Cover colors={post.cover} image={post.image} alt={post.imageAlt || post.title} position={post.imagePos} className="h-40" />
-      <div className="absolute right-4 top-28">
-        <Nota value={post.nota} />
-      </div>
+      {post.nota !== undefined && post.nota !== null && (
+        <div className="absolute right-4 top-28">
+          <Nota value={post.nota} />
+        </div>
+      )}
       <div className="space-y-2 p-4 pt-6">
         <CategoryTag category={post.category} />
         <h3 className="font-display text-lg leading-snug group-hover:text-violet">
