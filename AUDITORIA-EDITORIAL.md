@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 738
-- Forte: 724
+- Total analisado: 739
+- Forte: 725
 - Revisar: 12
 - Prioridade: 2
 
@@ -600,6 +600,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
+| FORTE | notícia | 3221 | 12 | 100 | Los Iluminados: fanfilme de Resident Evil 4 é feito inteiramente com inteligência artificial; assista | — |
 | FORTE | notícia | 2221 | 7 | 100 | Depois de 15 anos, Resident Evil 5 é destronado: RE2 Remake é o mais vendido da série | — |
 | FORTE | notícia | 1844 | 6 | 100 | Capcom prepara encontro entre remakes e linha atual de Resident Evil desde Village | — |
 | FORTE | artigo | 5659 | 22 | 100 | 22% contra 55%: os números de Resident Evil Requiem mostram que o "fim natural" da mídia física é uma história contada com os dados de um país só | — |
