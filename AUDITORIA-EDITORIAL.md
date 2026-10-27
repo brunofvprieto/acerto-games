@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 750
-- Forte: 736
+- Total analisado: 751
+- Forte: 737
 - Revisar: 12
 - Prioridade: 2
 
@@ -529,6 +529,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 2790 | 12 | 100 | Nintendo anuncia dois Directs seguidos; Zelda terá especial de 40 anos e comunidade já faz apostas | — |
 | FORTE | noticia | 4152 | 10 | 100 | Nintendo supera PlayStation e Xbox na média de avaliações de 2026; veja todos os jogos | — |
 | FORTE | notícia | 2590 | 9 | 100 | Nintendo afirma que não pretende abandonar jogos em mídia física | — |
+| FORTE | notícia | 2794 | 11 | 100 | Regra da Nintendo impediria jogos em Game-Key Card de ganhar cartucho completo, diz varejista | — |
 | FORTE | notícia | 4857 | 14 | 100 | Nintendo fatura menos, mas lucro operacional mais que dobra: o Switch 2 entrou na fase que dá dinheiro | — |
 | FORTE | notícia | 3161 | 11 | 100 | Nintendo admite que subestimou a procura pelo Switch 2 de Zelda, e o Brasil está entre os mercados sem estoque | — |
 | FORTE | noticia | 3354 | 14 | 100 | Nintendo diz que Switch 2 está “apenas no começo” e detalha estratégia para os próximos anos | — |
