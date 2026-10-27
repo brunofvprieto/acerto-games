@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 749
-- Forte: 735
+- Total analisado: 750
+- Forte: 736
 - Revisar: 12
 - Prioridade: 2
 
@@ -399,6 +399,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5716 | 18 | 100 | A semana decisiva de GTA 6: reunião da Take-Two na sexta, trailer 3 no ar da esperança e um like da Rockstar que virou caso | — |
 | FORTE | noticia | 3259 | 11 | 100 | GTA 6 e Spotify levam campanha às ruas após teasers de Travis Scott, Future e outros artistas | — |
 | FORTE | noticia | 2136 | 8 | 100 | GTA 6 tem primeiro ator confirmado: Stephen Root revela participação no jogo da Rockstar | — |
+| FORTE | notícia | 2828 | 12 | 100 | GTA 6 vai ocupar 210 GB no PS5; pré-download começa em 12 de novembro | — |
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
 | FORTE | notícia | 2741 | 9 | 100 | Vanoss Crew aluga mansão em Miami para o lançamento de GTA 6, e a Rockstar já sabe | — |
 | FORTE | noticia | 2457 | 10 | 100 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | — |
