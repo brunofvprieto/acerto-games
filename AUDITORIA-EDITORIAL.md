@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 739
-- Forte: 725
+- Total analisado: 740
+- Forte: 726
 - Revisar: 12
 - Prioridade: 2
 
@@ -478,6 +478,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2138 | 9 | 100 | Metroid Ravenous é oficial: Samus abraça seus instintos Metroid em nova aventura 2D no Switch 2 | — |
 | FORTE | notícia | 3637 | 13 | 100 | Dezoito anos depois: veja como MGS4 evoluiu do PS3 para o PS5 e o Switch 2 a três dias do lançamento | — |
 | FORTE | notícia | 1789 | 6 | 100 | Demanda por memória para IA aumenta pressão sobre cadeia que também abastece hardware gamer | texto curto |
+| FORTE | notícia | 2950 | 12 | 100 | Microsoft oferece saída voluntária a 60 mil funcionários, e o Xbox está na lista | — |
 | FORTE | notícia | 3691 | 12 | 100 | Minecraft Dungeons II domina ranking da eShop e coloca duas edições no topo | — |
 | FORTE | noticia | 2717 | 9 | 100 | Minecraft Dungeons II é lançado com mundo interconectado, The Sift e estreia no Game Pass | — |
 | FORTE | noticia | 3895 | 13 | 100 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | — |
