@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 741
-- Forte: 727
+- Total analisado: 742
+- Forte: 728
 - Revisar: 12
 - Prioridade: 2
 
@@ -616,6 +616,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2916 | 11 | 100 | RTX 5090 furtadas no Aeroporto de Guarulhos aparecem à venda na OLX, e comprador acaba preso | — |
 | FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
+| FORTE | notícia | 2835 | 12 | 100 | Rumor: remake de Silent Hill sairia em 2027 e já tem as primeiras atrizes | — |
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
