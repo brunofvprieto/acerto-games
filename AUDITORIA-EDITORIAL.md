@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 747
-- Forte: 733
+- Total analisado: 748
+- Forte: 734
 - Revisar: 12
 - Prioridade: 2
 
@@ -698,6 +698,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2781 | 10 | 100 | Tomb Raider faz 30 anos com vídeo comemorativo, álbum lo-fi e 500 músicas a caminho do streaming | — |
 | FORTE | notícia | 3007 | 11 | 100 | Tomb Raider: Legacy of Atlantis mostra como refez o combate da Lara sem trair o jogo de 1996 | — |
 | FORTE | notícia | 3363 | 16 | 100 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | — |
+| FORTE | notícia | 2797 | 10 | 100 | Tombwater, soulslike do Velho Oeste, ganha textos em português, chefe novo e troca de classe | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
