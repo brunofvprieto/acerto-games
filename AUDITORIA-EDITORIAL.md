@@ -245,7 +245,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 6209 | 23 | 100 | C.L.T. resgata a liberdade dos primeiros GTA e já diverte no acesso antecipado | — |
 | FORTE | notícia | 2812 | 12 | 100 | CODE EXIT lança a Demo 2.0, com uma IA que aprende seus esconderijos e um robô para quem morre | — |
 | FORTE | notícia | 3603 | 6 | 100 | O Senhor dos Anéis influenciou Final Fantasy X — e a gente acabou de descobrir como | — |
-| FORTE | notícia | 2743 | 11 | 100 | Conan Exiles Enhanced chega ao PS5 e ao Xbox Series com upgrade grátis, e Aloft vai ao PS5 | — |
+| FORTE | notícia | 2761 | 11 | 100 | Conan Exiles Enhanced chega ao PS5 e ao Xbox Series com upgrade grátis, e Aloft vai ao PS5 | — |
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
 | FORTE | noticia | 2535 | 9 | 100 | Control Resonant abre Manhattan e coloca Dylan Faden no centro do caos paranatural | — |
