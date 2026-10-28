@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 771
-- Forte: 757
+- Total analisado: 772
+- Forte: 758
 - Revisar: 12
 - Prioridade: 2
 
@@ -608,6 +608,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
 | FORTE | notícia | 2536 | 9 | 100 | Red Dead Redemption 2 também sai do PS Plus Extra em 17 de novembro, junto com GTA V e mais nove jogos | — |
+| FORTE | notícia | 2804 | 11 | 100 | PS Plus de novembro tem Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2 | — |
 | FORTE | notícia | 3307 | 9 | 100 | PS Plus de outubro terá Mafia: The Old Country, Horizon Forbidden West e Dino Crisis 2 | — |
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | notícia | 2443 | 14 | 100 | Planeta das Ofertas na PS Store: Final Fantasy VII Rebirth por R$ 85 e Hogwarts Legacy por R$ 52 | — |
