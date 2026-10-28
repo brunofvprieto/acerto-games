@@ -1,0 +1,41 @@
+{
+  "slug": "epic-games-engenheiros-nao-escrevem-mais-maior-parte-codigo-ia-unreal-engine-6-fortnite",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "28 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-28T19:58:00-03:00",
+  "title": "Epic Games diz que seus engenheiros não escrevem mais a maior parte do código da Unreal e do Fortnite",
+  "excerpt": "\"Sim, estamos fazendo vibe coding\", afirma vice-presidente da empresa. Unreal Engine 6, Fortnite e o editor do jogo já são desenvolvidos com ferramentas de IA.",
+  "cover": [
+    "#b07ce8",
+    "#07060c"
+  ],
+  "image": "/img/epic-unreal-engine-6-state-of-unreal-ia.jpg",
+  "imageFilename": "epic-unreal-engine-6-state-of-unreal-ia.jpg",
+  "imageAlt": "Arte oficial do State of Unreal sobre a Unreal Engine 6, com o logo da Unreal e personagens de Fortnite em painéis translúcidos",
+  "imageCredit": "Unreal Engine 6. Divulgação/Epic Games",
+  "fonte": "Epic Games",
+  "fonteUrl": "https://www.youtube.com/watch?v=mGuaRAWdXPA",
+  "imageOrigem": "https://img.youtube.com/vi/mGuaRAWdXPA/maxresdefault.jpg (vídeo oficial do canal Unreal Engine)",
+  "body": [
+    "A Epic Games admitiu sem rodeios que boa parte do código da Unreal Engine e do Fortnite já sai de ferramentas de inteligência artificial. \"Sim, estamos fazendo vibe coding\", disse Marcus Wassmer, vice-presidente executivo de desenvolvimento da empresa, em declaração ao programa This Week in Videogames. \"Isso significa que nossos engenheiros não escrevem mais a maior parte do código.\"",
+    "Wassmer fez questão de explicar que os programadores continuam no comando. Segundo ele, a equipe guia as ferramentas para chegar ao resultado de arquitetura desejado. \"Não estamos fazendo a engine de uma vez só\", afirmou. A ideia é iterar com a IA para entregar recursos e manter a engine dentro dos limites de memória, desempenho e escala.",
+    "## Fortnite, UEFN e Unreal Engine 6",
+    "O uso não é pontual. Segundo Wassmer, quase todo o desenvolvimento em curso na Epic acontece nas frentes ligadas ao Fortnite, ao editor de criações do jogo (UEFN) e à Unreal Engine 6. Entre as ferramentas, ele citou nominalmente o Claude Code, da Anthropic, e o Codex, da OpenAI.",
+    "video: https://www.youtube.com/watch?v=mGuaRAWdXPA",
+    "O executivo listou ganhos concretos. A IA ajudou a eliminar quase por completo um tipo de bug de compilação de conteúdo que a equipe combatia havia uma década, e acelerou a compressão de shaders. As duas frentes reduzem o tamanho das atualizações.",
+    "Outro exemplo foi a reescrita de boa parte da camada de renderização em DirectX 12. Wassmer estimava de três a seis semanas de trabalho para um engenheiro, e a tarefa ficou pronta em cerca de uma semana, com menos bugs e ganho de desempenho no processador.",
+    "## \"Não dá para ir pela metade\"",
+    "O tom da declaração é de quem já decidiu. \"Estamos mais preocupados com os riscos de andar devagar do que com o ceticismo em relação à IA\", disse Wassmer. Para ele, não é viável adotar a tecnologia pela metade, e a melhor resposta aos críticos é a qualidade dos jogos e das ferramentas entregues.",
+    "Nada disso surge do nada. Em junho, ao apresentar a Unreal Engine 6, a Epic já dizia que modelos de linguagem e IA generativa teriam papel central na nova versão. A UE6 vai unir a Unreal Engine 5 e o editor do Fortnite num só produto, com acesso antecipado previsto para o fim de 2027.",
+    "Em outubro, uma reportagem já havia mostrado a empresa orientando os desenvolvedores a colocar a IA no centro da produção, junto com o adiamento de um jogo de Marvel e Star Wars. A fala de agora parece confirmar, pela boca da própria Epic, que a mudança é estrutural.",
+    "link: Epic Games adia jogo de Marvel e Star Wars e determina uso intensivo de inteligência artificial | https://acertogames.com.br/noticia/epic-games-adia-jogo-marvel-star-wars-inteligencia-artificial",
+    "## E aqui no Brasil",
+    "Para nós, brasileiros, a conversa vai além do Fortnite. A Unreal é uma das engines mais usadas pela indústria, inclusive por estúdios independentes daqui. Ela é gratuita até US$ 1 milhão de receita bruta por jogo, o que ajuda a explicar a presença em projetos de equipes pequenas.",
+    "Se a ferramenta muda de rumo, quem trabalha com ela muda junto. A promessa da Epic é de uma engine feita mais rápido e com menos bugs. A dúvida fica com quem programa ou estuda para entrar na área. Como fica o trabalho humano quando a própria fabricante diz que a máquina escreve a maior parte do código?",
+    "Também chama atenção a contradição de outra frente da empresa. Na semana passada, o presidente-executivo da Epic, Tim Sweeney, criticou os avisos de uso de IA exigidos pela Steam, dizendo que obrigam os desenvolvedores a escrever uma declaração política. A Epic, ao menos, está sendo clara sobre o que faz.",
+    "link: Valve admite que Next Fest expôs jogos de IA de baixa qualidade, mas diz que não vai barrar a ferramenta | https://acertogames.com.br/noticia/valve-admite-excesso-jogos-ia-baixa-qualidade-steam-next-fest-nao-vai-barrar"
+  ],
+  "observacao": "Declaração de Marcus Wassmer ao This Week in Videogames (28/10), conferida em PC Gamer e Eurogamer: vibe coding, engenheiros não escrevem a maior parte, não one-shotting, quase todo desenvolvimento em Fortnite/UEFN/UE6, Claude Code e Codex, bugs de cooking de uma década, shaders, D3D12 de 3-6 semanas para 1, frase sobre riscos de ir devagar, abordagem pela metade. Post 'The road to UE6' (junho): GamingOnLinux (LLMs centrais, união UE5+UEFN, acesso antecipado fim de 2027). Sweeney sobre avisos da Steam: post dele no X (23/10) citado por PC Gamer. Royalty da Unreal a partir de US$ 1 milhão: termos públicos da Epic, conhecimento estável. Imagem e vídeo: canal oficial Unreal Engine."
+}
