@@ -32,10 +32,11 @@
     "Como a beta tem código aberto, a NVIDIA aposta que modders e construtores levem o recurso para mods populares. Segundo a empresa, a ideia é que os jogadores usem o mundo de exemplo como ponto de partida para criar os próprios mundos com path tracing.",
     "## Phantom Blade Zero com path tracing hoje",
     "A mesma leva de anúncios da NVIDIA traz Phantom Blade Zero, que chega hoje ao PC com path tracing e DLSS 4.5. No PC, o jogo da S-GAME terá Ray Reconstruction e Dynamic Multi Frame Generation, recursos que a NVIDIA desenvolveu em parceria com o estúdio.",
+    "video: https://www.youtube.com/watch?v=9k54NJJ1pWU",
     "link: Phantom Blade Zero passa de 1 milhão de cópias antes de lançar, estima analista; jogo libera hoje às 23h | https://acertogames.com.br/noticia/phantom-blade-zero-1-milhao-copias-antes-do-lancamento-estimativa-alinea-23h",
     "## E aqui no Brasil",
     "Para nós, brasileiros, o mod é gratuito, mas a conta pesa no hardware. A exigência mínima de uma RTX série 30 deixa de fora muita gente que joga Minecraft em PCs mais simples ou notebooks antigos.",
     "Para quem tem a placa, vale o teste, nem que seja só para passear pelo mundo de demonstração. E Phantom Blade Zero libera às 23h desta quarta, no horário de Brasília, já com o pacote de tecnologias da NVIDIA ativado na versão de PC."
   ],
-  "observacao": "Comunicado da NVIDIA recebido por e-mail em 28/10 (RTX Remix 1.6, Minecraft Java 1.21.1, Blockworks, Lightspeed, PBZ com DLSS 4.5, Ray Reconstruction, Dynamic Multi Frame Generation, 23h de Brasília) e artigo oficial da NVIDIA (beta de código aberto, efeitos de luz, até quatro rebatidas, requisitos RTX 30 e driver 616.92, Windows 10/11, 983 MB no GitHub, CurseForge, /rtx status, Portal with RTX e Half-Life 2 RTX). Vídeo oficial do canal NVIDIA GeForce."
+  "observacao": "Comunicado da NVIDIA recebido por e-mail em 28/10 (RTX Remix 1.6, Minecraft Java 1.21.1, Blockworks, Lightspeed, PBZ com DLSS 4.5, Ray Reconstruction, Dynamic Multi Frame Generation, 23h de Brasília) e artigo oficial da NVIDIA (beta de código aberto, efeitos de luz, até quatro rebatidas, requisitos RTX 30 e driver 616.92, Windows 10/11, 983 MB no GitHub, CurseForge, /rtx status, Portal with RTX e Half-Life 2 RTX). Vídeo oficial do canal NVIDIA GeForce. Vídeo de Phantom Blade Zero: canal oficial NVIDIA GeForce (RTX: Inside the Game)."
 }
