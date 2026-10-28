@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 759
-- Forte: 745
+- Total analisado: 760
+- Forte: 746
 - Revisar: 12
 - Prioridade: 2
 
@@ -616,6 +616,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 2221 | 7 | 100 | Depois de 15 anos, Resident Evil 5 é destronado: RE2 Remake é o mais vendido da série | — |
+| FORTE | notícia | 3572 | 15 | 100 | Resident Evil: história atual deve terminar nos próximos 10 anos, diz produtor da Capcom | — |
 | FORTE | notícia | 1844 | 6 | 100 | Capcom prepara encontro entre remakes e linha atual de Resident Evil desde Village | — |
 | FORTE | artigo | 5659 | 22 | 100 | 22% contra 55%: os números de Resident Evil Requiem mostram que o "fim natural" da mídia física é uma história contada com os dados de um país só | — |
 | FORTE | notícia | 8345 | 32 | 100 | A Plague Tale não precisava de outra história — e é justamente por isso que Resonance precisa justificar sua existência | — |
