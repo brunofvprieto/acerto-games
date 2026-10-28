@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 761
-- Forte: 747
+- Total analisado: 762
+- Forte: 748
 - Revisar: 12
 - Prioridade: 2
 
@@ -294,6 +294,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2781 | 11 | 100 | Dragon Ball Xenoverse 2 faz 10 anos com o Festival Final dos Universos, que dá itens para Xenoverse 3 | — |
 | FORTE | noticia | 1909 | 8 | 100 | Dragon Quest supera 100 milhões de unidades vendidas no ano de seu 40º aniversário | — |
 | FORTE | noticia | 3693 | 16 | 100 | Dragon's Dogma 2: Dark Arisen ganha trailer principal com Norgan, novos monstros e desafios | — |
+| FORTE | notícia | 3619 | 14 | 100 | "A moral está péssima": funcionários da EA relatam pressão por IA e demissões em segredo | — |
 | FORTE | notícia | 2479 | 6 | 100 | Venda da EA por US$ 55 bilhões será concluída na próxima semana — a maior da história dos games | — |
 | FORTE | notícia | 5801 | 21 | 100 | Elden Ring no Switch 2: primeiro hands-on diz que a sensação é a mesma do PS5 — e entrega o detalhe que muda a decisão de compra | — |
 | FORTE | notícia | 2444 | 5 | 100 | As demissões da Xbox já estão batendo no Elder Scrolls Online — e a loja do jogo foi a primeira a sentir | — |
