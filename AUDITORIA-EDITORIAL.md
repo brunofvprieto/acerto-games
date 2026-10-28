@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 776
-- Forte: 762
+- Total analisado: 777
+- Forte: 763
 - Revisar: 12
 - Prioridade: 2
 
@@ -617,6 +617,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | notícia | 2443 | 14 | 100 | Planeta das Ofertas na PS Store: Final Fantasy VII Rebirth por R$ 85 e Hogwarts Legacy por R$ 52 | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
+| FORTE | notícia | 2746 | 11 | 100 | Sony traz de volta os controles transparentes com a Prism Collection para PS5; pré-venda começa em 10 de novembro | — |
 | FORTE | noticia | 5124 | 16 | 100 | Sony leva upscaling por IA ao PS5 comum com QSSR; Wolverine e Ghost of Yōtei estreiam tecnologia | — |
 | FORTE | notícia | 2452 | 10 | 100 | Nova revisão do PS5 Slim facilita troca da bateria e muda refrigeração | — |
 | FORTE | noticia | 1925 | 8 | 100 | Psikyo Memories resgata clássicos de navinha dos arcades no PS5 e Switch 2 | — |
