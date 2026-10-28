@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 767
-- Forte: 753
+- Total analisado: 768
+- Forte: 754
 - Revisar: 12
 - Prioridade: 2
 
@@ -415,6 +415,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 3756 | 14 | 100 | GTA III faz 25 anos: o clássico que só funcionou nos últimos seis meses | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
+| FORTE | notícia | 2836 | 12 | 100 | Halloween brasileiro na Steam: Asleep sai de graça, Enigma do Medo tem desconto e Caravana 2000 ganha demo | — |
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
 | FORTE | noticia | 5480 | 21 | 100 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
