@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 766
-- Forte: 752
+- Total analisado: 767
+- Forte: 753
 - Revisar: 12
 - Prioridade: 2
 
@@ -722,6 +722,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2685 | 11 | 100 | Modern Warfare 4 estreia em 1º no Reino Unido, com 78% das cópias físicas vendidas no PS5 | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
+| FORTE | notícia | 2787 | 12 | 100 | Until Dawn 2: Sony apresenta, um a um, os caçadores de fantasmas do Dead True | — |
 | FORTE | review | 4535 | 23 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
 | FORTE | notícia | 2768 | 12 | 100 | Valor Mortis se paga em sete dias, mesmo lançado no Game Pass | — |
 | FORTE | notícia | 4099 | 15 | 100 | Valve admite que Next Fest expôs jogos de IA de baixa qualidade, mas diz que não vai barrar a ferramenta | — |
