@@ -1,0 +1,41 @@
+{
+  "slug": "minecraft-java-rtx-remix-path-tracing-mod-gratuito-nvidia-phantom-blade-zero-dlss-4-5",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "28 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-28T13:10:00-03:00",
+  "title": "Minecraft ganha mod gratuito da NVIDIA com path tracing; veja o que precisa para rodar",
+  "excerpt": "RTX Remix para Minecraft: Java Edition chega em beta, com código aberto e mundo de demonstração. Exige placa RTX série 30 ou mais nova.",
+  "cover": [
+    "#76b900",
+    "#0d1408"
+  ],
+  "image": "/img/minecraft-rtx-remix-path-tracing-arvore-cerejeira-nvidia.jpg",
+  "imageFilename": "minecraft-rtx-remix-path-tracing-arvore-cerejeira-nvidia.jpg",
+  "imageAlt": "Construção de Minecraft com uma árvore de cerejeira gigante iluminada por path tracing, com os logos de Minecraft e NVIDIA GeForce RTX",
+  "imageCredit": "Minecraft com RTX Remix. Divulgação/NVIDIA",
+  "fonte": "NVIDIA",
+  "fonteUrl": "https://www.nvidia.com/en-us/geforce/news/remix-1-6-dlss-5-comfyui-2-0-minecraft-rtx-beta",
+  "imageOrigem": "https://img.youtube.com/vi/wB7eDz3qa7U/maxresdefault.jpg (vídeo oficial do canal NVIDIA GeForce)",
+  "body": [
+    "Minecraft: Java Edition ganhou nesta quarta-feira (28) um mod gratuito e oficial da NVIDIA. Ele troca a iluminação do jogo por path tracing, a forma mais completa de traçado de raios usada em games hoje. O RTX Remix para Minecraft chega em versão beta, com código aberto, e funciona na versão 1.21.1 do jogo.",
+    "O mod faz parte da atualização 1.6 do RTX Remix, a plataforma da NVIDIA para modernizar jogos de PC antigos. Até agora, ela era conhecida por projetos como Portal with RTX e Half-Life 2 RTX, que também receberam novidades na mesma leva.",
+    "video: https://www.youtube.com/watch?v=wB7eDz3qa7U",
+    "## O que muda no mundo de blocos",
+    "A diferença está na luz. Com o path tracing, milhares de fontes de luz projetam sombras ao mesmo tempo. A luz do sol e da lua entra nas cavernas e vai perdendo força conforme desce. Dentro das construções, ela pode rebater até quatro vezes, pegando a cor de vitrais e paredes pintadas.",
+    "A água passa a refletir o que está dentro e fora da tela, e a neblina ganha volume, com raios de sol atravessando as nuvens de blocos e as janelas. Debaixo d'água, a luz se refrata. No gelo e em outros materiais translúcidos, ela entra, se espalha e sai em outro ponto.",
+    "Boa parte desse efeito depende dos pacotes de recursos com materiais realistas, que dão relevo e reflexo aos blocos. A beta vem com um pacote em alta resolução feito pela NVIDIA Lightspeed Studios e com um mundo de demonstração criado pela Blockworks, conhecida por construções gigantes no jogo. O mod também aceita outros pacotes do tipo.",
+    "## O que precisa para rodar",
+    "O mod exige uma placa GeForce RTX da série 30 ou mais nova, com driver 616.92 ou superior, e Windows 10 ou 11. O jogo precisa ser a edição Java 1.21.1, numa conta Microsoft ativa. O arquivo do mod tem 983 MB e fica no GitHub da NVIDIA, e o mundo de demonstração e os materiais estão no CurseForge.",
+    "A instalação cria um perfil próprio no Launcher do Minecraft. Para conferir se deu certo, basta abrir o chat dentro do jogo e digitar /rtx status. Se as duas linhas de verificação aparecerem como verdadeiras, o RTX Remix está funcionando.",
+    "Como a beta tem código aberto, a NVIDIA aposta que modders e construtores levem o recurso para mods populares. Segundo a empresa, a ideia é que os jogadores usem o mundo de exemplo como ponto de partida para criar os próprios mundos com path tracing.",
+    "## Phantom Blade Zero com path tracing hoje",
+    "A mesma leva de anúncios da NVIDIA traz Phantom Blade Zero, que chega hoje ao PC com path tracing e DLSS 4.5. No PC, o jogo da S-GAME terá Ray Reconstruction e Dynamic Multi Frame Generation, recursos que a NVIDIA desenvolveu em parceria com o estúdio.",
+    "link: Phantom Blade Zero passa de 1 milhão de cópias antes de lançar, estima analista; jogo libera hoje às 23h | https://acertogames.com.br/noticia/phantom-blade-zero-1-milhao-copias-antes-do-lancamento-estimativa-alinea-23h",
+    "## E aqui no Brasil",
+    "Para nós, brasileiros, o mod é gratuito, mas a conta pesa no hardware. A exigência mínima de uma RTX série 30 deixa de fora muita gente que joga Minecraft em PCs mais simples ou notebooks antigos.",
+    "Para quem tem a placa, vale o teste, nem que seja só para passear pelo mundo de demonstração. E Phantom Blade Zero libera às 23h desta quarta, no horário de Brasília, já com o pacote de tecnologias da NVIDIA ativado na versão de PC."
+  ],
+  "observacao": "Comunicado da NVIDIA recebido por e-mail em 28/10 (RTX Remix 1.6, Minecraft Java 1.21.1, Blockworks, Lightspeed, PBZ com DLSS 4.5, Ray Reconstruction, Dynamic Multi Frame Generation, 23h de Brasília) e artigo oficial da NVIDIA (beta de código aberto, efeitos de luz, até quatro rebatidas, requisitos RTX 30 e driver 616.92, Windows 10/11, 983 MB no GitHub, CurseForge, /rtx status, Portal with RTX e Half-Life 2 RTX). Vídeo oficial do canal NVIDIA GeForce."
+}
