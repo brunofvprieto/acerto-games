@@ -1,0 +1,41 @@
+{
+  "slug": "gundam-battle-operation-3-anunciado-ps5-pc-gratuito-sem-portugues-steam-brasil",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "28 out 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-10-28T13:08:00-03:00",
+  "title": "Gundam Battle Operation 3 é anunciado para PS5 e PC, gratuito e com jogo cruzado, mas sem português",
+  "excerpt": "Novo jogo de batalhas em equipe da Bandai Namco mistura Mobile Suits e infantaria. Na Steam brasileira, a página aparece como indisponível na nossa região.",
+  "cover": [
+    "#f2c230",
+    "#14110a"
+  ],
+  "image": "/img/gundam-battle-operation-3-arte-oficial-rx-78-piloto.jpg",
+  "imageFilename": "gundam-battle-operation-3-arte-oficial-rx-78-piloto.jpg",
+  "imageAlt": "Arte oficial de Gundam Battle Operation 3: um soldado com lança-foguetes ao lado da cabeça do Gundam RX-78-2 num cânion",
+  "imageCredit": "Mobile Suit Gundam Battle Operation 3. Divulgação/Bandai Namco",
+  "fonte": "Bandai Namco",
+  "fonteUrl": "https://bobobo-sp.ggame.jp/en/",
+  "imageOrigem": "https://store.steampowered.com/app/2303000/ (background oficial da página da Steam, acessada com região dos EUA)",
+  "body": [
+    "A Bandai Namco anunciou nesta quarta-feira (28) Mobile Suit Gundam Battle Operation 3, nova parte da série gratuita de batalhas em equipe com robôs gigantes. O jogo sai para PS5 e PC, via Steam, com jogo cruzado entre as plataformas desde o lançamento. Ainda não há data, e não há versões anunciadas para Xbox ou Switch 2.",
+    "O anúncio foi feito durante a transmissão que comemorou os 40 anos de jogos de Gundam. A proposta segue a do antecessor: o jogador se alista como mercenário, pilota Mobile Suits famosos e luta ao lado do time por objetivos no mapa.",
+    "video: https://www.youtube.com/watch?v=Gu1qWj6gYks",
+    "O desenvolvimento é da Bandai Namco Forge Digitals. Como no antecessor, o jogo é gratuito, e o dinheiro deve vir de itens à parte. Battle Operation 2 vende na Steam pacotes de tokens, kits de início e conjuntos de itens.",
+    "## Do cockpit para o chão",
+    "O que diferencia Battle Operation de outros jogos de Gundam é a infantaria. Além do duelo entre robôs, o piloto pode sair da cabine e lutar a pé, plantar bombas na base inimiga, pedir ataques de apoio e tomar pontos estratégicos.",
+    "img: /img/gundam-battle-operation-3-infantaria-mobile-suit.jpg | Soldado a pé e Mobile Suit dividem o campo de batalha em Gundam Battle Operation 3. Divulgação/Bandai Namco.",
+    "Segundo a Bandai Namco, quem souber equilibrar piloto e máquina terá vantagem. Na prática, isso parece manter o que fez a fama da série: partidas em que um soldado a pé pode virar o jogo contra um robô gigante.",
+    "Também há novidades para tornar cada máquina mais marcante. Todas as unidades ganham as SP Skills, habilidades que reforçam as características de cada Mobile Suit. A interface foi refeita, e um novo recurso, o Battle Assist, simplifica manobras complexas e facilita a execução de combos.",
+    "## Do Século Universal a SEED",
+    "O elenco de Mobile Suits é maior que o do antecessor. No lançamento, entram unidades do Século Universal, a linha do tempo da série original, com Mobile Suit Gundam, The 08th MS Team e 0083: Stardust Memory. Gundam SEED também está confirmado. A Bandai Namco cita ainda a chegada futura de unidades populares entre os fãs, como o BuCUE, de SEED.",
+    "img: /img/gundam-battle-operation-3-combate-aereo-seed.jpg | Combate aéreo entre Mobile Suits em Gundam Battle Operation 3. Divulgação/Bandai Namco.",
+    "A Bandai Namco promete adicionar de duas a três séries de outros universos de Gundam no primeiro ano. Antes disso, haverá testes. Um teste de rede com jogo cruzado acontece só no Japão, em 20 e 22 de novembro, e um teste aberto, para mais jogadores, está nos planos.",
+    "## E aqui no Brasil",
+    "Para nós, brasileiros, há dois obstáculos. O primeiro é o idioma: o jogo foi anunciado com opções em inglês, japonês, coreano e chinês. Não há português, nem em texto.",
+    "O segundo é a loja. Na Steam brasileira, a página de Battle Operation 3 aparece como indisponível na nossa região. O mesmo acontece com Battle Operation 2, que chegou ao PC em 2023 e também aparece bloqueado para a região.",
+    "A Bandai Namco não informou se isso vai mudar com o novo jogo. Como o jogo é gratuito e depende de servidores, a liberação regional pesa tanto quanto o idioma. Vale ficar de olho no teste aberto para saber se jogadores daqui vão poder participar."
+  ],
+  "observacao": "Comunicado da Bandai Namco recebido por e-mail em 28/10 (anúncio na live dos 40 anos, PS5 e PC, cross-play, infantaria, SP Skills, Battle Assist, nova interface, UC e SEED, BuCUE) e Gematsu (Bandai Namco Forge Digitals, idiomas inglês, japonês, coreano e chinês, obras citadas, duas a três séries no primeiro ano, teste no Japão em 20 e 22/11, teste aberto planejado, sem data). Idiomas sem português e BO2 lançado no Steam em 30/5/2023: Steam API (cc=us). Indisponível no Brasil: Steam API cc=br retorna falha para BO2 e BO3 e a página da loja com região BR exibe 'Item atualmente indisponível na sua região' (28/10). Trailer oficial: canal Bandai Namco Entertainment America. Imagens: arte e capturas oficiais da Steam."
+}
