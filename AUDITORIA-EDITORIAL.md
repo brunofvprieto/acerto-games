@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 762
-- Forte: 748
+- Total analisado: 763
+- Forte: 749
 - Revisar: 12
 - Prioridade: 2
 
@@ -504,6 +504,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
 | FORTE | notícia | 2783 | 10 | 100 | DMZ de Modern Warfare 4 abre no acesso antecipado, e Hajin ganha níveis de ameaça e nota de S++ a F | — |
 | FORTE | notícia | 5159 | 26 | 100 | Modern Warfare 4 quer transformar o DMZ em um dos pilares de Call of Duty | — |
+| FORTE | notícia | 2917 | 12 | 100 | Modern Warfare 4 usa imagem real da tragédia de Itaewon na abertura, e famílias das vítimas pedem remoção | — |
 | FORTE | notícia | 3348 | 15 | 100 | Modern Warfare 4 chega com UAV mais resistente, SMGs mais fortes e sem Desafios Semanais na Temporada 1 | — |
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2523 | 9 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
