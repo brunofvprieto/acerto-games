@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 780
-- Forte: 766
+- Total analisado: 785
+- Forte: 771
 - Revisar: 12
 - Prioridade: 2
 
@@ -246,6 +246,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 6209 | 23 | 100 | C.L.T. resgata a liberdade dos primeiros GTA e já diverte no acesso antecipado | — |
 | FORTE | notícia | 2812 | 12 | 100 | CODE EXIT lança a Demo 2.0, com uma IA que aprende seus esconderijos e um robô para quem morre | — |
 | FORTE | notícia | 3603 | 6 | 100 | O Senhor dos Anéis influenciou Final Fantasy X — e a gente acabou de descobrir como | — |
+| FORTE | notícia | 3062 | 10 | 100 | Company of Heroes 3: Operation Torch traz campanha americana no Norte da África em 25 de novembro | — |
 | FORTE | notícia | 2761 | 11 | 100 | Conan Exiles Enhanced chega ao PS5 e ao Xbox Series com upgrade grátis, e Aloft vai ao PS5 | — |
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
@@ -519,6 +520,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2523 | 9 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
 | FORTE | notícia | 3411 | 13 | 100 | Modern Warfare 4 triplica o XP por abate no Search & Destroy e desfaz correção da bomba feita um dia antes | — |
+| FORTE | notícia | 3281 | 11 | 100 | Modern Warfare 4 faz o primeiro ajuste de armas: Oden e APOC-338 perdem força, PPSh-41 e Kastov 762 ganham alcance | — |
 | FORTE | notícia | 2324 | 9 | 100 | Modern Warfare 4 tem o dobro de jogadores de Black Ops 7 no Steam, mas fica abaixo de Black Ops 6 | — |
 | FORTE | notícia | 2449 | 9 | 100 | Modern Warfare 4 pede 39 GB livres para atualizar no Switch 2, e o jogo já ocupa um terço do console | — |
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
@@ -700,6 +702,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
+| FORTE | notícia | 2734 | 9 | 100 | Switch 2 de Zelda chega às lojas hoje, e Ocarina of Time encolhe para 24,54 GB a uma semana do lançamento | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
@@ -721,6 +724,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
+| FORTE | notícia | 2889 | 10 | 100 | Titan Quest II abre pré-venda no PS5 e no Xbox; versão 1.0 sai em 19 de janeiro e custa R$ 338,95 no console da Microsoft | — |
 | FORTE | notícia | 4712 | 21 | 100 | Tokyo Game Show 2026 entra na reta final: 30 anos, cinco dias e gigantes da indústria se movimentam | — |
 | FORTE | notícia | 2454 | 12 | 100 | Tomb Raider faz 30 anos com controles da 8BitDo, Mansão Croft em blocos e Lara contra a Cobra | — |
 | FORTE | notícia | 2781 | 10 | 100 | Tomb Raider faz 30 anos com vídeo comemorativo, álbum lo-fi e 500 músicas a caminho do streaming | — |
@@ -772,6 +776,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
 | FORTE | notícia | 3693 | 12 | 100 | Xbox oficializa Mythic Achievements, sua resposta à Platina do PlayStation | — |
 | FORTE | notícia | 2720 | 10 | 100 | Xbox vai exigir quatro dias de escritório a partir de fevereiro, no meio das demissões | — |
+| FORTE | notícia | 3740 | 12 | 100 | Xbox tem quarto trimestre seguido de queda em serviços, e Microsoft aposta em Modern Warfare 4 e GTA 6 para virar o jogo | — |
 | FORTE | notícia | 2530 | 5 | 100 | Xbox Series X chega perto dos US$ 900 na Europa após aumento de até 40% — e o Brasil já sentiu o baque | — |
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
