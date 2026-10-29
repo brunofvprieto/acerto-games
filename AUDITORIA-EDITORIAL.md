@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 787
-- Forte: 773
+- Total analisado: 788
+- Forte: 774
 - Revisar: 12
 - Prioridade: 2
 
@@ -614,6 +614,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 6982 | 17 | 100 | Por que a gente sempre volta a jogar os games que já zerou mil vezes? | — |
 | FORTE | notícia | 7768 | 30 | 100 | Por que a Sony abandonou PHYSINT? Bastidores apontam atrasos, orçamento e retorno abaixo do esperado | — |
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
+| FORTE | notícia | 2832 | 13 | 100 | Prêmio eSports Brasil faz 10 anos na gamescom latam 2027, com tapete vermelho aberto ao público | — |
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
