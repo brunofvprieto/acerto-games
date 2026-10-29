@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 779
-- Forte: 765
+- Total analisado: 780
+- Forte: 766
 - Revisar: 12
 - Prioridade: 2
 
@@ -381,6 +381,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3519 | 14 | 100 | O primeiro grande racha de GTA 6 não é sobre gráficos: é sobre ter que abastecer o carro | — |
 | FORTE | notícia | 1782 | 7 | 100 | GTA 6 está sendo desenvolvido há 11 anos: Rockstar revela como o projeto começou | texto curto |
 | FORTE | notícia | 3783 | 12 | 100 | GTA VI: Digital Foundry vê 1440p a 30 fps no PS5 e nenhum sinal do QSSR no Launch Trailer | — |
+| FORTE | notícia | 3292 | 12 | 100 | GTA 6 ganha 12 imagens inéditas na revista Edge; Rockstar mostra polícia que monta retrato falado do jogador | — |
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | notícia | 3428 | 21 | 100 | Falta um mês para GTA 6: a passagem para Leonida está comprada, e o embarque é em 19 de novembro | — |
