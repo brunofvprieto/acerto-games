@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 791
-- Forte: 777
+- Total analisado: 792
+- Forte: 778
 - Revisar: 12
 - Prioridade: 2
 
@@ -716,6 +716,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1896 | 5 | 100 | The Blood of Dawnwalker mostra missão completa com pixie obcecada por dentes — e a magia de Coen em ação | — |
 | FORTE | noticia | 4827 | 20 | 100 | The Crew Motorfest: Showcase 2026 revela Ano 4, nova ilha, Tomb Raider e chegada ao Switch 2 | — |
 | FORTE | notícia | 2750 | 12 | 100 | The Division passa de 50 milhões de jogadores a uma semana da expansão Ecos do Central Park | — |
+| FORTE | notícia | 2880 | 12 | 100 | The Duskbloods é adiado para 2027, e FromSoftware cita ajustes depois do teste de rede | — |
 | FORTE | notícia | 2031 | 5 | 100 | The Duskbloods abre inscrições pro teste fechado em julho — e agosto vai ser tenso no Switch 2 | — |
 | FORTE | notícia | 3748 | 15 | 100 | Miyazaki entra no debate do SBMM: The Duskbloods vai ter matchmaking ranqueado e veteranos longe dos iniciantes | — |
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
