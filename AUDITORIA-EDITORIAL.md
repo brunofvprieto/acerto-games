@@ -262,7 +262,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2805 | 6 | 100 | Os maiores críticos do Game Pass estão dentro da própria Xbox | — |
 | FORTE | noticia | 1996 | 9 | 100 | Croc 2 está de volta: remaster chega em 29 de outubro com mais de 40 fases e museu histórico | — |
 | FORTE | artigo | 4142 | 15 | 100 | GTA 6 e o Cyberleek: o crime que virou entretenimento e o problema que ninguém está discutindo | — |
-| FORTE | notícia | 2749 | 12 | 100 | Cronos: Lazarus, DLC de Cronos: The New Dawn, chega em 3 de dezembro e conta a origem do Guardião | — |
+| FORTE | notícia | 3081 | 14 | 100 | Cronos: Lazarus, DLC de Cronos: The New Dawn, chega em 3 de dezembro e conta a origem do Guardião | — |
 | FORTE | notícia | 2744 | 12 | 100 | Cronos: The New Dawn ganha modo foto em atualização grátis e fica 50% mais barato | — |
 | FORTE | notícia | 2805 | 11 | 100 | Cult of the Lamb chega ao Switch 2 em 22 de outubro, com upgrade grátis para quem tem no Switch | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
@@ -445,7 +445,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
 | FORTE | notícia | 2751 | 10 | 100 | ID@Xbox Showcase confirma oito jogos no Game Pass, Mouthwashing no Xbox e data de Shrek 2 Remastered | — |
 | FORTE | notícia | 2766 | 13 | 100 | Nintendo faz Indie World nesta quarta (28), às 11h de Brasília | — |
-| FORTE | notícia | 4547 | 23 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
+| FORTE | notícia | 4904 | 24 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
 | FORTE | artigo | 5691 | 22 | 100 | A palestra mais importante da Gamescom não foi sobre jogo nenhum | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
 | FORTE | notícia | 2770 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
