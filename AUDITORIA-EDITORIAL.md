@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 792
-- Forte: 778
+- Total analisado: 794
+- Forte: 780
 - Revisar: 12
 - Prioridade: 2
 
@@ -607,6 +607,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
+| FORTE | notícia | 3105 | 12 | 100 | Pokémon GO terá encontro da Área Selvagem Global no Ibirapuera, com Dialga e Palkia Dinamax no jogo | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 2841 | 12 | 100 | Pokémon terá loja permanente em Londres até 2029, a primeira fora da Ásia | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
@@ -753,6 +754,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
 | FORTE | noticia | 3860 | 14 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
 | FORTE | noticia | 3642 | 10 | 100 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | — |
+| FORTE | notícia | 2986 | 12 | 100 | Virtua Fighter Crossroads revela Lionel Rafale, lutador que parece ser a nova versão de Lion | — |
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | notícia | 2899 | 12 | 100 | Warhorse, de Kingdom Come: Deliverance 2, sofre ataque hacker e fala em incidente sério | — |
