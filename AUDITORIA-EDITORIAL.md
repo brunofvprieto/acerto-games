@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 794
-- Forte: 780
+- Total analisado: 800
+- Forte: 786
 - Revisar: 12
 - Prioridade: 2
 
@@ -204,6 +204,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2779 | 11 | 100 | Black Flag Resynced recebe Novo Jogo+ e modo Pesadelo nesta terça, na última grande atualização | — |
 | FORTE | notícia | 2646 | 5 | 100 | Diretor de Black Flag Resynced pede uma coisa só: que a gente não abandone o jogo quando GTA 6 chegar | — |
 | FORTE | Notícias | 2001 | 7 | 100 | Assassin's Creed Black Flag Resynced pode chegar ao Switch 2 após nova listagem no varejo francês | — |
+| FORTE | notícia | 2766 | 10 | 100 | Ubisoft diz que não tem outro remake de Assassin's Creed em produção, e Hexe só volta a aparecer em 2027 | — |
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
 | FORTE | notícia | 2718 | 11 | 100 | Estúdio de Boltgun 2 vai cortar um quarto da equipe 12 dias depois do lançamento | — |
@@ -221,6 +222,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2800 | 10 | 100 | Cofundador da BioWare diz que compra da EA pela Arábia Saudita foi "o último prego no caixão" do estúdio | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
+| FORTE | notícia | 2920 | 10 | 100 | Filme animado de Bloodborne já tem diretor e roteirista, diz produtor Jacksepticeye | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
 | FORTE | notícia | 2681 | 10 | 100 | Boato: Rockstar teria oferecido ao Daft Punk uma volta com orçamento ilimitado para GTA 6 | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
@@ -282,6 +284,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
 | FORTE | review | 8260 | 28 | 100 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | — |
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
+| FORTE | notícia | 2781 | 11 | 100 | Demon Slayer: The Hinokami Chronicles 2 chega ao Switch 2 com upgrade grátis, e série passa de 6 milhões | — |
 | FORTE | noticia | 1988 | 8 | 100 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | — |
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
@@ -302,6 +305,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3619 | 14 | 100 | "A moral está péssima": funcionários da EA relatam pressão por IA e demissões em segredo | — |
 | FORTE | notícia | 2479 | 6 | 100 | Venda da EA por US$ 55 bilhões será concluída na próxima semana — a maior da história dos games | — |
 | FORTE | notícia | 5801 | 21 | 100 | Elden Ring no Switch 2: primeiro hands-on diz que a sensação é a mesma do PS5 — e entrega o detalhe que muda a decisão de compra | — |
+| FORTE | notícia | 2830 | 11 | 100 | The Elder Scrolls VI deve se chamar Sentinel e ter nome revelado em novembro, diz reportagem | — |
 | FORTE | notícia | 2444 | 5 | 100 | As demissões da Xbox já estão batendo no Elder Scrolls Online — e a loja do jogo foi a primeira a sentir | — |
 | FORTE | notícia | 1905 | 5 | 100 | A liderança do Elder Scrolls Online foi varrida pelas demissões da Xbox — e a chefe do estúdio está entre as vítimas | — |
 | FORTE | artigo | 9345 | 32 | 100 | O maior desperdício da indústria: as engines que custaram fortunas e viraram pó | — |
@@ -531,6 +535,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2846 | 12 | 100 | Modern Warfare 4: Temporada 1 chega na madrugada de 6 de novembro com Shoot House, nova área no DMZ e duas armas | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
+| FORTE | notícia | 2790 | 11 | 100 | Monster Hunter Outlanders chega ao celular de graça, em português e com a Garena no Brasil | — |
 | FORTE | notícia | 3933 | 13 | 100 | Monster Hunter Rise atinge 20 milhões de cópias e celebra caçadores de Kamura | — |
 | FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
 | FORTE | noticia | 2024 | 7 | 100 | Nintendo anuncia Switch 2 com Monster Hunter Wilds para dezembro; pacote inclui jogo digital e bônus | — |
@@ -769,6 +774,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3497 | 12 | 100 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | — |
 | FORTE | notícia | 2891 | 11 | 100 | Reserva de nomes de WoW: Forever abre com filas e erros; jogo sai em 4 de novembro | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
+| FORTE | notícia | 2818 | 10 | 100 | "Difícil achar sinal de esperança": analista diz que Gears exclusivo e CoD fora do Game Pass não ajudaram o Xbox | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
 | FORTE | noticia | 8797 | 25 | 100 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | — |
 | FORTE | noticia | 7300 | 22 | 100 | Xbox cria divisão XP para cinema, séries e parques temáticos; Minecraft ganha nova liderança | — |
