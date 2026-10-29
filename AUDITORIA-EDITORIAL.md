@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 790
-- Forte: 776
+- Total analisado: 791
+- Forte: 777
 - Revisar: 12
 - Prioridade: 2
 
@@ -193,6 +193,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3132 | 6 | 100 | Analista avisa: o fim dos jogos físicos no PS5 pode fechar as lojas de games de vez | — |
 | FORTE | Artigos | 5915 | 15 | 100 | Antes de Phantom Blade Zero: conheça os jogos que deram origem ao universo da S-GAME | — |
 | FORTE | notícia | 3576 | 11 | 100 | ARC Raiders e The Finals terão adaptações para cinema e TV com a Chernin | — |
+| FORTE | notícia | 2884 | 11 | 100 | ArcheAge Chronicles entra em acesso antecipado na terça (3) com servidor no Brasil, mas sem português | — |
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
 | FORTE | notícia | 2751 | 11 | 100 | Arkane Lyon tem até 13 de novembro para encontrar comprador, e Marvel's Blade estaria na reta final | — |
 | FORTE | notícia | 3842 | 13 | 100 | Arknights: Endfield chega ao Steam com Santuário de Tinta, Si e Argent Flow | — |
