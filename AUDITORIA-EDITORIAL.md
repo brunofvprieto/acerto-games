@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 786
-- Forte: 772
+- Total analisado: 787
+- Forte: 773
 - Revisar: 12
 - Prioridade: 2
 
@@ -584,6 +584,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2222 | 8 | 100 | Persona 4 Revival troca todo o elenco em inglês — e Atlus explica por quê | — |
 | FORTE | notícia | 2736 | 11 | 100 | Phantom Blade Zero passa de 1 milhão de cópias antes de lançar, estima analista; jogo libera hoje às 23h | — |
 | FORTE | notícia | 2664 | 10 | 100 | Phantom Blade Zero vende 500 mil cópias na Steam antes de lançar e entra no top 12 do Brasil | — |
+| FORTE | notícia | 3015 | 12 | 100 | Phantom Blade Zero passa de 700 mil jogadores na Steam e estúdio pede para não usar o driver mais novo da NVIDIA | — |
 | FORTE | Artigos | 6827 | 22 | 100 | Phantom Blade Zero quer transformar kung fu em gameplay — e Donnie Yen ajudou a construir essa luta | — |
 | FORTE | Notícias | 2378 | 7 | 100 | Donnie Yen está em Phantom Blade Zero — e sua participação vai muito além de interpretar um personagem | — |
 | FORTE | notícia | 2740 | 11 | 100 | Phantom Blade Zero: pré-download pede 300 GB no PC; veja quanto tempo leva para zerar | — |
