@@ -443,7 +443,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
 | FORTE | notícia | 2751 | 10 | 100 | ID@Xbox Showcase confirma oito jogos no Game Pass, Mouthwashing no Xbox e data de Shrek 2 Remastered | — |
 | FORTE | notícia | 2766 | 13 | 100 | Nintendo faz Indie World nesta quarta (28), às 11h de Brasília | — |
-| FORTE | notícia | 3688 | 19 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
+| FORTE | notícia | 4547 | 23 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
 | FORTE | artigo | 5691 | 22 | 100 | A palestra mais importante da Gamescom não foi sobre jogo nenhum | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
