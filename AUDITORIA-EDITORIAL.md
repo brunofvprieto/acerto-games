@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 785
-- Forte: 771
+- Total analisado: 786
+- Forte: 772
 - Revisar: 12
 - Prioridade: 2
 
@@ -406,6 +406,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1795 | 5 | 100 | Take-Two defende GTA 6 sem disco e diz que mídia física “não faz sentido” em alguns casos | texto curto |
 | FORTE | notícia | 2669 | 6 | 100 | GTA 6 sem PC não é ganância — ex-produtor da Rockstar explica o motivo de verdade | — |
 | FORTE | notícia | 5716 | 18 | 100 | A semana decisiva de GTA 6: reunião da Take-Two na sexta, trailer 3 no ar da esperança e um like da Rockstar que virou caso | — |
+| FORTE | notícia | 2856 | 11 | 100 | GTA 6 aparece em South Park com trecho inédito: Jason briga na praia usando cocô de cachorro | — |
 | FORTE | noticia | 3259 | 11 | 100 | GTA 6 e Spotify levam campanha às ruas após teasers de Travis Scott, Future e outros artistas | — |
 | FORTE | noticia | 2136 | 8 | 100 | GTA 6 tem primeiro ator confirmado: Stephen Root revela participação no jogo da Rockstar | — |
 | FORTE | notícia | 2828 | 12 | 100 | GTA 6 vai ocupar 210 GB no PS5; pré-download começa em 12 de novembro | — |
