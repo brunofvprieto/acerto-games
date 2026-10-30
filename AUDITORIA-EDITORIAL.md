@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 824
-- Forte: 810
+- Total analisado: 825
+- Forte: 811
 - Revisar: 12
 - Prioridade: 2
 
@@ -482,6 +482,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2482 | 7 | 100 | Jon Hamm quase foi o detetive de LA Noire — e o roteirista explica por que foi melhor assim | — |
 | FORTE | notícia | 2959 | 16 | 100 | Lançamentos da semana: Phantom Blade Zero, The Wolf Among Us Remastered, Croc 2 e mais | — |
 | FORTE | notícia | 3420 | 10 | 100 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | — |
+| FORTE | notícia | 5025 | 20 | 100 | Lançamentos de novembro de 2026: Zelda Ocarina of Time, GTA 6 e os jogos que dividem o mês com os gigantes | — |
 | FORTE | notícia | 2678 | 11 | 100 | Layers of Fear e Observer: System Redux ganham edição física no Switch 2 | — |
 | FORTE | notícia | 1853 | 5 | 100 | League of Legends Classic revela modo retrô, mas a galera já tá brigando por causa das skins | — |
 | FORTE | notícia | 3016 | 6 | 100 | O ator de Wolverine ficou com medo de si mesmo — e isso foi exatamente o que a Insomniac queria | — |
