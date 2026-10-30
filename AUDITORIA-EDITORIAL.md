@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 815
-- Forte: 801
+- Total analisado: 819
+- Forte: 805
 - Revisar: 12
 - Prioridade: 2
 
@@ -221,6 +221,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2063 | 8 | 100 | Beyond the Dark: Nightwatch chega ao Switch 2 com campeonato que premia a melhor dupla com viagem à Escócia | — |
 | FORTE | notícia | 2777 | 10 | 100 | Cofundador da BioWare diz que compra da EA pela Arábia Saudita foi "o último prego no caixão" do estúdio | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
+| FORTE | notícia | 3635 | 13 | 100 | EA fechou a BioWare para apostar em Star Wars Battlefront 3, diz Bloomberg | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | notícia | 2897 | 10 | 100 | Filme animado de Bloodborne já tem diretor e roteirista, diz produtor Jacksepticeye | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
@@ -273,6 +274,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
 | FORTE | notícia | 2777 | 13 | 100 | Cyberpunk 2077 tem maior pico na Steam desde 2023 e lidera vendas no Brasil | — |
 | FORTE | notícia | 2186 | 10 | 100 | Hideo Kojima volta a Night City como Hideyoshi Oshima em Cyberpunk: Edgerunners 2 | — |
+| FORTE | notícia | 2968 | 11 | 100 | Criador de Forza Motorsport, Dan Greenawalt deixa a Microsoft após 27 anos | — |
 | FORTE | notícia | 1878 | 6 | 100 | Dan Houser revela primeiros detalhes dos jogos da Absurd Ventures após deixar a Rockstar | — |
 | FORTE | notícia | 3076 | 10 | 100 | Rumor: toda a trilogia Dark Souls pode estar sendo refeita, e a pergunta que ninguém respondeu é quem está fazendo | — |
 | FORTE | notícia | 2319 | 5 | 100 | Dez anos de sofrimento e a Red Hook presenteia o Darkest Dungeon original com novo DLC | — |
@@ -365,6 +367,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 6244 | 23 | 100 | Equipe de Gears of War: E-Day teme demissões após lançamento e possível perda de bônus | — |
 | FORTE | noticia | 2056 | 9 | 100 | Gears of War: E-Day está pronto: jogo entra em fase gold e ganha data de pré-instalação | — |
 | FORTE | noticia | 2910 | 9 | 100 | Gears of War: E-Day dobra recorde de Gears 5 no Steam antes do lançamento geral | — |
+| FORTE | notícia | 2719 | 10 | 100 | Gears of War: E-Day teria vendido pouco mais de 400 mil cópias, com a maior parte do público no Game Pass | — |
 | FORTE | notícia | 3143 | 9 | 100 | GeForce NOW libera os controles do DLSS 4.5 e recebe Enshrouded 1.0 e Boltgun 2 | — |
 | FORTE | notícia | 2730 | 11 | 100 | Genshin Impact 7.2, Hour of Ruin, chega em 4 de novembro com Mitya, Valeriy e a cidade subterrânea de Novokitezhgrad | — |
 | FORTE | noticia | 3437 | 10 | 100 | Jin Sakai está de volta em Ghost of Yōtei e divide espaço com a geração de Atsu | — |
@@ -460,6 +463,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2747 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
+| FORTE | notícia | 3535 | 13 | 100 | Shooter de John Romero cancelado pelo Xbox ganha nova publicadora e vai beber de Zelda: Breath of the Wild | — |
 | FORTE | notícia | 3073 | 11 | 100 | Ken Kutaragi diz entender a revolta com o fim dos discos no PlayStation, mas defende a decisão | — |
 | FORTE | notícia | 2093 | 10 | 100 | Kena: Scars of Kosmora é adiado para 2027 e ganha novos detalhes | — |
 | FORTE | notícia | 2713 | 11 | 100 | Rumor: comercial da PlayStation indica que a Sony comprou a marca Kena, mas a loja ainda credita a Ember Lab | — |
