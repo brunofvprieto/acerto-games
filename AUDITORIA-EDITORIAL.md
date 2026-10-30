@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 819
-- Forte: 805
+- Total analisado: 824
+- Forte: 810
 - Revisar: 12
 - Prioridade: 2
 
@@ -291,6 +291,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
 | FORTE | notícia | 2758 | 11 | 100 | Demon Slayer: The Hinokami Chronicles 2 chega ao Switch 2 com upgrade grátis, e série passa de 6 milhões | — |
 | FORTE | noticia | 1988 | 8 | 100 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | — |
+| FORTE | notícia | 2974 | 13 | 100 | Bungie avisa que Destiny não terá anúncio no The Game Awards: "A gente chega lá quando chegar" | — |
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
 | FORTE | noticia | 2059 | 10 | 100 | Diablo IV no Switch 2 chega a 1440p e oferece modo de 40 FPS; Blizzard detalha a versão | — |
@@ -342,6 +343,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
 | FORTE | notícia | 2314 | 10 | 100 | Black Clover chega ao Fortnite com Asta, Noelle e Yuno em novo pacote | — |
+| FORTE | notícia | 2874 | 12 | 100 | Luffy, Zoro e Ace chegam ao Fortnite neste domingo com poderes de One Piece; veja quem está no passe | — |
 | FORTE | notícia | 3458 | 6 | 100 | Fortnite fez uma collab com filme de terror sobre abuso sexual — e o resultado foi constrangedor | — |
 | FORTE | notícia | 2161 | 9 | 100 | One Piece chega ao Fortnite em Treasure Hunters, e o primeiro a aparecer é o Going Merry | — |
 | FORTE | notícia | 2733 | 11 | 100 | Fortnite Override: o passe de batalha traz Sonic e Tetris, e a temporada inteira virou um museu dos videogames | — |
@@ -469,6 +471,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2713 | 11 | 100 | Rumor: comercial da PlayStation indica que a Sony comprou a marca Kena, mas a loja ainda credita a Ember Lab | — |
 | FORTE | notícia | 2818 | 10 | 100 | Kingdom Hearts celebra 25 anos com trailer especial e prepara nova coletânea para esta semana | — |
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
+| FORTE | notícia | 2786 | 11 | 100 | Nintendo cancela o Halloween de Kirby Air Riders depois de tela congelar no meio das corridas | — |
 | FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
 | FORTE | notícia | 2884 | 12 | 100 | Kojima acredita que jogos em mídia física podem desaparecer em até três anos | — |
 | FORTE | notícia | 2917 | 11 | 100 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | — |
@@ -664,6 +667,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1844 | 6 | 100 | Capcom prepara encontro entre remakes e linha atual de Resident Evil desde Village | — |
 | FORTE | artigo | 5659 | 22 | 100 | 22% contra 55%: os números de Resident Evil Requiem mostram que o "fim natural" da mídia física é uma história contada com os dados de um país só | — |
 | FORTE | notícia | 8345 | 32 | 100 | A Plague Tale não precisava de outra história — e é justamente por isso que Resonance precisa justificar sua existência | — |
+| FORTE | notícia | 2812 | 11 | 100 | Resonance of Fate volta ao PS5 e ao PC com Enhanced Remaster e modo de velocidade dupla | — |
 | FORTE | notícia | 1796 | 9 | 100 | Riders Republic chega ao Nintendo Switch 2 em 9 de dezembro, no aniversário de cinco anos | texto curto |
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
@@ -786,6 +790,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4648 | 15 | 100 | Sony tenta justificar saída de PHYSINT após romper com Kojima? | — |
 | FORTE | artigo | 3490 | 15 | 100 | Wonderia lembra Terraria na exploração e ganha força com um Modo Criativo sem a pressão da sobrevivência | — |
 | FORTE | notícia | 2709 | 10 | 100 | Wonderia ganha Modo Criativo, com Modo Deus, plantas reutilizáveis e opção de pausar o mundo | — |
+| FORTE | notícia | 2723 | 11 | 100 | WORLD OF HORROR fica 20% maior com atualização gratuita no PC; PS4 e Switch recebem em 2027 | — |
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3497 | 12 | 100 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | — |
