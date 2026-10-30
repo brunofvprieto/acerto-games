@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 812
-- Forte: 798
+- Total analisado: 815
+- Forte: 801
 - Revisar: 12
 - Prioridade: 2
 
@@ -346,6 +346,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 5545 | 20 | 100 | Fortnite: Pesadelos 2026 reúne FNAF, Freddy Krueger, Hollow Knight e uma avalanche de crossovers | — |
 | FORTE | noticia | 2293 | 10 | 100 | Sora chega a Fortnite nesta semana e crossover de Kingdom Hearts terá Riku, Kairi e Roxas | — |
 | FORTE | noticia | 2760 | 7 | 100 | Forza Horizon 6 chega ao PS5 em janeiro de 2027 com 60 FPS, cross-save e primeira expansão | — |
+| FORTE | notícia | 2942 | 12 | 100 | Anime de Free Fire, Daybreak terá estreia mundial na CCXP26, com painel e show de Alok | — |
 | FORTE | notícia | 2787 | 11 | 100 | FSR 4.1 chega ao Xbox Series X|S, e o Project Helix vai usar o FSR Diamond | — |
 | FORTE | notícia | 2021 | 9 | 100 | Nintendo Classics recebe Avenging Spirit, Mole Mania e Revenge of the 'Gator no Game Boy em 27 de outubro | — |
 | FORTE | noticia | 2578 | 12 | 100 | Game Freak anuncia Ame no Chi Hare Onna, novo jogo que transforma a previsão do tempo em mecânica | — |
@@ -549,6 +550,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1974 | 9 | 100 | Monster Hunter Wilds no Switch 2: Capcom revela resolução, 30 FPS e modos gráficos | — |
 | FORTE | notícia | 2566 | 10 | 100 | Mortal Shell II ganha Rotten Autumn, atualização gratuita com 15 masmorras, modo foto e trilha alternativa | — |
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
+| FORTE | notícia | 2782 | 11 | 100 | Mouthwashing vai virar filme da Sony, com direção de Karyn Kusama, de Yellowjackets | — |
 | FORTE | noticia | 2312 | 9 | 100 | Muramasa: Revenant Blades ganha data e mostra como o clássico da Vanillaware foi reconstruído | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
 | FORTE | noticia | 3374 | 11 | 100 | Naughty Dog confirma dois novos projetos de The Last of Us e revelação completa de Intergalactic em 2027 | — |
@@ -699,6 +701,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2348 | 6 | 100 | Splatoon Raiders faz história: maior nota de usuários da Nintendo no Metacritic (e top 10 de todos os tempos) | — |
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
 | FORTE | notícia | 3114 | 12 | 100 | Atualização 2.1 de STALKER 2 já está disponível e amplia o alcance do A-Life | — |
+| FORTE | notícia | 2908 | 11 | 100 | Naves em formação e tochas acesas: jogadores de Star Trek Online se despedem de Patrick Stewart | — |
 | FORTE | notícia | 2776 | 12 | 100 | Star Wars Battlefront 3 estaria em produção na DICE e na Respawn, diz Variety | — |
 | FORTE | notícia | 3575 | 12 | 100 | Star Wars: Galactic Racer chega hoje com corridas clandestinas e Sebulba | — |
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
