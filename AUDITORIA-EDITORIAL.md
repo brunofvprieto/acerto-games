@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 808
-- Forte: 794
+- Total analisado: 812
+- Forte: 798
 - Revisar: 12
 - Prioridade: 2
 
@@ -522,6 +522,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
 | FORTE | notícia | 2294 | 10 | 100 | Moadra chega hoje: metroidvania alienígena evolui a protagonista com protoplasma | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
+| FORTE | notícia | 2850 | 10 | 100 | Activision vai tirar as imagens de Itaewon de Modern Warfare 4 em 12 de novembro e pede desculpas às famílias | — |
 | FORTE | notícia | 2274 | 10 | 100 | Modern Warfare 4 chega com 33 armas, acessórios que valem para todas e duas trilhas de Prestígio | — |
 | FORTE | notícia | 3572 | 13 | 100 | Campanha de Modern Warfare 4 tem 92% de aprovação no Steam, e as queixas são sobre o acesso, não o jogo | — |
 | FORTE | notícia | 9057 | 27 | 100 | DMZ de Modern Warfare 4 terá Acesso Antecipado em 20 de outubro e Activision detalha a Base Operacional Avançada | — |
@@ -642,6 +643,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2723 | 11 | 100 | Sony traz de volta os controles transparentes com a Prism Collection para PS5; pré-venda começa em 10 de novembro | — |
 | FORTE | noticia | 5124 | 16 | 100 | Sony leva upscaling por IA ao PS5 comum com QSSR; Wolverine e Ghost of Yōtei estreiam tecnologia | — |
 | FORTE | notícia | 2452 | 10 | 100 | Nova revisão do PS5 Slim facilita troca da bateria e muda refrigeração | — |
+| FORTE | notícia | 2753 | 10 | 100 | PS5 segue 1% à frente do PS4 nos EUA após 71 meses, e Xbox Series fica 28% atrás do Xbox One | — |
 | FORTE | noticia | 1925 | 8 | 100 | Psikyo Memories resgata clássicos de navinha dos arcades no PS5 e Switch 2 | — |
 | FORTE | notícia | 3256 | 11 | 100 | PUBG: Atualização 43.2 traz Bentley, o modo PvE SLB: Dawnbreakers of Rondo e mudanças em veículos e lobby | — |
 | FORTE | notícia | 2713 | 12 | 100 | PUBG: Battlegrounds recebe o IVE com áreas de LOVE DIVE em Rondo a partir de 4 de novembro | — |
@@ -783,9 +785,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2868 | 11 | 100 | Reserva de nomes de WoW: Forever abre com filas e erros; jogo sai em 4 de novembro | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
 | FORTE | notícia | 2795 | 10 | 100 | "Difícil achar sinal de esperança": analista diz que Gears exclusivo e CoD fora do Game Pass não ajudaram o Xbox | — |
+| FORTE | notícia | 2830 | 10 | 100 | Mythic Achievements chegam a todos os consoles Xbox na atualização de outubro, que também traz Remote Play em 1440p | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
 | FORTE | noticia | 8797 | 25 | 100 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | — |
 | FORTE | noticia | 7300 | 22 | 100 | Xbox cria divisão XP para cinema, séries e parques temáticos; Minecraft ganha nova liderança | — |
+| FORTE | notícia | 3038 | 10 | 100 | Xbox admite que avaliar jogos no console tem "passos demais" depois que Modern Warfare 4 ficou sem nota no Metacritic | — |
 | FORTE | notícia | 3153 | 11 | 100 | Xbox prepara mais três rodadas de demissões, e estudo interno avaliou venda ou spinoff, diz Fortune | — |
 | FORTE | notícia | 3226 | 10 | 100 | Xbox libera Disc-to-Digital para todos e transforma discos físicos em licenças digitais | — |
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
