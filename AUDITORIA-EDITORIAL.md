@@ -718,7 +718,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
 | FORTE | notícia | 2734 | 9 | 100 | Switch 2 de Zelda chega às lojas hoje, e Ocarina of Time encolhe para 24,54 GB a uma semana do lançamento | — |
-| FORTE | notícia | 2770 | 11 | 100 | De pai para filho: André Colvara entrega ao filho o Switch 2 de Zelda 40 anos, e o coração quase não aguenta | — |
+| FORTE | notícia | 2770 | 11 | 100 | André Colvara transforma em herança a paixão por Nintendo e Zelda | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
