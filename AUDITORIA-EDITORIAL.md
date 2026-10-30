@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 807
-- Forte: 793
+- Total analisado: 808
+- Forte: 794
 - Revisar: 12
 - Prioridade: 2
 
@@ -280,7 +280,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4415 | 16 | 100 | Dave Bautista negocia para ser o novo Kratos da série de God of War | — |
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
 | FORTE | notícia | 2739 | 10 | 100 | Death Stranding 2 no Xbox? Evento na loja da Microsoft alimenta rumor, mas pode ser só a exposição de Kojima | — |
-| FORTE | notícia | 3535 | 11 | 100 | "Minha mãe virou uma cratera": Death Stranding Isolations ganha primeiro teaser e estreia em 2027 | — |
+| FORTE | notícia | 3845 | 12 | 100 | "Minha mãe virou uma cratera": Death Stranding Isolations ganha primeiro teaser e estreia em 2027 | — |
+| FORTE | notícia | 2751 | 10 | 100 | Death Stranding Odradek: Kojima e Niantic levam os BTs para as ruas de Tóquio em realidade aumentada | — |
 | FORTE | notícia | 2437 | 5 | 100 | Deborah Ann Woll sobre os haters de God of War Laufey: "Em nenhum universo o jogo é ruim" | — |
 | FORTE | notícia | 3881 | 20 | 100 | Deep Dish Dungeon: o final verdadeiro exige devolver os tesouros à masmorra | — |
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
