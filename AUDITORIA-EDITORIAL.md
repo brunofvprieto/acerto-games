@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 832
-- Forte: 818
+- Total analisado: 834
+- Forte: 820
 - Revisar: 12
 - Prioridade: 2
 
@@ -345,6 +345,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 7973 | 21 | 100 | O fim das engines próprias? Halo entregou os pontos — e a conta chegou pra todo mundo | — |
 | FORTE | noticia | 1799 | 8 | 100 | Final Fantasy Resonance ganha trailer da TGS 2026 antes do lançamento em outubro | texto curto |
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
+| FORTE | notícia | 2728 | 10 | 100 | Final Fantasy XIV: Evercold é adiado para 23 de fevereiro e revela a Zephyr, job de besta e pássaro | — |
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
 | FORTE | notícia | 2314 | 10 | 100 | Black Clover chega ao Fortnite com Asta, Noelle e Yuno em novo pacote | — |
 | FORTE | notícia | 2874 | 12 | 100 | Luffy, Zoro e Ace chegam ao Fortnite neste domingo com poderes de One Piece; veja quem está no passe | — |
@@ -573,6 +574,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
 | FORTE | notícia | 3939 | 12 | 100 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | — |
+| FORTE | notícia | 2737 | 11 | 100 | Miyamoto cria o Dia do Pikmin em Direct surpresa, e demo de Pikmin 4 no Switch 2 sai na segunda | — |
 | FORTE | notícia | 1988 | 7 | 100 | Nintendo marca Direct dedicado a Fire Emblem: Fortune's Weave para esta terça | — |
 | FORTE | noticia | 2726 | 10 | 100 | Nintendo transforma o DK Challenge em coleção física com 39 cards de Donkey Kong | — |
 | FORTE | Notícias | 2790 | 12 | 100 | Nintendo anuncia dois Directs seguidos; Zelda terá especial de 40 anos e comunidade já faz apostas | — |
