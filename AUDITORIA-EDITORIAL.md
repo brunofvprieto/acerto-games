@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 825
-- Forte: 811
+- Total analisado: 826
+- Forte: 812
 - Revisar: 12
 - Prioridade: 2
 
@@ -414,6 +414,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2728 | 11 | 100 | GTA 6: álbum com a trilha original do Justice terá 50 faixas e sai em 11 de dezembro | — |
 | FORTE | noticia | 4693 | 15 | 100 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | — |
 | FORTE | notícia | 3766 | 7 | 100 | GTA 6 pode faturar até R$ 29 bilhões na semana de lançamento — e a pré-venda já é recorde histórico | — |
+| FORTE | notícia | 4644 | 14 | 100 | GTA 6 toma prédios em Paris e Miami e chega aos painéis de São Paulo; veja os vídeos | — |
 | FORTE | notícia | 3008 | 11 | 100 | Quem é Macca the Gator, o jacaré de óculos que virou a cara de GTA 6 | — |
 | FORTE | notícia | 4592 | 17 | 100 | GTA VI: Bad Bunny, Lana Del Rey, Slayer e Burna Boy comandam as rádios de Leonida | — |
 | FORTE | notícia | 2476 | 11 | 100 | Bloomberg: Rockstar ainda não sabe quem é o Cyberleek nem como o acesso aconteceu | — |
