@@ -1,0 +1,40 @@
+{
+  "slug": "dark-souls-2-dark-souls-3-servidores-desligados-fromsoftware-online-fora-do-ar",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "31 out 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-10-31T19:04:00-03:00",
+  "title": "FromSoftware desliga servidores de Dark Souls 2 e Dark Souls 3 em todas as plataformas, sem previsão de volta",
+  "excerpt": "Invasões, invocações e mensagens estão fora do ar desde a madrugada de sexta. Empresa fala em problema de servidor e lembra o apagão de 2022.",
+  "cover": [
+    "#7a4a1f",
+    "#0d0a08"
+  ],
+  "image": "/img/dark-souls-3-arte-oficial-servidores-fora-do-ar.jpg",
+  "imageFilename": "dark-souls-3-arte-oficial-servidores-fora-do-ar.jpg",
+  "imageAlt": "Arte oficial de Dark Souls III com o cavaleiro diante de uma paisagem em ruínas",
+  "imageCredit": "Dark Souls III. Divulgação/Bandai Namco",
+  "fonte": "FromSoftware",
+  "fonteUrl": "https://x.com/fromsoftware_sp/status/2116088984703209689",
+  "imageOrigem": "Steam (jogadores simultâneos via API em 31/10, 22h UTC: DS3 4.173, DS2 SotFS 3.122; preços BR R$ 229,90 e R$ 154,90, PT-BR): library_hero dos apps 374320 (Dark Souls III) e 335300 (Dark Souls II: Scholar of the First Sin)",
+  "body": [
+    "Dark Souls 2 e Dark Souls 3 estão sem modo online. A FromSoftware desligou os servidores dos dois jogos em todas as plataformas na madrugada de sexta-feira (30), por volta das 4h de Brasília, depois de encontrar um \"problema de servidor\". Até a noite deste sábado (31), a empresa ainda não tinha dado previsão de volta.",
+    "tweet: https://x.com/fromsoftware_sp/status/2116088984703209689",
+    "\"Devido a um problema de servidor, os servidores dos seguintes títulos ficarão temporariamente indisponíveis em todas as plataformas\", escreveu a FromSoftware. \"Vamos atualizar as informações assim que soubermos o horário de restauração dos servidores.\" O aviso saiu primeiro em japonês e, quase duas horas depois, em inglês.",
+    "## O que para de funcionar",
+    "Os dois jogos continuam abertos no modo offline, mas tudo que depende da rede fica de fora. Somem as invasões de outros jogadores, os sinais de invocação para cooperação e as mensagens deixadas no chão, inclusive as que mandam o jogador pular de um penhasco.",
+    "Para uma série em que o online faz parte do desenho, isso muda bastante a experiência. Em Dark Souls, a ajuda de um estranho contra um chefe difícil faz parte do jogo. O medo de ser invadido no meio de uma área também. Sem servidor, as duas aventuras viram experiências solitárias.",
+    "E não é pouca gente afetada. Perto das 19h de Brasília deste sábado, Dark Souls 3 tinha cerca de 4,2 mil jogadores simultâneos na Steam. Dark Souls 2: Scholar of the First Sin tinha cerca de 3,1 mil. Mesmo sem invasões, parece que muita gente segue jogando offline.",
+    "img: /img/dark-souls-2-scholar-arte-oficial-servidores.jpg | Dark Souls II: Scholar of the First Sin, que também está com o online desligado. Divulgação/Bandai Namco.",
+    "O desligamento veio dois dias depois de uma manutenção de emergência só em Dark Souls 2. Na quarta-feira (28), a FromSoftware tirou o jogo do ar por algumas horas e avisou em seguida que os serviços online tinham voltado. A empresa não disse se os dois episódios têm relação.",
+    "## O fantasma de 2022",
+    "A comunidade já viu esse filme. Em janeiro de 2022, às vésperas de Elden Ring, uma falha grave de segurança em Dark Souls 3 permitia que um invasor executasse código no computador de outro jogador. A Bandai Namco tirou do ar os servidores de PC de toda a trilogia, e o online só voltou aos poucos ao longo daquele ano.",
+    "Agora há duas diferenças. O problema atinge também os consoles, e não só o PC, e a FromSoftware não falou em segurança. Fala apenas em \"problema de servidor\", o que parece apontar para uma correção mais rápida, mas sem prazo nenhum a promessa é só essa.",
+    "No PC, quem quiser jogar acompanhado tem uma saída. O mod Seamless Co-op, feito por fãs, usa servidores próprios e não depende dos oficiais. Ele existe para Dark Souls 3 há anos e chegou a Dark Souls 2 no fim de setembro.",
+    "O aviso não inclui o primeiro jogo, e Dark Souls Remastered não aparece na lista. A trilogia fica dividida por enquanto. Na Steam brasileira, Dark Souls 3 custa R$ 229,90 e Dark Souls 2: Scholar of the First Sin sai por R$ 154,90, os dois com textos em português do Brasil.",
+    "video: https://www.youtube.com/watch?v=cWBwFhUv1-8",
+    "video: https://www.youtube.com/watch?v=v0GxBZcVmHc"
+  ],
+  "observacao": "Aviso oficial: X da FromSoftware (fromsoftware_sp), japonês em 30/10 07:01 UTC (4h01 de Brasília) e inglês 08:45 UTC; sem atualização na timeline até 31/10 à noite. Manutenção de emergência de DS2 em 28/10 (05:00 a 07:00 UTC) e retorno: posts da FromSoftware de 27 e 28/10. O que fica fora (invasões, sinais de invocação, mensagens): Eurogamer ('presumably') + funcionamento conhecido do online da série. Apagão de 2022 (falha de execução remota de código em DS3, servidores de PC da trilogia fora do ar, retorno ao longo do ano): PC Gamer, Eurogamer, GamesRadar. Seamless Co-op com servidores próprios, DS2 em setembro: PC Gamer. Trailers: PlayStation (DS3) e Bandai Namco (DS2 SotFS)."
+}
