@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 826
-- Forte: 812
+- Total analisado: 830
+- Forte: 816
 - Revisar: 12
 - Prioridade: 2
 
@@ -207,6 +207,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2743 | 10 | 100 | Ubisoft diz que não tem outro remake de Assassin's Creed em produção, e Hexe só volta a aparecer em 2027 | — |
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
+| FORTE | notícia | 2666 | 8 | 100 | Attack on Titan 3 abre pré-venda no Switch 2 com trailer próprio, e segue sem português | — |
 | FORTE | notícia | 2718 | 11 | 100 | Estúdio de Boltgun 2 vai cortar um quarto da equipe 12 dias depois do lançamento | — |
 | FORTE | notícia | 3201 | 13 | 100 | Compositor de Journey publica a música que criou para o Mass Effect cancelado; ouça | — |
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
@@ -259,6 +260,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2807 | 11 | 100 | Coral Island chega ao Switch 2 com a atualização 1.4, em que os filhos crescem | — |
 | FORTE | notícia | 1929 | 7 | 100 | Crazy Taxi: World Tour ganha novo trailer e confirma chegada ao Switch 2 | — |
 | FORTE | notícia | 2779 | 11 | 100 | Crimson Desert: história da DLC Charting the Unknown exige terminar o jogo base | — |
+| FORTE | notícia | 2692 | 8 | 100 | Crimson Desert Enhanced ganha teste grátis de cinco horas, aberto a todo jogador de Xbox | — |
 | FORTE | notícia | 4197 | 15 | 100 | Crimson Desert no Switch 2: a Pearl Abyss mira o primeiro semestre de 2027 e admite que hoje o console só roda "o básico" | — |
 | FORTE | notícia | 1982 | 7 | 100 | Crimson Desert soma 17 atualizações em cinco meses e a Pearl Abyss soltou um trailer só pra mostrar isso | — |
 | FORTE | notícia | 1849 | 5 | 100 | Estúdio de Crisol demite todo o time menos de seis meses após o lançamento e admite que fechar de vez é uma possibilidade real | — |
@@ -325,6 +327,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 5300 | 11 | 100 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
 | FORTE | especial | 11219 | 32 | 100 | Especial Metal Gear #2 — Sons of Liberty (2001): o jogo que enganou o mundo inteiro e previu o futuro | — |
 | FORTE | noticia | 2220 | 9 | 100 | Eternal Anima resgata a era de ouro dos JRPGs com viagem no tempo e batalhas que preveem o futuro | — |
+| FORTE | notícia | 2783 | 9 | 100 | Evercade Nexus chega às lojas com Banjo-Kazooie e Banjo-Tooie na caixa e aposta só no cartucho | — |
 | FORTE | notícia | 2778 | 12 | 100 | Evo Brazil 2027 terá oito jogos e R$ 1 milhão em prêmios; ingressos custam a partir de R$ 240 | — |
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 2898 | 9 | 100 | Exodus refaz o rosto de Jun Aslan depois das críticas, e a versão feminina vem em breve | — |
@@ -550,6 +553,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2823 | 12 | 100 | Modern Warfare 4: Temporada 1 chega na madrugada de 6 de novembro com Shoot House, nova área no DMZ e duas armas | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
+| FORTE | notícia | 2710 | 8 | 100 | Trilha de Modern Warfare 4 sai com 35 faixas, gayageum coreano e a volta de Stephen Barton à série | — |
 | FORTE | notícia | 2767 | 11 | 100 | Monster Hunter Outlanders chega ao celular de graça, em português e com a Garena no Brasil | — |
 | FORTE | notícia | 3933 | 13 | 100 | Monster Hunter Rise atinge 20 milhões de cópias e celebra caçadores de Kamura | — |
 | FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
