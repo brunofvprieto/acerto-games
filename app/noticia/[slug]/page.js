@@ -377,6 +377,7 @@ export default function Noticia({ params }) {
             })}
           </div>
 
+          {(!post.author || post.author === "Bruno Vazquez") && (
           <section className="mt-10 border border-edge bg-surface p-5">
             <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-arcade">Sobre o autor</p>
             <p className="mt-2 font-display text-lg uppercase">Bruno Vazquez</p>
@@ -386,6 +387,7 @@ export default function Noticia({ params }) {
             </p>
             <Link href="/autor/bruno-vazquez" className="mt-3 inline-block text-sm text-arcade underline">Ver perfil e matérias →</Link>
           </section>
+          )}
 
           <NewsletterBox origem="materia" />
 
