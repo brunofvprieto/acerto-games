@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 831
-- Forte: 817
+- Total analisado: 832
+- Forte: 818
 - Revisar: 12
 - Prioridade: 2
 
@@ -278,6 +278,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2186 | 10 | 100 | Hideo Kojima volta a Night City como Hideyoshi Oshima em Cyberpunk: Edgerunners 2 | — |
 | FORTE | notícia | 2968 | 11 | 100 | Criador de Forza Motorsport, Dan Greenawalt deixa a Microsoft após 27 anos | — |
 | FORTE | notícia | 1878 | 6 | 100 | Dan Houser revela primeiros detalhes dos jogos da Absurd Ventures após deixar a Rockstar | — |
+| FORTE | notícia | 2797 | 10 | 100 | FromSoftware desliga servidores de Dark Souls 2 e Dark Souls 3 em todas as plataformas, sem previsão de volta | — |
 | FORTE | notícia | 3076 | 10 | 100 | Rumor: toda a trilogia Dark Souls pode estar sendo refeita, e a pergunta que ninguém respondeu é quem está fazendo | — |
 | FORTE | notícia | 2319 | 5 | 100 | Dez anos de sofrimento e a Red Hook presenteia o Darkest Dungeon original com novo DLC | — |
 | FORTE | Notícias | 4548 | 16 | 100 | DashBreaker reinventa o velho “jogo de navinha”: aqui, sobreviver aos mísseis é o espetáculo | — |
