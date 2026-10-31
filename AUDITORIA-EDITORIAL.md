@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 835
-- Forte: 821
+- Total analisado: 836
+- Forte: 822
 - Revisar: 12
 - Prioridade: 2
 
@@ -318,6 +318,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2444 | 5 | 100 | As demissões da Xbox já estão batendo no Elder Scrolls Online — e a loja do jogo foi a primeira a sentir | — |
 | FORTE | notícia | 1905 | 5 | 100 | A liderança do Elder Scrolls Online foi varrida pelas demissões da Xbox — e a chefe do estúdio está entre as vítimas | — |
 | FORTE | artigo | 9345 | 32 | 100 | O maior desperdício da indústria: as engines que custaram fortunas e viraram pó | — |
+| FORTE | artigo | 5109 | 24 | 100 | Enshrouded 1.0: 25 horas num mundo aberto que dá vontade de explorar até o último canto | — |
 | FORTE | notícia | 5018 | 15 | 100 | Epic Games adia jogo de Marvel e Star Wars e determina uso intensivo de inteligência artificial | — |
 | FORTE | notícia | 3233 | 11 | 100 | Epic Games diz que seus engenheiros não escrevem mais a maior parte do código da Unreal e do Fortnite | — |
 | FORTE | notícia | 3029 | 14 | 100 | Separa a graninha: Promoção de Verão da Epic tem jogão por menos de R$ 10 e descontos de até 90% | — |
