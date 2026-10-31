@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 834
-- Forte: 820
+- Total analisado: 835
+- Forte: 821
 - Revisar: 12
 - Prioridade: 2
 
@@ -704,6 +704,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1977 | 10 | 100 | Serious Sam: The Third Encounter é anunciado e continua a história de The Second Encounter | — |
 | FORTE | noticia | 2137 | 10 | 100 | Signal Veil mistura survival horror, trauma psicológico e anime dos anos 90 | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
+| FORTE | notícia | 2785 | 9 | 100 | Silver Palace, RPG de detetive em mundo aberto, chega de graça ao PS5, PC e celular em 14 de dezembro | — |
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
 | FORTE | notícia | 5066 | 20 | 100 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | — |
 | FORTE | notícia | 2848 | 13 | 100 | Smalland 2: Lost Realms mostra primeiro gameplay e fica para 2027 | — |
