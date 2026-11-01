@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 836
-- Forte: 822
+- Total analisado: 839
+- Forte: 825
 - Revisar: 12
 - Prioridade: 2
 
@@ -224,6 +224,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3635 | 13 | 100 | EA fechou a BioWare para apostar em Star Wars Battlefront 3, diz Bloomberg | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
+| FORTE | notícia | 2872 | 12 | 100 | BLACKWOOD, o jogo do dono de locadora que vira assassino, ganha missões novas e MP5 em 6 de novembro | — |
 | FORTE | notícia | 2897 | 10 | 100 | Filme animado de Bloodborne já tem diretor e roteirista, diz produtor Jacksepticeye | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
 | FORTE | notícia | 2681 | 10 | 100 | Boato: Rockstar teria oferecido ao Daft Punk uma volta com orçamento ilimitado para GTA 6 | — |
@@ -615,6 +616,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2467 | 6 | 100 | Palworld está dominando a Steam de novo — e quase repetiu a marca de 1 milhão de jogadores simultâneos | — |
 | FORTE | notícia | 2788 | 10 | 100 | Patrick Stewart, de Star Trek e X-Men, morre aos 86 anos; ator foi o imperador de Oblivion | — |
 | FORTE | notícia | 3926 | 11 | 100 | As caçadas de Monster Hunter sobreviveram: Peace Walker mantém a parceria com a Capcom na Master Collection Vol. 2 | — |
+| FORTE | notícia | 2934 | 10 | 100 | Rumor: vídeo vazado mostra suposto remake de Persona 1 com motor de Persona 3 Reload | — |
 | FORTE | notícia | 2222 | 8 | 100 | Persona 4 Revival troca todo o elenco em inglês — e Atlus explica por quê | — |
 | FORTE | notícia | 2713 | 11 | 100 | Phantom Blade Zero passa de 1 milhão de cópias antes de lançar, estima analista; jogo libera hoje às 23h | — |
 | FORTE | notícia | 2664 | 10 | 100 | Phantom Blade Zero vende 500 mil cópias na Steam antes de lançar e entra no top 12 do Brasil | — |
@@ -649,6 +651,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 10180 | 29 | 100 | Por que Assassin’s Creed II é uma obra-prima e como Ezio transformou a Ubisoft | — |
 | FORTE | artigo | 6982 | 17 | 100 | Por que a gente sempre volta a jogar os games que já zerou mil vezes? | — |
 | FORTE | notícia | 7768 | 30 | 100 | Por que a Sony abandonou PHYSINT? Bastidores apontam atrasos, orçamento e retorno abaixo do esperado | — |
+| FORTE | notícia | 2829 | 9 | 100 | F-Stop, o prequel cancelado de Portal, vaza e pode ser jogado quase 20 anos depois | — |
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
 | FORTE | notícia | 2832 | 13 | 100 | Prêmio eSports Brasil faz 10 anos na gamescom latam 2027, com tapete vermelho aberto ao público | — |
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
