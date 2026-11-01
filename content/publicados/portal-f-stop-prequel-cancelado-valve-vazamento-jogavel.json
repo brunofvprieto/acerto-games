@@ -1,0 +1,38 @@
+{
+  "slug": "portal-f-stop-prequel-cancelado-valve-vazamento-jogavel",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "1 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-01T17:30:00-03:00",
+  "title": "F-Stop, o prequel cancelado de Portal, vaza e pode ser jogado quase 20 anos depois",
+  "excerpt": "Protótipo de 2007 em que a arma de portais dava lugar a uma câmera foi montado pela comunidade a partir de três vazamentos. A Valve não comentou.",
+  "cover": [
+    "#2c4a52",
+    "#0b1416"
+  ],
+  "image": "/img/portal-2-arte-oficial-chell-glados-capa.jpg",
+  "imageFilename": "portal-2-arte-oficial-chell-glados-capa.jpg",
+  "imageAlt": "Arte oficial de Portal 2 com Chell em silhueta diante de GLaDOS, na Aperture Science em ruínas",
+  "imageCredit": "Portal 2. Divulgação/Valve",
+  "fonte": "Valve",
+  "fonteUrl": "https://store.steampowered.com/app/620/Portal_2/",
+  "imageOrigem": "Arte oficial da página de Portal 2 na Steam (library hero, recortada)",
+  "body": [
+    "Quase 20 anos depois de ser engavetado, F-Stop, o prequel de Portal que a Valve cancelou em 2007, pode ser jogado do começo ao fim. Não por um lançamento oficial: a versão que circula desde o fim de semana foi montada pela comunidade a partir de três vazamentos diferentes. O resultado está quase completo, com algumas texturas e falas faltando, mas estável o bastante para que a campanha inteira já tenha aparecido em vídeos no YouTube.",
+    "## O jogo da câmera",
+    "F-Stop nasceu logo depois do lançamento de The Orange Box, em 2007. Gabe Newell parou a Valve por três meses e dividiu o estúdio em cinco equipes, cada uma responsável por um protótipo. Uma delas criou um prequel de Portal, ambientado na Aperture Science, com uma câmera experimental no lugar da arma de portais.",
+    "A ideia era fotografar objetos do cenário e depois recriá-los em outro lugar, com outro tamanho ou empilhados, para resolver os quebra-cabeças. Newell gostou do projeto, mas os testes com jogadores não empolgaram, e o jogo foi arquivado. Parte das falas, dos personagens e das mecânicas acabou reaproveitada em Portal 2.",
+    "video: https://www.youtube.com/watch?v=LiI3d0n1wFQ",
+    "## Como o jogo vazou",
+    "A primeira peça apareceu em agosto, no gigantesco vazamento de dados da Steam que expôs mais de 12 TB de arquivos de 2003 a 2013. Ali estava a maior parte dos recursos de F-Stop, como modelos e texturas, ao lado de versões antigas de Left 4 Dead, Portal 2 e Half-Life. Faltavam, porém, o código-fonte e os arquivos-fonte dos mapas.",
+    "As duas peças restantes surgiram nos últimos dias no servidor do Discord do Valve Cut Content, projeto de fãs que estuda conteúdo cortado dos jogos da Valve. A equipe diz ter confirmado a autenticidade dos mapas, e a comunidade juntou tudo numa versão jogável.",
+    "## Um projeto que já tinha saído da gaveta antes",
+    "F-Stop nunca foi totalmente secreto. A existência do projeto veio a público no documentário de bastidores The Final Hours of Portal 2, de Geoff Keighley. Em 2020, um pequeno estúdio mostrou a mecânica da câmera numa série de vídeos feita com o código original e, segundo os próprios autores, com autorização da Valve. Até agora, porém, só existiam pedaços. É a primeira vez que a campanha aparece inteira.",
+    "Quem conhece Viewfinder, de 2023, vai reconhecer a ideia de transformar fotos em objetos do cenário. A comparação mostra que o conceito sobreviveu fora da Valve. E reforça a sensação de que F-Stop parece ter sido arquivado mais pelo momento do estúdio do que pela falta de potencial.",
+    "## A Valve não comentou",
+    "A Valve não se pronunciou sobre o vazamento, e não há sinal de que pretenda lançar F-Stop oficialmente. A versão que circula não é autorizada, e o código e os mapas continuam sendo propriedade da empresa. Por isso, não indicamos onde baixar o jogo.",
+    "Para quem acompanha a história da Valve, o valor está na preservação. F-Stop é um retrato de como a empresa testava ideias entre Portal e Portal 2, e de como uma delas, mesmo descartada, deixou marcas no jogo que veio depois."
+  ],
+  "observacao": "Origem em 2007 (Directed Design Experiments, três meses, cinco equipes após The Orange Box), câmera da Aperture, Newell entusiasmado e testes frios, reaproveitamento em Portal 2: Kotaku + PC Gamer. Mecânica (fotografar, recriar, redimensionar e empilhar objetos): PC Gamer, Engadget, GamingOnLinux e PCGamesN (2020). Vazamento de agosto (mais de 12 TB, depots 2003 a 2013, recursos de F-Stop, versões antigas de L4D/Portal 2/HL): Kotaku (~13 TB) + Engadget (mais de 12 TB). Código-fonte e mapsrc no Discord do Valve Cut Content nas últimas 48 h, autenticidade verificada pela equipe: Kotaku + PC Gamer + Engadget. Quase completo, faltando texturas/falas: Kotaku + Engadget. Revelação no The Final Hours of Portal 2 (Keighley) e série Exposure da LunchHouse Software em 2020 com código e permissão da Valve: PCGamesN + GamingOnLinux. Valve sem comentário: tbreak + Engadget (sem indicação de lançamento). FORA por fonte única: pedido de US$ 1.000 do vazador (só Kotaku, tbreak repete), Discord fechado para convidados (só PC Gamer), estilo visual de TF2 e escritórios dos anos 60 (só PC Gamer), Cave Johnson e núcleos de personalidade (só PC Gamer), Aperture Desk Job. Vídeo: gameplay da build vazada no YouTube (sem crédito ao canal, conforme regra). Sem link de download."
+}
