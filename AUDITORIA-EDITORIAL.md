@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 845
-- Forte: 831
+- Total analisado: 848
+- Forte: 834
 - Revisar: 12
 - Prioridade: 2
 
@@ -570,6 +570,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
 | FORTE | notícia | 2782 | 11 | 100 | Mouthwashing vai virar filme da Sony, com direção de Karyn Kusama, de Yellowjackets | — |
 | FORTE | noticia | 2312 | 9 | 100 | Muramasa: Revenant Blades ganha data e mostra como o clássico da Vanillaware foi reconstruído | — |
+| FORTE | notícia | 2959 | 10 | 100 | Estúdio do criador de Yakuza fecha as portas, e Gang of Dragon é cancelado | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
 | FORTE | noticia | 3374 | 11 | 100 | Naughty Dog confirma dois novos projetos de The Last of Us e revelação completa de Intergalactic em 2027 | — |
 | FORTE | notícia | 2100 | 5 | 100 | Criterion confirma: Need for Speed e Burnout ficaram para trás — agora é só Battlefield | — |
@@ -620,6 +621,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2934 | 10 | 100 | Rumor: vídeo vazado mostra suposto remake de Persona 1 com motor de Persona 3 Reload | — |
 | FORTE | notícia | 2222 | 8 | 100 | Persona 4 Revival troca todo o elenco em inglês — e Atlus explica por quê | — |
 | FORTE | notícia | 2713 | 11 | 100 | Phantom Blade Zero passa de 1 milhão de cópias antes de lançar, estima analista; jogo libera hoje às 23h | — |
+| FORTE | notícia | 2915 | 10 | 100 | Phantom Blade Zero vende 4 milhões de cópias em 72 horas e faz o maior lançamento do ano na Steam | — |
 | FORTE | notícia | 2664 | 10 | 100 | Phantom Blade Zero vende 500 mil cópias na Steam antes de lançar e entra no top 12 do Brasil | — |
 | FORTE | notícia | 2993 | 12 | 100 | Phantom Blade Zero passa de 700 mil jogadores na Steam e estúdio pede para não usar o driver mais novo da NVIDIA | — |
 | FORTE | Artigos | 6827 | 22 | 100 | Phantom Blade Zero quer transformar kung fu em gameplay — e Donnie Yen ajudou a construir essa luta | — |
@@ -663,6 +665,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3307 | 9 | 100 | PS Plus de outubro terá Mafia: The Old Country, Horizon Forbidden West e Dino Crisis 2 | — |
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | notícia | 2443 | 14 | 100 | Planeta das Ofertas na PS Store: Final Fantasy VII Rebirth por R$ 85 e Hogwarts Legacy por R$ 52 | — |
+| FORTE | notícia | 2793 | 9 | 100 | PS5 recebe a segunda atualização de segurança em 12 dias, e GTA 6 deve exigir a nova versão | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
 | FORTE | notícia | 2723 | 11 | 100 | Sony traz de volta os controles transparentes com a Prism Collection para PS5; pré-venda começa em 10 de novembro | — |
 | FORTE | noticia | 5124 | 16 | 100 | Sony leva upscaling por IA ao PS5 comum com QSSR; Wolverine e Ghost of Yōtei estreiam tecnologia | — |
