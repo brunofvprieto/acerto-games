@@ -1,0 +1,38 @@
+{
+  "slug": "zelda-ocarina-of-time-switch-2-fsr-1-0-amd-sem-dlss-licencas",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "02 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-02T10:00:00-03:00",
+  "title": "Ocarina of Time no Switch 2 lista o FSR 1.0 da AMD nas licenças, e o DLSS não aparece",
+  "excerpt": "A tela de licenças da versão 1.0.0 do remake cita o upscaler espacial da AMD lançado em 2021 e o antisserrilhado SMAA. A Nintendo não comentou, e a lista não prova como o jogo usa cada recurso.",
+  "cover": [
+    "#2f5a3a",
+    "#c9a24a"
+  ],
+  "image": "/img/zelda-ocarina-of-time-switch-2-floresta-kokiri-link-fsr-1-0-dlss.jpg",
+  "imageFilename": "zelda-ocarina-of-time-switch-2-floresta-kokiri-link-fsr-1-0-dlss.jpg",
+  "imageAlt": "Link criança e Navi caminham pela Floresta Kokiri no remake de Zelda: Ocarina of Time para Switch 2, com vegetação densa e luz filtrada pelas árvores",
+  "imageCredit": "The Legend of Zelda: Ocarina of Time (Switch 2). Divulgação/Nintendo",
+  "imageOrigem": "https://assets.nintendo.com/image/upload/f_jpg/q_auto:best/w_1920/store/software/switch2/70010000130792/2e76ea7cb3eb833a0cbe8c9b016b28b3a7ef95838b66c1eaced1c0db7747dd37 (Nintendo eShop oficial, 1920x1080)",
+  "fonte": "Notebookcheck, PC Games Hardware",
+  "fonteUrl": "https://www.notebookcheck.net/Zelda-Ocarina-of-Time-on-Switch-2-appears-to-skip-DLSS-for-AMD-s-2021-upscaler.1439907.0.html",
+  "body": [
+    "A versão 1.0.0 de The Legend of Zelda: Ocarina of Time para Switch 2 traz na tela de licenças o FidelityFX Super Resolution 1.0, o FSR 1.0, tecnologia de escalonamento da AMD lançada em 2021. A lista também cita uma implementação do EASU otimizada para dispositivos móveis e o antisserrilhado SMAA. O DLSS da Nvidia, que o hardware do console suporta, não aparece.",
+    "A tela foi encontrada pelo usuário SuperMetalDave64, que publicou no X um vídeo do menu de informações de software do jogo. O achado circula a três dias do lançamento, marcado para quinta-feira (5), quando o remake chega por R$ 329,90 no eShop brasileiro.",
+    "## O que a lista mostra, e o que não mostra",
+    "A entrada do FSR traz o crédito da Advanced Micro Devices com data de 2021. O EASU (Edge Adaptive Spatial Upsampling) é o núcleo do FSR 1.0: um algoritmo que amplia cada quadro olhando só para a imagem atual, sem dados de quadros anteriores nem vetores de movimento. É barato para a GPU e por isso aparece em tanto jogo de console e de celular.",
+    "Licença, porém, não é prova de uso. A tela só confirma que o código está no pacote do jogo. Ela não diz em que momento o upscaler entra, se vale para o modo portátil, para a TV ou para os dois, nem qual é a resolução interna. Também não descarta o DLSS por completo, já que ferramentas proprietárias nem sempre exigem aviso de licença. A Nintendo não comentou o assunto.",
+    "## A pista que já existia",
+    "O dado combina com o que se viu antes. Em setembro, a análise da Digital Foundry sobre os vídeos oficiais do remake apontou 1080p nativos e 60 quadros por segundo, sem sinais de DLSS. A mesma análise registrou nitidez artificial acentuada e vegetação tremulando, efeitos típicos de escalonamento espacial, mas que um trailer comprimido não permite atribuir ao FSR.",
+    "Há precedente dentro de casa. Donkey Kong Bananza, também da Nintendo EPD, combinou FSR 1.0 e SMAA sem DLSS, segundo a Digital Foundry. Se a lista se confirmar na prática, Ocarina of Time segue a receita do estúdio, e não uma exceção.",
+    "link: Glossário do jogador: DLSS, FSR, ray tracing, Nanite e todo o resto do palavrório técnico, explicado | https://acertogames.com.br/noticia/glossario-tecnologia-dos-games-dlss-fsr-ray-tracing-nanite",
+    "## Por que a Nintendo trocaria o DLSS por um filtro de 2021",
+    "O chip do Switch 2 tem núcleos Tensor, e terceiros como a CD Projekt Red usam o DLSS no console. A escolha da Nintendo parece ser de orçamento. O DLSS cobra um custo fixo de processamento a cada quadro, e um jogo travado em 60 fps tem metade do tempo de um jogo a 30 fps para fechar cada imagem. O FSR 1.0 custa quase nada e deixa a GPU livre para a iluminação e a vegetação densa que a Nintendo vem mostrando nos trailers.",
+    "O preço dessa economia aparece justamente onde Hyrule mais mudou. Escalonamento espacial lida mal com folhagem fina e detalhes em movimento, e a Floresta Kokiri e o Campo de Hyrule refeitos estão cheios das duas coisas. É uma troca que o jogador sente mais na TV grande do que na tela do portátil.",
+    "link: Prévias de Zelda: Ocarina of Time mostram pulo manual, Semente de Scrub Comerciante e mudanças em Hyrule | https://acertogames.com.br/noticia/zelda-ocarina-of-time-previews-pulo-manual-business-scrub-seed-mudancas-hyrule",
+    "A resposta definitiva vem com o jogo nas mãos. A partir de quinta, a contagem de pixels nas duas formas de jogo vai dizer se o FSR 1.0 é a regra, a exceção ou só uma linha esquecida na lista de licenças. Até lá, o remake mais aguardado do ano no Switch 2 chega com uma pergunta técnica que a Nintendo, fiel ao costume, prefere não responder."
+  ],
+  "observacao": "Lista de licenças da v1.0.0 (FSR 1.0 AMD 2021, EASU otimizado para mobile, SMAA, sem DLSS): Notebookcheck (2/11, Antony Muchiri), PC Games Hardware (2/11), Mezha, eTeknix, Outputlag e Twistedvoxel. Todos partem do vídeo de SuperMetalDave64 (@SMetaldave64) no X; o post original não foi aberto nesta apuração. Ressalva de que licença não prova uso e de que ferramentas proprietárias podem não exigir aviso: Notebookcheck e PCGH. Nintendo sem comentário: Notebookcheck e PCGH. Digital Foundry de setembro (1080p nativo, 60 fps, sem DLSS, nitidez e vegetação tremulando): PCGH (2/11) e Notebookcheck (análise anterior, 1080p/60 sem DLSS), além do Critical Hits. Menus em 1440p ficou fora (fonte única: PCGH). Bananza com FSR 1 + SMAA sem DLSS: PCGH (via Digital Foundry) e Notebookcheck/Tech Insider. Mario Kart World sem DLSS ficou fora (sem segunda fonte independente). Cyberpunk 2077 com DLSS no Switch 2: CD Projekt Red, citado por Notebookcheck/Tech Insider. A leitura sobre orçamento de GPU é interpretação do portal, marcada com 'parece'. Preço R$ 329,90 e lançamento em 5/11: matéria do site de 29/10 (página oficial nintendo.com/pt-br). Imagem de capa: captura oficial do eShop, inédita no site."
+}
