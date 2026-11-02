@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 853
-- Forte: 839
+- Total analisado: 854
+- Forte: 840
 - Revisar: 12
 - Prioridade: 2
 
@@ -780,6 +780,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
+| FORTE | notícia | 2895 | 10 | 100 | Thief: The Dark Project Remastered sai em 3 de dezembro com campanha nova feita pela equipe de The Black Parade | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 2889 | 10 | 100 | Titan Quest II abre pré-venda no PS5 e no Xbox; versão 1.0 sai em 19 de janeiro e custa R$ 338,95 no console da Microsoft | — |
 | FORTE | notícia | 4712 | 21 | 100 | Tokyo Game Show 2026 entra na reta final: 30 anos, cinco dias e gigantes da indústria se movimentam | — |
