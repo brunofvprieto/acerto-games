@@ -852,7 +852,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
 | FORTE | notícia | 3000 | 9 | 100 | Ocarina of Time no Switch 2 lista o FSR 1.0 da AMD nas licenças, e o DLSS não aparece | — |
 | FORTE | noticia | 2191 | 8 | 100 | Zelda: Ocarina of Time para Switch 2 abre pré-venda no Brasil e edição especial vira alvo de corrida dos fãs | — |
-| FORTE | notícia | 2892 | 10 | 100 | Ocarina of Time vaza antes do lançamento, e as análises do remake saem no meio da semana | — |
+| FORTE | notícia | 2810 | 10 | 100 | Ocarina of Time vaza antes do lançamento, e as análises do remake saem no meio da semana | — |
 | FORTE | notícia | 2496 | 6 | 100 | Link, Zelda e Ganondorf ganham action figures da Hasbro — e o preço não vai te quebrar | — |
 | FORTE | notícia | 2701 | 8 | 100 | Zero Parades: Director's Cut chega nesta terça ao PS5, Xbox e Switch 2, ainda sem português | — |
 
