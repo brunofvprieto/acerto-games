@@ -823,7 +823,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
 | FORTE | noticia | 1859 | 10 | 100 | Xbox Game Pass anuncia Gears of War: E-Day, Minecraft Dungeons II, Dune: Awakening e mais jogos | — |
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
-| FORTE | notícia | 2796 | 10 | 100 | Game Pass de novembro começa com Gravhounds e reúne sete jogos confirmados, nenhum para Xbox One | — |
+| FORTE | notícia | 2820 | 10 | 100 | Game Pass de novembro começa com Gravhounds e reúne sete jogos confirmados, nenhum para Xbox One | — |
 | FORTE | notícia | 3152 | 6 | 100 | Xbox vai te deixar jogar de graça na nuvem — mas tem um preço: seus ouvidos por dois minutinhos de anúncio | — |
 | FORTE | noticia | 5786 | 17 | 100 | Xbox teria garantido exclusividade de GTA 6 no streaming em nuvem no lançamento | — |
 | FORTE | notícia | 2916 | 9 | 100 | Xbox perde a primeira diretora de operações da sua história três meses depois de criar o cargo | — |
