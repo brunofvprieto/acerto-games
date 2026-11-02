@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 856
-- Forte: 842
+- Total analisado: 857
+- Forte: 843
 - Revisar: 12
 - Prioridade: 2
 
@@ -600,6 +600,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Retrô | 1984 | 7 | 100 | Nintendo Switch Online recebe Ninja Gaiden III, Ikari Warriors e R.C. Pro-Am II no catálogo de NES | — |
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
+| FORTE | notícia | 3264 | 11 | 100 | Suda51 garante a volta de Travis Touchdown nos 20 anos de No More Heroes e quer resgatar Moonlight Syndrome | — |
 | FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
 | FORTE | opinião | 4950 | 24 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
@@ -856,7 +857,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2835 | 10 | 100 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | — |
 | FORTE | notícia | 5675 | 15 | 100 | Prévias de Zelda: Ocarina of Time mostram pulo manual, Semente de Scrub Comerciante e mudanças em Hyrule | — |
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
-| FORTE | notícia | 4706 | 13 | 100 | Zelda: Ocarina of Time foi feito pela equipe de Breath of the Wild, e Aonuma explica por que refez o clássico | — |
+| FORTE | notícia | 2882 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
