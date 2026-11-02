@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 857
-- Forte: 843
+- Total analisado: 858
+- Forte: 844
 - Revisar: 12
 - Prioridade: 2
 
@@ -811,6 +811,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | notícia | 2899 | 12 | 100 | Warhorse, de Kingdom Come: Deliverance 2, sofre ataque hacker e fala em incidente sério | — |
+| FORTE | notícia | 2844 | 11 | 100 | Warzone ganha clima dinâmico e dois mapas na Temporada 1, Conflito de Hajin, que sai às 2h de 6 de novembro | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
 | FORTE | notícia | 3379 | 12 | 100 | Wo Long 2 muda Insight Skills, Espírito e magias depois da Alpha Demo, mas mexe pouco na Moral | — |
