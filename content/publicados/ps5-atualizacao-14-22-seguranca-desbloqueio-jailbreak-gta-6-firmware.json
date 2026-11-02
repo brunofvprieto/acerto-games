@@ -1,0 +1,38 @@
+{
+  "slug": "ps5-atualizacao-14-22-seguranca-desbloqueio-jailbreak-gta-6-firmware",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "2 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-02T17:54:00-03:00",
+  "title": "PS5 recebe a segunda atualização de segurança em 12 dias, e GTA 6 deve exigir a nova versão",
+  "excerpt": "A versão 14.22 chega em meio à onda de desbloqueios do console. Dados da PS Store indicam que o jogo da Rockstar vai pedir justamente esse sistema para rodar.",
+  "cover": [
+    "#0b3a8c",
+    "#020a1f"
+  ],
+  "image": "/img/ps5-vendas-eua-71-meses-console-oficial.jpg",
+  "imageFilename": "ps5-vendas-eua-71-meses-console-oficial.jpg",
+  "imageAlt": "Detalhe da tampa branca e da base preta de um PS5, sobre fundo azul",
+  "imageCredit": "PlayStation 5. Divulgação/Sony Interactive Entertainment",
+  "fonte": "Sony Interactive Entertainment",
+  "fonteUrl": "https://www.playstation.com/pt-br/support/hardware/ps5/system-software-info/",
+  "imageOrigem": "Acervo do site (foto oficial do PS5)",
+  "body": [
+    "A Sony liberou nesta segunda-feira (2) mais uma atualização de sistema para o PS5, a versão 26.07-14.22.00. A nota oficial diz apenas que o pacote traz correções de segurança. É a segunda atualização em 12 dias. A pressa tem endereço: a 17 dias de GTA 6, a empresa tenta fechar as brechas que a cena de desbloqueio do console vem encontrando desde setembro.",
+    "## Uma corrida de gato e rato",
+    "A atualização anterior, a 14.20, saiu em 21 de outubro, sem menção a segurança nas notas, mas com o mesmo contexto. A nova tem cerca de 1,3 GB e é instalada sozinha em consoles com atualização automática ligada.",
+    "O movimento é um jogo de gato e rato. A comunidade de desbloqueio publica uma brecha para uma versão do sistema, e a Sony responde com uma versão nova que fecha a porta. No fim de setembro, um método passou a funcionar em todos os PS5 com sistema entre as versões 7.00 e 13.60, incluindo o PS5 Pro. Na prática, atingia qualquer console que estivesse sem atualizar havia mais de uma semana.",
+    "Parte desse avanço veio do uso de ferramentas de inteligência artificial para analisar o código do sistema e encontrar vulnerabilidades. Isso não quer dizer que qualquer jogo rode livremente num console desbloqueado. Os métodos têm limitações e dependem de cada falha explorada.",
+    "## O que GTA 6 tem a ver com isso",
+    "O desbloqueio importa para a Sony porque abre caminho para a pirataria. Quem tem um PS5 desbloqueado costuma deixar o console parado numa versão antiga do sistema, justamente para não perder a brecha. Se um jogo exigir a versão mais recente, essa pessoa precisa escolher entre atualizar e perder o desbloqueio ou ficar sem o jogo.",
+    "É aí que entra GTA 6. Dados da base da PS Store, levantados pelo perfil PlayStation Game Size, indicam que o jogo vai pedir justamente a versão 14.22 para rodar. No começo de outubro, os mesmos dados apontavam a 14.10. Nem a Sony nem a Rockstar confirmaram a exigência, e nada impede que outra atualização apareça antes de 19 de novembro.",
+    "link: GTA 6 deve exigir o firmware 14.10 do PS5, e hacker mostra o menu de debug do sistema | https://acertogames.com.br/noticia/gta-6-exigira-firmware-14-10-ps5-hacker-mostra-menu-debug",
+    "Não seria a primeira vez. Alguns jogos de PS5 já passaram a exigir a versão mais recente do sistema para baixar atualizações, e Marvel's Wolverine pedia o software em dia para iniciar. Na geração do PS3, Gran Turismo 5 chegou a atrasar alguns dias por causa de um problema de segurança no sistema do console.",
+    "img: /img/gta-6-launch-trailer-jason-lucia-carro-vermelho-19-novembro.jpg | Jason e Lucia no trailer de lançamento de GTA 6, que chega em 19 de novembro. Divulgação/Rockstar Games.",
+    "## Para quem joga, nada muda",
+    "Para quem usa o PS5 normalmente, a atualização não traz recurso novo nem mudança visível. O efeito prático é só o download antes de jogar. Com GTA 6 marcado para 0h de 19 de novembro no horário de Brasília, vale deixar o console atualizado antes, para não perder tempo na madrugada da estreia.",
+    "A pergunta que fica é se a Sony consegue vencer essa disputa. Para as publicadoras, a segurança do PlayStation é parte do negócio, e um jogo do tamanho de GTA 6 é o maior teste possível. Pelo ritmo das últimas semanas, parece que a Sony vai seguir soltando correções até a véspera."
+  ],
+  "observacao": "Versão 26.07-14.22.00 em 2/11 com 'correções de segurança': nota da SIE via Game Watch + IGN + MeuPlayStation. 1,267 GB e 14.20 em 21/10 sem menção a segurança: IGN. Brecha de 7.00 a 13.60 no fim de setembro, inclusive PS5 Pro: IGN + Push Square (ferramentas de IA também citadas por Push Square e MeuPS). Limitações dos métodos: MeuPS + IGN (dump de executáveis não possível no 14.10). Exigência 14.22 para GTA 6: PlayStation Game Size (dados da PS Store), repercutido por Push Square e MeuPS; sem confirmação oficial, marcado. 14.10 no início de outubro: matéria do site de 22/10 + Push Square. Wolverine e Gran Turismo 5: Push Square (GT5 adiado por segurança do XMB é fato histórico conhecido). Nada sobre como desbloquear. Fora: recompensa de US$ 50 mil (fonte única nesta apuração)."
+}
