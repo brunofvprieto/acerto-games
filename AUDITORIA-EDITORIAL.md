@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 848
-- Forte: 834
+- Total analisado: 853
+- Forte: 839
 - Revisar: 12
 - Prioridade: 2
 
@@ -228,6 +228,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2897 | 10 | 100 | Filme animado de Bloodborne já tem diretor e roteirista, diz produtor Jacksepticeye | — |
 | FORTE | noticia | 1925 | 8 | 100 | Bloodstained: The Scarlet Engagement mostra combate, dupla de heróis e mapa gigante em novo gameplay | — |
 | FORTE | notícia | 2681 | 10 | 100 | Boato: Rockstar teria oferecido ao Daft Punk uma volta com orçamento ilimitado para GTA 6 | — |
+| FORTE | notícia | 2977 | 11 | 100 | Borderlands passa de 100 milhões de cópias, e Gearbox promete mais Borderlands 4 em 2027 | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
 | FORTE | notícia | 3071 | 14 | 100 | Breathedge 2 chega ao Acesso Antecipado com construção, exploração espacial e uma galinha imortal | — |
 | FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
@@ -454,6 +455,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2065 | 9 | 100 | Harbor abre alpha fechado e quer jogadores ajudando a moldar seu survival pós-apocalíptico | — |
 | FORTE | noticia | 2238 | 10 | 100 | Hearthstone volta à era dos Old Gods em Reign of the Black Empire e confirma Monk para 2027 | — |
 | FORTE | notícia | 2125 | 10 | 100 | Hearthstone: Reinado dos Deuses Antigos já está disponível com 135 cards e a nova Jornada | — |
+| FORTE | notícia | 3260 | 10 | 100 | Ex-diretora de operações do Xbox nega demissão por violar regras e diz ter "sérias preocupações" com o processo | — |
 | FORTE | notícia | 2549 | 13 | 100 | Hell is Us ganha dez novos inimigos e responde à sua principal crítica | — |
 | FORTE | guia | 5411 | 24 | 100 | Hell is Us: as melhores builds de Ira e Terror — e as duas que usei para terminar o jogo | — |
 | FORTE | noticia | 1802 | 8 | 100 | Helldivers 2 recebe Ironclad Democracy com lança-granadas, pistola-míssil e armadura de tanque | — |
@@ -643,6 +645,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
+| FORTE | notícia | 2797 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 3082 | 12 | 100 | Pokémon GO terá encontro da Área Selvagem Global no Ibirapuera, com Dialga e Palkia Dinamax no jogo | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
@@ -721,6 +724,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
+| FORTE | notícia | 2984 | 11 | 100 | Soulframe, dos criadores de Warframe, abre alfa gratuito para todos em 6 de novembro | — |
 | FORTE | notícia | 2166 | 7 | 100 | Marvel's Spider-Man 2 ganha update grátis com trajes de Brand New Day e Tōkon — e um bug engraçado | — |
 | FORTE | notícia | 2825 | 7 | 100 | O diretor de Spider-Man: Brand New Day usou os jogos da Insomniac como manual de acrobacias | — |
 | FORTE | notícia | 2883 | 6 | 100 | Produtor da Nintendo praticamente confirma que Splatoon 4 está a caminho | — |
@@ -849,6 +853,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2835 | 10 | 100 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | — |
 | FORTE | notícia | 5675 | 15 | 100 | Prévias de Zelda: Ocarina of Time mostram pulo manual, Semente de Scrub Comerciante e mudanças em Hyrule | — |
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
+| FORTE | notícia | 4706 | 13 | 100 | Zelda: Ocarina of Time foi feito pela equipe de Breath of the Wild, e Aonuma explica por que refez o clássico | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
