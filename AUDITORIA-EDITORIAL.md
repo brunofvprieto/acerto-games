@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 854
-- Forte: 840
+- Total analisado: 856
+- Forte: 842
 - Revisar: 12
 - Prioridade: 2
 
@@ -661,6 +661,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2216 | 7 | 100 | Pragmata pode virar franquia: Capcom diz que sequência é "provável" após 2,5 milhões vendidos | — |
 | FORTE | notícia | 2832 | 13 | 100 | Prêmio eSports Brasil faz 10 anos na gamescom latam 2027, com tapete vermelho aberto ao público | — |
 | FORTE | notícia | 2963 | 14 | 100 | Prime Gaming solta nove jogos de graça em agosto — e cinco já estão liberados pra resgatar agora | — |
+| FORTE | notícia | 2797 | 9 | 100 | Fã oferece mais de 5 milhões de euros para a Ubisoft retomar o remake de Prince of Persia: As Areias do Tempo | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
 | FORTE | notícia | 2536 | 9 | 100 | Red Dead Redemption 2 também sai do PS Plus Extra em 17 de novembro, junto com GTA V e mais nove jogos | — |
@@ -797,6 +798,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2685 | 11 | 100 | Modern Warfare 4 estreia em 1º no Reino Unido, com 78% das cópias físicas vendidas no PS5 | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
+| FORTE | notícia | 2806 | 9 | 100 | Until Dawn 2 terá gameplay inédito em 11 de dezembro, num evento em salas de cinema com transmissão ao vivo | — |
 | FORTE | notícia | 2764 | 12 | 100 | Until Dawn 2: Sony apresenta, um a um, os caçadores de fantasmas do Dead True | — |
 | FORTE | review | 4535 | 23 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
 | FORTE | notícia | 2768 | 12 | 100 | Valor Mortis se paga em sete dias, mesmo lançado no Game Pass | — |
