@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 858
-- Forte: 844
+- Total analisado: 859
+- Forte: 845
 - Revisar: 12
 - Prioridade: 2
 
@@ -219,6 +219,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2859 | 9 | 100 | Battlefield 6 inicia Temporada 5 com Vegas Strip, dois mapas e quatro novas armas | — |
 | FORTE | notícia | 4071 | 14 | 100 | Battlefield 6 leva Top Gun pro Pacífico em 18 de agosto: jatos de dois lugares, Ilha Wake de volta e uma batalha de porta-aviões 32 contra 32 | — |
 | FORTE | review | 7335 | 37 | 100 | BeamNG.drive no PS5 cobra paciência | — |
+| FORTE | notícia | 2868 | 10 | 100 | Rumor: novo jogo da Bend Studio, de Days Gone, é cooperativo e sai em 2027 | — |
 | FORTE | notícia | 2063 | 8 | 100 | Beyond the Dark: Nightwatch chega ao Switch 2 com campeonato que premia a melhor dupla com viagem à Escócia | — |
 | FORTE | notícia | 2777 | 10 | 100 | Cofundador da BioWare diz que compra da EA pela Arábia Saudita foi "o último prego no caixão" do estúdio | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
@@ -646,7 +647,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
-| FORTE | notícia | 2797 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
+| FORTE | notícia | 2779 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 3082 | 12 | 100 | Pokémon GO terá encontro da Área Selvagem Global no Ibirapuera, com Dialga e Palkia Dinamax no jogo | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
@@ -858,7 +859,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2835 | 10 | 100 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | — |
 | FORTE | notícia | 5675 | 15 | 100 | Prévias de Zelda: Ocarina of Time mostram pulo manual, Semente de Scrub Comerciante e mudanças em Hyrule | — |
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
-| FORTE | notícia | 2882 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
+| FORTE | notícia | 2805 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
