@@ -692,7 +692,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
-| FORTE | notícia | 3578 | 12 | 100 | Control Resonant triplica a receita da Remedy, e o Brasil fica entre os três maiores mercados nos consoles | — |
+| FORTE | notícia | 3568 | 12 | 100 | Control Resonant triplica a receita da Remedy, e o Brasil fica entre os três maiores mercados nos consoles | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 2221 | 7 | 100 | Depois de 15 anos, Resident Evil 5 é destronado: RE2 Remake é o mais vendido da série | — |
 | FORTE | notícia | 3549 | 15 | 100 | Resident Evil: história atual deve terminar nos próximos 10 anos, diz produtor da Capcom | — |
