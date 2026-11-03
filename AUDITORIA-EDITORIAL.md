@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 859
-- Forte: 845
+- Total analisado: 863
+- Forte: 849
 - Revisar: 12
 - Prioridade: 2
 
@@ -294,6 +294,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3881 | 20 | 100 | Deep Dish Dungeon: o final verdadeiro exige devolver os tesouros à masmorra | — |
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
 | FORTE | review | 8260 | 28 | 100 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | — |
+| FORTE | notícia | 2943 | 9 | 100 | Demissões na indústria de games em 2026 já passam do total de 2025, com dois meses ainda pela frente | — |
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
 | FORTE | notícia | 2758 | 11 | 100 | Demon Slayer: The Hinokami Chronicles 2 chega ao Switch 2 com upgrade grátis, e série passa de 6 milhões | — |
 | FORTE | noticia | 1988 | 8 | 100 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | — |
@@ -553,6 +554,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3348 | 15 | 100 | Modern Warfare 4 chega com UAV mais resistente, SMGs mais fortes e sem Desafios Semanais na Temporada 1 | — |
 | FORTE | notícia | 3288 | 13 | 100 | Multiplayer de Modern Warfare 4 estreia com 13 modos, e Shipment chega em 27 de outubro | — |
 | FORTE | notícia | 2523 | 9 | 100 | Primeiro DLC de Modern Warfare 4 transforma em operador o fuzileiro que se jogou sobre uma granada | — |
+| FORTE | notícia | 3813 | 11 | 100 | Modern Warfare 4 corta 40% das torres de UAV do DMZ e devolve a velocidade do mergulho | — |
 | FORTE | notícia | 3411 | 13 | 100 | Modern Warfare 4 triplica o XP por abate no Search & Destroy e desfaz correção da bomba feita um dia antes | — |
 | FORTE | notícia | 3281 | 11 | 100 | Modern Warfare 4 faz o primeiro ajuste de armas: Oden e APOC-338 perdem força, PPSh-41 e Kastov 762 ganham alcance | — |
 | FORTE | notícia | 2324 | 9 | 100 | Modern Warfare 4 tem o dobro de jogadores de Black Ops 7 no Steam, mas fica abaixo de Black Ops 6 | — |
@@ -603,6 +605,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
 | FORTE | notícia | 3264 | 11 | 100 | Suda51 garante a volta de Travis Touchdown nos 20 anos de No More Heroes e quer resgatar Moonlight Syndrome | — |
 | FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
+| FORTE | notícia | 3072 | 9 | 100 | Chefe da Avalanche assume a Nordisk Games, dona da Supermassive, e Estocolmo vira o centro do grupo | — |
 | FORTE | opinião | 4950 | 24 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
@@ -750,6 +753,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3827 | 12 | 100 | Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
+| FORTE | notícia | 3013 | 9 | 100 | Stellar Blade chega ao Switch 2 nesta quinta, e as primeiras análises mostram o preço dos 60 fps | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
 | FORTE | notícia | 3307 | 14 | 100 | Street Fighter estreia em primeiro nos EUA, mas abre abaixo de Mortal Kombat II | — |
 | FORTE | notícia | 2712 | 8 | 100 | Capcom aprova novo filme de Street Fighter, e diretor revela reação de criador dos jogos | — |
