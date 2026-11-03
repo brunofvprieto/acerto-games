@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 873
-- Forte: 859
+- Total analisado: 874
+- Forte: 860
 - Revisar: 12
 - Prioridade: 2
 
@@ -427,7 +427,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2371 | 10 | 100 | Rumor: página vazada da Netflix indica que o "Olhar Estendido" de GTA 6 pode ter três episódios e mais de uma hora | — |
 | FORTE | notícia | 2728 | 11 | 100 | GTA 6: álbum com a trilha original do Justice terá 50 faixas e sai em 11 de dezembro | — |
 | FORTE | noticia | 4693 | 15 | 100 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | — |
-| FORTE | notícia | 2885 | 11 | 100 | GTA 6 antecipa o pré-download para 10 de novembro e confirma 212 GB; veja os horários no Brasil | — |
+| FORTE | notícia | 2880 | 11 | 100 | GTA 6 antecipa o pré-download para 10 de novembro e confirma 212 GB; veja os horários no Brasil | — |
 | FORTE | notícia | 3766 | 7 | 100 | GTA 6 pode faturar até R$ 29 bilhões na semana de lançamento — e a pré-venda já é recorde histórico | — |
 | FORTE | notícia | 4644 | 14 | 100 | GTA 6 toma prédios em Paris e Miami e chega aos painéis de São Paulo; veja os vídeos | — |
 | FORTE | notícia | 3008 | 11 | 100 | Quem é Macca the Gator, o jacaré de óculos que virou a cara de GTA 6 | — |
@@ -739,6 +739,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2905 | 10 | 100 | Sony abre nova fase do China Hero Project com US$ 1 milhão por jogo, na semana do sucesso de Phantom Blade Zero | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
 | FORTE | notícia | 2984 | 11 | 100 | Soulframe, dos criadores de Warframe, abre alfa gratuito para todos em 6 de novembro | — |
+| FORTE | notícia | 2875 | 9 | 100 | Diretor de South of Midnight diz que não teria financiado o próprio jogo e chama a "torneira de dinheiro" do Xbox de insustentável | — |
 | FORTE | notícia | 2166 | 7 | 100 | Marvel's Spider-Man 2 ganha update grátis com trajes de Brand New Day e Tōkon — e um bug engraçado | — |
 | FORTE | notícia | 2825 | 7 | 100 | O diretor de Spider-Man: Brand New Day usou os jogos da Insomniac como manual de acrobacias | — |
 | FORTE | notícia | 2883 | 6 | 100 | Produtor da Nintendo praticamente confirma que Splatoon 4 está a caminho | — |
