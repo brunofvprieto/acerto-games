@@ -1,0 +1,41 @@
+{
+  "slug": "modern-warfare-4-patch-2-novembro-dmz-torres-uav-40-por-cento-inalador-sedativo-shipment-mergulho",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "3 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-03T08:40:00-03:00",
+  "title": "Modern Warfare 4 corta 40% das torres de UAV do DMZ e devolve a velocidade do mergulho",
+  "excerpt": "Atualização de 2 de novembro é a primeira dirigida ao DMZ: torres em posições aleatórias, Inalador Sedativo com o dobro de duração e Bandeira de Trégua mais rápida. O Shipment ganha o primeiro ajuste de spawn.",
+  "cover": [
+    "#0d0d0d",
+    "#f2c500"
+  ],
+  "image": "/img/modern-warfare-4-patch-2-novembro-ghost-notas-de-atualizacao.jpg",
+  "imageFilename": "modern-warfare-4-patch-2-novembro-ghost-notas-de-atualizacao.jpg",
+  "imageAlt": "Ghost com máscara de caveira ao lado de um helicóptero em arte oficial das notas de atualização de Call of Duty: Modern Warfare 4",
+  "imageCredit": "Call of Duty: Modern Warfare 4. Divulgação/Activision",
+  "imageOrigem": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/patchnotes/body/mw4/mp/launch/MW4-00-LAUNCH-PATCH-NOTES-TOUT-C.webp (cabeçalho das notas oficiais em callofduty.com, 1920x1080, convertido para JPG)",
+  "fonte": "Infinity Ward",
+  "fonteUrl": "https://www.callofduty.com/patchnotes/2026/10/call-of-duty-modern-warfare-4-launch-patch-notes",
+  "body": [
+    "Modern Warfare 4 recebeu nesta segunda-feira (2) a primeira atualização pensada para o DMZ. A Infinity Ward cortou em 40% as torres de UAV do modo de extração, espalhou as que sobraram em posições aleatórias e dobrou a duração do Inalador Sedativo, o item que esconde o jogador dessas torres.",
+    "No mesmo pacote, a Bandeira de Trégua fica pronta para uso três vezes mais rápido, o Shipment recebe o primeiro ajuste de spawn e o mergulho volta à velocidade original. É a quinta rodada de correções desde o lançamento, em 23 de outubro, e a última antes da Temporada 1.",
+    "## Menos olhos no mapa",
+    "Até aqui, cada ponto de interesse do DMZ tinha uma torre de UAV garantida. Quem conhecia o mapa sabia onde ativar o radar e onde esperar ser encontrado. As notas oficiais dizem que os spawns \"foram randomizados e reduzidos em 40%\": nenhum ponto de interesse tem mais torre garantida, e duas torres não aparecem na mesma área. A exceção é Deadtown, que mantém a sua porque ela faz parte da progressão das Ordens do DMZ.",
+    "O Inalador Sedativo vai na mesma direção. A duração passou de 60 para 120 segundos, e a Infinity Ward escreve que a mudança \"vai facilitar que os jogadores fiquem escondidos das torres de UAV\". O estúdio admite uma brecha: o item ainda não esconde ninguém das torres ativadas por inimigos com o traço UAV Upgrade. A correção está prometida para uma atualização da Temporada 1.",
+    "A Bandeira de Trégua, que permite propor um cessar-fogo a outro esquadrão, teve o tempo de recarga cortado de 180 para 60 segundos. Somadas, as três mudanças apontam para o mesmo lugar. O DMZ de lançamento premiava quem dominava o radar, e a Infinity Ward parece querer um modo com menos vigilância, mais furtividade e mais negociação entre esquadrões.",
+    "img: /img/call-of-duty-modern-warfare-4-dmz-operadores-veiculo-blindado.jpg | Operadores do DMZ de Modern Warfare 4: as torres de UAV ficam menos previsíveis depois da atualização de 2 de novembro. Divulgação/Activision.",
+    "O pacote fecha ainda falhas que atrapalhavam a progressão do modo. O status do objetivo das torres volta a funcionar, os Operadores da Ativa aposentados passam a ser salvos e a captura de locais de mísseis antiaéreos não trava mais depois que outro esquadrão desiste dela. O progresso das recompensas por Operadores também deixa de zerar entre uma incursão e outra.",
+    "## Shipment, Free for All e o mergulho",
+    "No multiplayer, o Shipment ganhou o que as notas chamam de \"primeira passada\" na lógica de spawn, com mais mudanças prometidas para o mapa. O mapa chegou em 27 de outubro, com lista própria 24 horas por dia, e o ritmo de combate constante deixa qualquer falha de spawn à vista. O Free for All passa a mostrar o Final Killcam no lugar do Best Play, e Sentry e Mumbai tiveram brechas para fora do mapa fechadas.",
+    "A mudança mais sentida está no movimento. Em 28 de outubro, a Infinity Ward tinha reduzido em 23% a velocidade do mergulho para conter um exploit. Agora o estúdio desfez essa mitigação provisória e corrigiu, pelo servidor, a falha que deixava o jogador passar de deitado para em pé sem as animações previstas. O mergulho volta ao ritmo original, ao custo de pequenos defeitos visuais de animação que, segundo o estúdio, serão corrigidos depois.",
+    "link: Modern Warfare 4 faz o primeiro ajuste de armas: Oden e APOC-338 perdem força, PPSh-41 e Kastov 762 ganham alcance | https://acertogames.com.br/noticia/modern-warfare-4-patch-28-outubro-primeiro-ajuste-armas-oden-apoc-nerf-ppsh-kastov-buff-mergulho",
+    "Entre os ajustes menores, o lança-mísseis JOKR teve o modo infravermelho desativado temporariamente para fechar um exploit. O pacote também corrige a liberação do Finishing Move Hits Different, da campanha, e um problema no acessório Apex Drill Charge da KG-9.",
+    "## A ponte para a Temporada 1",
+    "A Infinity Ward avisa que as notas da Temporada 1 saem ainda nesta semana, antes da estreia marcada para quinta-feira (5), às 21h do horário do Pacífico. Em Brasília, são 2h da madrugada de sexta-feira (6). A temporada leva ao DMZ a área X01 e ao multiplayer o mapa Shoot House.",
+    "link: Modern Warfare 4: Temporada 1 chega na madrugada de 6 de novembro com Shoot House, nova área no DMZ e duas armas | https://acertogames.com.br/noticia/modern-warfare-4-temporada-1-6-novembro-mapas-shoot-house-dmz-x01-horario-brasil",
+    "A ordem dos patches conta uma história. Os primeiros trataram de XP e de falhas de modo, o de 28 de outubro mexeu nas armas, e este mira o DMZ, a aposta de longo prazo da Infinity Ward. Mexer na vigilância antes de abrir uma área nova indica que o estúdio quer resolver o ritmo do modo agora, e não depois que a temporada estiver rodando."
+  ],
+  "observacao": "Notas oficiais da Infinity Ward em callofduty.com, seção 'November 2, 2026', conferidas por WebFetch em 3/11 com citações literais: 'UAV tower spawns have been randomized and reduced by 40%', 'no longer guarantees one UAV tower per POI and prevents multiple UAV towers from spawning in the same area', Deadtown como exceção pela progressão das Ordens, 'Increased the Sedative Inhaler's duration from 60 to 120 seconds', 'This will make it easier for players to stay hidden from UAV Towers', ressalva do traço UAV Upgrade com correção prevista para a Temporada 1, 'Reduced the Truce Flag cooldown from 180 seconds to 60 seconds', 'Adjusted some spawn logic in Shipment. This is a first pass', 'Reverted a temporary exploit mitigation that restores the 23% of dive's intended velocity', correção de prone para standing sem animações e bugs visuais menores. Segunda fonte: GamerFuzion (2/11), com os mesmos números do DMZ, Shipment, Free for All, JOKR e KG-9. Temporada 1 na quinta (5) às 21h PT: notas oficiais; conversão para 2h de sexta (6) em Brasília (PST, UTC-8, após o fim do horário de verão americano em 1/11) coincide com a matéria do site de 28/10. 'Quinta rodada': matérias do site registram três rodadas em 23 a 25/10 e a de 28/10. Shipment em 27/10 com lista Shipment 24/7: matérias do site de 22/10 e 27/10. X01 e Shoot House: matéria do site de 28/10. Leitura de que a Infinity Ward quer menos vigilância e mais furtividade: interpretação do portal, marcada com 'parece'. Imagem de capa: cabeçalho oficial das notas de atualização (Ghost), inédito no site; imagem de corpo já usada no site em matéria de DMZ. Sem vídeo: notas de atualização em texto."
+}
