@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 869
-- Forte: 855
+- Total analisado: 873
+- Forte: 859
 - Revisar: 12
 - Prioridade: 2
 
@@ -427,6 +427,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2371 | 10 | 100 | Rumor: página vazada da Netflix indica que o "Olhar Estendido" de GTA 6 pode ter três episódios e mais de uma hora | — |
 | FORTE | notícia | 2728 | 11 | 100 | GTA 6: álbum com a trilha original do Justice terá 50 faixas e sai em 11 de dezembro | — |
 | FORTE | noticia | 4693 | 15 | 100 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | — |
+| FORTE | notícia | 2885 | 11 | 100 | GTA 6 antecipa o pré-download para 10 de novembro e confirma 212 GB; veja os horários no Brasil | — |
 | FORTE | notícia | 3766 | 7 | 100 | GTA 6 pode faturar até R$ 29 bilhões na semana de lançamento — e a pré-venda já é recorde histórico | — |
 | FORTE | notícia | 4644 | 14 | 100 | GTA 6 toma prédios em Paris e Miami e chega aos painéis de São Paulo; veja os vídeos | — |
 | FORTE | notícia | 3008 | 11 | 100 | Quem é Macca the Gator, o jacaré de óculos que virou a cara de GTA 6 | — |
@@ -691,6 +692,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
+| FORTE | notícia | 3578 | 12 | 100 | Control Resonant triplica a receita da Remedy, e o Brasil fica entre os três maiores mercados nos consoles | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 2221 | 7 | 100 | Depois de 15 anos, Resident Evil 5 é destronado: RE2 Remake é o mais vendido da série | — |
 | FORTE | notícia | 3549 | 15 | 100 | Resident Evil: história atual deve terminar nos próximos 10 anos, diz produtor da Capcom | — |
@@ -734,6 +736,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2748 | 8 | 100 | Sonic Racing: CrossWorlds começa o Ano Dois com Bayonetta de graça, modo Duelo e Godzilla na pista | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
+| FORTE | notícia | 2905 | 10 | 100 | Sony abre nova fase do China Hero Project com US$ 1 milhão por jogo, na semana do sucesso de Phantom Blade Zero | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
 | FORTE | notícia | 2984 | 11 | 100 | Soulframe, dos criadores de Warframe, abre alfa gratuito para todos em 6 de novembro | — |
 | FORTE | notícia | 2166 | 7 | 100 | Marvel's Spider-Man 2 ganha update grátis com trajes de Brand New Day e Tōkon — e um bug engraçado | — |
@@ -803,6 +806,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2696 | 11 | 100 | Tomb Raider: Legacy of Atlantis terá de 14 a 16 horas, quase o mesmo tamanho do clássico de 1996 | — |
 | FORTE | notícia | 3363 | 16 | 100 | Tomb Raider: Legacy of Atlantis mostra novo Larson e aprofunda rivalidade com Lara Croft | — |
 | FORTE | notícia | 2797 | 10 | 100 | Tombwater, soulslike do Velho Oeste, ganha textos em português, chefe novo e troca de classe | — |
+| FORTE | review | 4975 | 24 | 100 | Tombwater transforma o faroeste num soulslike de horror cósmico ao som de tango | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
