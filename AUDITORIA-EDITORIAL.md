@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 863
-- Forte: 849
+- Total analisado: 868
+- Forte: 854
 - Revisar: 12
 - Prioridade: 2
 
@@ -224,6 +224,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2777 | 10 | 100 | Cofundador da BioWare diz que compra da EA pela Arábia Saudita foi "o último prego no caixão" do estúdio | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3635 | 13 | 100 | EA fechou a BioWare para apostar em Star Wars Battlefront 3, diz Bloomberg | — |
+| FORTE | notícia | 2745 | 9 | 100 | Black Friday da PS Store começa nesta quarta e vai até o fim de novembro, com até 75% de desconto | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | notícia | 2872 | 12 | 100 | BLACKWOOD, o jogo do dono de locadora que vira assassino, ganha missões novas e MP5 em 6 de novembro | — |
 | FORTE | notícia | 2897 | 10 | 100 | Filme animado de Bloodborne já tem diretor e roteirista, diz produtor Jacksepticeye | — |
@@ -287,6 +288,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 4548 | 16 | 100 | DashBreaker reinventa o velho “jogo de navinha”: aqui, sobreviver aos mísseis é o espetáculo | — |
 | FORTE | notícia | 4415 | 16 | 100 | Dave Bautista negocia para ser o novo Kratos da série de God of War | — |
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
+| FORTE | notícia | 2774 | 8 | 100 | Behaviour retira os DLCs que deu ao streamer TheBurntPeanut e pede desculpas à comunidade de Dead by Daylight | — |
 | FORTE | notícia | 2739 | 10 | 100 | Death Stranding 2 no Xbox? Evento na loja da Microsoft alimenta rumor, mas pode ser só a exposição de Kojima | — |
 | FORTE | notícia | 3845 | 12 | 100 | "Minha mãe virou uma cratera": Death Stranding Isolations ganha primeiro teaser e estreia em 2027 | — |
 | FORTE | notícia | 2771 | 10 | 100 | Death Stranding Odradek: Kojima e Niantic levam as entidades encalhadas para as ruas de Tóquio em realidade aumentada | — |
@@ -349,6 +351,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2749 | 11 | 100 | Filme de Elden Ring custa quase US$ 200 milhões e é o mais caro da A24 | — |
 | FORTE | artigo | 7973 | 21 | 100 | O fim das engines próprias? Halo entregou os pontos — e a conta chegou pra todo mundo | — |
 | FORTE | noticia | 1799 | 8 | 100 | Final Fantasy Resonance ganha trailer da TGS 2026 antes do lançamento em outubro | texto curto |
+| FORTE | notícia | 2756 | 8 | 100 | Final Fantasy VII Remake e Rebirth saem por R$ 88,71 juntos na eShop do Switch 2 até 17 de novembro | — |
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
 | FORTE | notícia | 2728 | 10 | 100 | Final Fantasy XIV: Evercold é adiado para 23 de fevereiro e revela a Zephyr, job de besta e pássaro | — |
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
@@ -721,12 +724,14 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1977 | 10 | 100 | Serious Sam: The Third Encounter é anunciado e continua a história de The Second Encounter | — |
 | FORTE | noticia | 2137 | 10 | 100 | Signal Veil mistura survival horror, trauma psicológico e anime dos anos 90 | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
+| FORTE | notícia | 2748 | 9 | 100 | Silent Hill: Townfall teria vendido cerca de 404 mil cópias, longe do ritmo de Silent Hill 2 e Silent Hill f | — |
 | FORTE | notícia | 2785 | 9 | 100 | Silver Palace, RPG de detetive em mundo aberto, chega de graça ao PS5, PC e celular em 14 de dezembro | — |
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
 | FORTE | notícia | 5066 | 20 | 100 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | — |
 | FORTE | notícia | 2848 | 13 | 100 | Smalland 2: Lost Realms mostra primeiro gameplay e fica para 2027 | — |
 | FORTE | notícia | 2689 | 11 | 100 | Solo Leveling: Arise Overdrive chega ao PS5 e Xbox em 3 de novembro, às 21h de Brasília | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
+| FORTE | notícia | 2748 | 8 | 100 | Sonic Racing: CrossWorlds começa o Ano Dois com Bayonetta de graça, modo Duelo e Godzilla na pista | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
