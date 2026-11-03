@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 874
-- Forte: 860
+- Total analisado: 875
+- Forte: 861
 - Revisar: 12
 - Prioridade: 2
 
@@ -878,6 +878,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
+| FORTE | notícia | 4188 | 14 | 100 | Aonuma "tinha uma tarefa pendente": remake de Ocarina of Time ajusta o Templo da Água e traz de volta um dublador do N64 | — |
 | FORTE | notícia | 2717 | 7 | 100 | Zelda: Ocarina of Time chega em 5 de novembro; teoria do amiibo apontava 11, uma semana antes de GTA 6 | — |
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
 | FORTE | notícia | 3000 | 9 | 100 | Ocarina of Time no Switch 2 lista o FSR 1.0 da AMD nas licenças, e o DLSS não aparece | — |
