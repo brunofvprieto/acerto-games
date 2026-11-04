@@ -8,7 +8,7 @@ export default function PoliticaDePrivacidade() {
     <main className="mx-auto max-w-3xl px-4 py-10">
       <h1 className="logo-arcade text-3xl">Política de Privacidade</h1>
       <p className="mt-2 font-mono text-xs uppercase tracking-widest text-dim">
-        Última atualização: outubro de 2026
+        Última atualização: novembro de 2026
       </p>
       <div className="mt-6 space-y-5 leading-relaxed">
         <p>
@@ -22,7 +22,8 @@ export default function PoliticaDePrivacidade() {
           O Acerto Games não exige cadastro para leitura. Coletamos apenas dados de
           navegação de forma automática e anônima, por meio de cookies e tecnologias
           semelhantes: páginas visitadas, tempo de permanência, tipo de dispositivo,
-          navegador e região aproximada. Não coletamos nome, CPF ou dados sensíveis.
+          navegador e região aproximada. Não coletamos CPF nem dados sensíveis. Nome e e-mail só são
+          registrados quando você mesmo os informa, ao comentar uma matéria ou assinar a newsletter.
         </p>
 
         <h2 className="font-display text-lg text-arcade">2. Como usamos esses dados</h2>
@@ -82,13 +83,31 @@ export default function PoliticaDePrivacidade() {
           pode ser retirado quando quiser.
         </p>
 
-        <h2 className="font-display text-lg text-arcade">6. Links externos</h2>
+        <h2 className="font-display text-lg text-arcade">6. Comentários</h2>
+        <p>
+          Para comentar uma matéria, pedimos o seu <strong>nome</strong> e o seu <strong>endereço de e-mail</strong>.
+          O nome aparece junto com o comentário. O e-mail nunca é publicado: ele serve só para a moderação, para
+          evitar abusos e, se for preciso, para entrarmos em contato sobre o comentário. Também registramos a data
+          e o endereço IP do envio, pelo mesmo motivo.
+        </p>
+        <p>
+          Todo comentário passa por moderação antes de aparecer no site. Podemos recusar ou remover comentários
+          ofensivos, com spam, propaganda ou que desrespeitem outras pessoas. Os comentários ficam guardados nos
+          servidores da <strong>Vercel</strong>, a empresa que hospeda o site, que atua como nosso operador de dados.
+          O aviso de novo comentário chega à redação por e-mail, enviado pelo <strong>Brevo</strong>.
+        </p>
+        <p>
+          Para pedir a correção ou a exclusão de um comentário seu, escreva para{" "}
+          <strong>contato@acertogames.com.br</strong> informando a matéria e o nome usado.
+        </p>
+
+        <h2 className="font-display text-lg text-arcade">7. Links externos</h2>
         <p>
           Algumas páginas do site podem apontar para endereços externos. Não nos responsabilizamos
           pelas práticas de privacidade de outros sites.
         </p>
 
-        <h2 className="font-display text-lg text-arcade">7. Alterações</h2>
+        <h2 className="font-display text-lg text-arcade">8. Alterações</h2>
         <p>
           Esta política pode ser atualizada a qualquer momento. A data da última
           atualização estará sempre indicada no topo desta página.

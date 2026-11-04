@@ -1,5 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // As rotas de comentários leem o título das matérias em content/publicados.
+  experimental: {
+    outputFileTracingIncludes: {
+      "/api/comentarios": ["./content/publicados/**/*"],
+      "/api/comentarios/admin": ["./content/publicados/**/*"],
+    },
+  },
   images: {
     // Larguras usadas pelo helper lib/img.js. Poucas larguras e cache longo
     // para manter o número de conversões baixo na Vercel.

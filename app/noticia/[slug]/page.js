@@ -7,6 +7,8 @@ import RedditEmbed from "../../../components/RedditEmbed";
 import ShareButtons from "../../../components/ShareButtons";
 import NewsletterBox from "../../../components/NewsletterBox";
 import QRCode from "../../../components/QRCode";
+import Comentarios from "../../../components/Comentarios";
+import { comentariosAtivos } from "../../../lib/comentarios";
 import ArticleGallery from "../../../components/ArticleGallery";
 import { imgOtimizada, altDaLegenda } from "../../../lib/img";
 
@@ -388,6 +390,8 @@ export default function Noticia({ params }) {
             <Link href="/autor/bruno-vazquez" className="mt-3 inline-block text-sm text-arcade underline">Ver perfil e matérias →</Link>
           </section>
           )}
+
+          {comentariosAtivos(post.slug) && <Comentarios slug={post.slug} />}
 
           <NewsletterBox origem="materia" />
 
