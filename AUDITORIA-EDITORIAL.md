@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 890
-- Forte: 876
+- Total analisado: 893
+- Forte: 879
 - Revisar: 12
 - Prioridade: 2
 
@@ -590,6 +590,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
+| FORTE | notícia | 3800 | 17 | 100 | Launcher de PC de Nikke, da Shift Up, foi hackeado e pode ter instalado programa que rouba senhas | — |
 | FORTE | notícia | 3939 | 12 | 100 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | — |
 | FORTE | notícia | 2737 | 11 | 100 | Miyamoto cria o Dia do Pikmin em Direct surpresa, e demo de Pikmin 4 no Switch 2 sai na segunda | — |
 | FORTE | notícia | 1988 | 7 | 100 | Nintendo marca Direct dedicado a Fire Emblem: Fortune's Weave para esta terça | — |
@@ -628,6 +629,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 5260 | 20 | 100 | A mídia física não está morrendo do jeito que a gente imagina — e o Switch 2 explica por quê | — |
 | FORTE | Opinião | 5655 | 15 | 100 | Outubro chegou: Phantom Blade Zero é o jogo mais aguardado do mês no Acerto Games | — |
 | FORTE | notícia | 2416 | 5 | 100 | Stadium, o modo que quis reinventar o Overwatch, vai murchar: sem novos heróis nem mapas | — |
+| FORTE | notícia | 2802 | 14 | 100 | Eve, de Stellar Blade, invade o Overwatch: Viúva-Negra vira a protagonista em colaboração que vai até 17 de novembro | — |
 | FORTE | notícia | 3058 | 10 | 100 | Overwatch recebe Doctrine e transforma Sombra em suporte na Temporada 5 | — |
 | FORTE | notícia | 2115 | 5 | 100 | Palworld 1.0 já vendeu mais de 1,8 milhão de cópias desde o lançamento, aponta analista | — |
 | FORTE | notícia | 2467 | 6 | 100 | Palworld está dominando a Steam de novo — e quase repetiu a marca de 1 milhão de jogadores simultâneos | — |
@@ -792,6 +794,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3830 | 14 | 100 | The Duskbloods ganha novos detalhes de gameplay, narrativa e desenvolvimento | — |
 | FORTE | notícia | 5261 | 24 | 100 | Vazamento revela os 14 personagens de The Duskbloods — e cada um deles é mais perturbado que o anterior | — |
 | FORTE | notícia | 2581 | 9 | 100 | The Elder Scrolls 6 será exclusivo do Xbox? CEO da Microsoft evita confirmar | — |
+| FORTE | notícia | 2789 | 12 | 100 | The Elder Scrolls VI: Sentinel parece mirar 2029, e Schreier diz que sabe o prazo | — |
 | FORTE | notícia | 2787 | 11 | 100 | Bethesda avisa que The Elder Scrolls VI: Sentinel ainda vai demorar, e repórter fala em mais de dois anos | — |
 | FORTE | notícia | 2966 | 10 | 100 | The Elder Scrolls VI se chama Sentinel, e o teaser aponta para Hammerfell | — |
 | FORTE | noticia | 2818 | 11 | 100 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | — |
