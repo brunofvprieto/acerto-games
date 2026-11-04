@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 892
-- Forte: 878
+- Total analisado: 894
+- Forte: 880
 - Revisar: 12
 - Prioridade: 2
 
@@ -290,6 +290,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4415 | 16 | 100 | Dave Bautista negocia para ser o novo Kratos da série de God of War | — |
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
 | FORTE | notícia | 2774 | 8 | 100 | Behaviour retira os DLCs que deu ao streamer TheBurntPeanut e pede desculpas à comunidade de Dead by Daylight | — |
+| FORTE | notícia | 2866 | 13 | 100 | Romance oficial de Death Stranding 2 chega em inglês em dois volumes, e o segundo sai em janeiro | — |
 | FORTE | notícia | 2739 | 10 | 100 | Death Stranding 2 no Xbox? Evento na loja da Microsoft alimenta rumor, mas pode ser só a exposição de Kojima | — |
 | FORTE | notícia | 3845 | 12 | 100 | "Minha mãe virou uma cratera": Death Stranding Isolations ganha primeiro teaser e estreia em 2027 | — |
 | FORTE | notícia | 2771 | 10 | 100 | Death Stranding Odradek: Kojima e Niantic levam as entidades encalhadas para as ruas de Tóquio em realidade aumentada | — |
@@ -740,6 +741,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
 | FORTE | notícia | 2748 | 8 | 100 | Sonic Racing: CrossWorlds começa o Ano Dois com Bayonetta de graça, modo Duelo e Godzilla na pista | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
+| FORTE | notícia | 2832 | 13 | 100 | Sonic Racing: CrossWorlds abre Festival Godzilla nesta quinta, e o pacote do monstro sai por R$ 26,90 | — |
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
 | FORTE | notícia | 2905 | 10 | 100 | Sony abre nova fase do China Hero Project com US$ 1 milhão por jogo, na semana do sucesso de Phantom Blade Zero | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
