@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 887
-- Forte: 873
+- Total analisado: 890
+- Forte: 876
 - Revisar: 12
 - Prioridade: 2
 
@@ -196,6 +196,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2861 | 11 | 100 | ArcheAge Chronicles entra em acesso antecipado na terça (3) com servidor no Brasil, mas sem português | — |
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
 | FORTE | notícia | 2751 | 11 | 100 | Arkane Lyon tem até 13 de novembro para encontrar comprador, e Marvel's Blade estaria na reta final | — |
+| FORTE | notícia | 2944 | 14 | 100 | Sindicato acusa Microsoft de sabotar Marvel's Blade para justificar o fechamento da Arkane Lyon | — |
 | FORTE | notícia | 3842 | 13 | 100 | Arknights: Endfield chega ao Steam com Santuário de Tinta, Si e Argent Flow | — |
 | FORTE | noticia | 5042 | 17 | 100 | Armed Fantasia tem desenvolvimento descontinuado pela Digital Bros após anos de produção | — |
 | FORTE | notícia | 5666 | 24 | 100 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | — |
@@ -388,11 +389,13 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3437 | 10 | 100 | Jin Sakai está de volta em Ghost of Yōtei e divide espaço com a geração de Atsu | — |
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
 | FORTE | artigo | 9123 | 36 | 100 | Glossário do jogador: DLSS, FSR, ray tracing, Nanite e todo o resto do palavrório técnico, explicado | — |
+| FORTE | notícia | 2695 | 14 | 100 | God of War Laufey é adiado para 20 de maio de 2027 | — |
 | FORTE | noticia | 4271 | 12 | 100 | God of War Laufey revela edição Deluxe em púrpura e detalha o Arco de Serpente de Faye | — |
 | FORTE | notícia | 2926 | 10 | 100 | God of War Laufey entra no top 5 da PS Store no Brasil e dispara nas pré-vendas | — |
 | FORTE | noticia | 3219 | 12 | 100 | God of War terá outro Atreus: série prepara troca de ator para a segunda temporada | — |
 | FORTE | notícia | 2673 | 5 | 100 | Série de God of War deve trocar o ator de Atreus na 2ª temporada — e dessa vez a troca faz sentido | — |
 | FORTE | notícia | 2086 | 5 | 100 | Série de God of War perde seu Kratos: Ryan Hurst é substituído após lesão grave no set | — |
+| FORTE | notícia | 2737 | 14 | 100 | GOG faz sua primeira apresentação de jogos nesta quinta, às 15h, e promete um "novo capítulo" para a loja | — |
 | FORTE | notícia | 2836 | 7 | 100 | Cansei de depender de storefront? A GOG te ensina a gravar seus jogos em disco do jeito raiz | — |
 | FORTE | notícia | 2778 | 11 | 100 | Golden Joystick 2026 abre votação para o jogo do ano, com Phantom Blade Zero entre os indicados | — |
 | FORTE | notícia | 2790 | 12 | 100 | Um jogo de Switch 2 será revelado hoje ao meio-dia — e a única pista são oito emojis | — |
