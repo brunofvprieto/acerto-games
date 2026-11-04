@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 893
-- Forte: 879
+- Total analisado: 892
+- Forte: 878
 - Revisar: 12
 - Prioridade: 2
 
@@ -590,7 +590,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
-| FORTE | notícia | 3800 | 17 | 100 | Launcher de PC de Nikke, da Shift Up, foi hackeado e pode ter instalado programa que rouba senhas | — |
 | FORTE | notícia | 3939 | 12 | 100 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | — |
 | FORTE | notícia | 2737 | 11 | 100 | Miyamoto cria o Dia do Pikmin em Direct surpresa, e demo de Pikmin 4 no Switch 2 sai na segunda | — |
 | FORTE | notícia | 1988 | 7 | 100 | Nintendo marca Direct dedicado a Fire Emblem: Fortune's Weave para esta terça | — |
