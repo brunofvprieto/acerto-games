@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 880
-- Forte: 866
+- Total analisado: 881
+- Forte: 867
 - Revisar: 12
 - Prioridade: 2
 
@@ -877,6 +877,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2912 | 6 | 100 | A nota 99 de Ocarina of Time no Metacritic pode estar errada — e quem descobriu foi o Did You Know Gaming | — |
 | FORTE | notícia | 2835 | 10 | 100 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | — |
 | FORTE | notícia | 5675 | 15 | 100 | Prévias de Zelda: Ocarina of Time mostram pulo manual, Semente de Scrub Comerciante e mudanças em Hyrule | — |
+| FORTE | notícia | 3275 | 13 | 100 | Remake de Ocarina of Time estreia com 96 no Metacritic e vira o jogo mais bem avaliado de 2026 | — |
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
 | FORTE | notícia | 2805 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
