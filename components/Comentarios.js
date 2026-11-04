@@ -9,7 +9,7 @@ function dataCurta(iso) {
   } catch { return ""; }
 }
 
-function Formulario({ slug, paiId = null, aoCancelar }) {
+function Formulario({ slug, paiId = null, aoCancelar, aoPublicar }) {
   const [nome, setNome] = useState("");
   const [email, setEmail] = useState("");
   const [texto, setTexto] = useState("");
@@ -30,7 +30,7 @@ function Formulario({ slug, paiId = null, aoCancelar }) {
         body: JSON.stringify({ slug, paiId, nome, email, texto, site, abertoEm }),
       });
       const d = await r.json().catch(() => ({}));
-      if (r.ok) { setEstado("ok"); setMensagem(d.mensagem); setTexto(""); }
+      if (r.ok) { setEstado("ok"); setMensagem(d.mensagem); setTexto(""); if (d.comentario && aoPublicar) aoPublicar(d.comentario); }
       else { setEstado("erro"); setMensagem(d.mensagem || "Não foi possível enviar agora."); }
     } catch {
       setEstado("erro");
@@ -71,14 +71,14 @@ function Formulario({ slug, paiId = null, aoCancelar }) {
       </div>
       {estado === "erro" && <p role="alert" className="text-sm text-red-400">{mensagem}</p>}
       <p className="text-xs leading-relaxed text-dim">
-        Os comentários passam por moderação antes de aparecer. Seu e-mail não é publicado.{" "}
+        Seu e-mail não é publicado. Comentários ofensivos ou com propaganda podem ser removidos.{" "}
         <Link href="/politica-de-privacidade" className="underline hover:text-paper">Política de privacidade</Link>.
       </p>
     </form>
   );
 }
 
-function Comentario({ c, respostas, slug }) {
+function Comentario({ c, respostas, slug, aoPublicar }) {
   const [respondendo, setRespondendo] = useState(false);
   return (
     <li className={`border-l-2 pl-4 ${c.redacao ? "border-arcade" : "border-edge"}`}>
@@ -93,10 +93,10 @@ function Comentario({ c, respostas, slug }) {
           Responder
         </button>
       )}
-      {respondendo && <div className="mt-3"><Formulario slug={slug} paiId={c.id} aoCancelar={() => setRespondendo(false)} /></div>}
+      {respondendo && <div className="mt-3"><Formulario slug={slug} paiId={c.id} aoCancelar={() => setRespondendo(false)} aoPublicar={(n) => { aoPublicar(n); setRespondendo(false); }} /></div>}
       {respostas.length > 0 && (
         <ul className="mt-4 space-y-4">
-          {respostas.map((r) => <Comentario key={r.id} c={r} respostas={[]} slug={slug} />)}
+          {respostas.map((r) => <Comentario key={r.id} c={r} respostas={[]} slug={slug} aoPublicar={aoPublicar} />)}
         </ul>
       )}
     </li>
@@ -123,18 +123,19 @@ export default function Comentarios({ slug }) {
   }, [lista]);
 
   const total = lista?.length || 0;
+  const aoPublicar = (n) => setLista((l) => [...(l || []), n]);
   return (
     <section id="comentarios" className="mt-10 border border-edge bg-surface p-5">
       <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-arcade">Comentários{total ? ` · ${total}` : ""}</p>
       <h2 className="mt-2 font-display text-xl">O QUE VOCÊ ACHOU?</h2>
-      <div className="mt-4"><Formulario slug={slug} /></div>
+      <div className="mt-4"><Formulario slug={slug} aoPublicar={aoPublicar} /></div>
       {lista === null ? (
         <p className="mt-6 text-sm text-dim">Carregando comentários...</p>
       ) : raiz.length === 0 ? (
         <p className="mt-6 text-sm text-dim">Ainda não há comentários. Seja o primeiro.</p>
       ) : (
         <ul className="mt-6 space-y-6">
-          {raiz.map((c) => <Comentario key={c.id} c={c} respostas={filhos[c.id] || []} slug={slug} />)}
+          {raiz.map((c) => <Comentario key={c.id} c={c} respostas={filhos[c.id] || []} slug={slug} aoPublicar={aoPublicar} />)}
         </ul>
       )}
     </section>

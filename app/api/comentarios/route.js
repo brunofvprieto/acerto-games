@@ -1,12 +1,15 @@
 import { getPost } from "../../../lib/posts";
 import {
-  comentariosAtivos, slugValido, idValido, novoId, aprovadosDe, salvarPendente, avisarNovoComentario,
+  comentariosAtivos, slugValido, idValido, novoId, aprovadosDe, publicar,
 } from "../../../lib/comentarios";
 
 export const dynamic = "force-dynamic";
 
 const EMAIL = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 const resposta = (status, dados) => Response.json(dados, { status });
+
+// Filtro básico de ofensas e golpes, já que o comentário vai ao ar sem aprovação.
+const OFENSAS = /\b(buceta|fdp|vsf|vtnc|viad[oa]s?|arrombad[oa]s?|cuz[aã]o|filh[oa] da puta|retardad[oa]s?|crioul[oa]s?|cassino|apostas? online|bet\d+)\b/i;
 
 // Limite simples por IP (em memória).
 const janela = new Map();
@@ -40,7 +43,7 @@ export async function POST(req) {
   const post = getPost(slug);
   if (!post) return resposta(404, { mensagem: "Matéria não encontrada." });
 
-  const ok = { mensagem: "Comentário enviado! Ele aparece aqui depois de passar pela moderação." };
+  const ok = { mensagem: "Comentário publicado!" };
   // Campo isca ou envio rápido demais: finge sucesso para o robô não insistir.
   if (corpo?.site) return resposta(200, ok);
   if (Number(corpo?.abertoEm) && Date.now() - Number(corpo.abertoEm) < 3000) return resposta(200, ok);
@@ -54,17 +57,18 @@ export async function POST(req) {
   if (/acerto\s*games|reda[cç][aã]o/i.test(nome)) return resposta(400, { mensagem: "Escolha outro nome." });
   if (!EMAIL.test(email) || email.length > 254) return resposta(400, { mensagem: "Digite um e-mail válido." });
   if (texto.length < 3 || texto.length > 1500) return resposta(400, { mensagem: "O comentário precisa ter de 3 a 1.500 caracteres." });
-  if ((texto.match(/https?:\/\//gi) || []).length > 2) return resposta(400, { mensagem: "Use no máximo dois links." });
+  if ((texto.match(/https?:\/\/|www\./gi) || []).length > 1) return resposta(400, { mensagem: "Use no máximo um link." });
+  if (OFENSAS.test(`${nome} ${texto}`)) return resposta(400, { mensagem: "Seu comentário tem palavras que não são permitidas aqui." });
 
   const ip = (req.headers.get("x-forwarded-for") || "").split(",")[0].trim() || "desconhecido";
   if (limitado(ip)) return resposta(429, { mensagem: "Muitos comentários seguidos. Tente de novo em alguns minutos." });
 
   const c = { id: novoId(), slug, paiId, nome, email, texto, ip, criadoEm: new Date().toISOString() };
   try {
-    await salvarPendente(c);
+    await publicar(c);
   } catch {
     return resposta(500, { mensagem: "Não foi possível enviar agora. Tente de novo em instantes." });
   }
-  await avisarNovoComentario(c, post.title);
-  return resposta(200, ok);
+  const { email: _e, ip: _i, ...publico } = c;
+  return resposta(200, { ...ok, comentario: { ...publico, redacao: false } });
 }

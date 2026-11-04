@@ -91,10 +91,9 @@ export default function PoliticaDePrivacidade() {
           e o endereço IP do envio, pelo mesmo motivo.
         </p>
         <p>
-          Todo comentário passa por moderação antes de aparecer no site. Podemos recusar ou remover comentários
-          ofensivos, com spam, propaganda ou que desrespeitem outras pessoas. Os comentários ficam guardados nos
-          servidores da <strong>Vercel</strong>, a empresa que hospeda o site, que atua como nosso operador de dados.
-          O aviso de novo comentário chega à redação por e-mail, enviado pelo <strong>Brevo</strong>.
+          Os comentários aparecem no site assim que são enviados. Podemos remover comentários ofensivos, com
+          spam, propaganda ou que desrespeitem outras pessoas. Os comentários ficam guardados nos servidores da{" "}
+          <strong>Vercel</strong>, a empresa que hospeda o site, que atua como nosso operador de dados.
         </p>
         <p>
           Para pedir a correção ou a exclusão de um comentário seu, escreva para{" "}
