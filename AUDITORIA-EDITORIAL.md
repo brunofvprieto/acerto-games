@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 884
-- Forte: 870
+- Total analisado: 886
+- Forte: 872
 - Revisar: 12
 - Prioridade: 2
 
@@ -509,6 +509,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2616 | 11 | 100 | Look Outside, o terror em que olhar pela janela vira monstro, chega ao PS5 e ao Switch 2 em 30 de outubro | — |
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
+| FORTE | notícia | 2852 | 12 | 100 | Fabricante de chips dos cartuchos do Switch vai deixar o negócio, e a mídia física pode sentir | — |
 | FORTE | noticia | 2616 | 7 | 100 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | — |
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
@@ -873,6 +874,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
 | FORTE | notícia | 3334 | 17 | 100 | Com 96, remake de Ocarina of Time empata em 3º entre os Zelda mais bem avaliados do Metacritic | — |
+| FORTE | notícia | 2721 | 13 | 100 | Ocarina of Time recebe atualização 1.1.1 antes do lançamento: 343 MB e suporte ao ZELDA NOTES | — |
 | FORTE | notícia | 2990 | 11 | 100 | Nintendo UK refaz o comercial de 1998 de Ocarina of Time e troca o slogan polêmico por "Willst thou flee? Or fight?" | — |
 | FORTE | Notícias | 2215 | 7 | 100 | Vazamento aponta Monolith Soft como desenvolvedora de Zelda: Ocarina of Time no Switch 2 | — |
 | FORTE | notícia | 2912 | 6 | 100 | A nota 99 de Ocarina of Time no Metacritic pode estar errada — e quem descobriu foi o Did You Know Gaming | — |
