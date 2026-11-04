@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 881
-- Forte: 867
+- Total analisado: 884
+- Forte: 870
 - Revisar: 12
 - Prioridade: 2
 
@@ -872,6 +872,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
+| FORTE | notícia | 3334 | 17 | 100 | Com 96, remake de Ocarina of Time empata em 3º entre os Zelda mais bem avaliados do Metacritic | — |
 | FORTE | notícia | 2990 | 11 | 100 | Nintendo UK refaz o comercial de 1998 de Ocarina of Time e troca o slogan polêmico por "Willst thou flee? Or fight?" | — |
 | FORTE | Notícias | 2215 | 7 | 100 | Vazamento aponta Monolith Soft como desenvolvedora de Zelda: Ocarina of Time no Switch 2 | — |
 | FORTE | notícia | 2912 | 6 | 100 | A nota 99 de Ocarina of Time no Metacritic pode estar errada — e quem descobriu foi o Did You Know Gaming | — |
@@ -881,11 +882,13 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
 | FORTE | notícia | 2805 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
+| FORTE | notícia | 2928 | 14 | 100 | Remake de Ocarina of Time chega amanhã com a primeira dublagem brasileira de Zelda: conheça as vozes | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
 | FORTE | notícia | 4241 | 14 | 100 | Aonuma "tinha uma tarefa pendente": remake de Ocarina of Time ajusta o Templo da Água e traz de volta um dublador do N64 | — |
 | FORTE | notícia | 2717 | 7 | 100 | Zelda: Ocarina of Time chega em 5 de novembro; teoria do amiibo apontava 11, uma semana antes de GTA 6 | — |
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
+| FORTE | notícia | 3026 | 13 | 100 | Digital Foundry: remake de Ocarina of Time roda a 60 fps estáveis e chega a 1440p no Switch 2 | — |
 | FORTE | notícia | 3000 | 9 | 100 | Ocarina of Time no Switch 2 lista o FSR 1.0 da AMD nas licenças, e o DLSS não aparece | — |
 | FORTE | noticia | 2191 | 8 | 100 | Zelda: Ocarina of Time para Switch 2 abre pré-venda no Brasil e edição especial vira alvo de corrida dos fãs | — |
 | FORTE | notícia | 2810 | 10 | 100 | Ocarina of Time vaza antes do lançamento, e as análises do remake saem no meio da semana | — |
