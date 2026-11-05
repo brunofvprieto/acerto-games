@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 896
-- Forte: 882
+- Total analisado: 897
+- Forte: 883
 - Revisar: 12
 - Prioridade: 2
 
@@ -405,6 +405,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2416 | 10 | 100 | Gran Turismo 7 ganhou nova atualização e a mudança mais importante não é nos carros novos | — |
 | FORTE | notícia | 2635 | 6 | 100 | Gran Turismo 7 recebe a atualização Spec IV com seis carros e o circuito Sportsland Sugo | — |
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
+| FORTE | notícia | 2983 | 13 | 100 | GTA 6 chega a US$ 751 milhões em pré-vendas, e chefe da Take-Two diz que adiar foi melhor do que "tirar o jogo das lojas" | — |
 | FORTE | notícia | 2835 | 10 | 100 | Rumor: análises de GTA 6 sairiam em 18 de novembro, na véspera do lançamento | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
 | FORTE | notícia | 3282 | 15 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
