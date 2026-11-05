@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 898
-- Forte: 884
+- Total analisado: 904
+- Forte: 890
 - Revisar: 12
 - Prioridade: 2
 
@@ -745,6 +745,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 2832 | 13 | 100 | Sonic Racing: CrossWorlds abre Festival Godzilla nesta quinta, e o pacote do monstro sai por R$ 26,90 | — |
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
+| FORTE | notícia | 3210 | 16 | 100 | Marvel's Wolverine passa de 2,4 milhões, PS5 chega a 97,9 milhões e Sony diz que o PS6 segue no cronograma | — |
 | FORTE | notícia | 2905 | 10 | 100 | Sony abre nova fase do China Hero Project com US$ 1 milhão por jogo, na semana do sucesso de Phantom Blade Zero | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
 | FORTE | notícia | 2984 | 11 | 100 | Soulframe, dos criadores de Warframe, abre alfa gratuito para todos em 6 de novembro | — |
@@ -770,6 +771,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
 | FORTE | notícia | 3827 | 12 | 100 | Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
+| FORTE | notícia | 3509 | 16 | 100 | Steam leva até 12 dias úteis para aprovar jogos, e Valve culpa estúdios que nem testam o jogo pela loja | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
 | FORTE | notícia | 3013 | 9 | 100 | Stellar Blade chega ao Switch 2 nesta quinta, e as primeiras análises mostram o preço dos 60 fps | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
@@ -851,6 +853,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3497 | 12 | 100 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | — |
+| FORTE | notícia | 2940 | 11 | 100 | World of Warcraft: Forever tem estreia sem filas e surpreende até a Blizzard: "até agora, tudo mais ou menos bem" | — |
 | FORTE | notícia | 2868 | 11 | 100 | Reserva de nomes de WoW: Forever abre com filas e erros; jogo sai em 4 de novembro | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
 | FORTE | notícia | 2795 | 10 | 100 | "Difícil achar sinal de esperança": analista diz que Gears exclusivo e CoD fora do Game Pass não ajudaram o Xbox | — |
@@ -896,9 +899,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | notícia | 2928 | 14 | 100 | Remake de Ocarina of Time chega amanhã com a primeira dublagem brasileira de Zelda: conheça as vozes | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
+| FORTE | artigo | 3646 | 18 | 100 | Guia de Zelda: Ocarina of Time: como conseguir a Espada de Biggoron no remake, com os novos cronômetros | — |
 | FORTE | notícia | 2941 | 14 | 100 | Monolith Soft, de Xenoblade, confirma que ajudou no remake de Ocarina of Time, mas o comando foi da Nintendo | — |
+| FORTE | notícia | 3031 | 15 | 100 | Créditos de Ocarina of Time revelam a Navi de 1998 de volta no Japão e o elenco completo da dublagem brasileira | — |
 | FORTE | notícia | 3145 | 14 | 100 | Quanto tempo leva para zerar o remake de Ocarina of Time? Veja as estimativas | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
+| FORTE | notícia | 2978 | 13 | 100 | Remake de Ocarina of Time chega sem a Master Quest e sem nenhum modo difícil | — |
 | FORTE | notícia | 4241 | 14 | 100 | Aonuma "tinha uma tarefa pendente": remake de Ocarina of Time ajusta o Templo da Água e traz de volta um dublador do N64 | — |
 | FORTE | notícia | 2717 | 7 | 100 | Zelda: Ocarina of Time chega em 5 de novembro; teoria do amiibo apontava 11, uma semana antes de GTA 6 | — |
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
