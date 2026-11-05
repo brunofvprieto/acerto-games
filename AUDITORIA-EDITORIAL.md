@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 894
-- Forte: 880
+- Total analisado: 895
+- Forte: 881
 - Revisar: 12
 - Prioridade: 2
 
@@ -432,6 +432,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2728 | 11 | 100 | GTA 6: álbum com a trilha original do Justice terá 50 faixas e sai em 11 de dezembro | — |
 | FORTE | noticia | 4693 | 15 | 100 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | — |
 | FORTE | notícia | 2880 | 11 | 100 | GTA 6 antecipa o pré-download para 10 de novembro e confirma 212 GB; veja os horários no Brasil | — |
+| FORTE | notícia | 2686 | 12 | 100 | GTA 6 chega a 7,71 milhões de cópias em pré-venda, estima a Sensor Tower | — |
 | FORTE | notícia | 3766 | 7 | 100 | GTA 6 pode faturar até R$ 29 bilhões na semana de lançamento — e a pré-venda já é recorde histórico | — |
 | FORTE | notícia | 4644 | 14 | 100 | GTA 6 toma prédios em Paris e Miami e chega aos painéis de São Paulo; veja os vídeos | — |
 | FORTE | notícia | 3008 | 11 | 100 | Quem é Macca the Gator, o jacaré de óculos que virou a cara de GTA 6 | — |
