@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 904
-- Forte: 890
+- Total analisado: 909
+- Forte: 895
 - Revisar: 12
 - Prioridade: 2
 
@@ -174,6 +174,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1753 | 8 | 99 | The Duskbloods segue para 2026, mas data continua em segredo após falso vazamento de setembro | texto curto |
 | FORTE | notícia | 1753 | 8 | 99 | Geralt terá ‘papel importante’ em The Witcher 4, confirma líder narrativo da CD Projekt Red | texto curto |
 | FORTE | notícia | 2024 | 8 | 100 | 007 First Light receberá DLC gratuito em 1º de outubro, confirma IO Interactive | — |
+| FORTE | notícia | 2709 | 14 | 100 | 007 First Light libera a missão da Islândia de graça no PC e no Xbox, e o PS5 recebe o pacote no dia 10 | — |
 | FORTE | noticia | 1786 | 9 | 100 | 007 First Light é adiado novamente no Switch 2 e fica para março de 2027 | texto curto |
 | FORTE | notícia | 2133 | 6 | 100 | 007 First Light no Switch 2: Amazon do Japão aponta setembro — mas segura a euforia | — |
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
@@ -225,6 +226,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2777 | 10 | 100 | Cofundador da BioWare diz que compra da EA pela Arábia Saudita foi "o último prego no caixão" do estúdio | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3635 | 13 | 100 | EA fechou a BioWare para apostar em Star Wars Battlefront 3, diz Bloomberg | — |
+| FORTE | notícia | 3196 | 16 | 100 | Diretor global de Black Desert surpreende fãs em São Paulo, e Pearl Abyss promete festa maior nos 10 anos do jogo no Brasil | — |
 | FORTE | notícia | 2745 | 9 | 100 | Black Friday da PS Store começa nesta quarta e vai até o fim de novembro, com até 75% de desconto | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | notícia | 2872 | 12 | 100 | BLACKWOOD, o jogo do dono de locadora que vira assassino, ganha missões novas e MP5 em 6 de novembro | — |
@@ -237,6 +239,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
 | FORTE | notícia | 2322 | 6 | 100 | Esse site deixa você dormir ao som de brigas de lobby do MW2 e Black Ops — e faz mais sentido do que parece | — |
 | FORTE | notícia | 2038 | 6 | 100 | Nuketown ou nada: a briga eterna dos fãs de Black Ops por causa dos mapas | — |
+| FORTE | notícia | 2879 | 13 | 100 | Verdansk chega a Call of Duty: Mobile no aniversário de sete anos, com Gulag de volta e paraquedas no lugar do wingsuit | — |
 | FORTE | notícia | 2329 | 6 | 100 | Modern Warfare 4 beta tem datas confirmadas: veja como garantir acesso antecipado | — |
 | FORTE | notícia | 2325 | 8 | 100 | Call of Duty: Modern Warfare 4 mostra a campanha pela primeira vez — e leva Price de volta a Paris | — |
 | FORTE | notícia | 2525 | 6 | 100 | Infinity Ward bate o pé: Gunny, o assistente de Modern Warfare 4, não é IA — é feito à mão mesmo | — |
@@ -386,6 +389,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2910 | 9 | 100 | Gears of War: E-Day dobra recorde de Gears 5 no Steam antes do lançamento geral | — |
 | FORTE | notícia | 2719 | 10 | 100 | Gears of War: E-Day teria vendido pouco mais de 400 mil cópias, com a maior parte do público no Game Pass | — |
 | FORTE | notícia | 3143 | 9 | 100 | GeForce NOW libera os controles do DLSS 4.5 e recebe Enshrouded 1.0 e Boltgun 2 | — |
+| FORTE | notícia | 2753 | 13 | 100 | World of Warcraft: Forever chega ao GeForce NOW com recompensa grátis e addons do CurseForge; serviço terá 24 jogos em novembro | — |
 | FORTE | notícia | 2730 | 11 | 100 | Genshin Impact 7.2, Hour of Ruin, chega em 4 de novembro com Mitya, Valeriy e a cidade subterrânea de Novokitezhgrad | — |
 | FORTE | noticia | 3437 | 10 | 100 | Jin Sakai está de volta em Ghost of Yōtei e divide espaço com a geração de Atsu | — |
 | FORTE | notícia | 5058 | 15 | 100 | Ghost Recon faz 25 anos, confirma novo jogo — e entrega o presente na mão de um game de 2017 | — |
@@ -773,6 +777,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
 | FORTE | notícia | 3509 | 16 | 100 | Steam leva até 12 dias úteis para aprovar jogos, e Valve culpa estúdios que nem testam o jogo pela loja | — |
 | FORTE | notícia | 2339 | 6 | 100 | Stellar Blade: Blood Rain lança clipe feito com IA e fãs detonam: "tapa na cara dos seus artistas" | — |
+| FORTE | notícia | 2784 | 13 | 100 | Stellar Blade já está no Switch 2: veja o que vem nos pacotes de NieR, Nikke e Bayonetta incluídos na Complete Edition | — |
 | FORTE | notícia | 3013 | 9 | 100 | Stellar Blade chega ao Switch 2 nesta quinta, e as primeiras análises mostram o preço dos 60 fps | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
 | FORTE | notícia | 3307 | 14 | 100 | Street Fighter estreia em primeiro nos EUA, mas abre abaixo de Mortal Kombat II | — |
