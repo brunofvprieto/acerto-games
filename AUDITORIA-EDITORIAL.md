@@ -405,7 +405,6 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2416 | 10 | 100 | Gran Turismo 7 ganhou nova atualização e a mudança mais importante não é nos carros novos | — |
 | FORTE | notícia | 2635 | 6 | 100 | Gran Turismo 7 recebe a atualização Spec IV com seis carros e o circuito Sportsland Sugo | — |
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
-| FORTE | notícia | 2983 | 13 | 100 | GTA 6 chega a US$ 751 milhões em pré-vendas, e chefe da Take-Two diz que adiar foi melhor do que "tirar o jogo das lojas" | — |
 | FORTE | notícia | 2835 | 10 | 100 | Rumor: análises de GTA 6 sairiam em 18 de novembro, na véspera do lançamento | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
 | FORTE | notícia | 3282 | 15 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
@@ -891,6 +890,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2835 | 10 | 100 | Zelda: Ocarina of Time ganha novo trailer com revanches contra chefes e novidades da Ocarina | — |
 | FORTE | notícia | 5675 | 15 | 100 | Prévias de Zelda: Ocarina of Time mostram pulo manual, Semente de Scrub Comerciante e mudanças em Hyrule | — |
 | FORTE | notícia | 3275 | 13 | 100 | Remake de Ocarina of Time estreia com 96 no Metacritic e vira o jogo mais bem avaliado de 2026 | — |
+| FORTE | notícia | 4778 | 21 | 100 | Remake de Ocarina of Time começou depois de Tears of the Kingdom, diz Aonuma, que deixa o Master Quest em aberto | — |
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
 | FORTE | notícia | 2805 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
