@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 895
-- Forte: 881
+- Total analisado: 896
+- Forte: 882
 - Revisar: 12
 - Prioridade: 2
 
@@ -894,6 +894,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | notícia | 2928 | 14 | 100 | Remake de Ocarina of Time chega amanhã com a primeira dublagem brasileira de Zelda: conheça as vozes | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
+| FORTE | notícia | 2941 | 14 | 100 | Monolith Soft, de Xenoblade, confirma que ajudou no remake de Ocarina of Time, mas o comando foi da Nintendo | — |
 | FORTE | notícia | 3145 | 14 | 100 | Quanto tempo leva para zerar o remake de Ocarina of Time? Veja as estimativas | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
 | FORTE | notícia | 4241 | 14 | 100 | Aonuma "tinha uma tarefa pendente": remake de Ocarina of Time ajusta o Templo da Água e traz de volta um dublador do N64 | — |
