@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 921
-- Forte: 907
+- Total analisado: 924
+- Forte: 910
 - Revisar: 12
 - Prioridade: 2
 
@@ -386,6 +386,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 5467 | 17 | 100 | Gamescom 2026: o que esperar da maior feira de games do mundo | — |
 | FORTE | notícia | 12047 | 45 | 100 | Gamescom Opening Night Live 2026: veja os principais anúncios e trailers | — |
 | FORTE | notícia | 2680 | 5 | 100 | CEO da GameStop sobre jogos físicos: 'Não importa. Não importa nada' | — |
+| FORTE | notícia | 3648 | 15 | 100 | Gears of War faz 20 anos e dá RAAM de graça em E-Day; Temporada 2: Legacy chega em 1º de dezembro | — |
 | FORTE | notícia | 2223 | 7 | 100 | Gears of War: E-Day abre beta multiplayer em 6 de agosto — veja como garantir acesso antecipado | — |
 | FORTE | noticia | 4224 | 15 | 100 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | — |
 | FORTE | noticia | 2448 | 8 | 100 | Gears of War: E-Day abre acesso antecipado e ganha trailer de lançamento | — |
@@ -606,6 +607,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
+| FORTE | notícia | 2767 | 12 | 100 | Atualização de NieR: Automata faz o jogo pedir 366 GB no PC, e Square Enix pede desculpas | — |
 | FORTE | notícia | 3180 | 15 | 100 | Switch 2 passa de 26 milhões, vendas caem 37% no ano e Nintendo descarta novo aumento de preço | — |
 | FORTE | notícia | 3939 | 12 | 100 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | — |
 | FORTE | notícia | 2737 | 11 | 100 | Miyamoto cria o Dia do Pikmin em Direct surpresa, e demo de Pikmin 4 no Switch 2 sai na segunda | — |
@@ -846,6 +848,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2685 | 11 | 100 | Modern Warfare 4 estreia em 1º no Reino Unido, com 78% das cópias físicas vendidas no PS5 | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
+| FORTE | notícia | 3262 | 14 | 100 | Depois da EA, Arábia Saudita e Silver Lake negociam comprar a Unity por cerca de US$ 25 bilhões | — |
 | FORTE | notícia | 2806 | 9 | 100 | Until Dawn 2 terá gameplay inédito em 11 de dezembro, num evento em salas de cinema com transmissão ao vivo | — |
 | FORTE | notícia | 2764 | 12 | 100 | Until Dawn 2: Sony apresenta, um a um, os caçadores de fantasmas do Dead True | — |
 | FORTE | review | 4535 | 23 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
