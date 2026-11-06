@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 912
-- Forte: 898
+- Total analisado: 915
+- Forte: 901
 - Revisar: 12
 - Prioridade: 2
 
@@ -185,6 +185,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4089 | 13 | 100 | Acts of Blood tem data no PC: 4 de dezembro, com consoles só em 2027 | — |
 | FORTE | notícia | 2788 | 11 | 100 | AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado | — |
 | FORTE | notícia | 3087 | 13 | 100 | Alien: Isolation 2 terá edição física, modo foto e um Xenomorfo que caça usando o mau tempo | — |
+| FORTE | notícia | 2859 | 10 | 100 | Prime libera sete jogos de PC em novembro, com Jurassic World Evolution 2 e Squirrel with a Gun | — |
 | FORTE | review | 14796 | 39 | 100 | Análise: Death Stranding 2 é uma obra-prima exuberante — Kojima entrega um dos grandes jogos da geração | — |
 | FORTE | review | 9924 | 37 | 100 | Análise: Hell is Us — um universo fascinante que merece ir muito além | — |
 | FORTE | artigo | 8037 | 25 | 100 | Netflix, Rockstar e o fim do disco: por que o trailer de GTA 6 é o sintoma, não a doença | — |
@@ -324,6 +325,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2781 | 11 | 100 | Dragon Ball Xenoverse 2 faz 10 anos com o Festival Final dos Universos, que dá itens para Xenoverse 3 | — |
 | FORTE | noticia | 1909 | 8 | 100 | Dragon Quest supera 100 milhões de unidades vendidas no ano de seu 40º aniversário | — |
 | FORTE | noticia | 3693 | 16 | 100 | Dragon's Dogma 2: Dark Arisen ganha trailer principal com Norgan, novos monstros e desafios | — |
+| FORTE | notícia | 3600 | 11 | 100 | EA relança 25 clássicos do PC, de Wing Commander a Road Rash, e GOG leva o Galaxy ao Linux no primeiro showcase | — |
 | FORTE | notícia | 3596 | 14 | 100 | "A moral está péssima": funcionários da EA relatam pressão por IA e demissões em segredo | — |
 | FORTE | notícia | 2479 | 6 | 100 | Venda da EA por US$ 55 bilhões será concluída na próxima semana — a maior da história dos games | — |
 | FORTE | notícia | 5801 | 21 | 100 | Elden Ring no Switch 2: primeiro hands-on diz que a sensação é a mesma do PS5 — e entrega o detalhe que muda a decisão de compra | — |
@@ -865,6 +867,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2868 | 11 | 100 | Reserva de nomes de WoW: Forever abre com filas e erros; jogo sai em 4 de novembro | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
 | FORTE | notícia | 2795 | 10 | 100 | "Difícil achar sinal de esperança": analista diz que Gears exclusivo e CoD fora do Game Pass não ajudaram o Xbox | — |
+| FORTE | notícia | 3049 | 11 | 100 | App do Xbox no PC é refeito e abre até 60% mais rápido; versão web do Cloud Gaming também muda | — |
 | FORTE | notícia | 2830 | 10 | 100 | Mythic Achievements chegam a todos os consoles Xbox na atualização de outubro, que também traz Remote Play em 1440p | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
 | FORTE | noticia | 8797 | 25 | 100 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | — |
