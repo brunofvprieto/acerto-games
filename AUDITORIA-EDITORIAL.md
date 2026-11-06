@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 918
-- Forte: 904
+- Total analisado: 921
+- Forte: 907
 - Revisar: 12
 - Prioridade: 2
 
@@ -440,6 +440,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 11098 | 43 | 100 | GTA 6 finalmente mostrou o jogo — e agora é difícil fingir que o hype está exagerado | — |
 | FORTE | notícia | 2371 | 10 | 100 | Rumor: página vazada da Netflix indica que o "Olhar Estendido" de GTA 6 pode ter três episódios e mais de uma hora | — |
 | FORTE | notícia | 2728 | 11 | 100 | GTA 6: álbum com a trilha original do Justice terá 50 faixas e sai em 11 de dezembro | — |
+| FORTE | notícia | 2877 | 12 | 100 | GTA 6 pode chegar ao PC mais cedo por medo de versões feitas com IA, diz ex-diretor técnico da Rockstar | — |
 | FORTE | noticia | 4693 | 15 | 100 | GTA 6 terá Perfil Criminal: nova mecânica vai observar que tipo de criminoso você escolhe ser | — |
 | FORTE | notícia | 2880 | 11 | 100 | GTA 6 antecipa o pré-download para 10 de novembro e confirma 212 GB; veja os horários no Brasil | — |
 | FORTE | notícia | 2686 | 12 | 100 | GTA 6 chega a 7,71 milhões de cópias em pré-venda, estima a Sensor Tower | — |
@@ -560,6 +561,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2717 | 9 | 100 | Minecraft Dungeons II é lançado com mundo interconectado, The Sift e estreia no Game Pass | — |
 | FORTE | notícia | 2889 | 11 | 100 | Minecraft ganha mod gratuito da NVIDIA com path tracing; veja o que precisa para rodar | — |
 | FORTE | noticia | 3895 | 13 | 100 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | — |
+| FORTE | notícia | 3482 | 14 | 100 | Miyamoto falta à reunião da Nintendo por doença repentina; empresa diz que ele se recupera em até uma semana | — |
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
 | FORTE | notícia | 3652 | 10 | 100 | Miyamoto recebe a Ordem da Cultura, e os games entram pela primeira vez na maior honraria cultural do Japão | — |
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
@@ -711,6 +713,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
+| FORTE | notícia | 2990 | 13 | 100 | Ratchet & Clank: Ranger Rumble é cancelado antes do lançamento mundial, e servidores fecham em maio de 2027 | — |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
 | FORTE | notícia | 3568 | 12 | 100 | Control Resonant triplica a receita da Remedy, e o Brasil fica entre os três maiores mercados nos consoles | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
