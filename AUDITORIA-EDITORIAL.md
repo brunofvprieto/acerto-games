@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 911
-- Forte: 897
+- Total analisado: 912
+- Forte: 898
 - Revisar: 12
 - Prioridade: 2
 
@@ -209,6 +209,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2743 | 10 | 100 | Ubisoft diz que não tem outro remake de Assassin's Creed em produção, e Hexe só volta a aparecer em 2027 | — |
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
+| FORTE | notícia | 5336 | 26 | 100 | Série de Assassin's Creed na Netflix encerra gravações em Roma e ganha trilha de Hannah Peel: tudo o que já se sabe | — |
 | FORTE | notícia | 2666 | 8 | 100 | Attack on Titan 3 abre pré-venda no Switch 2 com trailer próprio, e segue sem português | — |
 | FORTE | notícia | 2718 | 11 | 100 | Estúdio de Boltgun 2 vai cortar um quarto da equipe 12 dias depois do lançamento | — |
 | FORTE | notícia | 3201 | 13 | 100 | Compositor de Journey publica a música que criou para o Mass Effect cancelado; ouça | — |
