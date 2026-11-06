@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 915
-- Forte: 901
+- Total analisado: 917
+- Forte: 903
 - Revisar: 12
 - Prioridade: 2
 
@@ -182,6 +182,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2457 | 11 | 100 | Ace Combat 8 traz de volta Annihilation Battle e novo trailer mostra superarmas e a guerra de Wings of Theve | — |
 | FORTE | notícia | 2702 | 11 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
 | FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
+| FORTE | notícia | 2741 | 14 | 100 | Acornia: Mirror Worlds mostra fazenda, funcionários e eventos de cada estação, e ganha janela: primavera de 2027 | — |
 | FORTE | notícia | 4089 | 13 | 100 | Acts of Blood tem data no PC: 4 de dezembro, com consoles só em 2027 | — |
 | FORTE | notícia | 2788 | 11 | 100 | AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado | — |
 | FORTE | notícia | 3087 | 13 | 100 | Alien: Isolation 2 terá edição física, modo foto e um Xenomorfo que caça usando o mau tempo | — |
@@ -581,6 +582,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2275 | 10 | 100 | Modern Warfare 4 no Switch 2: campanha a 30 fps, multiplayer mirando 60 e opção de DLSS | — |
 | FORTE | noticia | 1828 | 6 | 100 | Modern Warfare 4 terá downloads separados no PS5; veja quanto espaço cada modo ocupa | — |
 | FORTE | notícia | 2823 | 12 | 100 | Modern Warfare 4: Temporada 1 chega na madrugada de 6 de novembro com Shoot House, nova área no DMZ e duas armas | — |
+| FORTE | notícia | 3141 | 15 | 100 | Modern Warfare 4: Temporada 1 já está no ar, e o Passe de Batalha leva quem chega tarde direto ao nível 50 | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
 | FORTE | notícia | 2710 | 8 | 100 | Trilha de Modern Warfare 4 sai com 35 faixas, gayageum coreano e a volta de Stephen Barton à série | — |
 | FORTE | notícia | 2767 | 11 | 100 | Monster Hunter Outlanders chega ao celular de graça, em português e com a Garena no Brasil | — |
