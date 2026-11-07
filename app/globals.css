@@ -117,3 +117,15 @@ button:focus-visible {
     overflow: hidden;
   }
 }
+
+/* Seções de plataforma: a foto do console se dissolve no fundo colorido, sem emenda */
+.secao-foto {
+  -webkit-mask-image: linear-gradient(to top, transparent 0%, #000 55%);
+  mask-image: linear-gradient(to top, transparent 0%, #000 55%);
+}
+@media (min-width: 768px) {
+  .secao-foto {
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.6) 22%, #000 45%);
+    mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.6) 22%, #000 45%);
+  }
+}

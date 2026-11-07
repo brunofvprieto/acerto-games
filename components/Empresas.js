@@ -29,32 +29,30 @@ export function PaginaEmpresa({ slug, posts, pagina, totalPaginas, total }) {
   const linkDe = (n) => (n <= 1 ? `/${slug}` : `/${slug}/pagina/${n}`);
   return (
     <main className="mx-auto max-w-6xl px-4 py-8">
-      <section className="overflow-hidden border" style={{ borderColor: e.cor }}>
-        <div className="grid items-center gap-6 p-8 md:grid-cols-[minmax(0,1fr)_300px] md:p-10 lg:grid-cols-[minmax(0,1fr)_360px]" style={{ background: e.gradiente }}>
-          <div className="min-w-0">
+      <section className="relative overflow-hidden border" style={{ borderColor: e.cor, background: e.gradiente }}>
+        {e.consoleImg && (
+          <div className="relative h-56 sm:h-72 md:absolute md:inset-y-0 md:right-0 md:h-auto md:w-[46%]">
+            <img
+              src={e.consoleImg}
+              alt={e.consoleAlt}
+              className="secao-foto absolute inset-0 h-full w-full object-cover"
+              style={{ objectPosition: e.consolePos || "center" }}
+            />
+
+          </div>
+        )}
+        <div className="relative p-8 md:w-[58%] md:p-10">
           <p className="font-mono text-xs uppercase tracking-[0.3em] text-paper/90">Seção Acerto Games</p>
           <h1 className="logo-arcade mt-3 text-4xl md:text-5xl">{e.nome}</h1>
-          <div className="mt-4 max-w-3xl space-y-2 text-paper/90">
+          <div lang="pt-BR" className="mt-4 space-y-2 text-justify leading-relaxed text-paper/90 [hyphens:auto]">
             {e.bio.map((linha, i) => (
               <p key={i}>{linha}</p>
             ))}
           </div>
           <p className="mt-5 font-mono text-[11px] uppercase tracking-widest text-paper/80">
             Console atual: <span className="text-paper">{e.console}</span> · {total} matérias
+            {e.consoleImg && <span className="block mt-1 text-paper/60">Foto: Divulgação/{e.empresaCredito}</span>}
           </p>
-          </div>
-          {e.consoleImg && (
-            <figure className="mx-auto w-full max-w-[260px] md:max-w-none">
-              <img
-                src={e.consoleImg}
-                alt={e.consoleAlt}
-                className="mx-auto max-h-[280px] w-auto object-contain drop-shadow-[0_18px_30px_rgba(0,0,0,0.55)]"
-              />
-              <figcaption className="mt-2 text-center font-mono text-[10px] uppercase tracking-widest text-paper/70">
-                {e.console} · Divulgação/{e.nome === "Xbox" ? "Microsoft" : e.nome === "PlayStation" ? "Sony" : "Nintendo"}
-              </figcaption>
-            </figure>
-          )}
         </div>
       </section>
 
