@@ -11,6 +11,7 @@ import Comentarios from "../../../components/Comentarios";
 import { comentariosAtivos } from "../../../lib/comentarios";
 import ArticleGallery from "../../../components/ArticleGallery";
 import { imgOtimizada, altDaLegenda } from "../../../lib/img";
+import { EmpresaTags } from "../../../components/Empresas";
 
 function redditId(texto) {
   const m = texto.match(/reddit\.com\/r\/\w+\/comments\/([a-z0-9]+)/i);
@@ -205,7 +206,10 @@ export default function Noticia({ params }) {
 
       <div className="mt-6 grid items-start gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <article className="min-w-0">
-          <CategoryTag category={post.category} label={post.rotulo} />
+          <div className="flex flex-wrap items-center gap-2">
+            <CategoryTag category={post.category} label={post.rotulo} />
+            <EmpresaTags post={post} />
+          </div>
           <h1 className="mt-3 font-display text-3xl leading-tight md:text-4xl">{post.title}</h1>
           <p className="mt-3 text-lg text-dim">{post.excerpt}</p>
           <div className="mt-4 flex items-center gap-3">
