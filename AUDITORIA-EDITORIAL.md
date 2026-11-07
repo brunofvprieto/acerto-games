@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 927
-- Forte: 913
+- Total analisado: 929
+- Forte: 915
 - Revisar: 12
 - Prioridade: 2
 
@@ -862,6 +862,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2963 | 12 | 100 | Virtua Fighter Crossroads revela Lionel Rafale, lutador que parece ser a nova versão de Lion | — |
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
+| FORTE | notícia | 3880 | 13 | 100 | WARDOGS chega à Temporada 3 em 12 de novembro com mapa urbano, 185 mil contas banidas e progressão mais lenta | — |
 | FORTE | notícia | 2899 | 12 | 100 | Warhorse, de Kingdom Come: Deliverance 2, sofre ataque hacker e fala em incidente sério | — |
 | FORTE | notícia | 2844 | 11 | 100 | Warzone ganha clima dinâmico e dois mapas na Temporada 1, Conflito de Hajin, que sai às 2h de 6 de novembro | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
@@ -928,6 +929,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3145 | 14 | 100 | Quanto tempo leva para zerar o remake de Ocarina of Time? Veja as estimativas | — |
 | FORTE | notícia | 2378 | 6 | 100 | Rumor de pré-venda do remake de Ocarina of Time em agosto é furada — mas a febre dos fãs diz tudo | — |
 | FORTE | notícia | 2978 | 13 | 100 | Remake de Ocarina of Time chega sem a Master Quest e sem nenhum modo difícil | — |
+| FORTE | artigo | 2931 | 10 | 100 | Skulltulas douradas no remake de Zelda: Ocarina of Time: a Echo Gem no lugar da Stone of Agony, 20 Bombchus e o que mudou na caçada | — |
 | FORTE | notícia | 4241 | 14 | 100 | Aonuma "tinha uma tarefa pendente": remake de Ocarina of Time ajusta o Templo da Água e traz de volta um dublador do N64 | — |
 | FORTE | notícia | 2717 | 7 | 100 | Zelda: Ocarina of Time chega em 5 de novembro; teoria do amiibo apontava 11, uma semana antes de GTA 6 | — |
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
