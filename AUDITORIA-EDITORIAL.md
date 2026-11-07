@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 929
-- Forte: 915
+- Total analisado: 933
+- Forte: 919
 - Revisar: 12
 - Prioridade: 2
 
@@ -230,6 +230,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2777 | 10 | 100 | Cofundador da BioWare diz que compra da EA pela Arábia Saudita foi "o último prego no caixão" do estúdio | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3635 | 13 | 100 | EA fechou a BioWare para apostar em Star Wars Battlefront 3, diz Bloomberg | — |
+| FORTE | notícia | 3226 | 10 | 100 | No primeiro N7 Day sem BioWare, petição no Parlamento do Canadá pede dinheiro público para o estúdio e documentário promete contar o fim | — |
 | FORTE | notícia | 3196 | 16 | 100 | Diretor global de Black Desert surpreende fãs em São Paulo, e Pearl Abyss promete festa maior nos 10 anos do jogo no Brasil | — |
 | FORTE | notícia | 2745 | 9 | 100 | Black Friday da PS Store começa nesta quarta e vai até o fim de novembro, com até 75% de desconto | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
@@ -556,6 +557,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4794 | 15 | 100 | Metro Redux ganha upgrade gratuito para PS5 e Xbox Series após franquia superar 50 milhões | — |
 | FORTE | noticia | 2138 | 9 | 100 | Metroid Ravenous é oficial: Samus abraça seus instintos Metroid em nova aventura 2D no Switch 2 | — |
 | FORTE | notícia | 3637 | 13 | 100 | Dezoito anos depois: veja como MGS4 evoluiu do PS3 para o PS5 e o Switch 2 a três dias do lançamento | — |
+| FORTE | notícia | 2846 | 10 | 100 | Miami Heat mostra o uniforme Vice City de GTA 6, feito com a Cactus Jack de Travis Scott e a Nike | — |
 | FORTE | notícia | 1789 | 6 | 100 | Demanda por memória para IA aumenta pressão sobre cadeia que também abastece hardware gamer | texto curto |
 | FORTE | notícia | 2950 | 12 | 100 | Microsoft oferece saída voluntária a 60 mil funcionários, e o Xbox está na lista | — |
 | FORTE | notícia | 2725 | 11 | 100 | MIMESIS faz um ano com atualização de paranoia, mapa novo e 60% de desconto | — |
@@ -801,6 +803,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
 | FORTE | notícia | 2764 | 12 | 100 | Sucker Punch, de Ghost of Yōtei, demite 26 funcionários | — |
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
+| FORTE | notícia | 2832 | 10 | 100 | Switch 2 recebe sete jogos na quinta (12), de Pikmin 4 a Metaphor: ReFantazio; veja preços na eShop | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
@@ -882,6 +885,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3049 | 11 | 100 | App do Xbox no PC é refeito e abre até 60% mais rápido; versão web do Cloud Gaming também muda | — |
 | FORTE | notícia | 2830 | 10 | 100 | Mythic Achievements chegam a todos os consoles Xbox na atualização de outubro, que também traz Remote Play em 1440p | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
+| FORTE | notícia | 2950 | 10 | 100 | Xbox Cloud Gaming entra em novembro com limite de horas: 15 no Ultimate, 10 no Premium e 5 no Essential | — |
 | FORTE | noticia | 8797 | 25 | 100 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | — |
 | FORTE | noticia | 7300 | 22 | 100 | Xbox cria divisão XP para cinema, séries e parques temáticos; Minecraft ganha nova liderança | — |
 | FORTE | notícia | 3038 | 10 | 100 | Xbox admite que avaliar jogos no console tem "passos demais" depois que Modern Warfare 4 ficou sem nota no Metacritic | — |
