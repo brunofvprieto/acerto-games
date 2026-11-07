@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 925
-- Forte: 911
+- Total analisado: 926
+- Forte: 912
 - Revisar: 12
 - Prioridade: 2
 
@@ -669,6 +669,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3041 | 14 | 100 | Phantom Blade Zero tem 88 no Metacritic: o que dizem as análises | — |
 | FORTE | notícia | 2489 | 12 | 100 | Phantom Blade Zero ganha trailer de lançamento, e edição física no PS5 fica para 2027 | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
+| FORTE | notícia | 2714 | 12 | 100 | Bill Skarsgård diz que jogou todos os Metal Gear e que Kojima está "inventando um novo meio" com PHYSINT | — |
 | FORTE | noticia | 2689 | 12 | 100 | Kojima revela protagonista de PHYSINT no Tokyo Game Show 2026: Bill Skarsgård assume papel principal | — |
 | FORTE | notícia | 6398 | 23 | 100 | E a Decima Engine? A ida de PHYSINT para o Xbox abre uma das maiores perguntas sobre o futuro do projeto | — |
 | FORTE | notícia | 3480 | 10 | 100 | PHYSINT na exposição de Kojima: cinco Bill Skarsgård, roteiro confidencial e máquinas com cara de Metal Gear | — |
