@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 926
-- Forte: 912
+- Total analisado: 927
+- Forte: 913
 - Revisar: 12
 - Prioridade: 2
 
@@ -907,6 +907,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
+| FORTE | notícia | 5355 | 28 | 100 | Linha do tempo oficial de Zelda agora tem duas fundações de Hyrule, e a era dos Zonai fecha os três caminhos | — |
 | FORTE | notícia | 3334 | 17 | 100 | Com 96, remake de Ocarina of Time empata em 3º entre os Zelda mais bem avaliados do Metacritic | — |
 | FORTE | notícia | 2721 | 13 | 100 | Ocarina of Time recebe atualização 1.1.1 antes do lançamento: 343 MB e suporte ao ZELDA NOTES | — |
 | FORTE | notícia | 2990 | 11 | 100 | Nintendo UK refaz o comercial de 1998 de Ocarina of Time e troca o slogan polêmico por "Willst thou flee? Or fight?" | — |
