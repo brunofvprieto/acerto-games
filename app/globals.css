@@ -118,20 +118,13 @@ button:focus-visible {
   }
 }
 
-/* Seções de plataforma: a foto do console se dissolve no fundo colorido, sem emenda */
-.secao-foto {
-  -webkit-mask-image: linear-gradient(to top, transparent 0%, #000 55%);
-  mask-image: linear-gradient(to top, transparent 0%, #000 55%);
+/* Seções de plataforma: véu escuro sobre a foto do console.
+   No celular escurece de baixo para cima; no desktop, da esquerda para a direita. */
+.secao-veu {
+  background: linear-gradient(to top, #0a0d10 0%, rgba(10, 13, 16, 0.6) 35%, rgba(10, 13, 16, 0) 70%);
 }
 @media (min-width: 768px) {
-  .secao-foto {
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.6) 22%, #000 45%);
-    mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.6) 22%, #000 45%);
+  .secao-veu {
+    background: linear-gradient(90deg, #0a0d10 0%, #0a0d10 32%, rgba(10, 13, 16, 0.85) 45%, rgba(10, 13, 16, 0.2) 68%, rgba(10, 13, 16, 0) 85%);
   }
-}
-
-/* Banner das seções de plataforma: linhas de varredura discretas, no clima arcade do site */
-.secao-scanlines {
-  background: repeating-linear-gradient(to bottom, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 4px);
-  mix-blend-mode: overlay;
 }

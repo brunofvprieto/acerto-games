@@ -29,59 +29,58 @@ export function PaginaEmpresa({ slug, posts, pagina, totalPaginas, total }) {
   const linkDe = (n) => (n <= 1 ? `/${slug}` : `/${slug}/pagina/${n}`);
   return (
     <main className="mx-auto max-w-6xl px-4 py-8">
-      <section
-        className="secao-banner relative overflow-hidden border-2"
-        style={{ borderColor: e.cor, background: e.gradiente, boxShadow: `6px 6px 0 ${e.cor}55` }}
-      >
-        {/* Camadas decorativas: linhas de varredura e o nome da marca em marca d'água */}
-        <div aria-hidden="true" className="secao-scanlines pointer-events-none absolute inset-0" />
-        <span
-          aria-hidden="true"
-          className="logo-arcade pointer-events-none absolute -bottom-6 -left-3 select-none whitespace-nowrap text-[7rem] opacity-[0.07] [text-shadow:none] md:text-[11rem]"
-        >
-          {e.nome}
-        </span>
-
+      <section className="relative isolate overflow-hidden rounded-2xl border border-white/10 bg-ink md:min-h-[440px]">
+        {/* Foto do console em tela cheia, escurecida à esquerda para o texto respirar */}
         {e.consoleImg && (
-          <div className="relative h-56 sm:h-72 md:absolute md:inset-y-0 md:right-0 md:h-auto md:w-[48%]">
+          <div className="relative h-56 sm:h-72 md:absolute md:inset-0 md:h-auto">
             <img
               src={e.consoleImg}
               alt={e.consoleAlt}
-              className="secao-foto absolute inset-0 h-full w-full object-cover"
+              className="absolute inset-0 h-full w-full object-cover md:left-[30%] md:w-[70%]"
               style={{ objectPosition: e.consolePos || "center" }}
             />
+            <div aria-hidden="true" className="secao-veu absolute inset-0" />
           </div>
         )}
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute inset-0 -z-0"
+          style={{ background: `radial-gradient(60% 80% at 0% 100%, ${e.cor}59 0%, transparent 70%)` }}
+        />
 
-        <div className="relative p-7 md:w-[56%] md:p-10">
-          <p className="flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.3em] text-paper/90">
-            <span className="px-2 py-0.5 font-bold tracking-widest" style={{ background: e.corTexto, color: e.cor }}>
-              Seção
-            </span>
-            Acerto Games
+        <div className="relative z-10 p-6 md:max-w-[56%] md:p-12">
+          <p className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 font-mono text-[10px] uppercase tracking-[0.25em] text-paper/80 backdrop-blur">
+            <span className="h-2 w-2 rounded-full" style={{ background: e.cor, boxShadow: `0 0 10px ${e.cor}` }} />
+            Seção
           </p>
-          <h1 className="logo-arcade mt-4 text-5xl md:text-6xl">{e.nome}</h1>
-          <span aria-hidden="true" className="mt-4 block h-1 w-20" style={{ background: e.corTexto }} />
-          <div lang="pt-BR" className="mt-4 space-y-2 text-justify leading-relaxed text-paper/90 [hyphens:auto]">
+          <h1 className="mt-5 font-display text-5xl font-black leading-none tracking-tight text-paper md:text-7xl">
+            {e.nome}
+          </h1>
+          <span
+            aria-hidden="true"
+            className="mt-5 block h-[3px] w-24 rounded-full"
+            style={{ background: `linear-gradient(90deg, ${e.cor}, transparent)` }}
+          />
+          <div lang="pt-BR" className="mt-5 space-y-3 text-justify text-[15px] leading-relaxed text-paper/75 [hyphens:auto]">
             {e.bio.map((linha, i) => (
               <p key={i}>{linha}</p>
             ))}
           </div>
 
-          <dl className="mt-6 grid grid-cols-3 gap-2 font-mono text-[10px] uppercase tracking-widest">
+          <dl className="mt-8 grid grid-cols-3 gap-4 border-t border-white/10 pt-5">
             {[
-              ["Origem", e.origem],
-              ["Console atual", e.console],
-              ["No Acerto", `${total} matérias`],
-            ].map(([rotulo, valor]) => (
-              <div key={rotulo} className="border border-white/20 bg-black/25 px-3 py-2 backdrop-blur-sm">
-                <dt className="text-paper/60">{rotulo}</dt>
-                <dd className="mt-1 text-[11px] font-bold leading-snug text-paper">{valor}</dd>
+              [e.ano, e.anoRotulo],
+              [e.consoleCurto, "Console atual"],
+              [total, "Matérias"],
+            ].map(([valor, rotulo]) => (
+              <div key={rotulo} className="min-w-0">
+                <dd className="font-display text-xl font-black leading-tight text-paper md:text-2xl">{valor}</dd>
+                <dt className="mt-1 font-mono text-[10px] uppercase tracking-widest text-paper/50">{rotulo}</dt>
               </div>
             ))}
           </dl>
           {e.consoleImg && (
-            <p className="mt-3 font-mono text-[9px] uppercase tracking-widest text-paper/50">Foto: Divulgação/{e.empresaCredito}</p>
+            <p className="mt-5 font-mono text-[9px] uppercase tracking-widest text-paper/35">Foto: Divulgação/{e.empresaCredito}</p>
           )}
         </div>
       </section>
