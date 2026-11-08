@@ -931,7 +931,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
 | FORTE | notícia | 2805 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
-| FORTE | artigo | 33660 | 168 | 100 | Detonado de Zelda: Ocarina of Time no Switch 2: passo a passo de todas as masmorras, chaves e chefes | — |
+| FORTE | artigo | 33382 | 168 | 100 | Detonado de Zelda: Ocarina of Time no Switch 2: passo a passo de todas as masmorras, chaves e chefes | — |
 | FORTE | notícia | 2928 | 14 | 100 | Remake de Ocarina of Time chega amanhã com a primeira dublagem brasileira de Zelda: conheça as vozes | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | artigo | 3646 | 18 | 100 | Guia de Zelda: Ocarina of Time: como conseguir a Espada de Biggoron no remake, com os novos cronômetros | — |
