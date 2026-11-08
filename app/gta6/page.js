@@ -4,6 +4,7 @@ import { NewsCard } from "../../components/Cards";
 import CountdownGTA from "../../components/CountdownGTA";
 
 export const metadata = {
+  alternates: { canonical: "/gta6" },
   title: "GTA 6 — Especial Acerto Games",
   description:
     "Tudo sobre GTA 6 em um só lugar: contagem regressiva, notícias, trailers e o que sabemos sobre Vice City, Jason e Lucia.",

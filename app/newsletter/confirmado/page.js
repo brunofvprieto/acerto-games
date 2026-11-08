@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/newsletter/confirmado" },
   title: "Inscrição confirmada | Acerto Games",
   robots: { index: false, follow: false },
 };

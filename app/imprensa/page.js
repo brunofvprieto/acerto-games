@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/imprensa" },
   title: "Imprensa & PR — Acerto Games",
   description:
     "Área profissional do Acerto Games para assessorias, publishers, desenvolvedoras e agências: press releases, review keys, eventos, entrevistas e parcerias editoriais.",

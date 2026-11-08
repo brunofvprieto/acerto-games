@@ -3,6 +3,7 @@ import { getAllPosts } from "../../lib/posts";
 import { NewsCard } from "../../components/Cards";
 
 export const metadata = {
+  alternates: { canonical: "/artigos" },
   title: "Artigos Especiais — Acerto Games",
   description:
     "Textos que vão além da notícia: memória afetiva, cultura gamer e as histórias por trás dos jogos que marcaram a gente.",

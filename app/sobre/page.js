@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/sobre" },
   title: "Sobre — Acerto Games",
   description:
     "Conheça o Acerto Games, seu editor e a política de apuração do portal brasileiro independente de games.",

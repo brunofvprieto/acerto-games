@@ -3,6 +3,7 @@ import { getAllPosts } from "../../../lib/posts";
 import { NewsCard } from "../../../components/Cards";
 
 export const metadata = {
+  alternates: { canonical: "/autor/bruno-vazquez" },
   title: "Bruno Vazquez — Acerto Games",
   robots: { index: false, follow: true },
   description:

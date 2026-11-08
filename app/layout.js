@@ -6,7 +6,6 @@ import Footer from "../components/Footer";
 
 export const metadata = {
   metadataBase: new URL("https://acertogames.com.br"),
-  alternates: { canonical: "/" },
   title: "Acerto Games — Notícias, análises, reviews e opinião",
   description:
     "Portal brasileiro independente de games: notícias, análises, opiniões, reviews e especiais sobre jogos, indústria, hardware e cultura gamer.",

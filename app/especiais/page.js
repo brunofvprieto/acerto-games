@@ -6,6 +6,7 @@ import { imgOtimizada } from "../../lib/img";
 export const dynamic = "force-static";
 
 export const metadata = {
+  alternates: { canonical: "/especiais" },
   title: "Especiais — Acerto Games",
   description: "O acervo de especiais do Acerto Games: mergulhos profundos nas maiores sagas dos games.",
 };

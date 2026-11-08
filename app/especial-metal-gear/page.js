@@ -3,6 +3,7 @@ import { getAllPosts } from "../../lib/posts";
 import { NewsCard } from "../../components/Cards";
 
 export const metadata = {
+  alternates: { canonical: "/especial-metal-gear" },
   title: "Especial: A Saga Metal Gear — Acerto Games",
   description:
     "Análise completa, história e cronologia da franquia Metal Gear, de Solid Snake a Big Boss. Sete capítulos que redefiniram o stealth.",

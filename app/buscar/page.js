@@ -3,6 +3,7 @@ import { getAllPosts } from "../../lib/posts";
 import SearchClient from "../../components/SearchClient";
 
 export const metadata = {
+  alternates: { canonical: "/buscar" },
   title: "Buscar — Acerto Games",
   description: "Busque matérias no Acerto Games.",
 };

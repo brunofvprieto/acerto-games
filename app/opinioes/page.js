@@ -3,6 +3,7 @@ import { getAllPosts } from "../../lib/posts";
 import { NewsCard } from "../../components/Cards";
 
 export const metadata = {
+  alternates: { canonical: "/opinioes" },
   title: "Opiniões — Acerto Games",
   description:
     "Opiniões e análises do Acerto Games sobre jogos, indústria, consoles, mercado e cultura gamer.",
