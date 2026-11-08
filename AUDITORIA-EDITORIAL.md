@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 933
-- Forte: 919
+- Total analisado: 937
+- Forte: 923
 - Revisar: 12
 - Prioridade: 2
 
@@ -209,6 +209,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2646 | 5 | 100 | Diretor de Black Flag Resynced pede uma coisa só: que a gente não abandone o jogo quando GTA 6 chegar | — |
 | FORTE | Notícias | 2001 | 7 | 100 | Assassin's Creed Black Flag Resynced pode chegar ao Switch 2 após nova listagem no varejo francês | — |
 | FORTE | notícia | 2743 | 10 | 100 | Ubisoft diz que não tem outro remake de Assassin's Creed em produção, e Hexe só volta a aparecer em 2027 | — |
+| FORTE | notícia | 2790 | 15 | 100 | Assassin's Creed estaria indo para a Roma Antiga, e Hexe teria sido adiado para 2028 | — |
 | FORTE | notícia | 2183 | 6 | 100 | O Egito de Assassin's Creed Origins é o melhor mundo aberto da série? A PC Gamer entrou nessa discussão | — |
 | FORTE | notícia | 1864 | 5 | 100 | Depois de Black Flag Resynced, qual Assassin's Creed merece um remake? A Polygon deu o veredito | — |
 | FORTE | notícia | 5336 | 26 | 100 | Série de Assassin's Creed na Netflix encerra gravações em Roma e ganha trilha de Hannah Peel: tudo o que já se sabe | — |
@@ -716,6 +717,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3256 | 11 | 100 | PUBG: Atualização 43.2 traz Bentley, o modo PvE SLB: Dawnbreakers of Rondo e mudanças em veículos e lobby | — |
 | FORTE | notícia | 2713 | 12 | 100 | PUBG: Battlegrounds recebe o IVE com áreas de LOVE DIVE em Rondo a partir de 4 de novembro | — |
 | FORTE | notícia | 2722 | 10 | 100 | PUBG vai ganhar série live-action na Netflix, escrita, dirigida e estrelada por Donald Glover | — |
+| FORTE | notícia | 2812 | 14 | 100 | Sony adia as caixas de som Pulse Elevate a seis dias do lançamento e não dá nova data | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
@@ -879,6 +881,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3497 | 12 | 100 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | — |
 | FORTE | notícia | 2940 | 11 | 100 | World of Warcraft: Forever tem estreia sem filas e surpreende até a Blizzard: "até agora, tudo mais ou menos bem" | — |
+| FORTE | notícia | 2803 | 14 | 100 | World of Warcraft: Forever tem o maior lançamento da história de WoW, diz Blizzard | — |
 | FORTE | notícia | 2868 | 11 | 100 | Reserva de nomes de WoW: Forever abre com filas e erros; jogo sai em 4 de novembro | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
 | FORTE | notícia | 2795 | 10 | 100 | "Difícil achar sinal de esperança": analista diz que Gears exclusivo e CoD fora do Game Pass não ajudaram o Xbox | — |
@@ -928,6 +931,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2928 | 14 | 100 | Remake de Ocarina of Time chega amanhã com a primeira dublagem brasileira de Zelda: conheça as vozes | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | artigo | 3646 | 18 | 100 | Guia de Zelda: Ocarina of Time: como conseguir a Espada de Biggoron no remake, com os novos cronômetros | — |
+| FORTE | notícia | 2738 | 13 | 100 | Arquivos do remake de Ocarina of Time indicam que a Master Quest vem como DLC | — |
 | FORTE | notícia | 2941 | 14 | 100 | Monolith Soft, de Xenoblade, confirma que ajudou no remake de Ocarina of Time, mas o comando foi da Nintendo | — |
 | FORTE | notícia | 3031 | 15 | 100 | Créditos de Ocarina of Time revelam a Navi de 1998 de volta no Japão e o elenco completo da dublagem brasileira | — |
 | FORTE | notícia | 3145 | 14 | 100 | Quanto tempo leva para zerar o remake de Ocarina of Time? Veja as estimativas | — |
