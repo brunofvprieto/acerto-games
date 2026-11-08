@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 940
-- Forte: 926
+- Total analisado: 941
+- Forte: 927
 - Revisar: 12
 - Prioridade: 2
 
@@ -187,6 +187,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2788 | 11 | 100 | AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado | — |
 | FORTE | notícia | 3087 | 13 | 100 | Alien: Isolation 2 terá edição física, modo foto e um Xenomorfo que caça usando o mau tempo | — |
 | FORTE | notícia | 2859 | 10 | 100 | Prime libera sete jogos de PC em novembro, com Jurassic World Evolution 2 e Squirrel with a Gun | — |
+| FORTE | notícia | 2738 | 13 | 100 | Adolescente desaparecida há mais de 500 dias é resgatada nos EUA após pedir ajuda a jogador de Among Us | — |
 | FORTE | review | 14796 | 39 | 100 | Análise: Death Stranding 2 é uma obra-prima exuberante — Kojima entrega um dos grandes jogos da geração | — |
 | FORTE | review | 9924 | 37 | 100 | Análise: Hell is Us — um universo fascinante que merece ir muito além | — |
 | FORTE | artigo | 8037 | 25 | 100 | Netflix, Rockstar e o fim do disco: por que o trailer de GTA 6 é o sintoma, não a doença | — |
