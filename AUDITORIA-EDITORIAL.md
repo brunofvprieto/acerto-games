@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 937
-- Forte: 923
+- Total analisado: 939
+- Forte: 925
 - Revisar: 12
 - Prioridade: 2
 
@@ -301,6 +301,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2774 | 8 | 100 | Behaviour retira os DLCs que deu ao streamer TheBurntPeanut e pede desculpas à comunidade de Dead by Daylight | — |
 | FORTE | notícia | 2866 | 13 | 100 | Romance oficial de Death Stranding 2 chega em inglês em dois volumes, e o segundo sai em janeiro | — |
 | FORTE | notícia | 2739 | 10 | 100 | Death Stranding 2 no Xbox? Evento na loja da Microsoft alimenta rumor, mas pode ser só a exposição de Kojima | — |
+| FORTE | notícia | 2731 | 13 | 100 | Death Stranding passa de 28 milhões de jogadores no aniversário de sete anos da série | — |
 | FORTE | notícia | 3845 | 12 | 100 | "Minha mãe virou uma cratera": Death Stranding Isolations ganha primeiro teaser e estreia em 2027 | — |
 | FORTE | notícia | 2771 | 10 | 100 | Death Stranding Odradek: Kojima e Niantic levam as entidades encalhadas para as ruas de Tóquio em realidade aumentada | — |
 | FORTE | notícia | 2437 | 5 | 100 | Deborah Ann Woll sobre os haters de God of War Laufey: "Em nenhum universo o jogo é ruim" | — |
@@ -408,6 +409,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3219 | 12 | 100 | God of War terá outro Atreus: série prepara troca de ator para a segunda temporada | — |
 | FORTE | notícia | 2673 | 5 | 100 | Série de God of War deve trocar o ator de Atreus na 2ª temporada — e dessa vez a troca faz sentido | — |
 | FORTE | notícia | 2086 | 5 | 100 | Série de God of War perde seu Kratos: Ryan Hurst é substituído após lesão grave no set | — |
+| FORTE | notícia | 2784 | 14 | 100 | God of War: Sons of Sparta parece estar a caminho do PS4; código aparece nos dados da PlayStation Store | — |
 | FORTE | notícia | 2737 | 14 | 100 | GOG faz sua primeira apresentação de jogos nesta quinta, às 15h, e promete um "novo capítulo" para a loja | — |
 | FORTE | notícia | 2836 | 7 | 100 | Cansei de depender de storefront? A GOG te ensina a gravar seus jogos em disco do jeito raiz | — |
 | FORTE | notícia | 2778 | 11 | 100 | Golden Joystick 2026 abre votação para o jogo do ano, com Phantom Blade Zero entre os indicados | — |
