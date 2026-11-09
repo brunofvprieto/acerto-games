@@ -1,0 +1,40 @@
+{
+  "slug": "jensen-huang-nvidia-admite-caso-extraconjugal-conselho-investigacao-suposta-espia-china",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "9 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-09T13:01:00-03:00",
+  "title": "Jensen Huang, CEO da Nvidia, admite caso extraconjugal; conselho abre investigação após reportagens sobre suposta espiã chinesa",
+  "excerpt": "Em carta aos funcionários, Huang pediu desculpas à família e disse apoiar a investigação. O conselho afirma não ver sinal de segredos expostos, mas as ações da empresa caíram.",
+  "cover": [
+    "#1d2b0a",
+    "#070a03"
+  ],
+  "image": "/img/jensen-huang-nvidia-foto-oficial.jpg",
+  "imageFilename": "jensen-huang-nvidia-foto-oficial.jpg",
+  "imageAlt": "Jensen Huang, fundador e CEO da Nvidia",
+  "imageCredit": "Jensen Huang. Divulgação/Nvidia",
+  "fonte": "Nvidia (comunicados oficiais)",
+  "fonteUrl": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+  "imageOrigem": "Capa: foto oficial de Jensen Huang, sala de imprensa da Nvidia.",
+  "body": [
+    "Jensen Huang, fundador e CEO da Nvidia, admitiu um caso extraconjugal em carta aos funcionários publicada no domingo, 8. No mesmo dia, o conselho da empresa anunciou uma investigação independente. O motivo são reportagens de que Huang teria sido alvo de uma ação de inteligência estrangeira.",
+    "\"Fui infiel à minha esposa. Minhas ações magoaram ela e nossos filhos. Não há desculpa para o que fiz. Sinto muito\", escreveu Huang. Na carta, ele assume \"total responsabilidade\" e pede privacidade para a família.",
+    "## O que diz o conselho",
+    "Segundo o comunicado do conselho, a investigação será conduzida por um comitê de conselheiros independentes, com apoio de advogados externos. O texto diz que o conselho \"não tem motivos para acreditar\" que a segurança nacional dos Estados Unidos ou segredos da Nvidia tenham sido comprometidos. Mesmo assim, a apuração vai examinar todas as informações disponíveis.",
+    "O conselho afirma ainda que mantém a confiança em Huang e na equipe de liderança, e que vai divulgar novidades quando for apropriado. O executivo segue no comando durante a apuração. Na carta, ele diz apoiar a investigação e que vai cooperar totalmente.",
+    "## As reportagens",
+    "O caso ganhou força com uma reportagem do The New York Times publicada em 29 de outubro. Segundo o jornal, uma mulher identificada como Alice Huang, também chamada Huang Le, buscou se aproximar do CEO para obter informações sobre a tecnologia da Nvidia. Ela não tem parentesco com Jensen.",
+    "Alice Huang foi executiva da Megaspeed, empresa de Singapura que compra equipamentos da Nvidia. Reportagens publicadas desde então afirmam que agências de inteligência dos Estados Unidos a consideram uma suposta agente chinesa. Nada disso foi confirmado oficialmente, e a embaixada da China em Washington nega qualquer espionagem.",
+    "A carta de Huang não cita o nome da mulher. O texto fala apenas em \"preocupações de segurança nacional levantadas em reportagens\".",
+    "## Ações em queda e pressão em Washington",
+    "As ações da Nvidia abriram a semana em queda nas negociações desta segunda-feira, 9, com a repercussão do caso. A empresa é hoje uma das mais valiosas do mundo, puxada pela demanda por chips de inteligência artificial.",
+    "A pressão também chega ao Congresso americano. Parlamentares republicanos pediram que Huang preste esclarecimentos ainda neste mês.",
+    "## Por que importa para quem joga",
+    "A Nvidia nasceu das placas de vídeo para jogos, e a linha GeForce segue no centro do PC gamer, do DLSS ao streaming do GeForce NOW. Hoje, porém, a maior parte do faturamento vem dos chips de inteligência artificial, justamente o tipo de produto que os Estados Unidos restringem para a China.",
+    "Parece cedo para medir qualquer efeito sobre lançamentos ou preços de placas. O que está em jogo agora é a situação do executivo que comanda a empresa desde a fundação, em 1993.",
+    "link: Nvidia sobe preços das placas de vídeo de novo, com GeForce RTX até 30% mais caras | https://acertogames.com.br/noticia/nvidia-aumento-precos-placas-ate-30-por-cento"
+  ],
+  "observacao": "Fontes: carta de Huang 'A Message to Our Company' e 'Statement from NVIDIA Board of Directors' (nvidianews.nvidia.com, lidas na íntegra); Tom's Hardware; Al Jazeera; Fortune; Investing.com; Kotaku/PC Gamer/GameSpot (feeds). NYT 29/10 citado por Al Jazeera + Investing (apuração exclusiva de terceiro, permitido). Alice Huang/Huang Le, Megaspeed: Tom's + Al Jazeera + Fortune. Negação da embaixada: Al Jazeera + Tom's. Queda das ações sem número: Investing (~8%) e Fortune (-4,24% overnight) divergem. Pedido do Congresso: Investing + Axios. Fora: valor perdido em mercado, contrabando de chips da Megaspeed (fonte única com números)."
+}

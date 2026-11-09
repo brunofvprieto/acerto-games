@@ -1,0 +1,41 @@
+{
+  "slug": "sega-vazamento-2-19-milhoes-emails-arara-newsletter-sem-senha-cartao",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "9 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-09T13:01:00-03:00",
+  "title": "SEGA confirma vazamento de 2,19 milhões de e-mails após ataque a empresa que enviava suas newsletters",
+  "excerpt": "O ataque atingiu a Arara, empresa terceirizada que disparava as newsletters da SEGA no Japão. Senhas, cartões e dados pessoais não vazaram, e as contas SEGA não foram afetadas.",
+  "cover": [
+    "#0b2a6b",
+    "#03091a"
+  ],
+  "image": "/img/sega-logo-oficial-vazamento-emails-newsletter.jpg",
+  "imageFilename": "sega-logo-oficial-vazamento-emails-newsletter.jpg",
+  "imageAlt": "Logo oficial da SEGA",
+  "imageCredit": "Logo da SEGA. Divulgação/SEGA",
+  "fonte": "SEGA (comunicado oficial)",
+  "fonteUrl": "https://www.sega.co.jp/release/261109_1.html",
+  "imageOrigem": "Capa: logo oficial (sega.co.jp) sobre fundo azul. Corpo: arte oficial de Initial D já no acervo.",
+  "body": [
+    "A SEGA confirmou nesta segunda-feira, 9, o vazamento de 2.196.044 endereços de e-mail de clientes no Japão. O ataque não foi aos servidores da própria SEGA, e sim à Arara, empresa terceirizada responsável pelo sistema que disparava parte das newsletters da companhia.",
+    "Segundo o comunicado oficial, vazaram os endereços e informações ligadas ao envio dos e-mails. Nomes, datas de nascimento, endereços, telefones, dados de cartão de crédito e senhas não foram expostos. A SEGA diz que ainda não há sinal de uso indevido dos dados. Do total, 92.273 registros vieram acompanhados de informações sobre o envio, cujo conteúdo ainda é investigado.",
+    "## Quem foi atingido",
+    "Os e-mails pertencem a quem recebeu onze newsletters enviadas entre 2 de julho e 28 de outubro deste ano. Entre elas estavam os anúncios de lançamento de CHUNITHM, ONGEKI e maimai, jogos de ritmo dos fliperamas japoneses. Também entraram avisos da loteria de prêmios SEGA Lucky Kuji e da presença da empresa na Tokyo Game Show.",
+    "As contas SEGA, usadas em jogos e serviços online, ficaram de fora. Elas usam outro sistema de envio de e-mails e não fazem parte do vazamento.",
+    "## A linha do tempo",
+    "O caso levou mais de uma semana para ser confirmado. Em 29 de outubro, a SEGA pediu à Arara que checasse a segurança do sistema, e a resposta foi que não havia vazamento. Em 1º de novembro, a própria Arara anunciou publicamente o acesso não autorizado.",
+    "Dois dias depois, em 3 de novembro, a empresa avisou a SEGA de que os e-mails dos clientes dela estavam entre os dados expostos. As duas fizeram novas checagens até o dia 8, quando a Arara entregou um relatório formal.",
+    "A SEGA suspendeu o envio de newsletters pelo sistema da Arara até que a segurança seja confirmada. A empresa também vai comunicar o caso à Comissão de Proteção de Informações Pessoais do Japão e avisar cada cliente afetado individualmente.",
+    "A empresa diz ainda que vai reforçar o controle de segurança da informação, inclusive nos serviços que contrata de terceiros.",
+    "## Cuidado com golpes",
+    "O principal risco agora é o golpe por e-mail. A SEGA alerta que mensagens falsas podem se passar pela empresa, pela Sega Fave ou pela Arara, usando nomes de jogos e serviços para parecer legítimas. A companhia reforça que nunca pede senha ou dados de cartão por e-mail.",
+    "## Não é o mesmo ataque dos fliperamas",
+    "O vazamento é um caso diferente do ataque que derrubou a ALL.Net, a rede online dos fliperamas japoneses. Aquele incidente atingiu os servidores da Sega Fave, subsidiária da SEGA, e deixa as máquinas sem conexão desde 1º de novembro.",
+    "img: /img/sega-all-net-initial-d-the-arcade-arte-oficial-ataque-hacker-fliperamas.jpg | Initial D THE ARCADE, um dos jogos parados pelo ataque à ALL.Net, caso separado do vazamento de e-mails. Divulgação/SEGA.",
+    "Os dois casos, porém, se cruzam. Por precaução, o serviço online da SEGA Lucky Kuji segue em manutenção desde o ataque à Sega Fave, sem login nem compras. Parece uma semana difícil para a área de segurança da empresa, com dois incidentes em sequência envolvendo clientes japoneses.",
+    "link: Ataque hacker à rede da SEGA deixa fliperamas do Japão uma semana parados | https://acertogames.com.br/noticia/sega-all-net-ataque-hacker-fliperamas-japao-semana-parados-bandai-namco-volta-teste"
+  ],
+  "observacao": "Fontes: comunicado oficial SEGA (sega.co.jp/release/261109_1, lido na íntegra); Automaton West; NHK; Game Watch; Anime News Network. Número 2.196.044 e 92.273 com dados de envio (SEGA + Automaton). Linha do tempo só do comunicado oficial (fonte primária). Não citei os 92.273 por divergência de leitura entre fontes."
+}
