@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 952
-- Forte: 938
+- Total analisado: 956
+- Forte: 942
 - Revisar: 12
 - Prioridade: 2
 
@@ -388,6 +388,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3720 | 5 | 100 | Saiu do cinema ainda vibrando com The Odyssey? A Polygon listou 10 jogos pra manter o clima | — |
 | FORTE | artigo | 4052 | 17 | 100 | Gamescom começa amanhã: o que esperar, o que provavelmente não vai aparecer e por que vale ficar acordado até meia-noite | — |
 | FORTE | especial | 5467 | 17 | 100 | Gamescom 2026: o que esperar da maior feira de games do mundo | — |
+| FORTE | notícia | 2848 | 12 | 100 | gamescom asia 2026 bate recorde internacional, com 219 mil visitantes de 113 países | — |
 | FORTE | notícia | 12047 | 45 | 100 | Gamescom Opening Night Live 2026: veja os principais anúncios e trailers | — |
 | FORTE | notícia | 2680 | 5 | 100 | CEO da GameStop sobre jogos físicos: 'Não importa. Não importa nada' | — |
 | FORTE | notícia | 3648 | 15 | 100 | Gears of War faz 20 anos e dá RAAM de graça em E-Day; Temporada 2: Legacy chega em 1º de dezembro | — |
@@ -413,6 +414,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2784 | 14 | 100 | God of War: Sons of Sparta parece estar a caminho do PS4; código aparece nos dados da PlayStation Store | — |
 | FORTE | notícia | 2737 | 14 | 100 | GOG faz sua primeira apresentação de jogos nesta quinta, às 15h, e promete um "novo capítulo" para a loja | — |
 | FORTE | notícia | 2836 | 7 | 100 | Cansei de depender de storefront? A GOG te ensina a gravar seus jogos em disco do jeito raiz | — |
+| FORTE | notícia | 3011 | 13 | 100 | Golden Joystick Awards 2026: como assistir, horário de Brasília e os indicados a jogo do ano | — |
 | FORTE | notícia | 2778 | 11 | 100 | Golden Joystick 2026 abre votação para o jogo do ano, com Phantom Blade Zero entre os indicados | — |
 | FORTE | notícia | 2790 | 12 | 100 | Um jogo de Switch 2 será revelado hoje ao meio-dia — e a única pista são oito emojis | — |
 | FORTE | notícia | 2902 | 9 | 100 | Pesquisar Zelda no Google agora leva a página de volta a 1998, com a Espada Mestra | — |
@@ -526,6 +528,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2689 | 7 | 100 | Konami ressuscita Suikoden 14 anos depois — mas tem uma pegadinha no caminho | — |
 | FORTE | notícia | 2482 | 7 | 100 | Jon Hamm quase foi o detetive de LA Noire — e o roteirista explica por que foi melhor assim | — |
 | FORTE | notícia | 2959 | 16 | 100 | Lançamentos da semana: Phantom Blade Zero, The Wolf Among Us Remastered, Croc 2 e mais | — |
+| FORTE | notícia | 3583 | 18 | 100 | Lançamentos da semana: Football Manager 27, Warhammer Survivors, Shrek 2 Remastered e mais | — |
 | FORTE | notícia | 3420 | 10 | 100 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | — |
 | FORTE | notícia | 5025 | 20 | 100 | Lançamentos de novembro de 2026: Zelda Ocarina of Time, GTA 6 e os jogos que dividem o mês com os gigantes | — |
 | FORTE | notícia | 2678 | 11 | 100 | Layers of Fear e Observer: System Redux ganham edição física no Switch 2 | — |
@@ -663,6 +666,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3058 | 10 | 100 | Overwatch recebe Doctrine e transforma Sombra em suporte na Temporada 5 | — |
 | FORTE | notícia | 2115 | 5 | 100 | Palworld 1.0 já vendeu mais de 1,8 milhão de cópias desde o lançamento, aponta analista | — |
 | FORTE | notícia | 2467 | 6 | 100 | Palworld está dominando a Steam de novo — e quase repetiu a marca de 1 milhão de jogadores simultâneos | — |
+| FORTE | notícia | 2814 | 12 | 100 | Path of Exile 2 sai do acesso antecipado em 11 de dezembro, com classe Sombra e guerra entre jogadores | — |
 | FORTE | notícia | 2788 | 10 | 100 | Patrick Stewart, de Star Trek e X-Men, morre aos 86 anos; ator foi o imperador de Oblivion | — |
 | FORTE | notícia | 3926 | 11 | 100 | As caçadas de Monster Hunter sobreviveram: Peace Walker mantém a parceria com a Capcom na Master Collection Vol. 2 | — |
 | FORTE | notícia | 2934 | 10 | 100 | Rumor: vídeo vazado mostra suposto remake de Persona 1 com motor de Persona 3 Reload | — |
