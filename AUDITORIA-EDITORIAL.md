@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 942
-- Forte: 928
+- Total analisado: 945
+- Forte: 931
 - Revisar: 12
 - Prioridade: 2
 
@@ -425,6 +425,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3282 | 15 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
 | FORTE | notícia | 3520 | 12 | 100 | GTA 6: Bloomberg revela bastidores de oito anos de desenvolvimento e abre as portas da Rockstar | — |
 | FORTE | notícia | 2962 | 12 | 100 | GTA 6 sai da tela: Burger Shot e Cluckin' Bell abrem de verdade em Miami, e cervejas Pißwasser e Patriot ganham registro nos EUA | — |
+| FORTE | notícia | 3448 | 10 | 100 | Caixas de GTA 6 chegam ao varejo e a embalagem pede 230 GB, acima dos 212 GB anunciados pela Rockstar | — |
 | FORTE | notícia | 1914 | 6 | 100 | GTA 6: código da mídia física no PS5 vai ter trava de região — e o Xbox saiu por cima | — |
 | FORTE | notícia | 13508 | 43 | 100 | GTA 6 vai reagir às suas escolhas até no corpo de Jason e Lucia — tudo o que a Rockstar revelou à Dazed | — |
 | FORTE | notícia | 3519 | 14 | 100 | O primeiro grande racha de GTA 6 não é sobre gráficos: é sobre ter que abastecer o carro | — |
@@ -754,6 +755,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
 | FORTE | notícia | 2503 | 5 | 100 | Mewtwo exclusivo do aniversário de Pokémon Go está sendo vendido no eBay por até R$ 56 mil | — |
+| FORTE | notícia | 3961 | 12 | 100 | Ataque hacker à rede da SEGA deixa fliperamas do Japão uma semana parados; jogos da Bandai Namco voltam em teste | — |
 | FORTE | noticia | 4239 | 18 | 100 | SEGA aumenta investimento em Sonic, confirma novos jogos em produção e explica por que evita remakes | — |
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
@@ -944,6 +946,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2978 | 13 | 100 | Remake de Ocarina of Time chega sem a Master Quest e sem nenhum modo difícil | — |
 | FORTE | artigo | 2931 | 10 | 100 | Skulltulas douradas no remake de Zelda: Ocarina of Time: a Echo Gem no lugar da Stone of Agony, 20 Bombchus e o que mudou na caçada | — |
 | FORTE | notícia | 4241 | 14 | 100 | Aonuma "tinha uma tarefa pendente": remake de Ocarina of Time ajusta o Templo da Água e traz de volta um dublador do N64 | — |
+| FORTE | notícia | 3359 | 10 | 100 | Ocarina of Time faz a segunda maior estreia de Zelda no Reino Unido, 35% acima de Breath of the Wild | — |
 | FORTE | notícia | 2717 | 7 | 100 | Zelda: Ocarina of Time chega em 5 de novembro; teoria do amiibo apontava 11, uma semana antes de GTA 6 | — |
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
 | FORTE | notícia | 3026 | 13 | 100 | Digital Foundry: remake de Ocarina of Time roda a 60 fps estáveis e chega a 1440p no Switch 2 | — |
