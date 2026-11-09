@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 945
-- Forte: 931
+- Total analisado: 948
+- Forte: 934
 - Revisar: 12
 - Prioridade: 2
 
@@ -422,6 +422,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
 | FORTE | notícia | 2835 | 10 | 100 | Rumor: análises de GTA 6 sairiam em 18 de novembro, na véspera do lançamento | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
+| FORTE | notícia | 3054 | 12 | 100 | Arquivos do pré-download de GTA 6 indicam modo online, melhorias no PS5 Pro e 55 troféus | — |
 | FORTE | notícia | 3282 | 15 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
 | FORTE | notícia | 3520 | 12 | 100 | GTA 6: Bloomberg revela bastidores de oito anos de desenvolvimento e abre as portas da Rockstar | — |
 | FORTE | notícia | 2962 | 12 | 100 | GTA 6 sai da tela: Burger Shot e Cluckin' Bell abrem de verdade em Miami, e cervejas Pißwasser e Patriot ganham registro nos EUA | — |
@@ -464,6 +465,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3259 | 11 | 100 | GTA 6 e Spotify levam campanha às ruas após teasers de Travis Scott, Future e outros artistas | — |
 | FORTE | noticia | 2136 | 8 | 100 | GTA 6 tem primeiro ator confirmado: Stephen Root revela participação no jogo da Rockstar | — |
 | FORTE | notícia | 2828 | 12 | 100 | GTA 6 vai ocupar 210 GB no PS5; pré-download começa em 12 de novembro | — |
+| FORTE | notícia | 2791 | 12 | 100 | Rockstar e PlayStation fazem festival de GTA 6 em Miami com Travis Scott, Cardi B e Justice | — |
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
 | FORTE | notícia | 2741 | 9 | 100 | Vanoss Crew aluga mansão em Miami para o lançamento de GTA 6, e a Rockstar já sabe | — |
 | FORTE | noticia | 2457 | 10 | 100 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | — |
@@ -932,6 +934,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3275 | 13 | 100 | Remake de Ocarina of Time estreia com 96 no Metacritic e vira o jogo mais bem avaliado de 2026 | — |
 | FORTE | notícia | 4778 | 21 | 100 | Remake de Ocarina of Time começou depois de Tears of the Kingdom, diz Aonuma, que deixa o Master Quest em aberto | — |
 | FORTE | notícia | 4269 | 12 | 100 | Aonuma pediu pontos de teletransporte no remake de Ocarina of Time, testou e mandou tirar | — |
+| FORTE | notícia | 2809 | 11 | 100 | Arquivos do remake de Ocarina of Time escondem máscara misteriosa e alimentam teoria de um Majora's Mask | — |
 | FORTE | notícia | 2805 | 9 | 100 | Zelda: Ocarina of Time a três dias: remake foi feito pela equipe de Breath of the Wild, ganha vídeo do Martelo Megaton e easter egg no Google | — |
 | FORTE | notícia | 2224 | 6 | 100 | Remake de Ocarina of Time ganha classificação etária — e um detalhe sumido levanta suspeitas | — |
 | FORTE | artigo | 33382 | 168 | 100 | Detonado de Zelda: Ocarina of Time no Switch 2: passo a passo de todas as masmorras, chaves e chefes | — |
