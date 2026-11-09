@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 948
-- Forte: 934
+- Total analisado: 952
+- Forte: 938
 - Revisar: 12
 - Prioridade: 2
 
@@ -506,6 +506,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4881 | 24 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
 | FORTE | artigo | 5691 | 22 | 100 | A palestra mais importante da Gamescom não foi sobre jogo nenhum | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
+| FORTE | notícia | 2697 | 11 | 100 | Jensen Huang, CEO da Nvidia, admite caso extraconjugal; conselho abre investigação após reportagens sobre suposta espiã chinesa | — |
 | FORTE | notícia | 2747 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
@@ -709,10 +710,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2797 | 9 | 100 | Fã oferece mais de 5 milhões de euros para a Ubisoft retomar o remake de Prince of Persia: As Areias do Tempo | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
+| FORTE | notícia | 2760 | 10 | 100 | Sony antecipa Dragon Quest III HD-2D Remake e Dynasty Warriors: Origins no PS Plus Extra | — |
 | FORTE | notícia | 2536 | 9 | 100 | Red Dead Redemption 2 também sai do PS Plus Extra em 17 de novembro, junto com GTA V e mais nove jogos | — |
 | FORTE | notícia | 2781 | 11 | 100 | PS Plus de novembro tem Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2 | — |
 | FORTE | notícia | 3307 | 9 | 100 | PS Plus de outubro terá Mafia: The Old Country, Horizon Forbidden West e Dino Crisis 2 | — |
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
+| FORTE | notícia | 2755 | 12 | 100 | Sony lança PS Portal preto com armazenamento interno no Japão e diz que a memória servirá a "funções futuras" | — |
 | FORTE | notícia | 2443 | 14 | 100 | Planeta das Ofertas na PS Store: Final Fantasy VII Rebirth por R$ 85 e Hogwarts Legacy por R$ 52 | — |
 | FORTE | notícia | 2793 | 9 | 100 | PS5 recebe a segunda atualização de segurança em 12 dias, e GTA 6 deve exigir a nova versão | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
@@ -760,6 +763,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3961 | 12 | 100 | Ataque hacker à rede da SEGA deixa fliperamas do Japão uma semana parados; jogos da Bandai Namco voltam em teste | — |
 | FORTE | noticia | 4239 | 18 | 100 | SEGA aumenta investimento em Sonic, confirma novos jogos em produção e explica por que evita remakes | — |
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
+| FORTE | notícia | 2737 | 11 | 100 | SEGA confirma vazamento de 2,19 milhões de e-mails após ataque a empresa que enviava suas newsletters | — |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
 | FORTE | notícia | 1977 | 10 | 100 | Serious Sam: The Third Encounter é anunciado e continua a história de The Second Encounter | — |
