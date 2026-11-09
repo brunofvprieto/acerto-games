@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 960
-- Forte: 946
+- Total analisado: 964
+- Forte: 950
 - Revisar: 12
 - Prioridade: 2
 
@@ -255,6 +255,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2940 | 13 | 100 | Capcom já vende 92% dos jogos em formato digital, e o PC passou dos consoles | — |
 | FORTE | notícia | 1997 | 8 | 100 | Capcom confirma vazamento de dados de 11,7 milhões de contas do Capcom ID | — |
 | FORTE | notícia | 2527 | 8 | 100 | Capcom dispara: lucro sobe 69% no trimestre, puxado por Pragmata e Resident Evil | — |
+| FORTE | notícia | 2750 | 13 | 100 | Resident Evil vende 5 milhões em três meses, e remake de RE4 é o que mais cresce na lista da Capcom | — |
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | notícia | 2988 | 11 | 100 | Capcom cresce 49% no semestre; Pragmata passa de 2,7 milhões e Onimusha de 1,7 milhão | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
@@ -408,6 +409,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2695 | 14 | 100 | God of War Laufey é adiado para 20 de maio de 2027 | — |
 | FORTE | noticia | 4271 | 12 | 100 | God of War Laufey revela edição Deluxe em púrpura e detalha o Arco de Serpente de Faye | — |
 | FORTE | notícia | 2926 | 10 | 100 | God of War Laufey entra no top 5 da PS Store no Brasil e dispara nas pré-vendas | — |
+| FORTE | notícia | 2804 | 13 | 100 | God of War Ragnarök parece ser o jogo da PlayStation que mais faturou nesta geração, com Spider-Man 2 logo atrás | — |
 | FORTE | noticia | 3219 | 12 | 100 | God of War terá outro Atreus: série prepara troca de ator para a segunda temporada | — |
 | FORTE | notícia | 2673 | 5 | 100 | Série de God of War deve trocar o ator de Atreus na 2ª temporada — e dessa vez a troca faz sentido | — |
 | FORTE | notícia | 2086 | 5 | 100 | Série de God of War perde seu Kratos: Ryan Hurst é substituído após lesão grave no set | — |
@@ -501,6 +503,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2901 | 10 | 100 | Kojima alerta para uso de IA capaz de alterar a intenção original de uma obra | — |
 | FORTE | especial | 5936 | 22 | 100 | Kojima revela à IGN bastidores da saída da Sony de PHYSINT e temor pelo futuro do estúdio | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
+| FORTE | notícia | 2829 | 11 | 100 | Manual da edição física de Silksong indica mais expansões gratuitas, e chama Sea of Sorrow de "a primeira expansão gigante" | — |
 | FORTE | notícia | 2043 | 11 | 100 | Honor of Kings faz aniversário com o herói Dunshan, visual inspirado em pagoda milenar e recompensas grátis | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
 | FORTE | noticia | 5584 | 16 | 100 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | — |
@@ -887,6 +890,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | notícia | 3880 | 13 | 100 | WARDOGS chega à Temporada 3 em 12 de novembro com mapa urbano, 185 mil contas banidas e progressão mais lenta | — |
+| FORTE | notícia | 2772 | 13 | 100 | Warhammer 40,000: Dark Heresy, dos criadores de Rogue Trader, sai em 28 de janeiro de 2027 | — |
 | FORTE | notícia | 2899 | 12 | 100 | Warhorse, de Kingdom Come: Deliverance 2, sofre ataque hacker e fala em incidente sério | — |
 | FORTE | notícia | 2844 | 11 | 100 | Warzone ganha clima dinâmico e dois mapas na Temporada 1, Conflito de Hajin, que sai às 2h de 6 de novembro | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
