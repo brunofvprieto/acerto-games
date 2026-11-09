@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 956
-- Forte: 942
+- Total analisado: 957
+- Forte: 943
 - Revisar: 12
 - Prioridade: 2
 
@@ -520,6 +520,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
 | FORTE | notícia | 2786 | 11 | 100 | Nintendo cancela o Halloween de Kirby Air Riders depois de tela congelar no meio das corridas | — |
 | FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
+| FORTE | opinião | 4548 | 17 | 100 | Antes de GTA 6 tomar Miami, Hideo Kojima já colocava Doritos, iPod e Monster Energy dentro dos jogos | — |
 | FORTE | notícia | 2884 | 12 | 100 | Kojima acredita que jogos em mídia física podem desaparecer em até três anos | — |
 | FORTE | notícia | 2917 | 11 | 100 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | — |
 | FORTE | notícia | 3487 | 10 | 100 | Kojima retorna ao KOJI10 e mostra elenco inédito de PHYSINT aos apresentadores | — |
