@@ -4,12 +4,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        ink: "#0A0D10",
-        surface: "#10161C",
-        edge: "#22303A",
+        ink: "#050806",
+        surface: "#0B110D",
+        edge: "#1D2B20",
         paper: "#EDEFF7",
         dim: "#93A3AF",
-        arcade: "#2EE86C",
+        arcade: "#9BE22D",
         violet: "#4D9FFF",
         retro: "#2BD9C8",
       },

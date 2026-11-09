@@ -18,7 +18,7 @@ function FaixaNews({posts}) {
         <h2 className="text-5xl font-black tracking-[-.075em] text-paper sm:text-7xl lg:text-[6rem]">Notícias</h2>
         <Link href="/noticias" className="pb-2 text-sm font-bold uppercase tracking-wider text-arcade hover:text-paper">Mais notícias&nbsp; ›</Link>
       </div>
-      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
+      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#9be22d transparent"}}>
         {items.map((p)=><Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
           <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
             <img {...imgOtimizada(p.image,"(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw")} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
@@ -40,7 +40,7 @@ function ArtigosEspeciais({posts}) {
         <h2 className="text-[2.5rem] font-black leading-none tracking-[-.065em] text-paper sm:text-6xl lg:text-[5rem]">Artigos especiais</h2>
         <Link href="/artigos" className="shrink-0 pb-1 text-xs font-bold uppercase tracking-wider text-arcade hover:text-paper sm:text-sm">Mais artigos&nbsp; ›</Link>
       </div>
-      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
+      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#9be22d transparent"}}>
         {items.map((p)=><Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
           <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
             <img {...imgOtimizada(p.image,"(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw")} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
@@ -63,7 +63,7 @@ function FaixaEditorial({ posts, titulo, href, mais, categorias, id }) {
         <h2 className="text-[2.5rem] font-black leading-none tracking-[-.075em] text-paper sm:text-7xl lg:text-[6rem]">{titulo}</h2>
         <Link href={href} className="shrink-0 pb-2 text-xs font-bold uppercase tracking-wider text-arcade hover:text-paper sm:text-sm">{mais}&nbsp; ›</Link>
       </div>
-      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#2ee86c transparent"}}>
+      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5 sm:gap-6" style={{scrollbarWidth:"thin",scrollbarColor:"#9be22d transparent"}}>
         {items.map((p) => <Link key={p.slug} href={`/noticia/${p.slug}`} className="group w-[83%] shrink-0 snap-start sm:w-[47%] lg:w-[32%]">
           <div className="aspect-[16/10] overflow-hidden rounded-lg bg-black">
             <img {...imgOtimizada(p.image,"(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw")} alt={p.imageAlt||p.title} loading="lazy" decoding="async" className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.025]" style={{objectPosition:p.imagePos||"center"}} />
