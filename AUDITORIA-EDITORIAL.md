@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 964
-- Forte: 950
+- Total analisado: 965
+- Forte: 951
 - Revisar: 12
 - Prioridade: 2
 
@@ -829,6 +829,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
 | FORTE | notícia | 2832 | 10 | 100 | Switch 2 recebe sete jogos na quinta (12), de Pikmin 4 a Metaphor: ReFantazio; veja preços na eShop | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
+| FORTE | notícia | 2770 | 12 | 100 | Atualização 23.5.0 parece fechar a falha usada no primeiro desbloqueio do Switch 2 | — |
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
 | FORTE | notícia | 2734 | 9 | 100 | Switch 2 de Zelda chega às lojas hoje, e Ocarina of Time encolhe para 24,54 GB a uma semana do lançamento | — |
