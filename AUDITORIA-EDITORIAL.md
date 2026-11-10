@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 965
-- Forte: 951
+- Total analisado: 969
+- Forte: 955
 - Revisar: 12
 - Prioridade: 2
 
@@ -833,7 +833,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
 | FORTE | notícia | 2734 | 9 | 100 | Switch 2 de Zelda chega às lojas hoje, e Ocarina of Time encolhe para 24,54 GB a uma semana do lançamento | — |
+| FORTE | notícia | 2958 | 9 | 100 | Switch 2 de Zelda dá ao console a melhor semana de 2026 nos EUA antes mesmo de Ocarina of Time chegar | — |
 | FORTE | notícia | 2770 | 11 | 100 | André Colvara transforma em herança a paixão por Nintendo e Zelda | — |
+| FORTE | notícia | 3214 | 10 | 100 | Take-Two diz que pré-vendas de GTA VI estão em nível sem precedentes e prevê dobrar o faturamento no trimestre do lançamento | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
@@ -861,6 +863,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2895 | 10 | 100 | Thief: The Dark Project Remastered sai em 3 de dezembro com campanha nova feita pela equipe de The Black Parade | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 2889 | 10 | 100 | Titan Quest II abre pré-venda no PS5 e no Xbox; versão 1.0 sai em 19 de janeiro e custa R$ 338,95 no console da Microsoft | — |
+| FORTE | notícia | 2777 | 10 | 100 | Toada Brava, RPG brasileiro desenhado à mão, chega a 75% da meta no Kickstarter e tem até quinta para fechar a conta | — |
 | FORTE | notícia | 4712 | 21 | 100 | Tokyo Game Show 2026 entra na reta final: 30 anos, cinco dias e gigantes da indústria se movimentam | — |
 | FORTE | notícia | 2454 | 12 | 100 | Tomb Raider faz 30 anos com controles da 8BitDo, Mansão Croft em blocos e Lara contra a Cobra | — |
 | FORTE | notícia | 2781 | 10 | 100 | Tomb Raider faz 30 anos com vídeo comemorativo, álbum lo-fi e 500 músicas a caminho do streaming | — |
@@ -908,6 +911,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2803 | 14 | 100 | World of Warcraft: Forever tem o maior lançamento da história de WoW, diz Blizzard | — |
 | FORTE | notícia | 2868 | 11 | 100 | Reserva de nomes de WoW: Forever abre com filas e erros; jogo sai em 4 de novembro | — |
 | FORTE | notícia | 3770 | 6 | 100 | O ator de Morph em X-Men '97 explica os limites dos poderes do personagem — e fala sobre os sentimentos por Wolverine | — |
+| FORTE | notícia | 2682 | 9 | 100 | Xbox faz 25 anos no domingo com seis jogos da Rare no Game Pass Essential, e GoldenEye 007 sai no mesmo dia | — |
 | FORTE | notícia | 2795 | 10 | 100 | "Difícil achar sinal de esperança": analista diz que Gears exclusivo e CoD fora do Game Pass não ajudaram o Xbox | — |
 | FORTE | notícia | 3049 | 11 | 100 | App do Xbox no PC é refeito e abre até 60% mais rápido; versão web do Cloud Gaming também muda | — |
 | FORTE | notícia | 2830 | 10 | 100 | Mythic Achievements chegam a todos os consoles Xbox na atualização de outubro, que também traz Remote Play em 1440p | — |
