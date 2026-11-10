@@ -227,6 +227,9 @@ export default function Noticia({ params }) {
                 <span className="font-semibold text-paper">{post.author}</span>
               ) : (
                 <Link href="/autor/bruno-vazquez" rel="author" className="text-paper hover:text-arcade">{post.author}</Link>
+              )}
+              {(!post.author || post.author === "Bruno Vazquez") && (
+                <span className="normal-case tracking-normal"> - Fundador e editor-chefe do Acerto Games</span>
               )} · {post.date} · {post.readTime} de leitura
             </p>
           </div>
