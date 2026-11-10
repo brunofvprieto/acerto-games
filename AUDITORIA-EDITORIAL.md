@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 987
-- Forte: 973
+- Total analisado: 988
+- Forte: 974
 - Revisar: 12
 - Prioridade: 2
 
@@ -491,6 +491,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
+| FORTE | notícia | 2732 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
 | FORTE | notícia | 2894 | 12 | 100 | GTA VI ganha trailer "Pré-carregue agora", e Rockstar confirma 30 fps e sombras com ray tracing só no PS5 Pro | — |
 | FORTE | notícia | 2751 | 11 | 100 | GTA VI é a pré-venda mais feita da história da PlayStation Store, diz Sony em trailer com os recursos do PS5 | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
