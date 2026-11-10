@@ -16,7 +16,7 @@ export default function AutorBrunoVazquez() {
     "@context": "https://schema.org",
     "@type": "Person",
     name: "Bruno Vazquez",
-    jobTitle: "Jornalista e editor do Acerto Games",
+    jobTitle: "Fundador e editor-chefe do Acerto Games",
     url: "https://acertogames.com.br/autor/bruno-vazquez",
     worksFor: {
       "@type": "Organization",

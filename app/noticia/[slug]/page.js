@@ -93,7 +93,7 @@ export default function Noticia({ params }) {
       "@type": "Person",
       name: post.author,
       url: "https://acertogames.com.br/autor/bruno-vazquez",
-      jobTitle: "Jornalista e editor do Acerto Games",
+      jobTitle: "Fundador e editor-chefe do Acerto Games",
     },
     publisher: {
       "@type": "Organization",
