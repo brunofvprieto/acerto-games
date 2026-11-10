@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 982
-- Forte: 968
+- Total analisado: 983
+- Forte: 969
 - Revisar: 12
 - Prioridade: 2
 
@@ -475,6 +475,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2136 | 8 | 100 | GTA 6 tem primeiro ator confirmado: Stephen Root revela participação no jogo da Rockstar | — |
 | FORTE | notícia | 2828 | 12 | 100 | GTA 6 vai ocupar 210 GB no PS5; pré-download começa em 12 de novembro | — |
 | FORTE | notícia | 2791 | 12 | 100 | Rockstar e PlayStation fazem festival de GTA 6 em Miami com Travis Scott, Cardi B e Justice | — |
+| FORTE | notícia | 2835 | 8 | 100 | QR code escondido no trailer de GTA VI leva à pré-venda, e a dúvida é o que ele vai mostrar depois do lançamento | — |
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
 | FORTE | notícia | 2741 | 9 | 100 | Vanoss Crew aluga mansão em Miami para o lançamento de GTA 6, e a Rockstar já sabe | — |
 | FORTE | noticia | 2457 | 10 | 100 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | — |
