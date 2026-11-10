@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 981
-- Forte: 967
+- Total analisado: 982
+- Forte: 968
 - Revisar: 12
 - Prioridade: 2
 
@@ -798,6 +798,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2748 | 8 | 100 | Sonic Racing: CrossWorlds começa o Ano Dois com Bayonetta de graça, modo Duelo e Godzilla na pista | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 2832 | 13 | 100 | Sonic Racing: CrossWorlds abre Festival Godzilla nesta quinta, e o pacote do monstro sai por R$ 26,90 | — |
+| FORTE | notícia | 2777 | 9 | 100 | Dark Horse abre pré-venda de figuras de vinil de Sonic e Tails clássicos, com bases inspiradas em Sonic 2 | — |
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
 | FORTE | notícia | 3210 | 16 | 100 | Marvel's Wolverine passa de 2,4 milhões, PS5 chega a 97,9 milhões e Sony diz que o PS6 segue no cronograma | — |
 | FORTE | notícia | 2905 | 10 | 100 | Sony abre nova fase do China Hero Project com US$ 1 milhão por jogo, na semana do sucesso de Phantom Blade Zero | — |
