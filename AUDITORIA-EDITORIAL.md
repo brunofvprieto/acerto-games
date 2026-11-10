@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 969
-- Forte: 955
+- Total analisado: 973
+- Forte: 959
 - Revisar: 12
 - Prioridade: 2
 
@@ -220,6 +220,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
 | FORTE | notícia | 2759 | 10 | 100 | Ayasa: Shadows of Silence, terror contado sem palavras, chega ao PS5 e ao Xbox | — |
 | FORTE | review | 6444 | 28 | 100 | Ayasa: Shadows of Silence encanta na arte e tropeça nos próprios bugs | — |
+| FORTE | notícia | 2868 | 10 | 100 | Battlefield 6 abre o cassino: atualização 2.1.2.0 traz mapa novo, carabina NSW4 e jogo grátis de 13 a 16 de novembro | — |
 | FORTE | notícia | 2733 | 9 | 100 | Battlefield 6 abre o evento de Dead Space: Marker Incursion põe 16 jogadores contra soldados infectados na Área 51 | — |
 | FORTE | noticia | 3730 | 12 | 100 | Battlefield 6 chega ao Game Pass em outubro, enquanto jogo brasileiro Deep Dish Dungeon estreia no serviço | — |
 | FORTE | notícia | 4427 | 7 | 100 | Tsuru Reef é o maior mapa de Battlefield 6 — e pode ser aquele que você nunca joga de novo | — |
@@ -235,6 +236,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3226 | 10 | 100 | No primeiro N7 Day sem BioWare, petição no Parlamento do Canadá pede dinheiro público para o estúdio e documentário promete contar o fim | — |
 | FORTE | notícia | 3196 | 16 | 100 | Diretor global de Black Desert surpreende fãs em São Paulo, e Pearl Abyss promete festa maior nos 10 anos do jogo no Brasil | — |
 | FORTE | notícia | 2745 | 9 | 100 | Black Friday da PS Store começa nesta quarta e vai até o fim de novembro, com até 75% de desconto | — |
+| FORTE | notícia | 2686 | 10 | 100 | Black Friday da PS Store no Brasil: Control sai por R$ 16, Silent Hill 2 por menos de R$ 100, e parte das ofertas acaba no dia 20 | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | notícia | 2872 | 12 | 100 | BLACKWOOD, o jogo do dono de locadora que vira assassino, ganha missões novas e MP5 em 6 de novembro | — |
 | FORTE | notícia | 2897 | 10 | 100 | Filme animado de Bloodborne já tem diretor e roteirista, diz produtor Jacksepticeye | — |
@@ -827,6 +829,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
 | FORTE | notícia | 2764 | 12 | 100 | Sucker Punch, de Ghost of Yōtei, demite 26 funcionários | — |
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
+| FORTE | notícia | 2695 | 10 | 100 | Super Mario Party Jamboree ganha GameShare pelo GameChat no Switch 2: amigos jogam online sem ter o jogo | — |
 | FORTE | notícia | 2832 | 10 | 100 | Switch 2 recebe sete jogos na quinta (12), de Pikmin 4 a Metaphor: ReFantazio; veja preços na eShop | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
 | FORTE | notícia | 2770 | 12 | 100 | Atualização 23.5.0 parece fechar a falha usada no primeiro desbloqueio do Switch 2 | — |
@@ -836,6 +839,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2958 | 9 | 100 | Switch 2 de Zelda dá ao console a melhor semana de 2026 nos EUA antes mesmo de Ocarina of Time chegar | — |
 | FORTE | notícia | 2770 | 11 | 100 | André Colvara transforma em herança a paixão por Nintendo e Zelda | — |
 | FORTE | notícia | 3214 | 10 | 100 | Take-Two diz que pré-vendas de GTA VI estão em nível sem precedentes e prevê dobrar o faturamento no trimestre do lançamento | — |
+| FORTE | notícia | 2850 | 8 | 100 | Take-Two admite que pirataria com ajuda de IA vai pesar mais, diz que GTA VI pode ter freado NBA 2K27 e fala em reviver franquias antigas | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
