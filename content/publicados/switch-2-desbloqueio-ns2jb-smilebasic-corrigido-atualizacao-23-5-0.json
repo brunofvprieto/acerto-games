@@ -1,0 +1,43 @@
+{
+  "slug": "switch-2-desbloqueio-ns2jb-smilebasic-corrigido-atualizacao-23-5-0",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "9 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-09T23:47:00-03:00",
+  "title": "Atualização 23.5.0 parece fechar a falha usada no primeiro desbloqueio do Switch 2",
+  "excerpt": "O ns2jb usava o app SmileBASIC 4 para rodar programas caseiros e modificar jogos. Segundo o desenvolvedor OatmealDome, a nova versão do sistema corrige a brecha.",
+  "cover": [
+    "#c4121a",
+    "#3a0508"
+  ],
+  "image": "/img/nintendo-balanco-novembro-2026-switch-2-console-oficial-capa.jpg",
+  "imageFilename": "nintendo-balanco-novembro-2026-switch-2-console-oficial-capa.jpg",
+  "imageAlt": "Console Nintendo Switch 2",
+  "imageCredit": "Nintendo Switch 2. Divulgação/Nintendo",
+  "fonte": "OatmealDome (X)",
+  "fonteUrl": "https://x.com/OatmealDome/status/2114443127444377804",
+  "imageOrigem": "Capa e corpo: fotos oficiais da Nintendo já no acervo. Post incorporado do OatmealDome no X.",
+  "body": [
+    "Durou pouco mais de duas semanas. A atualização 23.5.0 do Switch 2, liberada no domingo, 9, parece ter fechado a falha usada no primeiro desbloqueio do console feito só por software. A informação é do desenvolvedor OatmealDome, que acompanha de perto o sistema da Nintendo.",
+    "Segundo ele, a vulnerabilidade foi corrigida, e a partir de agora não será mais possível extrair e modificar jogos. A exceção seriam alguns jogos em cartucho, e talvez atualizações, que forem lançados em breve, já que podem ter sido produzidos antes da correção.",
+    "A Nintendo não comentou o caso nem citou segurança nas notas da atualização, que falam só em ajustes gerais. A mesma versão trouxe a função de presentear jogos digitais para a família.",
+    "link: Nintendo libera presentes de jogos digitais para a família no Switch 2 e no Switch em 16 de novembro; veja como funciona | https://acertogames.com.br/noticia/nintendo-switch-2-presentear-jogos-digitais-grupo-familiar-eshop-atualizacao-23-5-0",
+    "## O que era o ns2jb",
+    "O desbloqueio, chamado ns2jb, foi divulgado em 22 de outubro pelo pesquisador de segurança Sammy Hajhamid, conhecido como pepsipu. Ele contou ter usado o Codex, a ferramenta de programação com IA da OpenAI, para ajudar a montar o método.",
+    "A porta de entrada era um jogo improvável: SmileBASIC 4, um aplicativo de programação vendido na eShop. Uma falha no interpretador de código do app permitia corromper a memória e rodar comandos próprios. Dali, o método escapava do jogo e chegava a uma parte do sistema do console.",
+    "tweet: https://x.com/OatmealDome/status/2114443127444377804",
+    "A brecha funcionava em todos os Switch 2 na versão 23.0.1 do sistema. Com ela, dava para rodar programas caseiros, fazer cópia de segurança dos saves e modificar jogos. Na demonstração, o pesquisador colocou personagens como Hatsune Miku e Cinnamoroll em Mario Kart World.",
+    "## Um desbloqueio com limites",
+    "O ns2jb não era um desbloqueio permanente. O método precisava ser refeito a cada vez que o console era ligado, com ajuda de um computador. Ao desligar o Switch 2, tudo voltava ao normal.",
+    "Também exigia o SmileBASIC 4 instalado no console, já que toda a cadeia começava dentro do aplicativo. Parecia mais uma brecha de laboratório, útil para pesquisadores, do que um desbloqueio pronto para qualquer um usar.",
+    "img: /img/secao-nintendo-switch-2-dock-sala-foto-oficial.jpg | O Switch 2 na versão 23.5.0 do sistema, que parece fechar a falha usada no desbloqueio. Divulgação/Nintendo.",
+    "## A história se repete com o SmileBASIC",
+    "Não é a primeira vez que o SmileBASIC vira porta de entrada. Em 2016, uma versão do app para 3DS também foi usada para desbloquear o portátil. A Nintendo tirou o jogo da loja, corrigiu a falha e só depois o devolveu à eShop.",
+    "A Nintendo costuma reagir rápido a esse tipo de descoberta, e com motivo. A empresa trava há anos uma guerra contra a pirataria, que inclui processos contra quem vende ferramentas de desbloqueio. O caso mais conhecido é o de Gary Bowser, condenado nos Estados Unidos em 2022.",
+    "## O que muda para quem joga",
+    "Para quem usa o Switch 2 normalmente, nada muda, além de mais um motivo para manter o console atualizado. A versão 23.5.0 é baixada sozinha quando o console fica conectado à internet.",
+    "Já para a comunidade de programas caseiros, o recado é claro. Parece que o próximo desbloqueio vai depender de uma nova falha, e a Nintendo mostrou que está atenta."
+  ],
+  "observacao": "Pedido de Bruno em 09/11 (print do post de OatmealDome de 09/11 23h14). Correção na 23.5.0: post de OatmealDome (print) + título da TwistedVoxel (texto bloqueado); tratado com 'parece' e atribuição. ns2jb: Nintendo Life + TechTimes + Technology.org + Notebookcheck + thread de OatmealDome (cadeia SmileBASIC > sistema). 23.0.1, limitado a cada religar, homebrew/saves/mod em MKW: NL + TechTimes. SmileBASIC 3DS 2016: TechTimes + Wikipedia (Petit Computer). Fora por fonte única: retirada do SmileBASIC 4 da eShop (só NL, 'appears'), postura antipirataria do criador (só TechTimes)."
+}
