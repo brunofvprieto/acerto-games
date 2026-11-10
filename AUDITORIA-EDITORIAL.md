@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 976
-- Forte: 962
+- Total analisado: 981
+- Forte: 967
 - Revisar: 12
 - Prioridade: 2
 
@@ -281,6 +281,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2692 | 8 | 100 | Crimson Desert Enhanced ganha teste grátis de cinco horas, aberto a todo jogador de Xbox | — |
 | FORTE | notícia | 4197 | 15 | 100 | Crimson Desert no Switch 2: a Pearl Abyss mira o primeiro semestre de 2027 e admite que hoje o console só roda "o básico" | — |
 | FORTE | notícia | 1982 | 7 | 100 | Crimson Desert soma 17 atualizações em cinco meses e a Pearl Abyss soltou um trailer só pra mostrar isso | — |
+| FORTE | notícia | 2796 | 10 | 100 | Crimson Desert ganha Volume 2 da trilha sonora, com 42 músicas e canções folclóricas coreanas virando cantos de marinheiro | — |
 | FORTE | notícia | 1849 | 5 | 100 | Estúdio de Crisol demite todo o time menos de seis meses após o lançamento e admite que fechar de vez é uma possibilidade real | — |
 | FORTE | artigo | 5482 | 18 | 100 | Criticar GTA 6 não é odiar GTA 6 — e essa diferença importa | — |
 | FORTE | notícia | 2805 | 6 | 100 | Os maiores críticos do Game Pass estão dentro da própria Xbox | — |
@@ -312,6 +313,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3881 | 20 | 100 | Deep Dish Dungeon: o final verdadeiro exige devolver os tesouros à masmorra | — |
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
 | FORTE | review | 8260 | 28 | 100 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | — |
+| FORTE | notícia | 2730 | 8 | 100 | Delta Force abre a Temporada Aurora com Martelo, operadora sul-americana, e brasileiros da GodLike no mundial da Suécia | — |
 | FORTE | notícia | 2943 | 9 | 100 | Demissões na indústria de games em 2026 já passam do total de 2025, com dois meses ainda pela frente | — |
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
 | FORTE | notícia | 2758 | 11 | 100 | Demon Slayer: The Hinokami Chronicles 2 chega ao Switch 2 com upgrade grátis, e série passa de 6 milhões | — |
@@ -556,6 +558,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
 | FORTE | notícia | 5044 | 22 | 100 | Marvel Cosmic Invasion mostra 15 minutos do Castelo do Destino, e desenvolvedores falam em até 900 encontros diferentes | — |
 | FORTE | notícia | 2738 | 11 | 100 | Marvel Cosmic Invasion revela modo roguelite no Castelo do Destino | — |
+| FORTE | notícia | 2826 | 9 | 100 | O Cerco no Castelo do Destino já está disponível em Marvel Cosmic Invasion, com Mulher Invisível e Doutor Destino jogáveis | — |
 | FORTE | noticia | 3760 | 12 | 100 | Marvel Cosmic Invasion recebe Doutor Destino e Mulher Invisível em DLC que chega em novembro | — |
 | FORTE | notícia | 1784 | 5 | 100 | Marvel Rivals na 9ª temporada e a galera já tá de saco cheio do caos visual | texto curto |
 | FORTE | notícia | 4906 | 14 | 100 | Marvel na San Diego Comic-Con 2026: o resumo de tudo que a Casa das Ideias anunciou | — |
@@ -708,6 +711,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2779 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 3082 | 12 | 100 | Pokémon GO terá encontro da Área Selvagem Global no Ibirapuera, com Dialga e Palkia Dinamax no jogo | — |
+| FORTE | notícia | 2814 | 10 | 100 | Pokémon GO terá espaço próprio e transmissão em português no LAIC 2027, em São Paulo, de 20 a 22 de novembro | — |
 | FORTE | notícia | 2169 | 7 | 100 | Pokémon GO transforma lojas LEGO em PokéParadas — e tem Pikachu especial na jogada | — |
 | FORTE | notícia | 2841 | 12 | 100 | Pokémon terá loja permanente em Londres até 2029, a primeira fora da Ásia | — |
 | FORTE | notícia | 4111 | 7 | 100 | Pokémon TCG Pitch Black: as 10 cartas mais valiosas da expansão — tem uma Darkrai dourada valendo quase R$ 6 mil | — |
@@ -868,6 +872,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
 | FORTE | notícia | 2895 | 10 | 100 | Thief: The Dark Project Remastered sai em 3 de dezembro com campanha nova feita pela equipe de The Black Parade | — |
+| FORTE | notícia | 2747 | 9 | 100 | NC assume Throne and Liberty no lugar da Amazon e dá a todos os jogadores um ticket que leva o personagem direto ao equipamento de nível 75 | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
 | FORTE | notícia | 2889 | 10 | 100 | Titan Quest II abre pré-venda no PS5 e no Xbox; versão 1.0 sai em 19 de janeiro e custa R$ 338,95 no console da Microsoft | — |
 | FORTE | notícia | 2777 | 10 | 100 | Toada Brava, RPG brasileiro desenhado à mão, chega a 75% da meta no Kickstarter e tem até quinta para fechar a conta | — |
