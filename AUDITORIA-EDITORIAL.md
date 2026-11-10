@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 975
-- Forte: 961
+- Total analisado: 976
+- Forte: 962
 - Revisar: 12
 - Prioridade: 2
 
@@ -724,6 +724,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2797 | 9 | 100 | Fã oferece mais de 5 milhões de euros para a Ubisoft retomar o remake de Prince of Persia: As Areias do Tempo | — |
 | FORTE | notícia | 2444 | 5 | 100 | Pro Jank Footy tem data confirmada: o caos inspirado em NBA Jam chega em agosto | — |
 | FORTE | noticia | 1812 | 9 | 100 | Professor Layton and the New World of Steam finalmente ganha data de lançamento | — |
+| FORTE | notícia | 2799 | 9 | 100 | Death Stranding 2 chega ao PS Plus Extra em novembro, com Pirate Yakuza, Atomfall e Dragon Quest III | — |
 | FORTE | notícia | 2760 | 10 | 100 | Sony antecipa Dragon Quest III HD-2D Remake e Dynasty Warriors: Origins no PS Plus Extra | — |
 | FORTE | notícia | 2536 | 9 | 100 | Red Dead Redemption 2 também sai do PS Plus Extra em 17 de novembro, junto com GTA V e mais nove jogos | — |
 | FORTE | notícia | 2781 | 11 | 100 | PS Plus de novembro tem Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2 | — |
