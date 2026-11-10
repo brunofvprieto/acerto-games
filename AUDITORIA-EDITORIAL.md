@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 963
-- Forte: 949
+- Total analisado: 964
+- Forte: 950
 - Revisar: 12
 - Prioridade: 2
 
@@ -644,6 +644,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1961 | 7 | 100 | Nintendo Switch 2 ganha bundle com EA SPORTS FC 27 no Brasil em 15 de outubro | — |
 | FORTE | notícia | 2567 | 7 | 100 | Nintendo Switch 2 terá novo preço no Brasil: R$ 4.599,90 a partir de setembro | — |
 | FORTE | notícia | 3032 | 16 | 100 | Nintendo anuncia novos bundles do Switch 2 com Mario Kart World e Switch Sports Resort | — |
+| FORTE | notícia | 2757 | 11 | 100 | Nintendo vai deixar presentear jogos digitais para a família no Switch 2 e no Switch a partir de 17 de novembro | — |
 | FORTE | noticia | 1923 | 8 | 100 | Nintendo expande presença na Ásia e levará Switch 2 oficialmente à Indonésia em dezembro | — |
 | FORTE | noticia | 2086 | 10 | 100 | Nintendo Switch 2 finalmente recebe VRR no modo TV com atualização 23.0.0 | — |
 | FORTE | noticia | 2003 | 7 | 100 | Nintendo Switch Online recebe atualização com indícios de novo sistema de “Event Gifts” | — |
