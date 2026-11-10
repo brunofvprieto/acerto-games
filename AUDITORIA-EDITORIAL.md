@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 984
-- Forte: 970
+- Total analisado: 987
+- Forte: 973
 - Revisar: 12
 - Prioridade: 2
 
@@ -489,6 +489,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2792 | 12 | 100 | Brasileiro batzera bate o recorde mundial de speedrun de GTA San Andreas com 2h50min30s | — |
 | FORTE | notícia | 4493 | 26 | 100 | De 1997 a GTA 6: reveja os trailers oficiais de todos os GTAs antes do lançamento | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
+| FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2894 | 12 | 100 | GTA VI ganha trailer "Pré-carregue agora", e Rockstar confirma 30 fps e sombras com ray tracing só no PS5 Pro | — |
 | FORTE | notícia | 2751 | 11 | 100 | GTA VI é a pré-venda mais feita da história da PlayStation Store, diz Sony em trailer com os recursos do PS5 | — |
@@ -550,6 +551,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 4282 | 9 | 100 | Lies of P no Switch 2 mostra como um bom port deve ser feito | — |
 | FORTE | notícia | 3456 | 12 | 100 | Liquid Swords fecha as portas seis meses depois de Samson, e o jogo vai a leilão com o estúdio | — |
 | FORTE | notícia | 2803 | 11 | 100 | Livro oficial dos 30 anos do PlayStation, com protótipos inéditos, começa a ser enviado em novembro | — |
+| FORTE | notícia | 3008 | 12 | 100 | Logitech dá folga para funcionários jogarem, e pedidos de folga no dia de GTA VI disparam | — |
 | FORTE | notícia | 2616 | 11 | 100 | Look Outside, o terror em que olhar pela janela vira monstro, chega ao PS5 e ao Switch 2 em 30 de outubro | — |
 | FORTE | notícia | 1810 | 6 | 100 | Sektori, Dread Delusion e Easy Delivery Co. ganham edições físicas pela Lost in Cult | — |
 | FORTE | notícia | 1845 | 5 | 100 | Pokémon Worlds 2026: a loteria de ingressos que está deixando a galera na raiva | — |
@@ -850,6 +852,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2770 | 11 | 100 | André Colvara transforma em herança a paixão por Nintendo e Zelda | — |
 | FORTE | notícia | 3214 | 10 | 100 | Take-Two diz que pré-vendas de GTA VI estão em nível sem precedentes e prevê dobrar o faturamento no trimestre do lançamento | — |
 | FORTE | notícia | 2850 | 8 | 100 | Take-Two admite que pirataria com ajuda de IA vai pesar mais, diz que GTA VI pode ter freado NBA 2K27 e fala em reviver franquias antigas | — |
+| FORTE | notícia | 2860 | 11 | 100 | A uma semana de GTA VI, Take-Two já fala do próximo GTA e promete outro ritmo na próxima década | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
