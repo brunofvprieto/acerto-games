@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 992
-- Forte: 978
+- Total analisado: 997
+- Forte: 983
 - Revisar: 12
 - Prioridade: 2
 
@@ -744,6 +744,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | notícia | 2755 | 12 | 100 | Sony lança PS Portal preto com armazenamento interno no Japão e diz que a memória servirá a "funções futuras" | — |
 | FORTE | notícia | 2443 | 14 | 100 | Planeta das Ofertas na PS Store: Final Fantasy VII Rebirth por R$ 85 e Hogwarts Legacy por R$ 52 | — |
+| FORTE | retrô | 2790 | 11 | 100 | PS3 faz 20 anos: o console caro que quase derrubou a Sony e virou a base do PlayStation moderno | — |
+| FORTE | notícia | 2751 | 12 | 100 | PS5 passa de 100 milhões de unidades e vira o quarto PlayStation a chegar à marca | — |
 | FORTE | notícia | 2793 | 9 | 100 | PS5 recebe a segunda atualização de segurança em 12 dias, e GTA 6 deve exigir a nova versão | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
 | FORTE | notícia | 2723 | 11 | 100 | Sony traz de volta os controles transparentes com a Prism Collection para PS5; pré-venda começa em 10 de novembro | — |
@@ -810,6 +812,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
 | FORTE | notícia | 3210 | 16 | 100 | Marvel's Wolverine passa de 2,4 milhões, PS5 chega a 97,9 milhões e Sony diz que o PS6 segue no cronograma | — |
 | FORTE | notícia | 2905 | 10 | 100 | Sony abre nova fase do China Hero Project com US$ 1 milhão por jogo, na semana do sucesso de Phantom Blade Zero | — |
+| FORTE | notícia | 2734 | 13 | 100 | Sony vai desligar o app do PS Plus para PC em 10 de dezembro: menos de 0,4% dos assinantes usavam | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
 | FORTE | notícia | 2984 | 11 | 100 | Soulframe, dos criadores de Warframe, abre alfa gratuito para todos em 6 de novembro | — |
 | FORTE | notícia | 2875 | 9 | 100 | Diretor de South of Midnight diz que não teria financiado o próprio jogo e chama a "torneira de dinheiro" do Xbox de insustentável | — |
@@ -857,6 +860,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3214 | 10 | 100 | Take-Two diz que pré-vendas de GTA VI estão em nível sem precedentes e prevê dobrar o faturamento no trimestre do lançamento | — |
 | FORTE | notícia | 2850 | 8 | 100 | Take-Two admite que pirataria com ajuda de IA vai pesar mais, diz que GTA VI pode ter freado NBA 2K27 e fala em reviver franquias antigas | — |
 | FORTE | notícia | 2860 | 11 | 100 | A uma semana de GTA VI, Take-Two já fala do próximo GTA e promete outro ritmo na próxima década | — |
+| FORTE | notícia | 2737 | 13 | 100 | Chefe da Take-Two elogia Zelda: "A Nintendo deve ficar muito orgulhosa", e diz que GTA VI é uma barganha a US$ 80 | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
@@ -992,6 +996,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2978 | 13 | 100 | Remake de Ocarina of Time chega sem a Master Quest e sem nenhum modo difícil | — |
 | FORTE | artigo | 2931 | 10 | 100 | Skulltulas douradas no remake de Zelda: Ocarina of Time: a Echo Gem no lugar da Stone of Agony, 20 Bombchus e o que mudou na caçada | — |
 | FORTE | notícia | 4241 | 14 | 100 | Aonuma "tinha uma tarefa pendente": remake de Ocarina of Time ajusta o Templo da Água e traz de volta um dublador do N64 | — |
+| FORTE | notícia | 2841 | 12 | 100 | Zelda: Ocarina of Time Remake tirou os quadros do Mario e do Yoshi do castelo, e Aonuma explica por quê | — |
 | FORTE | notícia | 3359 | 10 | 100 | Ocarina of Time faz a segunda maior estreia de Zelda no Reino Unido, 35% acima de Breath of the Wild | — |
 | FORTE | notícia | 2717 | 7 | 100 | Zelda: Ocarina of Time chega em 5 de novembro; teoria do amiibo apontava 11, uma semana antes de GTA 6 | — |
 | FORTE | noticia | 3412 | 14 | 100 | Zelda: Ocarina of Time para Switch 2 aparece na Amazon Brasil com edição física de capa foil | — |
