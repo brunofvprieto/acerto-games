@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1005
-- Forte: 991
+- Total analisado: 1006
+- Forte: 992
 - Revisar: 12
 - Prioridade: 2
 
@@ -674,6 +674,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3072 | 9 | 100 | Chefe da Avalanche assume a Nordisk Games, dona da Supermassive, e Estocolmo vira o centro do grupo | — |
 | FORTE | opinião | 4950 | 24 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
+| FORTE | notícia | 3073 | 13 | 100 | Nuuvem vai distribuir R$ 800 mil em cupons na Black Friday, com Skyrim a 83% de desconto e ofertas de até 95% | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
 | FORTE | notícia | 2705 | 11 | 100 | Obscurium, roguelike de cartas com o folclore brasileiro, ganha demo gratuita no Steam | — |
 | FORTE | notícia | 5436 | 28 | 100 | OD - Knock: tudo o que já sabemos do terror de Hideo Kojima, e o novo vídeo no set de captura | — |
