@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1001
-- Forte: 987
+- Total analisado: 1003
+- Forte: 989
 - Revisar: 12
 - Prioridade: 2
 
@@ -489,6 +489,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 3756 | 14 | 100 | GTA III faz 25 anos: o clássico que só funcionou nos últimos seis meses | — |
 | FORTE | notícia | 2792 | 12 | 100 | Brasileiro batzera bate o recorde mundial de speedrun de GTA San Andreas com 2h50min30s | — |
 | FORTE | notícia | 4493 | 26 | 100 | De 1997 a GTA 6: reveja os trailers oficiais de todos os GTAs antes do lançamento | — |
+| FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
@@ -502,6 +503,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
 | FORTE | noticia | 5480 | 21 | 100 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
+| FORTE | notícia | 3499 | 14 | 100 | Harada diz na frente de executivo do Xbox que preferia que o Series S não existisse: "Trabalho extra para um filho mais fraco" | — |
 | FORTE | noticia | 2065 | 9 | 100 | Harbor abre alpha fechado e quer jogadores ajudando a moldar seu survival pós-apocalíptico | — |
 | FORTE | noticia | 2238 | 10 | 100 | Hearthstone volta à era dos Old Gods em Reign of the Black Empire e confirma Monk para 2027 | — |
 | FORTE | notícia | 2125 | 10 | 100 | Hearthstone: Reinado dos Deuses Antigos já está disponível com 135 cards e a nova Jornada | — |
