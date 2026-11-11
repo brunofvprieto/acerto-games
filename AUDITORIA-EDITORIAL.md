@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1010
-- Forte: 996
+- Total analisado: 1013
+- Forte: 999
 - Revisar: 12
 - Prioridade: 2
 
@@ -422,6 +422,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2737 | 14 | 100 | GOG faz sua primeira apresentação de jogos nesta quinta, às 15h, e promete um "novo capítulo" para a loja | — |
 | FORTE | notícia | 2836 | 7 | 100 | Cansei de depender de storefront? A GOG te ensina a gravar seus jogos em disco do jeito raiz | — |
 | FORTE | notícia | 3011 | 13 | 100 | Golden Joystick Awards 2026: como assistir, horário de Brasília e os indicados a jogo do ano | — |
+| FORTE | notícia | 4056 | 21 | 100 | Resident Evil Requiem é o Jogo do Ano no Golden Joystick 2026, e o fenômeno Meccha Chameleon empata em número de prêmios | — |
 | FORTE | notícia | 2778 | 11 | 100 | Golden Joystick 2026 abre votação para o jogo do ano, com Phantom Blade Zero entre os indicados | — |
 | FORTE | notícia | 2790 | 12 | 100 | Um jogo de Switch 2 será revelado hoje ao meio-dia — e a única pista são oito emojis | — |
 | FORTE | notícia | 2902 | 9 | 100 | Pesquisar Zelda no Google agora leva a página de volta a 1998, com a Espada Mestra | — |
@@ -499,6 +500,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2739 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
 | FORTE | notícia | 2894 | 12 | 100 | GTA VI ganha trailer "Pré-carregue agora", e Rockstar confirma 30 fps e sombras com ray tracing só no PS5 Pro | — |
 | FORTE | notícia | 2751 | 11 | 100 | GTA VI é a pré-venda mais feita da história da PlayStation Store, diz Sony em trailer com os recursos do PS5 | — |
+| FORTE | notícia | 3224 | 13 | 100 | Vídeo de GTA VI tão realista que parecia gravado em Miami é mesmo do jogo, e a Rockstar confirmou | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2732 | 11 | 100 | Gundam Battle Operation 3 é anunciado para PS5 e PC, gratuito e com jogo cruzado, mas sem português | — |
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
@@ -844,6 +846,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 6101 | 26 | 100 | State of Decay 3 abre caminho para o beta — e seu maior desafio não é fazer um mapa quatro vezes maior | — |
 | FORTE | notícia | 1861 | 8 | 100 | PlayStation anuncia State of Play duplo para 3 de setembro — e Final Fantasy VII Revelation fecha o evento | — |
 | FORTE | Notícias | 5475 | 29 | 100 | State of Play de setembro de 2026: veja todos os anúncios e trailers | — |
+| FORTE | notícia | 4640 | 23 | 100 | Steam Controller leva Melhor Hardware no Golden Joystick 2026 com 51% dos votos, mais que o triplo do segundo colocado | — |
 | FORTE | notícia | 2729 | 10 | 100 | Steam fica instável e trava jogadores na tela "Carregando dados do usuário" | — |
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
 | FORTE | notícia | 3827 | 12 | 100 | Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | — |
