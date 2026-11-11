@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1006
-- Forte: 992
+- Total analisado: 1008
+- Forte: 994
 - Revisar: 12
 - Prioridade: 2
 
@@ -298,6 +298,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2968 | 11 | 100 | Criador de Forza Motorsport, Dan Greenawalt deixa a Microsoft após 27 anos | — |
 | FORTE | notícia | 1878 | 6 | 100 | Dan Houser revela primeiros detalhes dos jogos da Absurd Ventures após deixar a Rockstar | — |
 | FORTE | notícia | 2797 | 10 | 100 | FromSoftware desliga servidores de Dark Souls 2 e Dark Souls 3 em todas as plataformas, sem previsão de volta | — |
+| FORTE | notícia | 2775 | 11 | 100 | Dark Souls 2 e 3 voltam a ter modo online depois de quase duas semanas, e FromSoftware não explica o que houve | — |
 | FORTE | notícia | 3076 | 10 | 100 | Rumor: toda a trilogia Dark Souls pode estar sendo refeita, e a pergunta que ninguém respondeu é quem está fazendo | — |
 | FORTE | notícia | 2319 | 5 | 100 | Dez anos de sofrimento e a Red Hook presenteia o Darkest Dungeon original com novo DLC | — |
 | FORTE | Notícias | 4548 | 16 | 100 | DashBreaker reinventa o velho “jogo de navinha”: aqui, sobreviver aos mísseis é o espetáculo | — |
@@ -490,6 +491,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2792 | 12 | 100 | Brasileiro batzera bate o recorde mundial de speedrun de GTA San Andreas com 2h50min30s | — |
 | FORTE | notícia | 4493 | 26 | 100 | De 1997 a GTA 6: reveja os trailers oficiais de todos os GTAs antes do lançamento | — |
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
+| FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
