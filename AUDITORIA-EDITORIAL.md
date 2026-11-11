@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 990
-- Forte: 976
+- Total analisado: 992
+- Forte: 978
 - Revisar: 12
 - Prioridade: 2
 
@@ -713,6 +713,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 6626 | 28 | 100 | PHYSINT: as músicas e os pôsteres de Kojima podem estar escondendo pistas sobre a história? | — |
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
+| FORTE | notícia | 2864 | 9 | 100 | PlayStation cancela Fairgame$ após playtest e transforma a Haven em estúdio de apoio | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
 | FORTE | notícia | 2779 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
@@ -998,6 +999,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3000 | 9 | 100 | Ocarina of Time no Switch 2 lista o FSR 1.0 da AMD nas licenças, e o DLSS não aparece | — |
 | FORTE | noticia | 2191 | 8 | 100 | Zelda: Ocarina of Time para Switch 2 abre pré-venda no Brasil e edição especial vira alvo de corrida dos fãs | — |
 | FORTE | notícia | 2810 | 10 | 100 | Ocarina of Time vaza antes do lançamento, e as análises do remake saem no meio da semana | — |
+| FORTE | notícia | 2724 | 9 | 100 | Ocarina of Time vende 5,2 milhões em quatro dias e faz a maior estreia da Nintendo no Switch 2 | — |
 | FORTE | notícia | 2496 | 6 | 100 | Link, Zelda e Ganondorf ganham action figures da Hasbro — e o preço não vai te quebrar | — |
 | FORTE | especial | 5828 | 24 | 100 | Zelda contra GTA: novembro junta as duas séries que ensinaram os games a construir mundos | — |
 | FORTE | notícia | 2701 | 8 | 100 | Zero Parades: Director's Cut chega nesta terça ao PS5, Xbox e Switch 2, ainda sem português | — |
