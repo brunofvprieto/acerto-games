@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 997
-- Forte: 983
+- Total analisado: 1001
+- Forte: 987
 - Revisar: 12
 - Prioridade: 2
 
@@ -580,6 +580,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4623 | 17 | 100 | Mega Man: Dual Override nasceu das lições de Mega Man 11 — e Proto Man voltou porque os fãs pediram | — |
 | FORTE | notícia | 6474 | 20 | 100 | Mega Man: Dual Override não quer apenas trazer o Blue Bomber de volta — quer fazê-lo evoluir | — |
 | FORTE | notícia | 2736 | 12 | 100 | Mega Man: Dual Override revela Tank Man, um gerente de petróleo furioso | — |
+| FORTE | notícia | 2736 | 11 | 100 | Mega Man Legends aparece em lista de sindicato de atores no Canadá, e fãs sonham com a volta da série | — |
 | FORTE | artigo | 13158 | 41 | 100 | As melhores sequências de abertura de todos os tempos — Parte 1 | — |
 | FORTE | notícia | 3968 | 12 | 100 | É do Brasil! Konami confirma legendas em português para Metal Gear Solid: Master Collection Vol. 2 | — |
 | FORTE | notícia | 8209 | 25 | 100 | Master Collection Vol. 2: tudo que a Konami acertou (e o que ainda dói) no resgate de MGS4 | — |
@@ -594,6 +595,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3691 | 12 | 100 | Minecraft Dungeons II domina ranking da eShop e coloca duas edições no topo | — |
 | FORTE | noticia | 2717 | 9 | 100 | Minecraft Dungeons II é lançado com mundo interconectado, The Sift e estreia no Game Pass | — |
 | FORTE | notícia | 2889 | 11 | 100 | Minecraft ganha mod gratuito da NVIDIA com path tracing; veja o que precisa para rodar | — |
+| FORTE | notícia | 2731 | 11 | 100 | Minecraft no Switch 2 ganha modo mouse com o Joy-Con 2, e Mouse Work, feito para o mouse, chega em dezembro | — |
 | FORTE | noticia | 3895 | 13 | 100 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | — |
 | FORTE | notícia | 3482 | 14 | 100 | Miyamoto falta à reunião da Nintendo por doença repentina; empresa diz que ele se recupera em até uma semana | — |
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
@@ -802,6 +804,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2785 | 9 | 100 | Silver Palace, RPG de detetive em mundo aberto, chega de graça ao PS5, PC e celular em 14 de dezembro | — |
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
 | FORTE | notícia | 5066 | 20 | 100 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | — |
+| FORTE | notícia | 2749 | 12 | 100 | Skyrim faz 15 anos sem presente: Bethesda avisa que não terá novidades de The Elder Scrolls VI "por um bom tempo" | — |
 | FORTE | notícia | 2848 | 13 | 100 | Smalland 2: Lost Realms mostra primeiro gameplay e fica para 2027 | — |
 | FORTE | notícia | 2689 | 11 | 100 | Solo Leveling: Arise Overdrive chega ao PS5 e Xbox em 3 de novembro, às 21h de Brasília | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
@@ -966,6 +969,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
 | FORTE | notícia | 2830 | 9 | 100 | Xbox abre vaga para cuidar de jogos físicos, mas a descrição não fala em discos | — |
+| FORTE | notícia | 2725 | 12 | 100 | Yu-Gi-Oh! TAG FORCE GX ganha trailer de jogabilidade e mostra a vida na Academia de Duelos | — |
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
