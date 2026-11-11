@@ -1,0 +1,41 @@
+{
+  "slug": "dark-souls-2-dark-souls-3-servidores-voltam-online-restaurado-fromsoftware-investigacao-concluida",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "11 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-11T16:10:00-03:00",
+  "title": "Dark Souls 2 e 3 voltam a ter modo online depois de quase duas semanas, e FromSoftware não explica o que houve",
+  "excerpt": "\"A investigação foi concluída e a correção foi aplicada\", diz a empresa. Em 2022, os servidores de PC da série ficaram fora do ar por quase um ano.",
+  "cover": [
+    "#3a1a0a",
+    "#050806"
+  ],
+  "image": "/img/dark-souls-3-dragao-fogo-cavaleiro-oficial-capa-servidores-voltam.jpg",
+  "imageFilename": "dark-souls-3-dragao-fogo-cavaleiro-oficial-capa-servidores-voltam.jpg",
+  "imageAlt": "Dragão cospe fogo contra cavaleiro em Dark Souls III",
+  "imageCredit": "Dark Souls III. Divulgação/Bandai Namco",
+  "fonte": "FromSoftware (site oficial de Dark Souls)",
+  "fonteUrl": "https://www.darksouls.jp",
+  "imageOrigem": "Capa e corpo: capturas oficiais de Dark Souls III e Dark Souls II: Scholar of the First Sin nas páginas do Steam. Vídeo: trailer de Dark Souls III, canal oficial Bandai Namco.",
+  "body": [
+    "Dark Souls 2 e Dark Souls 3 voltaram a ter modo online. Depois de quase duas semanas fora do ar, os servidores dos dois jogos foram religados nesta quarta-feira, 11, em todas as plataformas. As invasões, as mensagens no chão e as chamadas de ajuda voltaram a funcionar.",
+    "\"Sobre a suspensão temporária do servidor de Dark Souls 2 e Dark Souls 3, a investigação foi concluída e a correção foi aplicada\", informou a FromSoftware no site oficial da série. \"O servidor do jogo e os recursos online foram restaurados.\"",
+    "## O que aconteceu, ninguém sabe",
+    "Os servidores foram desligados no fim de outubro por causa de um \"problema no servidor\". Desde então, a FromSoftware só publicou pedidos de desculpas e agradecimentos pela paciência no X.",
+    "A empresa não explicou o que deu errado nem qual foi a correção. O texto de hoje fala em \"investigação\" e não dá detalhes. Pelo histórico da série, parece ter sido mais uma falha de segurança.",
+    "link: FromSoftware desliga servidores de Dark Souls 2 e Dark Souls 3 em todas as plataformas, sem previsão de volta | https://acertogames.com.br/noticia/dark-souls-2-dark-souls-3-servidores-desligados-fromsoftware-online-fora-do-ar",
+    "A suspensão atingiu só esses dois jogos, em todas as plataformas em que eles estão. Dark Souls 2 saiu em 2014 e ganhou a versão Scholar of the First Sin em 2015, para PS4, Xbox One e PC. Dark Souls 3 chegou em 2016 e fechou a trilogia.",
+    "Durante as duas semanas, quem abria os jogos encontrava só o modo offline. Dava para jogar a campanha inteira, mas sem nenhum sinal da presença de outros jogadores no mundo.",
+    "img: /img/dark-souls-2-scholar-paisagem-farol-oficial.jpg | Dark Souls II: Scholar of the First Sin, que voltou a ter invasões e mensagens online. Divulgação/Bandai Namco.",
+    "## Bem mais rápido que em 2022",
+    "Desta vez, a espera foi curta. Em 2022, os servidores de todos os Dark Souls no PC ficaram desligados por quase um ano. Na época, a FromSoftware admitiu o motivo: uma falha que permitia que um jogador mal-intencionado executasse códigos no computador de outro pelo modo online.",
+    "Os servidores saíram do ar em janeiro, e a correção demorou porque a empresa estava às voltas com o lançamento de Elden Ring, em fevereiro de 2022. Foi um dos períodos mais longos sem online da história da série. O Dark Souls 3 voltou ao online no PC em agosto daquele ano, mas o primeiro Dark Souls, o Prepare to Die Edition, ficou sem servidor para sempre.",
+    "## Por que o online faz falta",
+    "Na série, o online não é um detalhe. As mensagens deixadas por outros jogadores dão dicas, avisam de armadilhas e, às vezes, mentem de propósito. Os sinais de invocação permitem chamar alguém para ajudar contra um chefe difícil. E as invasões, em que outro jogador entra no seu mundo para caçar você, são parte da tensão de cada área.",
+    "Sem servidor, os dois jogos ficaram mais solitários e, para muita gente, mais difíceis. Sem as mensagens e sem outros jogadores, os únicos aliados nos chefes eram os personagens controlados pelo jogo. A volta chega num momento em que Dark Souls 3, de 2016, ainda tem uma comunidade ativa de jogadores de PvP.",
+    "Para quem quer voltar agora, os dois jogos costumam entrar em promoção no Steam. Fora de promoção, Dark Souls III custa R$ 229,90, e Dark Souls II: Scholar of the First Sin sai por R$ 154,90.",
+    "video: https://www.youtube.com/watch?v=cWBwFhUv1-8"
+  ],
+  "observacao": "Pauta da busca de 11/11. Volta em 11/11 e comunicado oficial (mesma citação): PC Gamer + GamesRadar. Quase duas semanas, fim de outubro, 'server issue', só desculpas no X: PC Gamer + GamesRadar + matéria anterior do site. Investigação sobre vulnerabilidades: GamesRadar (título). 2022: falha de execução remota, quase um ano, Elden Ring: PC Gamer + GamesRadar + conhecimento estável (DS3 voltou em ago/2022, PTDE nunca voltou). Preços Steam BR: API do Steam (11/11)."
+}
