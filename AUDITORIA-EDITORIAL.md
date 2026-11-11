@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 989
-- Forte: 975
+- Total analisado: 990
+- Forte: 976
 - Revisar: 12
 - Prioridade: 2
 
@@ -446,6 +446,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3428 | 21 | 100 | Falta um mês para GTA 6: a passagem para Leonida está comprada, e o embarque é em 19 de novembro | — |
 | FORTE | notícia | 5586 | 26 | 100 | GTA 6 ganha 39 imagens novas a duas semanas do lançamento; veja todas | — |
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
+| FORTE | notícia | 2786 | 10 | 100 | Grotti Cheetah de GTA VI vira carro de verdade e está à venda por 1 milhão de libras em Londres | — |
 | FORTE | notícia | 3349 | 7 | 100 | O guarda-roupa de Jason Duval pode ser o sinal de que GTA 6 finalmente cresceu | — |
 | FORTE | notícia | 1844 | 6 | 100 | GTA 6: Rockstar lança o Launch Trailer com a sinopse oficial e a estreia de "Flower in a Hurricane", do Justice | — |
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
