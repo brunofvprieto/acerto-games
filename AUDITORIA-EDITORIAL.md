@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1008
-- Forte: 994
+- Total analisado: 1010
+- Forte: 996
 - Revisar: 12
 - Prioridade: 2
 
@@ -487,6 +487,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2436 | 10 | 100 | GTA 6 chega na véspera do feriado de 20 de novembro, e o lançamento vira feriadão no Brasil | — |
 | FORTE | notícia | 1909 | 6 | 100 | Take-Two aposta que novo vídeo de GTA 6 na Netflix vai aumentar ainda mais a paixão dos fãs | — |
 | FORTE | notícia | 2962 | 15 | 100 | GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming no lançamento, diz executivo | — |
+| FORTE | notícia | 2738 | 13 | 100 | GTA fora dos Estados Unidos? "Nunca diga nunca", diz chefe da Rockstar, mas "ainda há muito o que fazer na América" | — |
 | FORTE | retrô | 3756 | 14 | 100 | GTA III faz 25 anos: o clássico que só funcionou nos últimos seis meses | — |
 | FORTE | notícia | 2792 | 12 | 100 | Brasileiro batzera bate o recorde mundial de speedrun de GTA San Andreas com 2h50min30s | — |
 | FORTE | notícia | 4493 | 26 | 100 | De 1997 a GTA 6: reveja os trailers oficiais de todos os GTAs antes do lançamento | — |
@@ -804,6 +805,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
 | FORTE | notícia | 1977 | 10 | 100 | Serious Sam: The Third Encounter é anunciado e continua a história de The Second Encounter | — |
+| FORTE | notícia | 2700 | 13 | 100 | Shrek 2 Remastered estreia com avaliações mistas no Steam: exige conta da Epic para o cooperativo e corta cenas no meio | — |
 | FORTE | noticia | 2137 | 10 | 100 | Signal Veil mistura survival horror, trauma psicológico e anime dos anos 90 | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
 | FORTE | notícia | 2748 | 9 | 100 | Silent Hill: Townfall teria vendido cerca de 404 mil cópias, longe do ritmo de Silent Hill 2 e Silent Hill f | — |
