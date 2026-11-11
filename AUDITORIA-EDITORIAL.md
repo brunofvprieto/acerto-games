@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1003
-- Forte: 989
+- Total analisado: 1005
+- Forte: 991
 - Revisar: 12
 - Prioridade: 2
 
@@ -718,6 +718,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
 | FORTE | notícia | 2864 | 9 | 100 | PlayStation cancela Fairgame$ após playtest e transforma a Haven em estúdio de apoio | — |
+| FORTE | notícia | 2780 | 13 | 100 | PlayStation vai levar jogos do Hero Project, da Índia e do Oriente Médio, para a gamescom latam 2027 | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
 | FORTE | notícia | 2779 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
@@ -912,6 +913,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2685 | 11 | 100 | Modern Warfare 4 estreia em 1º no Reino Unido, com 78% das cópias físicas vendidas no PS5 | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
+| FORTE | notícia | 3370 | 14 | 100 | União Europeia propõe proibir loot boxes para menores de 18 anos, regra que o Brasil já adota desde março | — |
 | FORTE | notícia | 3262 | 14 | 100 | Depois da EA, Arábia Saudita e Silver Lake negociam comprar a Unity por cerca de US$ 25 bilhões | — |
 | FORTE | notícia | 2806 | 9 | 100 | Until Dawn 2 terá gameplay inédito em 11 de dezembro, num evento em salas de cinema com transmissão ao vivo | — |
 | FORTE | notícia | 2764 | 12 | 100 | Until Dawn 2: Sony apresenta, um a um, os caçadores de fantasmas do Dead True | — |
