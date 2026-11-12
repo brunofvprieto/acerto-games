@@ -1,0 +1,41 @@
+{
+  "slug": "nvidia-conselho-avalia-afastar-jensen-huang-segundo-caso-kimberly-powell-tim-sweeney",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "12 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-12T10:39:00-03:00",
+  "title": "Nvidia avalia afastar Jensen Huang após segundo caso extraconjugal, e Tim Sweeney sai em defesa do CEO",
+  "excerpt": "O New York Times relata caso com uma vice-presidente da empresa. Para o chefe da Epic, demitir Huang seria como \"a Apple demitindo Steve Jobs\".",
+  "cover": [
+    "#1a2a0a",
+    "#050806"
+  ],
+  "image": "/img/jensen-huang-palco-gtc-2026-nvidia-oficial-capa.jpg",
+  "imageFilename": "jensen-huang-palco-gtc-2026-nvidia-oficial-capa.jpg",
+  "imageAlt": "Jensen Huang no palco da GTC 2026, diante de servidores da Nvidia",
+  "imageCredit": "Jensen Huang na GTC 2026. Divulgação/Nvidia",
+  "fonte": "The New York Times e The Wall Street Journal",
+  "fonteUrl": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
+  "imageOrigem": "Capa: foto oficial do keynote da GTC 2026, blog da Nvidia. Corpo: retrato oficial de Jensen Huang, já no acervo.",
+  "body": [
+    "Jensen Huang pode deixar o comando da Nvidia. O conselho da empresa avalia afastar o fundador e CEO depois que um segundo caso extraconjugal veio à tona, desta vez com uma executiva que responde diretamente a ele.",
+    "A nova denúncia foi publicada pelo jornal The New York Times. Com base em cinco funcionários da empresa, o jornal afirma que Huang teve um caso com Kimberly Powell, vice-presidente da Nvidia responsável pela área de saúde.",
+    "Segundo o jornal, os dois foram vistos em atitude carinhosa num hotel perto de uma conferência da Nvidia, neste ano. Uma pessoa teria gravado a cena, e a equipe de segurança teria feito uma oferta em troca de um acordo de confidencialidade. O Times diz saber do vídeo, mas não o viu.",
+    "img: /img/jensen-huang-nvidia-foto-oficial.jpg | Jensen Huang comanda a Nvidia desde a fundação da empresa, há 33 anos. Divulgação/Nvidia.",
+    "## O conselho se reúne",
+    "A denúncia chegou dias depois de Huang admitir, numa carta aos funcionários, um caso com uma mulher apontada como suposta espiã chinesa. A China nega qualquer espionagem. O conselho abriu uma investigação independente sobre possíveis riscos à segurança nacional.",
+    "No primeiro comunicado, o conselho disse que \"não tem motivos para acreditar\" que a segurança nacional dos Estados Unidos ou segredos da Nvidia tenham sido comprometidos. Huang, por sua vez, fez questão de afirmar separadamente o quanto ama o país e se preocupa com a segurança dele.",
+    "link: Jensen Huang, CEO da Nvidia, admite caso extraconjugal; conselho abre investigação após reportagens sobre suposta espiã chinesa | https://acertogames.com.br/noticia/jensen-huang-nvidia-admite-caso-extraconjugal-conselho-investigacao-suposta-espia-china",
+    "Agora, segundo o The Wall Street Journal, o conselho se prepara para tirar Huang do cargo. A diretoria teria se reunido nesta quarta-feira, 11, para decidir o futuro do executivo. Até a publicação deste texto, a Nvidia não tinha comentado a nova acusação nem anunciado decisão.",
+    "Seria uma mudança sem precedentes. Huang é o único CEO da história da Nvidia, que ele fundou há 33 anos. Foi sob o comando dele que a empresa deixou de ser só a fabricante das placas GeForce e virou a principal fornecedora de chips para inteligência artificial do mundo.",
+    "## Ações em queda",
+    "O mercado reagiu mal. As ações da Nvidia caíram com força desde a primeira denúncia e chegaram a recuar 6,3% antes da abertura do pregão desta quinta. É o menor patamar em mais de um ano.",
+    "Pelas contas do PC Gamer, a empresa perdeu perto de meio trilhão de dólares em valor de mercado desde o começo da crise. Mesmo assim, a Nvidia segue entre as companhias mais valiosas do planeta.",
+    "## Tim Sweeney sai em defesa",
+    "Nem todo mundo quer ver Huang fora. Tim Sweeney, chefe da Epic Games, defendeu o executivo no X. \"Seria uma idiotice no nível da Apple demitindo Steve Jobs, e um grave dano aos Estados Unidos\", escreveu.",
+    "\"O cara é de verdade o visionário que move o futuro da tecnologia, da era das placas de vídeo para jogos ao CUDA e aos supercomputadores de IA\", completou Sweeney. Elon Musk também comentou. Quando um usuário sugeriu que ele contratasse Huang, respondeu: \"Seria uma honra.\"",
+    "Para quem joga, a crise parece ter pouco efeito imediato. As placas GeForce, o DLSS e o GeForce Now seguem com cronogramas próprios. Mas a Nvidia sem Huang seria uma empresa diferente, e ninguém sabe ainda quem ocuparia a cadeira dele."
+  ],
+  "observacao": "Busca de 12/11. NYT (cinco fontes, Kimberly Powell, hotel, vídeo, NDA): PC Gamer + GamesRadar + GameSpot/Kotaku (títulos). WSJ, conselho prepara afastamento, reunião na quarta: PC Gamer + Inven Global + GamesRadar. Carta e investigação: nossa matéria de 9/11 + GamesRadar. Único CEO em 33 anos: GamesRadar. Ações -6,3% no pré-mercado e menor patamar em mais de um ano: PC Gamer (dois textos); perda de ~meio trilhão atribuída ao PC Gamer. Sweeney e Musk (falas no X): PC Gamer + GamesRadar + Eurogamer (título)."
+}
