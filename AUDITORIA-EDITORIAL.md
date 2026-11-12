@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1022
-- Forte: 1008
+- Total analisado: 1023
+- Forte: 1009
 - Revisar: 12
 - Prioridade: 2
 
@@ -235,6 +235,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3635 | 13 | 100 | EA fechou a BioWare para apostar em Star Wars Battlefront 3, diz Bloomberg | — |
 | FORTE | notícia | 3226 | 10 | 100 | No primeiro N7 Day sem BioWare, petição no Parlamento do Canadá pede dinheiro público para o estúdio e documentário promete contar o fim | — |
 | FORTE | notícia | 3196 | 16 | 100 | Diretor global de Black Desert surpreende fãs em São Paulo, e Pearl Abyss promete festa maior nos 10 anos do jogo no Brasil | — |
+| FORTE | notícia | 2886 | 12 | 100 | Estúdio dos remakes de Destroy All Humans compra a própria saída da THQ Nordic e cria grupo de estúdios independentes | — |
 | FORTE | notícia | 2745 | 9 | 100 | Black Friday da PS Store começa nesta quarta e vai até o fim de novembro, com até 75% de desconto | — |
 | FORTE | notícia | 2686 | 10 | 100 | Black Friday da PS Store no Brasil: Control sai por R$ 16, Silent Hill 2 por menos de R$ 100, e parte das ofertas acaba no dia 20 | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
