@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1029
-- Forte: 1015
+- Total analisado: 1030
+- Forte: 1016
 - Revisar: 12
 - Prioridade: 2
 
@@ -739,6 +739,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2780 | 13 | 100 | PlayStation vai levar jogos do Hero Project, da Índia e do Oriente Médio, para a gamescom latam 2027 | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
+| FORTE | notícia | 2936 | 13 | 100 | Estúdio de Palworld dá cinco dias de folga aos funcionários para jogarem GTA VI: "viagem de negócios a Vice City" | — |
 | FORTE | notícia | 2779 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 3082 | 12 | 100 | Pokémon GO terá encontro da Área Selvagem Global no Ibirapuera, com Dialga e Palkia Dinamax no jogo | — |
