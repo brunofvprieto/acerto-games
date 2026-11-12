@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1040
-- Forte: 1026
+- Total analisado: 1041
+- Forte: 1027
 - Revisar: 12
 - Prioridade: 2
 
@@ -1003,6 +1003,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2777 | 12 | 100 | Xbox Playback: retrospectiva mostra seu primeiro jogo e o tempo total jogado em 25 anos, e o Brasil está na lista | — |
 | FORTE | notícia | 2720 | 10 | 100 | Xbox vai exigir quatro dias de escritório a partir de fevereiro, no meio das demissões | — |
 | FORTE | notícia | 3740 | 12 | 100 | Xbox tem quarto trimestre seguido de queda em serviços, e Microsoft aposta em Modern Warfare 4 e GTA 6 para virar o jogo | — |
+| FORTE | notícia | 2828 | 14 | 100 | Retrocompatibilidade do Xbox no PC ganha 21 clássicos, de KOTOR a Morrowind, e alguns recebem conquistas pela primeira vez | — |
 | FORTE | notícia | 2530 | 5 | 100 | Xbox Series X chega perto dos US$ 900 na Europa após aumento de até 40% — e o Brasil já sentiu o baque | — |
 | FORTE | notícia | 2867 | 11 | 100 | Xbox esconde um Xbox Series X dentro de um jacaré para entrar no clima de GTA 6 sem citar o jogo | — |
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
