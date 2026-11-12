@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1037
-- Forte: 1023
+- Total analisado: 1038
+- Forte: 1024
 - Revisar: 12
 - Prioridade: 2
 
@@ -361,6 +361,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 2898 | 9 | 100 | Exodus refaz o rosto de Jun Aslan depois das críticas, e a versão feminina vem em breve | — |
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
+| FORTE | notícia | 2812 | 14 | 100 | Fable mostra quatro minutos de jogabilidade inédita, com combate e magia numa floresta corrompida | — |
 | FORTE | notícia | 2614 | 10 | 100 | Factorio recebe a última grande atualização, 14 anos depois do início do desenvolvimento | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
