@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1039
-- Forte: 1025
+- Total analisado: 1040
+- Forte: 1026
 - Revisar: 12
 - Prioridade: 2
 
@@ -514,6 +514,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
 | FORTE | notícia | 2836 | 12 | 100 | Halloween brasileiro na Steam: Asleep sai de graça, Enigma do Medo tem desconto e Caravana 2000 ganha demo | — |
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
+| FORTE | notícia | 2724 | 14 | 100 | Halo: Campaign Evolved ganha modo Firefight de graça, inclusive no PS5; detalhes saem no Halo Fest | — |
 | FORTE | noticia | 5480 | 21 | 100 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
 | FORTE | notícia | 3499 | 14 | 100 | Harada diz na frente de executivo do Xbox que preferia que o Series S não existisse: "Trabalho extra para um filho mais fraco" | — |
