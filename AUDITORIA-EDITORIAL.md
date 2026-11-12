@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1036
-- Forte: 1022
+- Total analisado: 1037
+- Forte: 1023
 - Revisar: 12
 - Prioridade: 2
 
@@ -535,6 +535,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2927 | 12 | 100 | Novo site da Humble Bundle remove a verificação em duas etapas e deixa contas vulneráveis; veja o que fazer | — |
 | FORTE | noticia | 5584 | 16 | 100 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | — |
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
+| FORTE | notícia | 2778 | 12 | 100 | id Software confirma novo jogo dirigido por Hugo Martin, de Doom, meses depois de demitir metade do estúdio | — |
 | FORTE | notícia | 2751 | 10 | 100 | ID@Xbox Showcase confirma oito jogos no Game Pass, Mouthwashing no Xbox e data de Shrek 2 Remastered | — |
 | FORTE | notícia | 2743 | 13 | 100 | Nintendo faz Indie World nesta quarta (28), às 11h de Brasília | — |
 | FORTE | notícia | 4881 | 24 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
