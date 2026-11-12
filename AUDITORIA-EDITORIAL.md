@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1035
-- Forte: 1021
+- Total analisado: 1036
+- Forte: 1022
 - Revisar: 12
 - Prioridade: 2
 
@@ -834,6 +834,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2848 | 13 | 100 | Smalland 2: Lost Realms mostra primeiro gameplay e fica para 2027 | — |
 | FORTE | notícia | 2689 | 11 | 100 | Solo Leveling: Arise Overdrive chega ao PS5 e Xbox em 3 de novembro, às 21h de Brasília | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
+| FORTE | notícia | 2751 | 12 | 100 | Sonic ganha curta animado de 35 anos, Memories and Beyond, com Eggman criando o Metal Sonic definitivo | — |
 | FORTE | notícia | 2748 | 8 | 100 | Sonic Racing: CrossWorlds começa o Ano Dois com Bayonetta de graça, modo Duelo e Godzilla na pista | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 2832 | 13 | 100 | Sonic Racing: CrossWorlds abre Festival Godzilla nesta quinta, e o pacote do monstro sai por R$ 26,90 | — |
