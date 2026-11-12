@@ -1,0 +1,42 @@
+{
+  "slug": "jensen-huang-renuncia-nvidia-colette-kress-ceo-interina",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "12 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-12T13:14:00-03:00",
+  "title": "Jensen Huang renuncia ao comando da Nvidia, e diretora financeira Colette Kress assume como CEO interina",
+  "excerpt": "O fundador deixou a empresa com efeito imediato, depois de uma semana de denúncias. O comunicado não cita os escândalos e só agradece aos 33 anos de Huang.",
+  "cover": [
+    "#1a2a0a",
+    "#050806"
+  ],
+  "image": "/img/colette-kress-nvidia-ceo-interina-foto-oficial-capa.jpg",
+  "imageFilename": "colette-kress-nvidia-ceo-interina-foto-oficial-capa.jpg",
+  "imageAlt": "Retrato oficial de Colette Kress, CEO interina da Nvidia",
+  "imageCredit": "Colette Kress. Divulgação/Nvidia",
+  "fonte": "Nvidia (comunicado oficial)",
+  "fonteUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+  "imageOrigem": "Capa: retrato oficial de Colette Kress, sala de imprensa da Nvidia. Corpo: retrato oficial de Jensen Huang, já no acervo.",
+  "body": [
+    "Jensen Huang não é mais o CEO da Nvidia. O fundador da empresa renunciou nesta quinta-feira, 12, com efeito imediato, depois de uma semana de denúncias de casos extraconjugais. Ele também deixou a presidência e o assento no conselho.",
+    "\"O conselho de administração da Nvidia anunciou hoje que Jensen Huang renunciou aos cargos de presidente, diretor-executivo e membro do conselho, com efeito imediato\", diz o comunicado oficial da empresa.",
+    "Quem assume, por enquanto, é Colette Kress, diretora financeira da Nvidia desde 2013. Ela vai acumular os dois cargos até que o conselho escolha um sucessor definitivo, que pode vir de dentro ou de fora da empresa.",
+    "img: /img/jensen-huang-nvidia-foto-oficial.jpg | Jensen Huang fundou a Nvidia em 1993 e comandou a empresa por 33 anos. Divulgação/Nvidia.",
+    "## O que diz a Nvidia",
+    "O comunicado não cita os escândalos. Apenas agradece ao fundador. \"As contribuições de Jensen para a Nvidia são profundas\", diz o texto. \"O conselho e a empresa agradecem a Jensen por suas contribuições imensuráveis à empresa e à indústria.\"",
+    "\"Estou comprometida em construir sobre a base extraordinária que Jensen criou nos últimos 33 anos\", afirmou Kress. Antes da Nvidia, ela passou quase 25 anos em cargos de finanças em empresas como Cisco e Microsoft.",
+    "O conselho também ganhou seu primeiro presidente independente, Harvey Jones, ex-CEO da Synopsys. \"Esperamos que as operações, os compromissos com clientes e o cronograma de produtos sigam sem interrupção\", disse ele.",
+    "## Uma semana de crise",
+    "A queda foi rápida. No domingo, Huang admitiu aos funcionários um caso com uma mulher apontada pela imprensa americana como suposta espiã chinesa. O conselho abriu uma investigação, e ele prometeu cooperar.",
+    "Na quarta, o The New York Times revelou um segundo caso, desta vez com uma vice-presidente da própria Nvidia, que respondia diretamente a ele. Logo depois, o The Wall Street Journal informou que o conselho se preparava para afastá-lo.",
+    "link: Nvidia avalia afastar Jensen Huang após segundo caso extraconjugal, e Tim Sweeney sai em defesa do CEO | https://acertogames.com.br/noticia/nvidia-conselho-avalia-afastar-jensen-huang-segundo-caso-kimberly-powell-tim-sweeney",
+    "No meio disso, as ações da empresa despencaram, perdendo centenas de bilhões de dólares em valor de mercado. A Nvidia também enfrenta ao menos um processo de acionistas, que acusa a direção de ter dado declarações falsas sobre o caso.",
+    "## O que muda para quem joga",
+    "Huang fundou a Nvidia em 1993 e tomou cada grande decisão da empresa. Sob o comando dele, a marca criou as placas GeForce, o ray tracing em tempo real e o DLSS. Depois, virou a principal fornecedora de chips para inteligência artificial do mundo.",
+    "Parte dos jogadores de PC comemorou a saída nas redes. Huang virou o rosto da corrida da IA, apontada como culpada pela alta de preços de memória e placas de vídeo. Mas a saída dele não deve baixar preço nenhum, porque a demanda por chips de IA continua.",
+    "Parece mais provável o contrário. Huang sempre defendeu o mercado de jogos como a raiz da empresa. Sem ele, a área de GeForce pode perder espaço para os servidores de IA, que hoje rendem muito mais.",
+    "O primeiro teste da nova gestão já tem data. A Nvidia divulga o balanço do terceiro trimestre na terça-feira, 17 de novembro, às 18h20, no horário de Brasília."
+  ],
+  "observacao": "Busca de 12/11, 13h. Renúncia, Kress interina, Harvey Jones, falas, balanço em 17/11 às 13h20 PT (18h20 Brasília): comunicado oficial lido direto + Kotaku + PC Gamer + VGC. Kress desde 2013, Cisco e Microsoft: comunicado. Carta de domingo e investigação: VGC + nossa matéria. NYT e WSJ: nossa matéria das 11h. Processo de acionistas e centenas de bilhões perdidos: Kotaku. Reação dos jogadores e impacto no PC: PC Gamer (análise), incorporado como leitura nossa com 'parece'."
+}
