@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1034
-- Forte: 1020
+- Total analisado: 1035
+- Forte: 1021
 - Revisar: 12
 - Prioridade: 2
 
@@ -365,6 +365,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
 | FORTE | notícia | 2544 | 10 | 100 | Fatal Fury: City of the Wolves ganha comercial live-action no Switch 2 com Justin Wong, Tokido e a VTuber La+ Darknesss | — |
+| FORTE | notícia | 2742 | 12 | 100 | Fatal Fury: City of the Wolves recebe Laocorn, vilão do filme de 1994, em 19 de novembro; jogo está com 75% de desconto | — |
 | FORTE | notícia | 2290 | 9 | 100 | Fatal Fury: City of the Wolves chega ao Switch 2 e recebe Mikey e Draken, de Tokyo Revengers | — |
 | FORTE | notícia | 2755 | 10 | 100 | Fatekeeper passa de 500 mil cópias vendidas ainda em acesso antecipado | — |
 | FORTE | notícia | 1999 | 5 | 100 | Final Fantasy XIV revela arte oficial do Kefka Imaginário, o chefe final da nova fase Extrema | — |
