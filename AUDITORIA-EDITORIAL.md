@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1043
-- Forte: 1029
+- Total analisado: 1044
+- Forte: 1030
 - Revisar: 12
 - Prioridade: 2
 
@@ -1011,6 +1011,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
 | FORTE | notícia | 2830 | 9 | 100 | Xbox abre vaga para cuidar de jogos físicos, mas a descrição não fala em discos | — |
+| FORTE | notícia | 3164 | 15 | 100 | YouTube fará live de 24 horas no lançamento de GTA VI, e Skorpion, Samira Close e GamerCosta representam o Brasil | — |
 | FORTE | notícia | 2725 | 12 | 100 | Yu-Gi-Oh! TAG FORCE GX ganha trailer de jogabilidade e mostra a vida na Academia de Duelos | — |
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
