@@ -1,0 +1,39 @@
+{
+  "slug": "humble-bundle-novo-site-remove-verificacao-duas-etapas-seguranca-contas-cartao",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "12 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-12T10:42:00-03:00",
+  "title": "Novo site da Humble Bundle remove a verificação em duas etapas e deixa contas vulneráveis; veja o que fazer",
+  "excerpt": "Também dá para trocar senha e e-mail sem confirmação. A recomendação, por enquanto, é apagar cartões salvos e resgatar as chaves pendentes.",
+  "cover": [
+    "#3a0a0a",
+    "#050806"
+  ],
+  "image": "/img/humble-bundle-logo-oficial-capa-seguranca.jpg",
+  "imageFilename": "humble-bundle-logo-oficial-capa-seguranca.jpg",
+  "imageAlt": "Logo da Humble Bundle",
+  "imageCredit": "Humble Bundle. Divulgação/Humble Bundle",
+  "fonte": "Humble Bundle (novo site)",
+  "fonteUrl": "https://www.humblebundle.com",
+  "imageOrigem": "Capa: imagem oficial de compartilhamento do site da Humble Bundle.",
+  "body": [
+    "Quem tem conta na Humble Bundle deve ficar atento. A loja de pacotes de jogos estreou um site totalmente novo, e a mudança levou embora recursos básicos de segurança. O principal deles é a verificação em duas etapas, que simplesmente desapareceu.",
+    "Com o novo site, não é mais possível ativar o recurso. Quem já usava a verificação também passou a entrar na conta só com e-mail e senha, sem que o código seja pedido em nenhum momento. A Humble não falou da mudança no site, e as páginas de ajuda continuam recomendando o uso do recurso.",
+    "## Senha e e-mail sem conferência",
+    "Os problemas não param aí. Com a conta aberta, dá para trocar a senha sem digitar a senha atual. Na troca de e-mail, a confirmação vai só para o endereço novo, e o antigo não recebe nenhum aviso.",
+    "Na prática, quem conseguir acesso à conta por alguns minutos, num computador compartilhado, por exemplo, pode tomar o controle dela de vez. E muitas contas guardam cartões de crédito salvos para facilitar a compra dos pacotes.",
+    "Os usuários perceberam primeiro, no Reddit, e a falha foi confirmada em testes de sites especializados. \"Isso é absurdamente ruim, eles precisam desativar a troca de senhas até corrigirem\", escreveu um usuário. \"Não consigo nem achar como apagar os dados de pagamento salvos\", reclamou outro.",
+    "## Biblioteca bagunçada",
+    "Fora a segurança, o novo visual tirou funções que os clientes usavam no dia a dia. A biblioteca não separa mais as chaves já resgatadas das que ainda não foram usadas, o que complica a vida de quem tem centenas de jogos comprados em pacotes.",
+    "Também não há mais opção para continuar conectado, e o jogador precisa fazer login toda vez. A escolha de como dividir o dinheiro do pacote entre desenvolvedores e instituições de caridade, marca registrada da loja, ficou escondida no fim da página.",
+    "Muitos usuários acusam a empresa de ter feito o novo site às pressas com inteligência artificial. É o chamado \"vibe coding\", em que a IA gera o código a partir de pedidos em linguagem comum. A Humble não confirmou nem comentou a acusação.",
+    "Até a publicação deste texto, a empresa também não tinha explicado se a remoção da verificação em duas etapas foi intencional. Parece mais um erro de lançamento do que uma decisão, mas o risco existe enquanto não houver correção.",
+    "## O que fazer agora",
+    "Enquanto o problema não é resolvido, a recomendação é apagar os cartões salvos na conta da Humble. Também vale usar uma senha forte e exclusiva, que não se repita em outros serviços, e ficar de olho em qualquer e-mail estranho de alteração de dados.",
+    "Quem tem chaves de jogos ainda não resgatadas pode aproveitar para ativá-las no Steam ou em outra plataforma. Assim, elas ficam protegidas na conta da própria loja, que tem segurança própria.",
+    "A Humble Bundle nasceu em 2010 com pacotes de jogos independentes em que o comprador escolhia quanto pagar e quanto doar para caridade. Desde 2017, pertence à Ziff Davis, dona da IGN. Hoje vende pacotes de jogos, livros e programas, além da assinatura mensal Humble Choice."
+  ],
+  "observacao": "Busca de 12/11. Fim da verificação em duas etapas, login só com e-mail e senha, FAQ ainda recomenda, sem comunicado: PC Gamer + Kotaku + GamingOnLinux. Troca de senha sem senha atual e de e-mail sem aviso ao antigo: Kotaku (testado) + GamingOnLinux. Falas de usuários no Reddit: PC Gamer. Biblioteca sem separar resgatadas, sem manter conectado: Kotaku + GamingOnLinux; divisão do dinheiro escondida: GamingOnLinux. Acusação de vibe coding: Kotaku + GamingOnLinux + ResetEra (título). Recomendação de apagar cartões: PC Gamer + Kotaku. História e Ziff Davis: conhecimento estável."
+}
