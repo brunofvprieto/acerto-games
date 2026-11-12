@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1019
-- Forte: 1005
+- Total analisado: 1020
+- Forte: 1006
 - Revisar: 12
 - Prioridade: 2
 
@@ -532,6 +532,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2743 | 13 | 100 | Nintendo faz Indie World nesta quarta (28), às 11h de Brasília | — |
 | FORTE | notícia | 4881 | 24 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
 | FORTE | artigo | 5691 | 22 | 100 | A palestra mais importante da Gamescom não foi sobre jogo nenhum | — |
+| FORTE | notícia | 2893 | 13 | 100 | Intergalactic está nos "últimos estágios de produção" e mistura Jak, Uncharted e The Last of Us, diz Neil Druckmann | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
 | FORTE | notícia | 2697 | 11 | 100 | Jensen Huang, CEO da Nvidia, admite caso extraconjugal; conselho abre investigação após reportagens sobre suposta espiã chinesa | — |
 | FORTE | notícia | 2747 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
