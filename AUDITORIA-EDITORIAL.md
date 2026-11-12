@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1031
-- Forte: 1017
+- Total analisado: 1032
+- Forte: 1018
 - Revisar: 12
 - Prioridade: 2
 
@@ -992,6 +992,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2792 | 12 | 100 | Xbox e Kojima vão além dos games: parceria prevê projetos para cinema e televisão | — |
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
 | FORTE | notícia | 3693 | 12 | 100 | Xbox oficializa Mythic Achievements, sua resposta à Platina do PlayStation | — |
+| FORTE | notícia | 2777 | 12 | 100 | Xbox Playback: retrospectiva mostra seu primeiro jogo e o tempo total jogado em 25 anos, e o Brasil está na lista | — |
 | FORTE | notícia | 2720 | 10 | 100 | Xbox vai exigir quatro dias de escritório a partir de fevereiro, no meio das demissões | — |
 | FORTE | notícia | 3740 | 12 | 100 | Xbox tem quarto trimestre seguido de queda em serviços, e Microsoft aposta em Modern Warfare 4 e GTA 6 para virar o jogo | — |
 | FORTE | notícia | 2530 | 5 | 100 | Xbox Series X chega perto dos US$ 900 na Europa após aumento de até 40% — e o Brasil já sentiu o baque | — |
