@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1020
-- Forte: 1006
+- Total analisado: 1021
+- Forte: 1007
 - Revisar: 12
 - Prioridade: 2
 
@@ -572,6 +572,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
+| FORTE | notícia | 2890 | 12 | 100 | Marvel 1943 não foi cancelado, diz Skydance, mas jogo de Amy Hennig teria sido cortado e ficado mais curto | — |
 | FORTE | notícia | 5044 | 22 | 100 | Marvel Cosmic Invasion mostra 15 minutos do Castelo do Destino, e desenvolvedores falam em até 900 encontros diferentes | — |
 | FORTE | notícia | 2738 | 11 | 100 | Marvel Cosmic Invasion revela modo roguelite no Castelo do Destino | — |
 | FORTE | notícia | 2826 | 9 | 100 | O Cerco no Castelo do Destino já está disponível em Marvel Cosmic Invasion, com Mulher Invisível e Doutor Destino jogáveis | — |
