@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1026
-- Forte: 1012
+- Total analisado: 1027
+- Forte: 1013
 - Revisar: 12
 - Prioridade: 2
 
@@ -903,6 +903,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2787 | 11 | 100 | Bethesda avisa que The Elder Scrolls VI: Sentinel ainda vai demorar, e repórter fala em mais de dois anos | — |
 | FORTE | notícia | 2966 | 10 | 100 | The Elder Scrolls VI se chama Sentinel, e o teaser aponta para Hammerfell | — |
 | FORTE | noticia | 2818 | 11 | 100 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | — |
+| FORTE | notícia | 2734 | 13 | 100 | The Road of Dust and Sorrow, terror em pixel art inspirado em Resident Evil, é adiado para 19 de fevereiro | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
 | FORTE | notícia | 3608 | 9 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
 | FORTE | notícia | 5270 | 21 | 100 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | — |
