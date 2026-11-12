@@ -7,7 +7,7 @@ export default function OfertasAmazon({ ofertas = [], tema, titulo = "Ofertas" }
   return (
     <section className="py-8" aria-label={titulo}>
       <h2 className="mb-5 text-[2.5rem] font-black leading-none tracking-[-.075em] text-paper sm:text-7xl lg:text-[6rem]">{titulo}</h2>
-      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5" style={{ scrollbarWidth: "thin", scrollbarColor: "#9be22d transparent" }}>
+      <div className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-5" style={{ scrollbarWidth: "thin", scrollbarColor: "#10b981 transparent" }}>
         {lista.map((o) => (
           <a
             key={o.link}

@@ -9,7 +9,7 @@ module.exports = {
         edge: "#1D2B20",
         paper: "#EDEFF7",
         dim: "#93A3AF",
-        arcade: "#9BE22D",
+        arcade: "#10B981",
         violet: "#4D9FFF",
         retro: "#2BD9C8",
       },

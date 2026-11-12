@@ -10,25 +10,25 @@ body {
   @apply bg-ink text-paper font-body antialiased;
   /* Brilho verde ao fundo, no clima do logo da Xbox */
   background-image:
-    radial-gradient(ellipse 70% 38% at 50% 0%, rgba(155, 226, 45, 0.10), transparent 70%),
+    radial-gradient(ellipse 70% 38% at 50% 0%, rgba(16, 185, 129, 0.10), transparent 70%),
     radial-gradient(ellipse 80% 30% at 50% 100%, rgba(80, 170, 20, 0.12), transparent 75%);
   background-attachment: fixed;
 }
 
 /* Verde com brilho (neon) */
 .text-arcade {
-  text-shadow: 0 0 10px rgba(155, 226, 45, 0.55), 0 0 22px rgba(120, 210, 30, 0.25);
+  text-shadow: 0 0 10px rgba(16, 185, 129, 0.55), 0 0 22px rgba(5, 150, 105, 0.25);
 }
 .bg-arcade {
-  background-image: linear-gradient(180deg, #b8f04a 0%, #9be22d 45%, #6fb81c 100%);
-  box-shadow: 0 0 18px rgba(155, 226, 45, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.35);
+  background-image: linear-gradient(180deg, #34d399 0%, #10b981 45%, #059669 100%);
+  box-shadow: 0 0 18px rgba(16, 185, 129, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.35);
 }
 .border-arcade {
-  box-shadow: 0 0 14px rgba(155, 226, 45, 0.30);
+  box-shadow: 0 0 14px rgba(16, 185, 129, 0.30);
 }
 a:hover .border-arcade,
 .hover\:border-arcade:hover {
-  box-shadow: 0 0 18px rgba(155, 226, 45, 0.45);
+  box-shadow: 0 0 18px rgba(16, 185, 129, 0.45);
 }
 
 /* Ticker de últimas notícias */
@@ -83,12 +83,12 @@ button:focus-visible {
   line-height: 1;
   text-shadow:
     0 0.045em 0 #050806,
-    0 0.075em 0 #9be22d,
+    0 0.075em 0 #10b981,
     0 0.105em 0 #050806,
-    0 0.135em 0 #9be22d,
+    0 0.135em 0 #10b981,
     0 0.165em 0 #050806,
-    0 0.195em 0 rgba(155, 226, 45, 0.55),
-    0 0 18px rgba(155, 226, 45, 0.45),
+    0 0.195em 0 rgba(16, 185, 129, 0.55),
+    0 0 18px rgba(16, 185, 129, 0.45),
     0 0 36px rgba(110, 200, 25, 0.25);
   padding-bottom: 0.2em;
 }
@@ -116,7 +116,7 @@ button:focus-visible {
     border-right: 1px solid rgba(255, 255, 255, 0.08);
     box-shadow:
       0 0 0 8px #050806,
-      0 0 0 10px rgba(155, 226, 45, 0.25),
+      0 0 0 10px rgba(16, 185, 129, 0.25),
       0 24px 60px rgba(0, 0, 0, 0.6);
     overflow-x: hidden;
   }
