@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1014
-- Forte: 1000
+- Total analisado: 1018
+- Forte: 1004
 - Revisar: 12
 - Prioridade: 2
 
@@ -518,6 +518,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 1802 | 8 | 100 | Helldivers 2 recebe Ironclad Democracy com lança-granadas, pistola-míssil e armadura de tanque | — |
 | FORTE | notícia | 2445 | 7 | 100 | Henry Cavill embarca de novo em Warhammer 40.000 — agora numa série animada da Amazon | — |
 | FORTE | notícia | 7571 | 24 | 100 | Heroes of Might and Magic III vai renascer — e a Ubisoft sabe que não pode simplesmente refazer um clássico | — |
+| FORTE | notícia | 2736 | 9 | 100 | Demitidos da id Software fundam a Hidden Horses e preparam Danger Pay, FPS num game show mortal | — |
 | FORTE | notícia | 2901 | 10 | 100 | Kojima alerta para uso de IA capaz de alterar a intenção original de uma obra | — |
 | FORTE | especial | 5936 | 22 | 100 | Kojima revela à IGN bastidores da saída da Sony de PHYSINT e temor pelo futuro do estúdio | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
@@ -656,6 +657,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1988 | 7 | 100 | Nintendo marca Direct dedicado a Fire Emblem: Fortune's Weave para esta terça | — |
 | FORTE | noticia | 2726 | 10 | 100 | Nintendo transforma o DK Challenge em coleção física com 39 cards de Donkey Kong | — |
 | FORTE | Notícias | 2790 | 12 | 100 | Nintendo anuncia dois Directs seguidos; Zelda terá especial de 40 anos e comunidade já faz apostas | — |
+| FORTE | notícia | 2749 | 9 | 100 | Nintendo encerra o login com Google e Apple na Conta Nintendo em 26 de janeiro de 2027 | — |
 | FORTE | notícia | 3076 | 12 | 100 | Nintendo promete "novas formas de jogar" no Switch 2, mas não fecha a porta para outro aumento de preço | — |
 | FORTE | noticia | 4152 | 10 | 100 | Nintendo supera PlayStation e Xbox na média de avaliações de 2026; veja todos os jogos | — |
 | FORTE | notícia | 2590 | 9 | 100 | Nintendo afirma que não pretende abandonar jogos em mídia física | — |
@@ -835,6 +837,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1890 | 8 | 100 | Splatoon Raiders ganha novas builds oficiais para transformar Salmonids em caos no Switch 2 | — |
 | FORTE | notícia | 2348 | 6 | 100 | Splatoon Raiders faz história: maior nota de usuários da Nintendo no Metacritic (e top 10 de todos os tempos) | — |
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
+| FORTE | notícia | 3050 | 10 | 100 | Square Enix vende 21,9% mais no semestre com Rebirth no Switch 2 e no Xbox, e eleva a previsão de lucro em 20% | — |
 | FORTE | notícia | 3114 | 12 | 100 | Atualização 2.1 de STALKER 2 já está disponível e amplia o alcance do A-Life | — |
 | FORTE | notícia | 2908 | 11 | 100 | Naves em formação e tochas acesas: jogadores de Star Trek Online se despedem de Patrick Stewart | — |
 | FORTE | notícia | 2776 | 12 | 100 | Star Wars Battlefront 3 estaria em produção na DICE e na Respawn, diz Variety | — |
@@ -897,6 +900,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 5270 | 21 | 100 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | — |
 | FORTE | notícia | 3046 | 10 | 100 | The Witcher 3 Remastered recebe no Switch 2 o patch 5.01, com imagem mais nítida e as correções que as outras versões já tinham | — |
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
+| FORTE | notícia | 3106 | 11 | 100 | CD Projekt usa IA para devolver a Geralt a voz polonesa de 2015 em Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
 | FORTE | notícia | 2895 | 10 | 100 | Thief: The Dark Project Remastered sai em 3 de dezembro com campanha nova feita pela equipe de The Black Parade | — |
