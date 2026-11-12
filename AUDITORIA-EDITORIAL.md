@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1041
-- Forte: 1027
+- Total analisado: 1042
+- Forte: 1028
 - Revisar: 12
 - Prioridade: 2
 
@@ -203,6 +203,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2944 | 14 | 100 | Sindicato acusa Microsoft de sabotar Marvel's Blade para justificar o fechamento da Arkane Lyon | — |
 | FORTE | notícia | 3842 | 13 | 100 | Arknights: Endfield chega ao Steam com Santuário de Tinta, Si e Argent Flow | — |
 | FORTE | noticia | 5042 | 17 | 100 | Armed Fantasia tem desenvolvimento descontinuado pela Digital Bros após anos de produção | — |
+| FORTE | notícia | 2738 | 12 | 100 | Chefe do Xbox defende futuro em que "uma pequena equipe vai construir mundos que hoje exigem centenas de desenvolvedores" | — |
 | FORTE | notícia | 5666 | 24 | 100 | Asha Sharma reforça Xbox Series, detalha família Helix e indica um Game Pass mais flexível | — |
 | FORTE | notícia | 2074 | 6 | 100 | Black Flag Resynced ganha atualização que deixa esconder a zarabatana das costas do Edward | — |
 | FORTE | notícia | 2101 | 5 | 100 | DLC polêmico do dia 1 de Black Flag Resynced rendeu US$ 1 milhão só no Steam — e a galera tá furiosa | — |
