@@ -1,0 +1,35 @@
+{
+  "slug": "nintendo-fim-login-google-apple-conta-nintendo-26-janeiro-2027-senha-passkey",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "12 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-12T07:50:00-03:00",
+  "title": "Nintendo encerra o login com Google e Apple na Conta Nintendo em 26 de janeiro de 2027",
+  "excerpt": "A partir da data, não será possível entrar, vincular nem criar uma Conta Nintendo com Google ou Apple. Quem usa esse atalho precisa definir senha ou passkey antes, já que a conta é a chave da eShop e do Switch 2.",
+  "cover": [
+    "#e60012",
+    "#1a1a1a"
+  ],
+  "image": "/img/nintendo-conta-nintendo-fim-login-google-apple-2027-capa.jpg",
+  "imageFilename": "nintendo-conta-nintendo-fim-login-google-apple-2027-capa.jpg",
+  "imageAlt": "Ícone oficial da Conta Nintendo, um perfil branco sobre quadrado vermelho, usado no suporte da Nintendo",
+  "imageCredit": "Conta Nintendo. Divulgação/Nintendo",
+  "imageOrigem": "Capa: imagem oficial de compartilhamento da página de suporte da Nintendo Europe sobre o fim do login com Google e Apple (H2x1_Support_Nintendo_Account_image1280w.jpg, 1280x640).",
+  "fonte": "Nintendo, página de suporte 'Discontinuation of Google and Apple accounts linking to Nintendo Accounts'",
+  "fonteUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/71943",
+  "body": [
+    "A Nintendo vai desligar o login com Google e Apple na Conta Nintendo em 26 de janeiro de 2027. A partir da data, não será possível entrar na conta com esses serviços, vinculá-los nem criar uma conta nova por meio deles. O aviso foi publicado nesta semana nas páginas de suporte da empresa, inclusive a da Nintendo of America, que atende o Brasil.",
+    "\"A partir de 26 de janeiro de 2027, não é possível vincular uma conta Google ou Apple a uma Conta Nintendo\", diz o comunicado. Um asterisco acompanha a data. Segundo a Nintendo, o horário exato do desligamento pode atrasar, conforme o andamento da mudança no sistema. O mesmo aviso, com a mesma data, aparece nas páginas da Nintendo do Japão e da Europa.",
+    "## O que fazer antes da data",
+    "A mudança mexe na forma de entrar, não na conta. Quem criou a Conta Nintendo pelo Google ou pela Apple continua com ela. É essa conta que guarda as compras da eShop, o saldo em reais e a assinatura do Switch Online, o que dá a medida do problema para quem ficar sem acesso.",
+    "Quem criou a conta com Google ou Apple, ou se acostumou a entrar por esse atalho, vai precisar de outro caminho. A Nintendo orienta o uso do e-mail ou do ID de usuário com senha. A outra opção é a passkey, o login por impressão digital ou reconhecimento facial que a conta já aceita. A própria página de suporte traz o passo a passo para registrar a passkey.",
+    "Quem nunca definiu uma senha porque sempre entrou pelo Google ou pela Apple pode usar a redefinição de senha em accounts.nintendo.com. A página de suporte também lembra que, em aparelhos onde a conta já está conectada, talvez não seja preciso entrar de novo. O risco aparece na próxima vez que o sistema pedir as credenciais, num celular novo ou no navegador.",
+    "Junto com o login, sai a missão do My Nintendo que dava Pontos de Platina a quem vinculasse uma conta Google. A recompensa deixa de existir porque o vínculo deixa de existir.",
+    "## A segunda porta que a Nintendo fecha",
+    "Não é a primeira vez. Em outubro de 2022, a Nintendo encerrou o login com Facebook e Twitter. Agora saem os dois provedores externos que restavam, justamente os mais usados em celular.",
+    "A mudança pesa mais hoje do que pesaria na época do primeiro Switch. A Conta Nintendo é o que liga o Switch 2 às compras da eShop, aos Cartões Virtuais de Jogo e ao Nintendo Switch Online. Também é por ela que se entra nos aplicativos de celular da empresa, onde o login com Google e Apple era o atalho natural.",
+    "A empresa não vincula o fim do recurso a nenhum incidente de segurança. A leitura mais provável é de controle: a Nintendo parece querer depender só da própria infraestrutura para autenticar quem compra e joga, e deixar a passkey como a opção sem senha. Para quem entra pelo Google no celular, o prazo é de 75 dias a partir de hoje, com o Natal no meio, para resolver isso com calma."
+  ],
+  "observacao": "Apuração 12/11/2026. Data 26/1/2027, asterisco sobre possível atraso, o que deixa de funcionar (login, vínculo, criação de conta), orientação para e-mail/ID e senha ou passkey, redefinição em accounts.nintendo.com, aviso de que talvez não seja preciso entrar de novo em aparelho já conectado e fim da missão de Pontos de Platina: página de suporte da Nintendo of America (https://en-americas-support.nintendo.com/app/answers/detail/a_id/71943) e da Nintendo UK (https://www.nintendo.com/en-gb/Support/Nintendo-Account/Discontinuation-of-Google-and-Apple-accounts-linking-to-Nintendo-Accounts-3239447.html); repercussão Nintendo Wire 11/11 (https://nintendowire.com/news/2026/11/11/google-and-apple-logins-for-nintendo-accounts-ending-in-2027/), Notebookcheck e Gameluster. Fala traduzida do texto oficial: 'As of January 26, 2027*, it is not possible to link a Google or Apple account to a Nintendo Account.' Aviso japonês (support.nintendo.com/jp/information/2026/1110) não abriu daqui; Nintendo Wire cita do Q&A japonês 'the termination of our partnership with Google and Apple' (fonte única, fora do texto). Não encontrei versão pt-BR da página; a da Nintendo of America cobre as Américas. Precedente: fim do login Facebook/Twitter em outubro de 2022 (Nintendo PH 20/9/2022, TechCrunch 20/9/2022, Shacknews). 'A empresa não vincula o fim do recurso a nenhum incidente de segurança' se baseia nas páginas oficiais lidas, que não citam motivo além da mudança de sistema. Imagem: og:image oficial da página da Nintendo Europe, 1280x640."
+}
