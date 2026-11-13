@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1048
-- Forte: 1034
+- Total analisado: 1049
+- Forte: 1035
 - Revisar: 12
 - Prioridade: 2
 
@@ -500,6 +500,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
+| FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
 | FORTE | notícia | 2884 | 15 | 100 | Mapa de GTA VI vaza numa vitrine da Selfridges e revela nomes de lugares de Leonida | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
