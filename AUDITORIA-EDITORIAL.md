@@ -501,7 +501,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
-| FORTE | notícia | 2831 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
+| FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
 | FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
@@ -509,7 +509,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
 | FORTE | notícia | 2819 | 13 | 100 | GTA VI já passou de US$ 1 bilhão em pré-vendas, estima Sensor Tower, e 75% das cópias são do PS5 | — |
-| FORTE | notícia | 2816 | 15 | 100 | GTA VI recebe a primeira atualização antes do lançamento, e ela parece ser obrigatória | — |
+| FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2739 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
