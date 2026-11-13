@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1052
-- Forte: 1038
+- Total analisado: 1053
+- Forte: 1039
 - Revisar: 12
 - Prioridade: 2
 
@@ -401,6 +401,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2848 | 12 | 100 | gamescom asia 2026 bate recorde internacional, com 219 mil visitantes de 113 países | — |
 | FORTE | notícia | 12047 | 45 | 100 | Gamescom Opening Night Live 2026: veja os principais anúncios e trailers | — |
 | FORTE | notícia | 2680 | 5 | 100 | CEO da GameStop sobre jogos físicos: 'Não importa. Não importa nada' | — |
+| FORTE | notícia | 2727 | 13 | 100 | Um em cada três profissionais de games foi demitido nos últimos dois anos, aponta pesquisa da GDC | — |
 | FORTE | notícia | 3648 | 15 | 100 | Gears of War faz 20 anos e dá RAAM de graça em E-Day; Temporada 2: Legacy chega em 1º de dezembro | — |
 | FORTE | notícia | 2223 | 7 | 100 | Gears of War: E-Day abre beta multiplayer em 6 de agosto — veja como garantir acesso antecipado | — |
 | FORTE | noticia | 4224 | 15 | 100 | Diretor de história de Gears of War: E-Day é demitido dias após jogo ficar pronto | — |
