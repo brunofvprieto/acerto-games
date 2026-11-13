@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1060
-- Forte: 1046
+- Total analisado: 1061
+- Forte: 1047
 - Revisar: 12
 - Prioridade: 2
 
@@ -929,6 +929,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2740 | 13 | 100 | The Expanse: Osiris Reborn terá legendas e interface em português do Brasil, confirma Owlcat | — |
 | FORTE | noticia | 2818 | 11 | 100 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | — |
 | FORTE | notícia | 2755 | 14 | 100 | The Game Awards 2026 terá transmissão no Disney+, e a Disney promete "grandes anúncios" de jogos | — |
+| FORTE | notícia | 2866 | 13 | 100 | Indicados do The Game Awards 2026 saem na terça, 17, e a premiação vai passar pela primeira vez no Roblox | — |
 | FORTE | notícia | 2734 | 13 | 100 | The Road of Dust and Sorrow, terror em pixel art inspirado em Resident Evil, é adiado para 19 de fevereiro | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
 | FORTE | notícia | 3608 | 9 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
