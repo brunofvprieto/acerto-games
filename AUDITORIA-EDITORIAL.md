@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1046
-- Forte: 1032
+- Total analisado: 1047
+- Forte: 1033
 - Revisar: 12
 - Prioridade: 2
 
@@ -790,6 +790,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2722 | 10 | 100 | PUBG vai ganhar série live-action na Netflix, escrita, dirigida e estrelada por Donald Glover | — |
 | FORTE | notícia | 2812 | 14 | 100 | Sony adia as caixas de som Pulse Elevate a seis dias do lançamento e não dá nova data | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
+| FORTE | notícia | 2823 | 14 | 100 | Queda global da Microsoft atinge a Xbox Live às vésperas dos 25 anos do Xbox | — |
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2990 | 13 | 100 | Ratchet & Clank: Ranger Rumble é cancelado antes do lançamento mundial, e servidores fecham em maio de 2027 | — |
