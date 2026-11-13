@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1047
-- Forte: 1033
+- Total analisado: 1048
+- Forte: 1034
 - Revisar: 12
 - Prioridade: 2
 
@@ -775,6 +775,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3307 | 9 | 100 | PS Plus de outubro terá Mafia: The Old Country, Horizon Forbidden West e Dino Crisis 2 | — |
 | FORTE | notícia | 3088 | 10 | 100 | PS Plus de outubro começa hoje com F1 25, Hunt: Showdown 1896 e World Brothers 2 | — |
 | FORTE | notícia | 2755 | 12 | 100 | Sony lança PS Portal preto com armazenamento interno no Japão e diz que a memória servirá a "funções futuras" | — |
+| FORTE | notícia | 2696 | 14 | 100 | PlayStation Store passa a aceitar Pix nas compras pelo navegador | — |
 | FORTE | notícia | 2443 | 14 | 100 | Planeta das Ofertas na PS Store: Final Fantasy VII Rebirth por R$ 85 e Hogwarts Legacy por R$ 52 | — |
 | FORTE | retrô | 2790 | 11 | 100 | PS3 faz 20 anos: o console caro que quase derrubou a Sony e virou a base do PlayStation moderno | — |
 | FORTE | notícia | 2751 | 12 | 100 | PS5 passa de 100 milhões de unidades e vira o quarto PlayStation a chegar à marca | — |
