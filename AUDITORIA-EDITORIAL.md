@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1050
-- Forte: 1036
+- Total analisado: 1051
+- Forte: 1037
 - Revisar: 12
 - Prioridade: 2
 
@@ -900,6 +900,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2770 | 11 | 100 | André Colvara transforma em herança a paixão por Nintendo e Zelda | — |
 | FORTE | notícia | 3214 | 10 | 100 | Take-Two diz que pré-vendas de GTA VI estão em nível sem precedentes e prevê dobrar o faturamento no trimestre do lançamento | — |
 | FORTE | notícia | 2850 | 8 | 100 | Take-Two admite que pirataria com ajuda de IA vai pesar mais, diz que GTA VI pode ter freado NBA 2K27 e fala em reviver franquias antigas | — |
+| FORTE | notícia | 2757 | 13 | 100 | Take-Two descarta venda como a da EA e diz que filme de GTA não está fora dos planos | — |
 | FORTE | notícia | 2860 | 11 | 100 | A uma semana de GTA VI, Take-Two já fala do próximo GTA e promete outro ritmo na próxima década | — |
 | FORTE | notícia | 2737 | 13 | 100 | Chefe da Take-Two elogia Zelda: "A Nintendo deve ficar muito orgulhosa", e diz que GTA VI é uma barganha a US$ 80 | — |
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
