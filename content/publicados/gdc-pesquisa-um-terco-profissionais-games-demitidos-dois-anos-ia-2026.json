@@ -1,0 +1,43 @@
+{
+  "slug": "gdc-pesquisa-um-terco-profissionais-games-demitidos-dois-anos-ia-2026",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "13 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-13T12:02:00-03:00",
+  "title": "Um em cada três profissionais de games foi demitido nos últimos dois anos, aponta pesquisa da GDC",
+  "excerpt": "Nos Estados Unidos, o índice chega a 39%, e mais da metade dos demitidos ainda não achou outro emprego. O uso de IA subiu para 40%.",
+  "cover": [
+    "#3a0a0a",
+    "#050806"
+  ],
+  "image": "/img/gdc-festival-of-gaming-2026-arte-oficial-capa-state-of-industry.jpg",
+  "imageFilename": "gdc-festival-of-gaming-2026-arte-oficial-capa-state-of-industry.jpg",
+  "imageAlt": "Arte oficial do GDC Festival of Gaming 2026",
+  "imageCredit": "GDC Festival of Gaming. Divulgação/GDC",
+  "fonte": "GDC (State of the Game Industry, novembro de 2026)",
+  "fonteUrl": "https://gdconf.com/state-of-the-game-industry-november-2026/",
+  "imageOrigem": "Capa: arte oficial da página do relatório no site da GDC.",
+  "body": [
+    "Um em cada três profissionais de games perdeu o emprego nos últimos dois anos. É o que mostra a nova edição do relatório State of the Game Industry, a pesquisa anual dos organizadores da GDC, a maior conferência de desenvolvedores do mundo.",
+    "Na pesquisa, 34% dos entrevistados disseram ter sido demitidos nos últimos 24 meses. Entre quem trabalha nos Estados Unidos, o número sobe para 39%. A taxa aumentou em todas as edições dos últimos três anos.",
+    "## Demitidos mais de uma vez",
+    "A pesquisa ouviu cerca de 900 pessoas que perderam o emprego no período. Desse grupo, 17% foram demitidas duas vezes em dois anos, e 3% passaram por três demissões ou mais.",
+    "Recolocar-se também ficou difícil. Mais da metade dos demitidos ainda não encontrou outro trabalho. Entre os que acharam, só dois terços continuam numa função parecida, e 9% deixaram a indústria de games de vez.",
+    "Nos Estados Unidos, só metade dos entrevistados tem emprego em tempo integral, contra 59% no ano passado. E 49% disseram que a empresa onde trabalham fez algum corte nos últimos 12 meses. Nos grandes estúdios, o índice chega a 68%.",
+    "A própria GDC faz uma ressalva. Segundo a organização, a pesquisa parece atrair mais gente afetada pelas demissões, e por isso as taxas crescem mais rápido do que em outros levantamentos do setor.",
+    "## Medo do futuro",
+    "O clima é de pessimismo. Mais da metade dos entrevistados concorda totalmente com a frase \"estou preocupado com o meu futuro na indústria de games\". E 73% discordam, em algum grau, de que estão otimistas com os rumos do setor.",
+    "Mesmo assim, o amor pelo trabalho continua. Para 86% dos entrevistados, trabalhar com games traz mais realização do que trabalhar em outra área. Ao mesmo tempo, 65% dizem que o emprego já afetou a saúde mental.",
+    "O apoio a sindicatos segue alto, perto de 80%. Mas, com tantas demissões e vagas escassas, o interesse em se filiar caiu.",
+    "## A inteligência artificial",
+    "O relatório também mede o uso de inteligência artificial generativa. Hoje, 40% dos profissionais usam essas ferramentas no trabalho, contra 36% no ano passado. Entre os estúdios, o uso é bem menor do que em marketing e áreas de negócios.",
+    "A rejeição continua grande. Para 55% dos entrevistados, a IA generativa tem um impacto negativo na indústria. Muitos aceitam usá-la em tarefas repetitivas, mas a resistência é forte quando o assunto é arte e outras partes do jogo que o jogador vê.",
+    "O tema está no centro do debate nesta semana. A chefe do Xbox, Asha Sharma, defendeu nos 25 anos da marca um futuro em que pequenas equipes, com ajuda de IA, façam o trabalho que hoje exige centenas de pessoas.",
+    "link: Chefe do Xbox defende futuro em que \"uma pequena equipe vai construir mundos que hoje exigem centenas de desenvolvedores\" | https://acertogames.com.br/noticia/asha-sharma-xbox-25-anos-mensagem-ia-pequena-equipe-centenas-desenvolvedores",
+    "## Um ano de cortes",
+    "Os números batem com o que se viu em 2026. A EA anunciou o fechamento da BioWare, o Xbox voltou a cortar equipes e as demissões no setor já passaram do total do ano passado, com dois meses ainda pela frente.",
+    "link: Demissões na indústria de games em 2026 já passam do total de 2025, com dois meses ainda pela frente | https://acertogames.com.br/noticia/demissoes-industria-games-2026-passam-total-2025-asgc-amir-satvat"
+  ],
+  "observacao": "Busca de 13/11, 11h30. Relatório oficial da GDC (lido direto: ~900 demitidos, ressalva, IA 40% e 55%, 86%, 65%) + Game Developer (34%, 39%, 50% vs 59%, 17%/3%, 49%, 68%, 9%) + Kotaku (54% sem emprego, 51%/73%, sindicatos 80%). Sharma: nossa matéria. BioWare e demissões 2026: nossas matérias."
+}
