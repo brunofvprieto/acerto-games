@@ -62,6 +62,12 @@ export default function RootLayout({ children }) {
       <head>
 
         <meta name="google-adsense-account" content="ca-pub-5246089745607111" />
+        {/* Código do AdSense direto no <head>, como o Google pede, para o robô de verificação encontrar. */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5246089745607111"
+          crossOrigin="anonymous"
+        />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaWebSite) }} />
       </head>
       <body>
@@ -70,12 +76,6 @@ export default function RootLayout({ children }) {
         <Footer />
 
         {/* Scripts de terceiros ficam fora do caminho crítico de renderização. */}
-        <Script
-          id="adsense-loader"
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5246089745607111"
-          strategy="lazyOnload"
-          crossOrigin="anonymous"
-        />
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`}
           strategy="afterInteractive"
