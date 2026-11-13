@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1056
-- Forte: 1042
+- Total analisado: 1057
+- Forte: 1043
 - Revisar: 12
 - Prioridade: 2
 
@@ -887,6 +887,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2784 | 13 | 100 | Stellar Blade já está no Switch 2: veja o que vem nos pacotes de NieR, Nikke e Bayonetta incluídos na Complete Edition | — |
 | FORTE | notícia | 3013 | 9 | 100 | Stellar Blade chega ao Switch 2 nesta quinta, e as primeiras análises mostram o preço dos 60 fps | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
+| FORTE | notícia | 2887 | 14 | 100 | Stranger Than Heaven mostra Daito entrando para a yakuza em Kure, no trailer mais violento até agora | — |
 | FORTE | notícia | 3307 | 14 | 100 | Street Fighter estreia em primeiro nos EUA, mas abre abaixo de Mortal Kombat II | — |
 | FORTE | notícia | 2712 | 8 | 100 | Capcom aprova novo filme de Street Fighter, e diretor revela reação de criador dos jogos | — |
 | FORTE | noticia | 2165 | 9 | 100 | Filme de Street Fighter vai eternizar o EVO Moment 37 e terá Justin Wong em cena | — |
