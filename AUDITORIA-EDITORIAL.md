@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1055
-- Forte: 1041
+- Total analisado: 1056
+- Forte: 1042
 - Revisar: 12
 - Prioridade: 2
 
@@ -1063,6 +1063,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2191 | 8 | 100 | Zelda: Ocarina of Time para Switch 2 abre pré-venda no Brasil e edição especial vira alvo de corrida dos fãs | — |
 | FORTE | notícia | 2810 | 10 | 100 | Ocarina of Time vaza antes do lançamento, e as análises do remake saem no meio da semana | — |
 | FORTE | notícia | 2724 | 9 | 100 | Ocarina of Time vende 5,2 milhões em quatro dias e faz a maior estreia da Nintendo no Switch 2 | — |
+| FORTE | notícia | 2744 | 15 | 100 | Zelda estava "vendendo nada" antes de Breath of the Wild, dizem ex-funcionários da Nintendo | — |
 | FORTE | notícia | 2496 | 6 | 100 | Link, Zelda e Ganondorf ganham action figures da Hasbro — e o preço não vai te quebrar | — |
 | FORTE | especial | 5828 | 24 | 100 | Zelda contra GTA: novembro junta as duas séries que ensinaram os games a construir mundos | — |
 | FORTE | notícia | 2701 | 8 | 100 | Zero Parades: Director's Cut chega nesta terça ao PS5, Xbox e Switch 2, ainda sem português | — |
