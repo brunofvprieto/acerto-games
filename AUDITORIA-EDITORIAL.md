@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1058
-- Forte: 1044
+- Total analisado: 1059
+- Forte: 1045
 - Revisar: 12
 - Prioridade: 2
 
@@ -970,6 +970,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3507 | 6 | 100 | Vídeo vazado do cancelado Kingdom Hearts: Missing-Link mostra astronautas empunhando Keyblade — e os fãs enlouqueceram | — |
 | FORTE | noticia | 3860 | 14 | 100 | Suposto vazamento da EB Games revela novo Mario Sluggers, Metroid: Ravenous e datas para jogos da Nintendo | — |
 | FORTE | noticia | 3642 | 10 | 100 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | — |
+| FORTE | notícia | 2975 | 14 | 100 | Vindictus: Defying Fate ganha trailer cinematográfico e confirma lançamento em 2027 no PC e no PS5 | — |
 | FORTE | notícia | 2963 | 12 | 100 | Virtua Fighter Crossroads revela Lionel Rafale, lutador que parece ser a nova versão de Lion | — |
 | FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
