@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1044
-- Forte: 1030
+- Total analisado: 1046
+- Forte: 1032
 - Revisar: 12
 - Prioridade: 2
 
@@ -969,6 +969,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
 | FORTE | notícia | 3379 | 12 | 100 | Wo Long 2 muda Insight Skills, Espírito e magias depois da Alpha Demo, mas mexe pouco na Moral | — |
+| FORTE | notícia | 3350 | 11 | 100 | Wolfenstein 3 entra em produção na MachineGames, nove anos depois de The New Colossus | — |
 | FORTE | noticia | 4648 | 15 | 100 | Sony tenta justificar saída de PHYSINT após romper com Kojima? | — |
 | FORTE | artigo | 3490 | 15 | 100 | Wonderia lembra Terraria na exploração e ganha força com um Modo Criativo sem a pressão da sobrevivência | — |
 | FORTE | notícia | 2709 | 10 | 100 | Wonderia ganha Modo Criativo, com Modo Deus, plantas reutilizáveis e opção de pausar o mundo | — |
@@ -1018,6 +1019,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
 | FORTE | notícia | 5355 | 28 | 100 | Linha do tempo oficial de Zelda agora tem duas fundações de Hyrule, e a era dos Zonai fecha os três caminhos | — |
 | FORTE | notícia | 3334 | 17 | 100 | Com 96, remake de Ocarina of Time empata em 3º entre os Zelda mais bem avaliados do Metacritic | — |
+| FORTE | notícia | 2924 | 9 | 100 | Ocarina of Time vende 537 mil cartuchos no Japão, e o físico fica com dois terços das vendas no país | — |
 | FORTE | notícia | 2721 | 13 | 100 | Ocarina of Time recebe atualização 1.1.1 antes do lançamento: 343 MB e suporte ao ZELDA NOTES | — |
 | FORTE | notícia | 2990 | 11 | 100 | Nintendo UK refaz o comercial de 1998 de Ocarina of Time e troca o slogan polêmico por "Willst thou flee? Or fight?" | — |
 | FORTE | Notícias | 2215 | 7 | 100 | Vazamento aponta Monolith Soft como desenvolvedora de Zelda: Ocarina of Time no Switch 2 | — |
