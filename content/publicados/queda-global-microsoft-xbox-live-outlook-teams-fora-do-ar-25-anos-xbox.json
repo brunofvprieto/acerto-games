@@ -1,0 +1,43 @@
+{
+  "slug": "queda-global-microsoft-xbox-live-outlook-teams-fora-do-ar-25-anos-xbox",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "13 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-13T11:52:00-03:00",
+  "title": "Queda global da Microsoft atinge a Xbox Live às vésperas dos 25 anos do Xbox",
+  "excerpt": "Outlook, Teams e Copilot caíram na quinta, e nesta sexta jogadores relatam falhas para entrar na conta e abrir jogos. A Microsoft descarta ataque.",
+  "cover": [
+    "#0a3a0a",
+    "#050806"
+  ],
+  "image": "/img/xbox-25-anos-bundle-arte-oficial-capa-queda-microsoft.jpg",
+  "imageFilename": "xbox-25-anos-bundle-arte-oficial-capa-queda-microsoft.jpg",
+  "imageAlt": "Arte oficial do pacote de 25 anos do Xbox",
+  "imageCredit": "25 Years of Xbox. Divulgação/Xbox",
+  "fonte": "Microsoft (status oficial)",
+  "fonteUrl": "https://www.videogameschronicle.com/news/microsoft-struggles-to-restore-online-services-after-major-outage/",
+  "imageOrigem": "Capa: arte oficial do vídeo do pacote de 25 anos, canal do Xbox no YouTube.",
+  "body": [
+    "Uma falha global derrubou boa parte dos serviços da Microsoft, e a Xbox Live entrou na conta nesta sexta-feira, 13. O problema começou na noite de quinta e ainda não foi totalmente resolvido.",
+    "Outlook, Teams, Copilot, OneDrive e o próprio Microsoft 365 ficaram fora do ar ou instáveis para usuários do mundo todo. Na manhã desta sexta, os relatos de problemas no Xbox também começaram a crescer.",
+    "## O que está falhando no Xbox",
+    "Os jogadores relatam dificuldade para entrar na conta, jogos digitais que não abrem e salvamentos na nuvem que não sincronizam. O Xbox Cloud Gaming também aparece entre os serviços afetados.",
+    "A página oficial de status do Xbox, porém, segue toda verde. O contraste com os relatos no Downdetector chamou atenção. Parte dos jogadores consegue jogar normalmente, o que indica uma falha intermitente.",
+    "## \"Carga elevada\" e nenhum ataque",
+    "A Microsoft atribuiu o problema a uma parte da infraestrutura que enfrenta \"carga elevada em várias regiões\". Em outras palavras, os servidores chegaram ao limite. A empresa não explicou o motivo.",
+    "A empresa descarta um ataque. \"Neste momento, não temos evidências de atividade maliciosa associada a este incidente\", disse a Microsoft. Ela promete um relatório completo com a causa depois que tudo for resolvido.",
+    "As primeiras tentativas de correção não deram certo. Segundo a própria Microsoft, as medidas \"não estão funcionando como esperado\". Mais tarde, a empresa falou em \"progresso encorajador\" na recuperação, mas admitiu que alguns usuários ainda terão problemas.",
+    "A Microsoft tem publicado atualizações quase de hora em hora. Numa delas, a empresa reconhece que \"a capacidade ainda não voltou totalmente ao normal\". Até a manhã desta sexta, a pane já durava quase 24 horas.",
+    "Não está claro quando tudo volta ao normal. A empresa diz que a recuperação acontece \"em etapas\" e que a prioridade agora é desafogar a fila de e-mails acumulados.",
+    "## Hospitais e aeroportos afetados",
+    "A falha foi muito além dos games. No Reino Unido, o serviço público de saúde, a polícia, aeroportos e escolas tiveram problemas para mandar e receber e-mails. Órgãos do governo americano também foram afetados.",
+    "O episódio mostra o quanto serviços essenciais dependem dos servidores de uma única empresa. Para quem joga, parece um lembrete incômodo de como os jogos digitais dependem da conexão para funcionar.",
+    "## Fim de semana de festa",
+    "O momento não podia ser pior para o Xbox. A marca completa 25 anos neste domingo, 15, e passou a semana soltando novidades, como o vídeo de jogabilidade de Fable e novos jogos na retrocompatibilidade.",
+    "link: Retrocompatibilidade do Xbox no PC ganha 21 clássicos, de KOTOR a Morrowind, e alguns recebem conquistas pela primeira vez | https://acertogames.com.br/noticia/xbox-retrocompatibilidade-pc-21-jogos-xbox-original-kotor-morrowind-conquistas",
+    "Neste fim de semana, quem assina o Game Pass também tem quatro jogos liberados de graça até domingo, nos Dias para Jogar de Graça. Sem conta funcionando, fica difícil aproveitar.",
+    "E GTA VI chega na próxima quinta-feira, 19, também ao Xbox Series e ao Xbox Cloud Gaming. Depois de uma pane dessas, a pressão sobre a estabilidade da rede na semana do lançamento parece ainda maior."
+  ],
+  "observacao": "Busca de 13/11, 11h30. Início na quinta à noite, serviços: Kotaku + Windows Central + VGC. Falhas no Xbox (login, jogos digitais, nuvem): Windows Central + Kotaku + VGC (Downdetector). Status verde: Kotaku + VGC + Windows Central. 'Carga elevada': post oficial via Kotaku + VGC. Sem atividade maliciosa e relatório: PC Gamer + Kotaku. 'Não funcionando como esperado' e 'progresso encorajador': Kotaku + VGC. Reino Unido/EUA: VGC (BBC) + PC Gamer. Dias para Jogar de Graça até 15/11: Flow Games + Xbox. GTA no Xbox Cloud: IBTimes (Rockstar) + Windows Central."
+}
