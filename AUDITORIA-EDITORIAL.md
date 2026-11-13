@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1054
-- Forte: 1040
+- Total analisado: 1055
+- Forte: 1041
 - Revisar: 12
 - Prioridade: 2
 
@@ -552,6 +552,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2893 | 13 | 100 | Intergalactic está nos "últimos estágios de produção" e mistura Jak, Uncharted e The Last of Us, diz Neil Druckmann | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
 | FORTE | notícia | 2854 | 12 | 100 | "Vocês são uns idiotas": Jeff Kaplan conta que foi contra o anúncio de Overwatch 2 e culpa executivos da Blizzard | — |
+| FORTE | notícia | 2820 | 14 | 100 | Congresso dos EUA endurece com Jensen Huang e ameaça intimar ex-chefe da Nvidia | — |
 | FORTE | notícia | 2697 | 11 | 100 | Jensen Huang, CEO da Nvidia, admite caso extraconjugal; conselho abre investigação após reportagens sobre suposta espiã chinesa | — |
 | FORTE | notícia | 2865 | 13 | 100 | Jensen Huang renuncia ao comando da Nvidia, e diretora financeira Colette Kress assume como CEO interina | — |
 | FORTE | notícia | 2747 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
