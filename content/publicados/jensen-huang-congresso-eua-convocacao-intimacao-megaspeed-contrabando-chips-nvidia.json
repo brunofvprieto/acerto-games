@@ -1,0 +1,43 @@
+{
+  "slug": "jensen-huang-congresso-eua-convocacao-intimacao-megaspeed-contrabando-chips-nvidia",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "13 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-13T12:04:00-03:00",
+  "title": "Congresso dos EUA endurece com Jensen Huang e ameaça intimar ex-chefe da Nvidia",
+  "excerpt": "Três comissões da Câmara querem ouvir Huang em 1º de dezembro sobre contrabando de chips e a Megaspeed. O prazo para ele aceitar termina nesta sexta.",
+  "cover": [
+    "#0a3a0a",
+    "#050806"
+  ],
+  "image": "/img/jensen-huang-palco-gtc-berlim-nvidia-oficial-capa-congresso.jpg",
+  "imageFilename": "jensen-huang-palco-gtc-berlim-nvidia-oficial-capa-congresso.jpg",
+  "imageAlt": "Jensen Huang no palco da GTC em Berlim",
+  "imageCredit": "Jensen Huang na GTC Berlim 2026. Divulgação/Nvidia",
+  "fonte": "Comissões da Câmara dos EUA (cartas oficiais)",
+  "fonteUrl": "https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/",
+  "imageOrigem": "Capa: imagem oficial do keynote da GTC Berlim, canal da Nvidia no YouTube.",
+  "body": [
+    "Jensen Huang deixou a Nvidia, mas os problemas não ficaram para trás. Três comissões da Câmara dos Estados Unidos convocaram o ex-presidente da empresa para depor a portas fechadas e ameaçam intimá-lo se ele não aceitar.",
+    "\"Com os novos relatos sobre Jensen Huang, a Nvidia e a Megaspeed, há claras preocupações de segurança nacional\", disseram os presidentes das comissões. Para eles, o tema \"precisa ser tratado imediatamente\".",
+    "\"Precisamos saber até que ponto a nossa segurança nacional foi colocada em risco\", completaram.",
+    "## Prazo até esta sexta à noite",
+    "As cartas são assinadas por três republicanos. Brian Mast preside a Comissão de Relações Exteriores, John Moolenaar a comissão sobre a China e Rick Crawford a Comissão de Inteligência.",
+    "Eles pedem uma entrevista com Huang em 1º de dezembro e com o diretor jurídico da Nvidia, Tim Teter, no dia 2. O prazo para os dois confirmarem vai até as 20h desta sexta-feira, 13, no horário de Nova York, ou 22h no horário de Brasília. Caso contrário, \"uma intimação será emitida\".",
+    "O tom mudou bastante. Uma carta anterior, enviada antes da renúncia, só pedia que Huang sugerisse outra data caso não pudesse comparecer. Pelos relatos, ele já sinalizou que deve ir à conversa.",
+    "## Contrabando de chips",
+    "Os deputados querem respostas sobre contrabando de chips de inteligência artificial e o uso militar de produtos da Nvidia por países adversários. Também querem entender relatos de interferência da empresa em investigações sobre controle de exportações.",
+    "No centro de tudo está a Megaspeed, uma empresa registrada em Singapura e cliente da Nvidia, acusada de ajudar a China a ter acesso a placas de alto desempenho. As cartas listam temas para as perguntas, e não conclusões de que houve crime.",
+    "Um subsecretário do Departamento de Comércio, Jeffrey Kessler, também foi chamado. No caso dele, o convite é para uma audiência pública no dia 3 de dezembro, num tom bem mais amigável.",
+    "## Senado também quer ouvir",
+    "A pressão vem das duas casas do Congresso. O presidente da Comissão de Bancos do Senado, Tim Scott, também enviou cartas pedindo que Huang e o secretário de Comércio, Howard Lutnick, deponham.",
+    "\"Relatos recentes levantam sérias preocupações sobre a nossa segurança nacional e a proteção de tecnologia americana sensível\", escreveu Scott.",
+    "Do lado democrata, o deputado Richard Neal e o senador Ron Wyden abriram uma investigação sobre a aprovação, pelo governo, da venda de chips da Nvidia para a China.",
+    "## Da renúncia ao depoimento",
+    "Huang renunciou ao comando da Nvidia nesta semana, depois de relatos de um relacionamento com Alice Huang, ex-diretora da Megaspeed, suspeita de espionagem para o governo chinês. A diretora financeira Colette Kress assumiu como CEO interina.",
+    "link: Jensen Huang renuncia ao comando da Nvidia, e diretora financeira Colette Kress assume como CEO interina | https://acertogames.com.br/noticia/jensen-huang-renuncia-nvidia-colette-kress-ceo-interina",
+    "Para quem joga no PC, o caso vai além da política. A Nvidia domina o mercado de placas de vídeo para games, e a troca no comando, somada à investigação, parece abrir um período de incerteza para a marca GeForce."
+  ],
+  "observacao": "Busca de 13/11, 11h30. Cartas, assinantes, datas 1 e 2/12, prazo 20h EST de 13/11, frase da intimação, Kessler 3/12, temas, 'não conclusões': IANS + PC Gamer. Falas do comunicado: IANS + PC Gamer. Tom anterior e sinal de comparecimento: PC Gamer. Megaspeed em Singapura: PC Gamer + IANS. Tim Scott e Lutnick, fala: Reuters via VnExpress + PC Gamer. Renúncia e Kress: nossas matérias + IANS. Leitura sobre GeForce: nossa, com 'parece'."
+}
