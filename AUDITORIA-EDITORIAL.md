@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1061
-- Forte: 1047
+- Total analisado: 1062
+- Forte: 1048
 - Revisar: 12
 - Prioridade: 2
 
@@ -727,6 +727,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2814 | 12 | 100 | Path of Exile 2 sai do acesso antecipado em 11 de dezembro, com classe Sombra e guerra entre jogadores | — |
 | FORTE | notícia | 2788 | 10 | 100 | Patrick Stewart, de Star Trek e X-Men, morre aos 86 anos; ator foi o imperador de Oblivion | — |
 | FORTE | notícia | 3926 | 11 | 100 | As caçadas de Monster Hunter sobreviveram: Peace Walker mantém a parceria com a Capcom na Master Collection Vol. 2 | — |
+| FORTE | notícia | 2981 | 14 | 100 | Criadora de Crimson Desert vai usar IA em todo o desenvolvimento, e DokeV fica para 2028 | — |
 | FORTE | notícia | 2934 | 10 | 100 | Rumor: vídeo vazado mostra suposto remake de Persona 1 com motor de Persona 3 Reload | — |
 | FORTE | notícia | 2222 | 8 | 100 | Persona 4 Revival troca todo o elenco em inglês — e Atlus explica por quê | — |
 | FORTE | notícia | 2713 | 11 | 100 | Phantom Blade Zero passa de 1 milhão de cópias antes de lançar, estima analista; jogo libera hoje às 23h | — |
