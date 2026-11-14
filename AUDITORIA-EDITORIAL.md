@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1062
-- Forte: 1048
+- Total analisado: 1063
+- Forte: 1049
 - Revisar: 12
 - Prioridade: 2
 
@@ -331,7 +331,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2922 | 14 | 100 | Diários de uma Apotecária ganha jogo em 18 de março de 2027, com Jinshi e o gato Maomao como investigadores | — |
 | FORTE | notícia | 2623 | 9 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
-| FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027 — mas tem um motivo pra sorrir | — |
+| FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027, mas tem um motivo pra sorrir | — |
 | FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
 | FORTE | notícia | 2769 | 11 | 100 | Domino's lança pizza quadrada de Minecraft Dungeons II, com item exclusivo no jogo | — |
 | FORTE | notícia | 2290 | 7 | 100 | Dragon Ball: Sparking! Zero mostra DLC "Super Limit-Breaking NEO" e update grátis com 33 lutadores novos | — |
@@ -822,6 +822,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2148 | 9 | 100 | The Rogue Prince of Persia ganha enorme atualização de aniversário com gelo, novos modos e armas | — |
 | FORTE | notícia | 2806 | 11 | 100 | Romancing SaGa 2: Revenge of the Seven passa de 1 milhão de cópias, a primeira marca do tipo da série desde 1997 | — |
 | FORTE | notícia | 2916 | 11 | 100 | RTX 5090 furtadas no Aeroporto de Guarulhos aparecem à venda na OLX, e comprador acaba preso | — |
+| FORTE | notícia | 3088 | 12 | 100 | Rumor: expansão de Resident Evil Requiem teria Jill Valentine como protagonista | — |
 | FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
 | FORTE | notícia | 2835 | 12 | 100 | Rumor: remake de Silent Hill sairia em 2027 e já tem as primeiras atrizes | — |
