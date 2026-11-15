@@ -46,7 +46,15 @@ export function Cover({ colors, image, position, alt = "", className = "", fit =
   );
 }
 
-export function CategoryTag({ category, label }) {
+export function RumorTag() {
+  return (
+    <span className="ml-1.5 inline-block bg-[#FF3B5C] px-2 py-0.5 font-mono text-[10px] font-bold uppercase tracking-widest text-paper">
+      Rumor
+    </span>
+  );
+}
+
+export function CategoryTag({ category, label, rumor }) {
   const styles = {
     notícia: "bg-arcade text-ink",
     review: "bg-violet text-paper",
@@ -55,13 +63,14 @@ export function CategoryTag({ category, label }) {
     artigo: "bg-[#4D9FFF] text-ink",
     opinião: "bg-[#FF7A45] text-ink",
   };
-  return (
+  const tag = (
     <span
       className={`inline-block px-2 py-0.5 font-mono text-[10px] font-bold uppercase tracking-widest ${styles[category] || styles["notícia"]}`}
     >
       {label || category}
     </span>
   );
+  return rumor ? <>{tag}<RumorTag /></> : tag;
 }
 
 export function Nota({ value, size = "md" }) {
@@ -88,7 +97,7 @@ export function NewsCard({ post }) {
     >
       <Cover colors={post.cover} image={post.image} alt={post.imageAlt || post.title} position={post.imagePos} className="h-40" />
       <div className="space-y-2 p-4">
-        <CategoryTag category={post.category} label={post.rotulo} />
+        <CategoryTag category={post.category} label={post.rotulo} rumor={post.rumor} />
         <h3 className="font-display text-lg leading-snug group-hover:text-paper">
           {post.title}
         </h3>
@@ -114,7 +123,7 @@ export function ReviewCard({ post }) {
         </div>
       )}
       <div className="space-y-2 p-4 pt-6">
-        <CategoryTag category={post.category} label={post.rotulo} />
+        <CategoryTag category={post.category} label={post.rotulo} rumor={post.rumor} />
         <h3 className="font-display text-lg leading-snug group-hover:text-violet">
           {post.title}
         </h3>

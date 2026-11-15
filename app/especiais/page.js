@@ -65,7 +65,7 @@ export default function EspeciaisPage() {
             >
               <Cover colors={p.cover} image={p.image} position={p.imagePos} className="h-40 w-full" />
               <div className="space-y-2 p-4">
-                <CategoryTag category={p.category} label={p.rotulo} />
+                <CategoryTag category={p.category} label={p.rotulo} rumor={p.rumor} />
                 <h3 className="font-display leading-snug group-hover:text-arcade">
                   {p.title}
                 </h3>

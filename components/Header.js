@@ -45,6 +45,7 @@ export default function Header() {
             <Link href="/playstation" className="whitespace-nowrap text-[#4DA3FF] hover:text-paper">PLAYSTATION</Link>
             <Link href="/xbox" className="whitespace-nowrap text-[#5DC21E] hover:text-paper">XBOX</Link>
             <Link href="/especial-metal-gear" className="whitespace-nowrap text-[#E4C860] hover:text-paper">METAL GEAR</Link>
+            <Link href="/rumores" className="whitespace-nowrap text-[#FF3B5C] hover:text-paper">RUMORES</Link>
             <Link href="/artigos" className="whitespace-nowrap text-[#7DBBFF] hover:text-paper">ARTIGOS</Link>
             <Link href="/opinioes" className="whitespace-nowrap text-[#FF9A6B] hover:text-paper">OPINIÃO</Link>
             <Link href="/#noticias" className="whitespace-nowrap hover:text-paper">Notícias</Link>

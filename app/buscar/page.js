@@ -14,6 +14,7 @@ export default function Buscar() {
     excerpt: p.excerpt,
     category: p.category,
     ...(p.rotulo ? { rotulo: p.rotulo } : {}),
+    ...(p.rumor ? { rumor: true } : {}),
     date: p.date,
   }));
   return (
