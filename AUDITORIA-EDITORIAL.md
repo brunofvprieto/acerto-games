@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1067
-- Forte: 1053
+- Total analisado: 1068
+- Forte: 1054
 - Revisar: 12
 - Prioridade: 2
 
@@ -979,7 +979,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 3642 | 10 | 100 | Vendas de consoles nos EUA têm pior agosto desde 2013; Xbox cai 31% e Switch 2 lidera | — |
 | FORTE | notícia | 3433 | 16 | 100 | Vindictus: Defying Fate ganha trailer cinematográfico e confirma lançamento em 2027 no PC e no PS5 | — |
 | FORTE | notícia | 2963 | 12 | 100 | Virtua Fighter Crossroads revela Lionel Rafale, lutador que parece ser a nova versão de Lion | — |
-| FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO — incluindo um F-Zero que nunca saiu | — |
+| FORTE | notícia | 1931 | 5 | 100 | Virtual Boy ganha dois jogos inéditos no NSO, incluindo um F-Zero que nunca saiu | — |
 | FORTE | noticia | 2309 | 9 | 100 | WARDOGS supera 1 milhão de cópias no primeiro dia e estreia gigante no Steam | — |
 | FORTE | notícia | 3880 | 13 | 100 | WARDOGS chega à Temporada 3 em 12 de novembro com mapa urbano, 185 mil contas banidas e progressão mais lenta | — |
 | FORTE | notícia | 2772 | 13 | 100 | Warhammer 40,000: Dark Heresy, dos criadores de Rogue Trader, sai em 28 de janeiro de 2027 | — |
@@ -1035,6 +1035,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3164 | 15 | 100 | YouTube fará live de 24 horas no lançamento de GTA VI, e Skorpion, Samira Close e GamerCosta representam o Brasil | — |
 | FORTE | notícia | 2725 | 12 | 100 | Yu-Gi-Oh! TAG FORCE GX ganha trailer de jogabilidade e mostra a vida na Academia de Duelos | — |
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
+| FORTE | notícia | 2920 | 13 | 100 | Site oficial de Zelda marca A Link Between Worlds como jogável no Switch Online, e fãs sonham com o 3DS no Switch 2 | — |
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
 | FORTE | notícia | 5355 | 28 | 100 | Linha do tempo oficial de Zelda agora tem duas fundações de Hyrule, e a era dos Zonai fecha os três caminhos | — |
