@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1068
-- Forte: 1054
+- Total analisado: 1069
+- Forte: 1055
 - Revisar: 12
 - Prioridade: 2
 
@@ -680,6 +680,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2767 | 12 | 100 | Atualização de NieR: Automata faz o jogo pedir 366 GB no PC, e Square Enix pede desculpas | — |
 | FORTE | notícia | 3180 | 15 | 100 | Switch 2 passa de 26 milhões, vendas caem 37% no ano e Nintendo descarta novo aumento de preço | — |
 | FORTE | notícia | 3939 | 12 | 100 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | — |
+| FORTE | notícia | 2871 | 12 | 100 | Nintendo procura arquivista para preservar sua história e registrar o conhecimento dos veteranos | — |
 | FORTE | notícia | 2737 | 11 | 100 | Miyamoto cria o Dia do Pikmin em Direct surpresa, e demo de Pikmin 4 no Switch 2 sai na segunda | — |
 | FORTE | notícia | 1988 | 7 | 100 | Nintendo marca Direct dedicado a Fire Emblem: Fortune's Weave para esta terça | — |
 | FORTE | noticia | 2726 | 10 | 100 | Nintendo transforma o DK Challenge em coleção física com 39 cards de Donkey Kong | — |
