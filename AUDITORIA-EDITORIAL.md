@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1070
-- Forte: 1056
+- Total analisado: 1071
+- Forte: 1057
 - Revisar: 12
 - Prioridade: 2
 
@@ -826,6 +826,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2806 | 11 | 100 | Romancing SaGa 2: Revenge of the Seven passa de 1 milhão de cópias, a primeira marca do tipo da série desde 1997 | — |
 | FORTE | notícia | 2916 | 11 | 100 | RTX 5090 furtadas no Aeroporto de Guarulhos aparecem à venda na OLX, e comprador acaba preso | — |
 | FORTE | notícia | 3088 | 12 | 100 | Rumor: expansão de Resident Evil Requiem teria Jill Valentine como protagonista | — |
+| FORTE | notícia | 2849 | 12 | 100 | Rumor: platina de GTA VI deve levar cerca de 200 horas, e a história principal, 50 | — |
 | FORTE | notícia | 2796 | 12 | 100 | Rumor: Rockstar já teria equipe trabalhando em GTA VI para Switch 2, mas sem pressa para anunciar | — |
 | FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
