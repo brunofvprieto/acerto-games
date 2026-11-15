@@ -1,0 +1,35 @@
+{
+  "slug": "metaphor-refantazio-switch-2-bug-cores-personagens-atlus-prepara-patch",
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "15 nov 2026",
+  "readTime": "3 min",
+  "title": "Metaphor: ReFantazio no Switch 2 troca as cores de personagens depois de horas de jogo, e Atlus prepara correção",
+  "excerpt": "A Atlus confirmou que, após um tempo de jogo contínuo, objetos e personagens podem aparecer com as cores erradas na versão de Switch 2. O bug não afeta o progresso, e o patch ainda não tem data.",
+  "cover": [
+    "#1d3b6e",
+    "#0d0d14"
+  ],
+  "image": "/img/metaphor-refantazio-switch-2-captura-oficial-bug-cores-patch-atlus.jpg",
+  "imageFilename": "metaphor-refantazio-switch-2-captura-oficial-bug-cores-patch-atlus.jpg",
+  "imageAlt": "Captura oficial de Metaphor: ReFantazio na versão de Nintendo Switch 2",
+  "imageCredit": "Atlus/SEGA. Divulgação/Nintendo eShop",
+  "imageOrigem": "Capa: captura oficial da página do jogo na Nintendo eShop (1920 px). A key art principal já foi usada em matéria anterior.",
+  "fonte": "Atlus (aviso oficial no site japonês)",
+  "fonteUrl": "https://www.atlus.co.jp/news/38526/",
+  "body": [
+    "A versão de Metaphor: ReFantazio para Switch 2 saiu na quinta (12) com um bug visual. Depois de um tempo de jogo contínuo, alguns objetos e personagens passam a aparecer com cores diferentes das originais. A Atlus reconheceu o problema no próprio aviso de lançamento e diz que já prepara uma atualização.",
+    "\"Confirmamos que, ao continuar jogando por um certo tempo, a coloração de alguns objetos e personagens é exibida temporariamente de forma diferente da original\", afirma a Atlus. Segundo a empresa, o defeito \"não afeta o progresso do jogo\".",
+    "Ainda não há data para a correção. A Atlus promete avisar no perfil oficial no X e no site quando a atualização for liberada. O aviso também não diz em qual modo de desempenho o problema aparece, nem se ele ocorre no modo portátil, na TV ou nos dois, e não oferece solução provisória.",
+    "## Três modos e um port que ainda pede ajuste",
+    "O port chegou com três modos de imagem, Desempenho, Equilibrado e Gráficos, disponíveis no portátil e na TV. A Atlus diz que o jogo roda, em princípio, de forma estável a 30 quadros por segundo ou mais. A demo gratuita, lançada em 13 de outubro, tinha só o modo equilibrado.",
+    "Foi a demo que acendeu o primeiro alerta. Em análise publicada em outubro, a Digital Foundry chamou a experiência de \"muito estranha\": o DLSS parecia reconstruir mal a imagem no eixo vertical, com serrilhado em degraus nas cenas paradas, embora o jogo se movesse com uma fluidez surpreendente. O canal tratou o problema como um erro não intencional.",
+    "O bug de cores é de outra natureza. Ele não tem relação com a reconstrução de imagem e aparece com o tempo, o que sugere um problema de gerenciamento de recursos gráficos ao longo da sessão. É uma leitura possível do sintoma descrito pela Atlus, que não explicou a causa.",
+    "## Preço e português",
+    "Na eShop brasileira, a edição padrão custa R$ 167,90, com textos em português do Brasil. O progresso da demo passa para o jogo completo, então quem começou pelo prólogo gratuito não perde nada. No Japão, a Atlus aproveitou a estreia no Switch 2 para baixar o preço digital do jogo em todas as plataformas para 3.990 ienes. Por aqui, a eShop também vende a Atlus 35th Digital Anniversary Edition, por R$ 299,90.",
+    "link: Switch 2 recebe sete jogos na quinta (12), de Pikmin 4 a Metaphor: ReFantazio; veja preços na eShop | https://acertogames.com.br/noticia/switch-2-12-novembro-sete-lancamentos-pikmin-4-metaphor-sonic-pico-park-precos",
+    "Metaphor saiu em outubro de 2024 no PS5, PS4, Xbox Series e PC. É o primeiro jogo do Studio Zero, a equipe de Katsura Hashino, diretor de Persona 3, 4 e 5. No Switch 2, ele chega na mesma semana de Zelda: Ocarina of Time e disputa o mesmo público de RPG longo no portátil.",
+    "O defeito não trava nada, mas pesa num RPG que passa com folga das dezenas de horas e convida a sessões longas no portátil. Quanto mais tempo seguido de jogo, maior a chance de ver o problema antes do patch. Para a Atlus, a correção rápida importa também porque o port já chegou ao Switch 2 sob a desconfiança criada pela demo."
+  ],
+  "observacao": "Fonte oficial: aviso da Atlus no post de lançamento de 12/11 (atlus.co.jp/news/38526), traduzido do japonês; as aspas são tradução fiel do original ('一定時間プレイを続けると、一部のオブジェクトやキャラクターの色味が一時的に本来のものと異なって表示される' e 'ゲーム進行への影響はございません'). Segunda fonte: Nintendo Life (14/11, Liam Doolan) e KeenGamer; todos derivam do aviso da Atlus. Nintendo Life traduziu 配信開始 como 'stream'; o correto é distribuição do patch. FORA DO TEXTO por fonte única: bug após cerca de 30 horas (Nintenderos; GoNintendo via Shane the Gamer, não lido), patch day one 1.0.3.0 (só GameFragger), preço físico US$ 49,99 (só KeenGamer). Três modos e '30 fps ou mais': mesmo post da Atlus; KeenGamer confirma três modos. Demo só com modo equilibrado: Digital Foundry via Nintendo Life (19/10) e vídeo DF youtube.com/watch?v=1dnrMWckF0Q. Transferência de progresso: Nintendo Life e GameFragger (antes só Siliconera). Preço BR R$ 167,90 e PT-BR: API de preços e página da eShop BR conferidas hoje, iguais à matéria de 7/11. Corte para ¥3.990 em todas as plataformas digitais no Japão: post da Atlus de 12/11 (fonte oficial única; conferir em segunda fonte ou cortar). Leitura sobre gerenciamento de recursos gráficos é hipótese do portal, marcada como tal. Atlus West/SEGA: nenhum aviso em inglês localizado; X não acessível."
+}
