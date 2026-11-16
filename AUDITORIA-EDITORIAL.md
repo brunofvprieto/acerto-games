@@ -265,7 +265,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | notícia | 2988 | 11 | 100 | Capcom cresce 49% no semestre; Pragmata passa de 2,7 milhões e Onimusha de 1,7 milhão | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
-| FORTE | review | 4105 | 19 | 100 | Chivalware faz de combinar blocos um teste de reflexo que vicia | — |
+| FORTE | review | 4244 | 19 | 100 | Chivalware faz de combinar blocos um teste de reflexo que vicia | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
 | FORTE | notícia | 3093 | 12 | 100 | Wolverine lidera setembro nos EUA, PS5 sobe 22% e Xbox tem o pior setembro da sua história | — |
 | FORTE | Notícias | 2497 | 10 | 100 | Civilization VII vai à Era Atômica com Arc of Tomorrow e anuncia expansão Earthrise | — |
