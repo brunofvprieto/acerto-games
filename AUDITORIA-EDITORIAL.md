@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1096
-- Forte: 1082
+- Total analisado: 1098
+- Forte: 1084
 - Revisar: 12
 - Prioridade: 2
 
@@ -280,6 +280,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
 | FORTE | noticia | 2535 | 9 | 100 | Control Resonant abre Manhattan e coloca Dylan Faden no centro do caos paranatural | — |
 | FORTE | notícia | 2807 | 11 | 100 | Coral Island chega ao Switch 2 com a atualização 1.4, em que os filhos crescem | — |
+| FORTE | notícia | 2969 | 10 | 100 | Crazy Taxi: World Tour revela a Índia como último mapa, com Taj Mahal e três zonas | — |
 | FORTE | notícia | 1929 | 7 | 100 | Crazy Taxi: World Tour ganha novo trailer e confirma chegada ao Switch 2 | — |
 | FORTE | notícia | 2779 | 11 | 100 | Crimson Desert: história da DLC Charting the Unknown exige terminar o jogo base | — |
 | FORTE | notícia | 2692 | 8 | 100 | Crimson Desert Enhanced ganha teste grátis de cinco horas, aberto a todo jogador de Xbox | — |
@@ -971,6 +972,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2777 | 10 | 100 | Toada Brava, RPG brasileiro desenhado à mão, chega a 75% da meta no Kickstarter e tem até quinta para fechar a conta | — |
 | FORTE | notícia | 4712 | 21 | 100 | Tokyo Game Show 2026 entra na reta final: 30 anos, cinco dias e gigantes da indústria se movimentam | — |
 | FORTE | notícia | 2454 | 12 | 100 | Tomb Raider faz 30 anos com controles da 8BitDo, Mansão Croft em blocos e Lara contra a Cobra | — |
+| FORTE | notícia | 2841 | 10 | 100 | Tomb Raider: documentário mostra a festa de 30 anos em Derby, a cidade onde Lara Croft nasceu | — |
 | FORTE | notícia | 2781 | 10 | 100 | Tomb Raider faz 30 anos com vídeo comemorativo, álbum lo-fi e 500 músicas a caminho do streaming | — |
 | FORTE | notícia | 2776 | 13 | 100 | Tomb Raider: Catalyst vai sair no Switch 2, e Amazon confirma lançamento em 2028 | — |
 | FORTE | notícia | 2917 | 11 | 100 | Tomb Raider: Legacy of Atlantis é capa da Game Informer de dezembro, com todas as Laras e o uso de IA em pauta | — |
