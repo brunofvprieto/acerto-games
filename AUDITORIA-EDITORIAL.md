@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1085
-- Forte: 1071
+- Total analisado: 1092
+- Forte: 1078
 - Revisar: 12
 - Prioridade: 2
 
@@ -364,6 +364,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 2898 | 9 | 100 | Exodus refaz o rosto de Jun Aslan depois das críticas, e a versão feminina vem em breve | — |
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
+| FORTE | notícia | 3149 | 12 | 100 | Fable mostra o mapa de Bowerstone: três distritos, castelo que dá para reconhecer e bairro do crime | — |
 | FORTE | notícia | 2812 | 14 | 100 | Fable mostra quatro minutos de jogabilidade inédita, com combate e magia numa floresta corrompida | — |
 | FORTE | notícia | 2614 | 10 | 100 | Factorio recebe a última grande atualização, 14 anos depois do início do desenvolvimento | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
@@ -764,6 +765,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 6626 | 28 | 100 | PHYSINT: as músicas e os pôsteres de Kojima podem estar escondendo pistas sobre a história? | — |
 | FORTE | notícia | 6593 | 22 | 100 | Drama absoluto: PlayStation abandona PHYSINT, Kojima salva o projeto com Xbox — e a indústria muda de eixo | — |
 | FORTE | notícia | 7915 | 32 | 100 | Sony tentou matar PHYSINT e Xbox salvou Kojima: a indústria reage a uma das decisões mais simbólicas da geração | — |
+| FORTE | notícia | 3010 | 11 | 100 | Pikmin 4 no Switch 2 leva nota 1,8 dos jogadores no Metacritic, e Academia Dandori é o alvo das críticas | — |
 | FORTE | notícia | 2864 | 9 | 100 | PlayStation cancela Fairgame$ após playtest e transforma a Haven em estúdio de apoio | — |
 | FORTE | notícia | 2780 | 13 | 100 | PlayStation vai levar jogos do Hero Project, da Índia e do Oriente Médio, para a gamescom latam 2027 | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
@@ -838,6 +840,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2849 | 12 | 100 | Rumor: platina de GTA VI deve levar cerca de 200 horas, e a história principal, 50 | — |
 | FORTE | notícia | 2796 | 12 | 100 | Rumor: Rockstar já teria equipe trabalhando em GTA VI para Switch 2, mas sem pressa para anunciar | — |
 | FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
+| FORTE | notícia | 2819 | 11 | 100 | Rumor: Persona 6 pode aparecer no The Game Awards, indica atualização no site da Atlus | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
 | FORTE | notícia | 2746 | 10 | 100 | Rumor: Ubisoft trabalha num novo Rainbow Six Vegas, 18 anos depois de Vegas 2 | — |
 | FORTE | notícia | 2835 | 12 | 100 | Rumor: remake de Silent Hill sairia em 2027 e já tem as primeiras atrizes | — |
@@ -863,6 +866,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
 | FORTE | notícia | 5066 | 20 | 100 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | — |
 | FORTE | notícia | 2749 | 12 | 100 | Skyrim faz 15 anos sem presente: Bethesda avisa que não terá novidades de The Elder Scrolls VI "por um bom tempo" | — |
+| FORTE | notícia | 2814 | 10 | 100 | Slay the Spire 2 ganha The Fool, primeiro personagem novo, e dois modos na maior atualização até agora | — |
 | FORTE | notícia | 2848 | 13 | 100 | Smalland 2: Lost Realms mostra primeiro gameplay e fica para 2027 | — |
 | FORTE | notícia | 2689 | 11 | 100 | Solo Leveling: Arise Overdrive chega ao PS5 e Xbox em 3 de novembro, às 21h de Brasília | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
@@ -1049,6 +1053,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
 | FORTE | notícia | 2830 | 9 | 100 | Xbox abre vaga para cuidar de jogos físicos, mas a descrição não fala em discos | — |
+| FORTE | notícia | 2737 | 10 | 100 | Criador de NieR compra o remake de Ocarina of Time: "Fiz NieR sob grande influência dele" | — |
 | FORTE | notícia | 3164 | 15 | 100 | YouTube fará live de 24 horas no lançamento de GTA VI, e Skorpion, Samira Close e GamerCosta representam o Brasil | — |
 | FORTE | notícia | 2725 | 12 | 100 | Yu-Gi-Oh! TAG FORCE GX ganha trailer de jogabilidade e mostra a vida na Academia de Duelos | — |
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
@@ -1056,6 +1061,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2423 | 11 | 100 | The Legend of Zelda pode ganhar primeiro trailer amanhã; atriz de Zelda aumenta expectativa | — |
 | FORTE | retrô | 2667 | 6 | 100 | Miyamoto revela: The Legend of Zelda nasceu inspirado nos RPGs de PC ocidentais | — |
 | FORTE | notícia | 5355 | 28 | 100 | Linha do tempo oficial de Zelda agora tem duas fundações de Hyrule, e a era dos Zonai fecha os três caminhos | — |
+| FORTE | notícia | 2749 | 10 | 100 | Remake de Majora's Mask é inevitável, dizem ex-funcionários da Nintendo: "Provavelmente já começaram" | — |
 | FORTE | notícia | 3334 | 17 | 100 | Com 96, remake de Ocarina of Time empata em 3º entre os Zelda mais bem avaliados do Metacritic | — |
 | FORTE | notícia | 2924 | 9 | 100 | Ocarina of Time vende 537 mil cartuchos no Japão, e o físico fica com dois terços das vendas no país | — |
 | FORTE | notícia | 2721 | 13 | 100 | Ocarina of Time recebe atualização 1.1.1 antes do lançamento: 343 MB e suporte ao ZELDA NOTES | — |
@@ -1092,6 +1098,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2191 | 8 | 100 | Zelda: Ocarina of Time para Switch 2 abre pré-venda no Brasil e edição especial vira alvo de corrida dos fãs | — |
 | FORTE | notícia | 2810 | 10 | 100 | Ocarina of Time vaza antes do lançamento, e as análises do remake saem no meio da semana | — |
 | FORTE | notícia | 2724 | 9 | 100 | Ocarina of Time vende 5,2 milhões em quatro dias e faz a maior estreia da Nintendo no Switch 2 | — |
+| FORTE | notícia | 2858 | 11 | 100 | ReDeads ainda matam mais em Ocarina of Time: Zelda Notes revela dados globais do remake | — |
 | FORTE | notícia | 2744 | 15 | 100 | Zelda estava "vendendo nada" antes de Breath of the Wild, dizem ex-funcionários da Nintendo | — |
 | FORTE | notícia | 2496 | 6 | 100 | Link, Zelda e Ganondorf ganham action figures da Hasbro — e o preço não vai te quebrar | — |
 | FORTE | especial | 5828 | 24 | 100 | Zelda contra GTA: novembro junta as duas séries que ensinaram os games a construir mundos | — |
