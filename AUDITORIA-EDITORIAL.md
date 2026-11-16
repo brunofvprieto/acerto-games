@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1075
-- Forte: 1061
+- Total analisado: 1074
+- Forte: 1060
 - Revisar: 12
 - Prioridade: 2
 
@@ -722,8 +722,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 7492 | 23 | 100 | Onimusha está de volta — e a Capcom parece ter entendido o peso de ressuscitar uma série após 20 anos | — |
 | FORTE | opinião | 9042 | 29 | 100 | Quando uma atualização gratuita vira respeito: The Witcher 3 e Crimson Desert lembram à indústria como tratar quem já pagou | — |
 | FORTE | opinião | 6668 | 36 | 100 | GTA 6 aprendeu com Red Dead Redemption 2 a lição que realmente importa | — |
-| FORTE | opinião | 6745 | 23 | 100 | A mídia física não está morrendo do jeito que a gente imagina — e o Switch 2 explica por quê | — |
-| FORTE | opinião | 5260 | 20 | 100 | A mídia física não está morrendo do jeito que a gente imagina — e o Switch 2 explica por quê | — |
+| FORTE | opinião | 6745 | 23 | 100 | A mídia física não está morrendo do jeito que a gente imagina, e o Switch 2 explica por quê | — |
 | FORTE | Opinião | 5655 | 15 | 100 | Outubro chegou: Phantom Blade Zero é o jogo mais aguardado do mês no Acerto Games | — |
 | FORTE | notícia | 2416 | 5 | 100 | Stadium, o modo que quis reinventar o Overwatch, vai murchar: sem novos heróis nem mapas | — |
 | FORTE | notícia | 2802 | 14 | 100 | Eve, de Stellar Blade, invade o Overwatch: Viúva-Negra vira a protagonista em colaboração que vai até 17 de novembro | — |
