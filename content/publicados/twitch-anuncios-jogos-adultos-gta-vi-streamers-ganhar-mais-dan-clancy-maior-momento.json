@@ -1,0 +1,40 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "16 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-16T12:12:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "twitch-anuncios-jogos-adultos-gta-vi-streamers-ganhar-mais-dan-clancy-maior-momento",
+  "title": "Twitch muda anúncios para streamers ganharem mais com GTA VI, e CEO fala em \"um dos maiores momentos\" da plataforma",
+  "excerpt": "Nova tecnologia deixa marcas evitarem só os trechos mais pesados do jogo. A comunidade de GTA reclama há anos da queda na receita de anúncios.",
+  "image": "/img/gta-6-galeria-lancamento-jason-dirigindo-noite-parceiro.jpg",
+  "imageAlt": "Jason dirige à noite com um parceiro no banco do passageiro em GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Bloomberg (entrevista com Dan Clancy)",
+  "fonteUrl": "https://www.bloomberg.com/news/videos/2026-11-12/twitch-ceo-gta-vi-could-be-our-biggest-moment-video",
+  "imageOrigem": "Capa: captura oficial da galeria de lançamento da Rockstar, inédita como capa. Vídeo: entrevista da Bloomberg no YouTube. Post incorporado de Jake Lucky.",
+  "body": [
+    "A Twitch quer que GTA VI seja o maior evento da sua história, e para isso mexeu num ponto que afastou muitos streamers da série: os anúncios. A plataforma vai mudar a forma como vende publicidade em jogos para adultos, para que quem transmite GTA ganhe mais dinheiro com isso.",
+    "O plano foi apresentado pelo CEO da Twitch, Dan Clancy, em entrevista à Bloomberg durante a TwitchCon, na quinta, 12. \"Os anunciantes querem fazer parte do lançamento de GTA 6\", disse. Para ele, a estreia deve ser \"um dos maiores momentos da Twitch\". Segundo ele, a empresa passou muito tempo garantindo que os criadores consigam ganhar dinheiro de forma eficaz durante o lançamento.",
+    "video: https://www.youtube.com/watch?v=FBUiPsCTunQ",
+    "## O que muda nos anúncios",
+    "Segundo Clancy, a Twitch criou uma tecnologia que permite aos anunciantes evitar trechos específicos de GTA VI aos quais não querem ter a marca associada. Em vez de fugir da categoria inteira, uma marca pode aparecer na live e ficar longe só das cenas mais pesadas.",
+    "A mudança vale para os jogos com classificação adulta em geral. Ela também deve facilitar a vida de marcas que querem anunciar nessas categorias, segundo o jornalista Jake Lucky, que antecipou as alterações na sexta, 13.",
+    "tweet: https://x.com/JakeSucky/status/2121324875843579954",
+    "## Um problema antigo com GTA",
+    "O tema é sensível para a comunidade de GTA. Streamers grandes reclamam há anos que a receita de anúncios na categoria despencou. Em setembro, o americano Nmplol disse que os anunciantes \"puxaram a receita de todo o GTA\" há dois anos. Segundo ele, uma live de GTA rendia uma fração do que rende uma de bate-papo.",
+    "O problema, segundo os streamers, começou com uma ferramenta anterior da própria Twitch. Ela permitia que marcas se retirassem de canais inteiros. Como GTA mistura de tudo na mesma transmissão, muitos anunciantes preferiram simplesmente sair da categoria.",
+    "Por isso, muita gente do roleplay de GTA V, os servidores em que cada jogador interpreta um personagem, foi para a Kick, concorrente que paga melhor. Alguns dos nomes mais conhecidos desse estilo transmitem quase só por lá há quatro anos. No Brasil, o roleplay de GTA V também formou comunidades enormes, com servidores que reúnem milhares de jogadores e audiências fiéis.",
+    "Clancy reconheceu o peso desse público. Disse que o roleplay \"era enorme na Twitch\" e deve ser \"revigorado\" entre janeiro e março. A previsão parece contar com a chegada de um modo online, mas o próprio CEO afirmou não ter \"nenhuma ideia\" de quando a Rockstar vai lançar o multiplayer de GTA VI.",
+    "## A briga pelas lives da estreia",
+    "A disputa pelas transmissões da noite de lançamento não fica só entre Twitch e Kick. O YouTube vai fazer uma live de 24 horas a partir da estreia, com criadores brasileiros entre os convidados. No Brasil, o jogo libera à meia-noite de quinta, 19.",
+    "link: YouTube fará live de 24 horas no lançamento de GTA VI, e Skorpion, Samira Close e GamerCosta representam o Brasil | https://acertogames.com.br/noticia/youtube-live-24-horas-gta-vi-lancamento-skorpion-samira-close-gamercosta-miami",
+    "Para os streamers brasileiros, a mudança da Twitch pode pesar na escolha da plataforma. A Twitch não detalhou quando o novo sistema entra no ar nem quanto a receita deve subir, mas a intenção de ter tudo pronto antes de quinta parece clara."
+  ],
+  "observacao": "Rodada 16/11. Fontes: Bloomberg (Clancy 12/11, TwitchCon), Dexerto (citações, Nmplol, Kick/Buddha), TheGamer, post Jake Lucky 13/11.",
+  "imageFilename": "gta-6-galeria-lancamento-jason-dirigindo-noite-parceiro.jpg"
+}
