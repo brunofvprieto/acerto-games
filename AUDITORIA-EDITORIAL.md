@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1079
-- Forte: 1065
+- Total analisado: 1085
+- Forte: 1071
 - Revisar: 12
 - Prioridade: 2
 
@@ -221,6 +221,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2638 | 5 | 100 | Avatar Legends: The Fighting Game chega atrasado no Xbox — horas depois de estar pronto pra lançar | — |
 | FORTE | notícia | 2759 | 10 | 100 | Ayasa: Shadows of Silence, terror contado sem palavras, chega ao PS5 e ao Xbox | — |
 | FORTE | review | 6444 | 28 | 100 | Ayasa: Shadows of Silence encanta na arte e tropeça nos próprios bugs | — |
+| FORTE | notícia | 2778 | 10 | 100 | Bandai Namco fecha a Reflector, estúdio de Unknown 9: Awakening, e prevê perda de 21 milhões de euros | — |
 | FORTE | notícia | 2868 | 10 | 100 | Battlefield 6 abre o cassino: atualização 2.1.2.0 traz mapa novo, carabina NSW4 e jogo grátis de 13 a 16 de novembro | — |
 | FORTE | notícia | 2733 | 9 | 100 | Battlefield 6 abre o evento de Dead Space: Marker Incursion põe 16 jogadores contra soldados infectados na Área 51 | — |
 | FORTE | noticia | 3730 | 12 | 100 | Battlefield 6 chega ao Game Pass em outubro, enquanto jogo brasileiro Deep Dish Dungeon estreia no serviço | — |
@@ -559,7 +560,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 5691 | 22 | 100 | A palestra mais importante da Gamescom não foi sobre jogo nenhum | — |
 | FORTE | notícia | 2893 | 13 | 100 | Intergalactic está nos "últimos estágios de produção" e mistura Jak, Uncharted e The Last of Us, diz Neil Druckmann | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
+| FORTE | notícia | 2841 | 10 | 100 | Prédio da inXile, estúdio do Xbox, é atingido por tiros na Califórnia; suspeito foi preso | — |
 | FORTE | notícia | 2854 | 12 | 100 | "Vocês são uns idiotas": Jeff Kaplan conta que foi contra o anúncio de Overwatch 2 e culpa executivos da Blizzard | — |
+| FORTE | notícia | 2728 | 10 | 100 | Jensen Huang avalia voltar ao comando da Nvidia quatro dias após renunciar, e aliados montam "sala de guerra" | — |
 | FORTE | notícia | 2820 | 14 | 100 | Congresso dos EUA endurece com Jensen Huang e ameaça intimar ex-chefe da Nvidia | — |
 | FORTE | notícia | 2697 | 11 | 100 | Jensen Huang, CEO da Nvidia, admite caso extraconjugal; conselho abre investigação após reportagens sobre suposta espiã chinesa | — |
 | FORTE | notícia | 2865 | 13 | 100 | Jensen Huang renuncia ao comando da Nvidia, e diretora financeira Colette Kress assume como CEO interina | — |
@@ -836,6 +839,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2796 | 12 | 100 | Rumor: Rockstar já teria equipe trabalhando em GTA VI para Switch 2, mas sem pressa para anunciar | — |
 | FORTE | noticia | 1898 | 6 | 100 | Rumor aponta NieR: Automata, NieR Replicant e novo jogo para Nintendo Switch 2 | — |
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
+| FORTE | notícia | 2746 | 10 | 100 | Rumor: Ubisoft trabalha num novo Rainbow Six Vegas, 18 anos depois de Vegas 2 | — |
 | FORTE | notícia | 2835 | 12 | 100 | Rumor: remake de Silent Hill sairia em 2027 e já tem as primeiras atrizes | — |
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
@@ -970,6 +974,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2764 | 9 | 100 | Torchlight: Infinite terá colaboração com Assassin's Creed em janeiro de 2027 | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
+| FORTE | notícia | 2865 | 10 | 100 | Treyarch demite Craig Houston, roteirista dos Zumbis de Call of Duty há quase 20 anos, e Battlefield ganha chefe vindo do CoD | — |
 | FORTE | notícia | 2872 | 10 | 100 | Twitch muda anúncios para streamers ganharem mais com GTA VI, e CEO fala em "um dos maiores momentos" da plataforma | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
 | FORTE | notícia | 2764 | 10 | 100 | Ubisoft reúne The Division, Ghost Recon e Splinter Cell sob a Massive Entertainment | — |
@@ -1035,6 +1040,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
 | FORTE | notícia | 3693 | 12 | 100 | Xbox oficializa Mythic Achievements, sua resposta à Platina do PlayStation | — |
 | FORTE | notícia | 2777 | 12 | 100 | Xbox Playback: retrospectiva mostra seu primeiro jogo e o tempo total jogado em 25 anos, e o Brasil está na lista | — |
+| FORTE | notícia | 2815 | 11 | 100 | "Não é um PC que roda jogos de console": Xbox detalha o Project Helix e aposta em renderização com IA | — |
 | FORTE | notícia | 2720 | 10 | 100 | Xbox vai exigir quatro dias de escritório a partir de fevereiro, no meio das demissões | — |
 | FORTE | notícia | 3740 | 12 | 100 | Xbox tem quarto trimestre seguido de queda em serviços, e Microsoft aposta em Modern Warfare 4 e GTA 6 para virar o jogo | — |
 | FORTE | notícia | 2828 | 14 | 100 | Retrocompatibilidade do Xbox no PC ganha 21 clássicos, de KOTOR a Morrowind, e alguns recebem conquistas pela primeira vez | — |
