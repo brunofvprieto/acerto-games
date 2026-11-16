@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1092
-- Forte: 1078
+- Total analisado: 1093
+- Forte: 1079
 - Revisar: 12
 - Prioridade: 2
 
@@ -829,6 +829,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2812 | 11 | 100 | Resonance of Fate volta ao PS5 e ao PC com Enhanced Remaster e modo de velocidade dupla | — |
 | FORTE | notícia | 1796 | 9 | 100 | Riders Republic chega ao Nintendo Switch 2 em 9 de dezembro, no aniversário de cinco anos | texto curto |
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
+| FORTE | notícia | 3265 | 11 | 100 | Robert Pattinson é o novo James Bond: Amazon confirma o ator como 007 no filme de Denis Villeneuve | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
 | FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
