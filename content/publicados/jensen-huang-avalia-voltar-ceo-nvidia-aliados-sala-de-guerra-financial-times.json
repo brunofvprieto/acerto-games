@@ -1,0 +1,40 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "16 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-16T12:16:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "jensen-huang-avalia-voltar-ceo-nvidia-aliados-sala-de-guerra-financial-times",
+  "title": "Jensen Huang avalia voltar ao comando da Nvidia quatro dias após renunciar, e aliados montam \"sala de guerra\"",
+  "excerpt": "Segundo o Financial Times, executivos do Vale do Silício pressionam o conselho e buscam apoio da Casa Branca. As ações da Nvidia caíram com a notícia.",
+  "image": "/img/jensen-huang-palco-gtc-2026-keynote-bracos-abertos-nvidia-oficial.jpg",
+  "imageAlt": "Jensen Huang no palco da conferência GTC 2026 da Nvidia",
+  "imageCredit": "Divulgação/Nvidia",
+  "fonte": "Financial Times",
+  "fonteUrl": "https://www.ft.com/",
+  "imageOrigem": "Capa: quadro do vídeo oficial de destaques da GTC 2026, canal da NVIDIA no YouTube.",
+  "body": [
+    "Quatro dias depois de renunciar, Jensen Huang pode voltar ao comando da Nvidia. Segundo o jornal Financial Times, o fundador da empresa discute com pessoas próximas a possibilidade de reassumir o cargo de CEO, e aliados já se organizam para pressionar o conselho.",
+    "Um desses aliados disse ao jornal que está montando uma \"sala de guerra\" de executivos do Vale do Silício para fazer lobby pela volta de Huang. O grupo também pretende buscar apoio da Casa Branca. \"Todo mundo que importa na tecnologia, fora os laboratórios de ponta, ama o Jensen\", afirmou.",
+    "## Como ele saiu",
+    "Huang deixou a presidência, o cargo de CEO e a cadeira no conselho da Nvidia na quinta, 12, com efeito imediato. A saída veio depois de dias de crise. Tudo começou com reportagens sobre um caso extraconjugal com uma mulher suspeita de espionar para a China, e cresceu com relatos de relacionamentos com subordinadas.",
+    "link: Jensen Huang renuncia ao comando da Nvidia, e diretora financeira Colette Kress assume como CEO interina | https://acertogames.com.br/noticia/jensen-huang-renuncia-nvidia-colette-kress-ceo-interina",
+    "A diretora financeira Colette Kress assumiu como CEO interina até a escolha de um nome definitivo. Desde então, o caso também chegou ao Congresso americano, que ameaçou intimar Huang a depor sobre o contrabando de chips para a China.",
+    "link: Congresso dos EUA endurece com Jensen Huang e ameaça intimar ex-chefe da Nvidia | https://acertogames.com.br/noticia/jensen-huang-congresso-eua-convocacao-intimacao-megaspeed-contrabando-chips-nvidia",
+    "## Quem está do lado dele",
+    "Huang tem defensores de peso. Elon Musk e Tim Sweeney, chefe da Epic Games, estão entre os que torcem publicamente pela volta. Sweeney já tinha saído em defesa do executivo antes mesmo da renúncia, quando o conselho ainda avaliava afastá-lo.",
+    "link: Nvidia avalia afastar Jensen Huang após segundo caso extraconjugal, e Tim Sweeney sai em defesa do CEO | https://acertogames.com.br/noticia/nvidia-conselho-avalia-afastar-jensen-huang-segundo-caso-kimberly-powell-tim-sweeney",
+    "O mercado não reagiu bem à notícia. As ações da Nvidia caíram no pré-mercado desta segunda, 16. Uma volta de Huang resolveria a dúvida sobre quem comanda a empresa. Ao mesmo tempo, reabriria as questões que levaram à renúncia, entre elas a segurança de uma companhia que fabrica chips sob controle de exportação.",
+    "A pressão política vai no sentido contrário ao dos aliados. O secretário do Tesouro dos EUA, Scott Bessent, defendeu uma \"mudança drástica\" na empresa. A palavra final é do conselho da Nvidia, o mesmo que avaliava afastar Huang antes de ele sair por conta própria. Agora, teria de aceitar de volta o executivo que deixou o cargo sob suspeita.",
+    "Nenhum dos aliados citados pelo jornal se identificou, e nem Huang nem a Nvidia comentaram a reportagem. Por enquanto, a volta parece mais uma campanha de bastidor do que um plano em andamento.",
+    "## Por que isso importa para quem joga",
+    "A Nvidia nasceu fazendo placas de vídeo para jogos e ainda domina esse mercado com a linha GeForce, mesmo com a maior parte do faturamento vindo hoje da inteligência artificial. Huang comandou a empresa desde a fundação, em 1993, e foi o rosto de cada lançamento, do DLSS às placas RTX.",
+    "Para os jogadores, a incerteza no comando aparece na hora de planejar novos produtos e preços. As placas GeForce já subiram neste ano, e no Brasil o reajuste chega ainda mais pesado. Uma Nvidia sem rumo claro não ajuda a segurar esses valores."
+  ],
+  "observacao": "Rodada 16/11. Fontes: Fox Business (FT, sala de guerra, Casa Branca, citação), Tom's Hardware (Musk e Sweeney), Forbes (ações caem pré-mercado), IGN. Renúncia 12/11 já no site.",
+  "imageFilename": "jensen-huang-palco-gtc-2026-keynote-bracos-abertos-nvidia-oficial.jpg"
+}

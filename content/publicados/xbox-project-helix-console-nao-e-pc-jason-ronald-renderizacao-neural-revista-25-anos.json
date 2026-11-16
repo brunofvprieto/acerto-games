@@ -1,0 +1,41 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "16 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-16T12:15:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "xbox-project-helix-console-nao-e-pc-jason-ronald-renderizacao-neural-revista-25-anos",
+  "title": "\"Não é um PC que roda jogos de console\": Xbox detalha o Project Helix e aposta em renderização com IA",
+  "excerpt": "Jason Ronald diz que a próxima geração não é sobre 8K ou 240 Hz. O Helix vai rodar jogos do PC e de quatro gerações de Xbox, mas preço e data seguem em aberto.",
+  "image": "/img/xbox-25-anos-controle-verde-translucido-colecao-oficial-capa-helix.jpg",
+  "imageAlt": "Controle verde translúcido da coleção de 25 anos do Xbox",
+  "imageCredit": "Divulgação/Xbox",
+  "fonte": "Xbox (revista de 25 anos)",
+  "fonteUrl": "https://news.xbox.com/",
+  "imageOrigem": "Capa: quadro do trailer oficial da coleção de 25 anos, canal XBOX no YouTube. Post incorporado de Wario64 com as páginas da revista.",
+  "body": [
+    "A Microsoft quer deixar uma coisa clara sobre o próximo Xbox: ele não é um PC. \"O Helix foi projetado para ser um console que também é capaz de rodar jogos do seu PC. Não é um PC que também roda jogos de console\", diz Jason Ronald, vice-presidente de nova geração do Xbox.",
+    "A frase está numa revista comemorativa dos 25 anos do Xbox, distribuída na semana passada num evento para fãs em Seattle e publicada em versão digital no domingo, 15. Ronald ocupa quatro páginas falando do Project Helix, nome provisório da próxima geração.",
+    "tweet: https://x.com/Wario64/status/2122021370402140477",
+    "## Fácil como console, ajustável como PC",
+    "A ideia, segundo Ronald, é juntar as duas coisas sem perder o que faz um console ser console. \"O que torna um console mágico é que ele deixa meus jogos prontos para jogar num instante\", disse. Nada de atualizar driver ou mexer em configuração para começar a jogar.",
+    "Quem quiser ajustar desempenho e gráficos, como num PC, vai poder fazer isso, mas como opção. O Helix também deve carregar a biblioteca de quatro gerações de Xbox, com o progresso de cada jogo, e \"remover as barreiras arbitrárias entre jogos de console e de PC\".",
+    "Ronald diz que o portátil ROG Xbox Ally serviu de teste para essas ideias. A reação dos jogadores à biblioteca unificada, que mistura lojas diferentes, teria mudado os planos de como isso vai aparecer no console. Ele não disse, porém, se lojas como a Steam vão rodar no Helix.",
+    "A preservação de jogos também entra no plano. \"A preservação de jogos é central para o Xbox\", disse Ronald, que fala em trabalhar com os estúdios para que os jogos de hoje continuem jogáveis daqui a 20 ou 30 anos.",
+    "## Menos potência bruta, mais IA",
+    "O trecho mais revelador é sobre desempenho. Para Ronald, a próxima geração \"não é definida por 8K ou 240 hertz\". A aposta é a renderização neural, técnica que usa inteligência artificial para gerar imagens.",
+    "Ele liga a escolha à crise de componentes, que encareceu memória e chips. \"É uma forma totalmente nova de gerar um quadro sem exigir mais poder computacional, mais memória e coisas assim\", disse. E prometeu: \"Vocês vão ver mais inovação nos próximos três a cinco anos do que nos últimos dez\".",
+    "O discurso combina com o da chefe do Xbox, Asha Sharma, que tem defendido o uso de IA no desenvolvimento de jogos. Na prática, parece que a Microsoft prepara o público para um console que não vai vencer na força bruta, e sim na forma de usar o que tem.",
+    "link: Chefe do Xbox defende futuro em que \"uma pequena equipe vai construir mundos que hoje exigem centenas de desenvolvedores\" | https://acertogames.com.br/noticia/asha-sharma-xbox-25-anos-mensagem-ia-pequena-equipe-centenas-desenvolvedores",
+    "## E o preço?",
+    "Ronald não falou em preço nem em data. Reconheceu só que é \"um momento desafiador\" e que a empresa precisa avançar a tecnologia \"mantendo as coisas acessíveis\". Uma reportagem de outubro apontou um portátil para 2027 e o console Helix para 2028, com preço de até US$ 1.800.",
+    "link: Xbox teria portátil em 2027 e Project Helix em 2028, com preço de até US$ 1.800 | https://acertogames.com.br/noticia/xbox-portatil-2027-project-helix-2028-ate-1800-dolares-fortune",
+    "No Brasil, onde os consoles chegam com impostos pesados, esse é o ponto que mais vai pesar. Um aparelho que roda a biblioteca do PC e quatro gerações de Xbox pode valer muito para quem já tem uma coleção grande, mas a conta precisa fechar."
+  ],
+  "observacao": "Rodada 16/11. Fontes: Eurogamer 16/11, Pure Xbox 15/11 (transcrição), IGN (título \"console capaz de jogar jogos do PC\"), post Wario64 com páginas.",
+  "imageFilename": "xbox-25-anos-controle-verde-translucido-colecao-oficial-capa-helix.jpg"
+}
