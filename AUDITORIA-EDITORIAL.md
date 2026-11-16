@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1093
-- Forte: 1079
+- Total analisado: 1096
+- Forte: 1082
 - Revisar: 12
 - Prioridade: 2
 
@@ -684,6 +684,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2959 | 10 | 100 | Estúdio do criador de Yakuza fecha as portas, e Gang of Dragon é cancelado | — |
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
 | FORTE | noticia | 3374 | 11 | 100 | Naughty Dog confirma dois novos projetos de The Last of Us e revelação completa de Intergalactic em 2027 | — |
+| FORTE | notícia | 2925 | 10 | 100 | NBA 2K27 leva Vice City de GTA VI à Temporada 3, mas a edição especial não sai no Brasil | — |
 | FORTE | notícia | 2100 | 5 | 100 | Criterion confirma: Need for Speed e Burnout ficaram para trás — agora é só Battlefield | — |
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
@@ -702,6 +703,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2590 | 9 | 100 | Nintendo afirma que não pretende abandonar jogos em mídia física | — |
 | FORTE | notícia | 2782 | 11 | 100 | Regra da Nintendo impediria jogos em Game-Key Card de ganhar cartucho completo, diz varejista | — |
 | FORTE | notícia | 4857 | 14 | 100 | Nintendo fatura menos, mas lucro operacional mais que dobra: o Switch 2 entrou na fase que dá dinheiro | — |
+| FORTE | notícia | 2737 | 11 | 100 | App Nintendo Store chega à versão 3.4.0 e passa a mostrar conteúdos baixáveis na atividade de jogo | — |
 | FORTE | notícia | 3161 | 11 | 100 | Nintendo admite que subestimou a procura pelo Switch 2 de Zelda, e o Brasil está entre os mercados sem estoque | — |
 | FORTE | noticia | 3354 | 14 | 100 | Nintendo diz que Switch 2 está “apenas no começo” e detalha estratégia para os próximos anos | — |
 | FORTE | notícia | 2706 | 11 | 100 | Nintendo anuncia novo bundle do Switch 2 no Japão com escolha entre três jogos | — |
@@ -922,6 +924,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2832 | 10 | 100 | Switch 2 recebe sete jogos na quinta (12), de Pikmin 4 a Metaphor: ReFantazio; veja preços na eShop | — |
 | FORTE | opinião | 6710 | 30 | 100 | O Switch 2 tem 256 GB — e a Nintendo errou ao tratar armazenamento como detalhe | — |
 | FORTE | notícia | 2770 | 12 | 100 | Atualização 23.5.0 parece fechar a falha usada no primeiro desbloqueio do Switch 2 | — |
+| FORTE | notícia | 2786 | 10 | 100 | Switch 2 traz os mesmos modelos de DLSS do PC, incluindo o DLSS 4, e duas versões leves exclusivas | — |
 | FORTE | artigo | 5812 | 21 | 100 | Switch 2 “não tem jogos”? O problema talvez seja a falta de Mario, Zelda e Smash | — |
 | FORTE | notícia | 2258 | 7 | 100 | Switch 2 já vendeu mais que o GameCube inteiro no Reino Unido — em só um ano | — |
 | FORTE | notícia | 2734 | 9 | 100 | Switch 2 de Zelda chega às lojas hoje, e Ocarina of Time encolhe para 24,54 GB a uma semana do lançamento | — |
