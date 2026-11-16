@@ -7,6 +7,16 @@ const nextConfig = {
       "/api/comentarios/admin": ["./content/publicados/**/*"],
     },
   },
+  // Matérias duplicadas: a versão retirada aponta de vez para a que ficou.
+  async redirects() {
+    return [
+      {
+        source: "/noticia/opiniao-midia-fisica-nao-esta-morrendo-switch-2-explica",
+        destination: "/noticia/opiniao-midia-fisica-games-2026-quem-ainda-precisa-de-cartucho",
+        permanent: true,
+      },
+    ];
+  },
   images: {
     // Larguras usadas pelo helper lib/img.js. Poucas larguras e cache longo
     // para manter o número de conversões baixo na Vercel.
