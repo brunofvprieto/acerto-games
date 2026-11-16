@@ -1,0 +1,38 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "16 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-16T12:21:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "slay-the-spire-2-the-fool-novo-personagem-modos-blitz-dread-beta-v0-113",
+  "title": "Slay the Spire 2 ganha The Fool, primeiro personagem novo, e dois modos na maior atualização até agora",
+  "excerpt": "O músico com arco chega na beta junto com Blitz, um modo rápido sem mapa, e Dread, desafio para quem passou da Ascensão 10 com todos os personagens.",
+  "image": "/img/slay-the-spire-2-arte-oficial-steam-megacrit.jpg",
+  "imageAlt": "Arte oficial de Slay the Spire 2 com personagens e monstros",
+  "imageCredit": "Slay the Spire 2. Divulgação/Mega Crit",
+  "fonte": "Mega Crit (notas da atualização v0.113.0)",
+  "fonteUrl": "https://store.steampowered.com/news/app/2868840",
+  "imageOrigem": "Capa: arte oficial da página da Steam, recortada. Vídeo: trailer oficial.",
+  "body": [
+    "Slay the Spire 2 ganhou o primeiro personagem novo desde a estreia em acesso antecipado. The Fool chegou na quinta, 12, na versão beta do jogo, junto com dois modos novos. A Mega Crit descreve o personagem como um \"músico bobo que usa um arco\". É a maior atualização desde o lançamento, segundo o próprio estúdio.",
+    "\"Como uma criatura tão excêntrica pode sobreviver dentro da Torre? Isso fica com você\", escreveu a Mega Crit nas notas da atualização v0.113.0. O estúdio avisa que espera fazer \"uma grande quantidade de mudanças de conteúdo e balanceamento\" antes de o personagem chegar à versão principal.",
+    "## Blitz e Dread",
+    "O primeiro modo novo, Blitz, é uma versão condensada e caótica focada em montar o baralho. O mapa some, o ouro deixa de importar e os itens do mercador parecem \"meio estranhos\". Ele é liberado depois de vencer uma partida em qualquer nível de Ascensão e tem cinco níveis próprios.",
+    "O segundo, Dread, é para quem já domina o jogo. Só fica disponível para quem chegou ao nível 10 de Ascensão com todos os personagens, incluindo The Fool. Todos os modificadores de Ascensão ficam ativos, os chefes são mais fortes e reforçam os inimigos do ato, e maldições se acumulam conforme o jogador sobe. \"A morte é esperada\", avisa a Mega Crit.",
+    "A atualização também traz eventos novos em vários atos, ajustes em inimigos e relíquias, e faz as fogueiras de descanso aparecerem um andar mais cedo em cada ato. Uma correção lançada no sábado, 14, já ajustou textos e cartas do novo personagem.",
+    "The Fool chega com mecânica própria de flechas, que agora ficam presas no corpo dos inimigos, e uma linha do tempo de épocas que conta a história do bardo. Como todo personagem novo em jogos de construção de baralho, ele deve mudar bastante até a versão final, conforme os jogadores encontrarem combinações fortes demais.",
+    "## Como jogar a versão beta",
+    "Por ora, tudo isso está só no ramo beta. No Steam, basta clicar com o botão direito em Slay the Spire 2 na biblioteca, ir em Propriedades, depois em Versões e betas, e escolher \"public-beta\". A versão principal recebeu o conteúdo e as correções da beta anterior.",
+    "O jogo tem textos em português do Brasil e custa R$ 74,99 na Steam, com desconto para R$ 59,99 até o fim da promoção atual. Slay the Spire 2 saiu em acesso antecipado em março e vendeu mais de 5 milhões de cópias no primeiro mês.",
+    "video: https://www.youtube.com/watch?v=Bdqubvcm8YI",
+    "## O que mais vem por aí",
+    "A Mega Crit vinha avisando desde agosto que preparava conteúdos grandes, todos previstos no plano de acesso antecipado: modos experimentais, um segundo ato alternativo e um novo personagem. Dois desses três itens chegaram agora.",
+    "O estúdio explica que diminuiu o ritmo de atualizações quinzenais justamente para concentrar a equipe em peças maiores, que pedem design, arte, animação e balanceamento ao mesmo tempo. Pelo tamanho desta atualização, a troca parece ter valido a pena para quem esperava novidade de verdade."
+  ],
+  "observacao": "Rodada 16/11. Fontes: notas oficiais v0.113.0 e v0.113.1 na Steam, Neowsletters ago/out, Eurogamer 13/11 (5 milhões no primeiro mês), Inven Global. Preço e idioma: API da Steam Brasil 16/11.",
+  "imageFilename": "slay-the-spire-2-arte-oficial-steam-megacrit.jpg"
+}
