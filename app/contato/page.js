@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/contato" },
   title: "Contato — Acerto Games",
   description:
     "Fale com a redação do Acerto Games: sugestões de pauta, correções, publicidade, parcerias e envio de material para review.",

@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/editorial" },
   title: "Política editorial — Acerto Games",
   description:
     "Como o Acerto Games apura, escreve, revisa, corrige e identifica conteúdo jornalístico e opinativo.",

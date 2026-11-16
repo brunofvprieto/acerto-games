@@ -12,7 +12,7 @@ export function generateStaticParams() {
 }
 
 export function generateMetadata({ params }) {
-  return { title: `Rumores — página ${params.n} — Acerto Games` };
+  return { title: `Rumores — página ${params.n} — Acerto Games`, alternates: { canonical: `/rumores/pagina/${params.n}` } };
 }
 
 export default function Pagina({ params }) {

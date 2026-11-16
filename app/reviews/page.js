@@ -3,6 +3,7 @@ import { getAllPosts } from "../../lib/posts";
 import { ReviewCard } from "../../components/Cards";
 
 export const metadata = {
+  alternates: { canonical: "/reviews" },
   title: "Reviews — Acerto Games",
   description:
     "Todas as análises do Acerto Games num só lugar: a gente joga até o fim, dá a nota e explica o porquê — sem meio-termo.",

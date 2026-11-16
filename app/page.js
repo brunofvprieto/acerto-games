@@ -9,6 +9,8 @@ import OfertasAmazon from "../components/OfertasAmazon";
 import ofertasData from "../content/ofertas.json";
 import { imgOtimizada } from "../lib/img";
 
+export const metadata = { alternates: { canonical: "/" } };
+
 function FaixaNews({posts}) {
   const items=posts.filter(p=>p.image).slice(0,10);
   if (!items.length) return null;

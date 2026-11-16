@@ -1,4 +1,5 @@
 export const metadata = {
+  alternates: { canonical: "/politica-de-privacidade" },
   title: "Política de Privacidade — Acerto Games",
   description: "Como o Acerto Games trata dados de navegação, cookies e serviços de terceiros.",
 };

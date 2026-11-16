@@ -2,6 +2,7 @@ import { paginar } from "../../lib/paginacao";
 import PaginaArquivo from "../../components/PaginaArquivo";
 
 export const metadata = {
+  alternates: { canonical: "/noticias" },
   title: "Todas as notícias — Acerto Games",
   description: "O arquivo completo de matérias do Acerto Games.",
 };

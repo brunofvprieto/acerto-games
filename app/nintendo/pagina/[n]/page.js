@@ -11,7 +11,7 @@ export function generateStaticParams() {
 }
 
 export function generateMetadata({ params }) {
-  return { title: `Nintendo: notícias, página ${params.n} — Acerto Games` };
+  return { title: `Nintendo: notícias, página ${params.n} — Acerto Games`, alternates: { canonical: `/nintendo/pagina/${params.n}` } };
 }
 
 export default function Pagina({ params }) {
