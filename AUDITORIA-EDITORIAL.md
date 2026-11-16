@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1074
-- Forte: 1060
+- Total analisado: 1079
+- Forte: 1065
 - Revisar: 12
 - Prioridade: 2
 
@@ -498,8 +498,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 3756 | 14 | 100 | GTA III faz 25 anos: o clássico que só funcionou nos últimos seis meses | — |
 | FORTE | notícia | 2792 | 12 | 100 | Brasileiro batzera bate o recorde mundial de speedrun de GTA San Andreas com 2h50min30s | — |
 | FORTE | notícia | 4493 | 26 | 100 | De 1997 a GTA 6: reveja os trailers oficiais de todos os GTAs antes do lançamento | — |
+| FORTE | notícia | 2814 | 10 | 100 | GTA VI precisa faturar US$ 1,9 bilhão em três dias para agradar investidores, diz Bank of America | — |
 | FORTE | notícia | 2993 | 13 | 100 | Caixa brasileira de GTA VI aparece na Kabum e confirma: legendas em português, sem dublagem e sem disco | — |
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
+| FORTE | notícia | 2752 | 10 | 100 | Na China, streamers de GTA VI não poderão roubar carros nem atacar policiais, segundo regras vazadas | — |
+| FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
 | FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
@@ -514,6 +517,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
+| FORTE | notícia | 2719 | 11 | 100 | GTA VI ganha segunda atualização antes da estreia, com 602 MB no PS5 e versão maior no Xbox | — |
 | FORTE | notícia | 2727 | 12 | 100 | Terceiro clipe de GTA VI leva o comboio da Rockstar para uma ponte de Vice City, agora com escolta da polícia | — |
 | FORTE | notícia | 3539 | 12 | 100 | Lista completa do álbum de GTA VI vaza a quatro dias do lançamento, com Dua Lipa, Lana Del Rey e Playboi Carti | — |
 | FORTE | notícia | 2739 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
@@ -966,6 +970,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2764 | 9 | 100 | Torchlight: Infinite terá colaboração com Assassin's Creed em janeiro de 2027 | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
+| FORTE | notícia | 2872 | 10 | 100 | Twitch muda anúncios para streamers ganharem mais com GTA VI, e CEO fala em "um dos maiores momentos" da plataforma | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
 | FORTE | notícia | 2764 | 10 | 100 | Ubisoft reúne The Division, Ghost Recon e Splinter Cell sob a Massive Entertainment | — |
 | FORTE | notícia | 3027 | 12 | 100 | Ubisoft faz oferta pela Arkane Lyon, e futuro de Marvel's Blade se decide até 13 de dezembro | — |
