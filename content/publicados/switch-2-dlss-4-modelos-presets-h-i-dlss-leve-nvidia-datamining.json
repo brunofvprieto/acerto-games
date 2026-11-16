@@ -1,0 +1,38 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "16 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-16T14:00:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "switch-2-dlss-4-modelos-presets-h-i-dlss-leve-nvidia-datamining",
+  "title": "Switch 2 traz os mesmos modelos de DLSS do PC, incluindo o DLSS 4, e duas versões leves exclusivas",
+  "excerpt": "Desenvolvedor extraiu os modelos do console e achou os presets H e I, que processam uma grade quatro vezes menor. Ter o DLSS 4 não significa que os jogos já o usem.",
+  "image": "/img/switch-2-hdr-mario-kart-world-comparacao-imagem-oficial.jpg",
+  "imageAlt": "Comparação de imagem com HDR em Mario Kart World no trailer do Switch 2",
+  "imageCredit": "Nintendo Switch 2. Divulgação/Nintendo",
+  "fonte": "Eren Doğan (X)",
+  "fonteUrl": "https://x.com/kurumuz/status/2122168957654212880",
+  "imageOrigem": "Capa: quadro do trailer oficial de apresentação do Switch 2, canal Nintendo of America. Post incorporado de Eren Doğan.",
+  "body": [
+    "O Switch 2 guarda mais tecnologia de imagem do que a Nintendo divulgou. O desenvolvedor Eren Doğan extraiu do console os modelos de DLSS, o sistema da Nvidia que usa inteligência artificial para aumentar a resolução dos jogos. Ele encontrou os mesmos modelos usados nas placas de vídeo de PC, incluindo o DLSS 4.",
+    "\"Ele traz todos os modelos e predefinições do PC, incluindo o DLSS 4, mas não o 4.5\", escreveu Doğan no X. \"São exatamente os mesmos modelos das versões de PC. E tem duas predefinições novas que não existem no PC, a H e a I.\"",
+    "tweet: https://x.com/kurumuz/status/2122168957654212880",
+    "## O que são as predefinições",
+    "No DLSS, as predefinições, chamadas de presets, definem qual modelo de inteligência artificial reconstrói a imagem. Elas não são a mesma coisa que os modos Qualidade, Equilibrado e Desempenho, que só determinam a resolução interna do jogo antes de ela ser ampliada.",
+    "Segundo os arquivos, os modos Qualidade, Equilibrado e Desempenho do Switch 2 vêm configurados com o preset E. O DLAA e o Ultra Desempenho usam o F. Já o modo Ultra Qualidade aparece com o preset K, que pertence ao modelo Transformer do DLSS 4, o mais avançado do console.",
+    "Isso não quer dizer que os jogos usem essas opções. A configuração indica o padrão recomendado, e cada estúdio escolhe o que aplicar. O modelo Transformer, por exemplo, exige mais processamento, e o hardware do Switch 2 parece pequeno demais para ele na maioria dos jogos.",
+    "## O DLSS leve do Switch 2",
+    "A descoberta mais interessante são os presets H e I. Eles usam modelos do tipo CNN, do mesmo tamanho dos de PC, mas processam uma grade de informações quatro vezes menor. Isso faz a reconstrução rodar bem mais rápido, ainda que o ganho real não chegue a ser de quatro vezes.",
+    "Doğan acredita que esses presets sejam o DLSS mais leve que a Digital Foundry identificou no Switch 2 em 2025. Segundo um desenvolvedor ouvido na época, essa versão gasta cerca de metade do processamento do modelo padrão. Ela já foi vista em jogos como The Touryst, Fast Fusion e Star Wars Outlaws, com imagem que perde estabilidade em movimento.",
+    "Nos guias de programação de DLSS para PC, a Nvidia lista H e I como predefinições reservadas, que voltam ao comportamento padrão. No Switch 2, elas parecem ter ganhado uso de verdade, feitas sob medida para um aparelho que roda na bateria.",
+    "## O que muda para quem joga",
+    "Na prática, nada muda de imediato. A ligação entre os presets H e I e o DLSS leve ainda não foi comprovada por testes diretos. Ter o DLSS 4 nos arquivos também não confirma que algum jogo comercial do Switch 2 já use o modelo Transformer. Também não há sinal de geração de quadros, recurso das placas mais novas da Nvidia.",
+    "Mas a descoberta mostra que os estúdios têm mais opções do que se imaginava. Conforme os desenvolvedores aprenderem a extrair mais do console, os jogos de Switch 2 podem ganhar imagens mais nítidas nos próximos anos, sem precisar de um hardware novo."
+  ],
+  "observacao": "Pedido do Bruno 16/11 (post Universo Nintendo). Fontes: post original de Doğan, VideoCardz 16/11 (presets, Digital Foundry 2025, guia Nvidia), Wccftech, Universo Nintendo. Sem menção ao método de extração (regra: nada de desbloqueio do Switch 2).",
+  "imageFilename": "switch-2-hdr-mario-kart-world-comparacao-imagem-oficial.jpg"
+}
