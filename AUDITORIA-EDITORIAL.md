@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1071
-- Forte: 1057
+- Total analisado: 1075
+- Forte: 1061
 - Revisar: 12
 - Prioridade: 2
 
@@ -237,6 +237,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3226 | 10 | 100 | No primeiro N7 Day sem BioWare, petição no Parlamento do Canadá pede dinheiro público para o estúdio e documentário promete contar o fim | — |
 | FORTE | notícia | 3196 | 16 | 100 | Diretor global de Black Desert surpreende fãs em São Paulo, e Pearl Abyss promete festa maior nos 10 anos do jogo no Brasil | — |
 | FORTE | notícia | 2886 | 12 | 100 | Estúdio dos remakes de Destroy All Humans compra a própria saída da THQ Nordic e cria grupo de estúdios independentes | — |
+| FORTE | notícia | 2739 | 9 | 100 | Black Friday da PlayStation entra na segunda fase com PS VR2 e DualSense em oferta, mas sem PS5 | — |
 | FORTE | notícia | 2745 | 9 | 100 | Black Friday da PS Store começa nesta quarta e vai até o fim de novembro, com até 75% de desconto | — |
 | FORTE | notícia | 2686 | 10 | 100 | Black Friday da PS Store no Brasil: Control sai por R$ 16, Silent Hill 2 por menos de R$ 100, e parte das ofertas acaba no dia 20 | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
@@ -611,6 +612,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2633 | 5 | 100 | Matt Damon finalmente chegou ao Fortnite — mas sua estreia nos games quase aconteceu anos atrás, graças a Jason Bourne | — |
 | FORTE | notícia | 2743 | 5 | 100 | Matt Damon chegou ao Fortnite — mas quase tinha entrado nos games bem antes, como Jason Bourne | — |
 | FORTE | notícia | 2366 | 6 | 100 | Clones de Meccha Chameleon no Roblox têm mais jogadores que o jogo original no Steam — e isso diz muito sobre a plataforma | — |
+| FORTE | notícia | 2932 | 10 | 100 | Mega Man: Dual Override revela Cleanser Man, o chefe criado por um fã | — |
 | FORTE | notícia | 4623 | 17 | 100 | Mega Man: Dual Override nasceu das lições de Mega Man 11 — e Proto Man voltou porque os fãs pediram | — |
 | FORTE | notícia | 6474 | 20 | 100 | Mega Man: Dual Override não quer apenas trazer o Blue Bomber de volta — quer fazê-lo evoluir | — |
 | FORTE | notícia | 2736 | 12 | 100 | Mega Man: Dual Override revela Tank Man, um gerente de petróleo furioso | — |
@@ -629,6 +631,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2725 | 11 | 100 | MIMESIS faz um ano com atualização de paranoia, mapa novo e 60% de desconto | — |
 | FORTE | notícia | 3691 | 12 | 100 | Minecraft Dungeons II domina ranking da eShop e coloca duas edições no topo | — |
 | FORTE | noticia | 2717 | 9 | 100 | Minecraft Dungeons II é lançado com mundo interconectado, The Sift e estreia no Game Pass | — |
+| FORTE | notícia | 2786 | 10 | 100 | Minecraft Dungeons II terá primeira DLC paga em 1º de dezembro, com atualização grátis no mesmo dia | — |
 | FORTE | notícia | 2889 | 11 | 100 | Minecraft ganha mod gratuito da NVIDIA com path tracing; veja o que precisa para rodar | — |
 | FORTE | notícia | 2731 | 11 | 100 | Minecraft no Switch 2 ganha modo mouse com o Joy-Con 2, e Mouse Work, feito para o mouse, chega em dezembro | — |
 | FORTE | noticia | 3895 | 13 | 100 | Minecraft terá The Sift em 2027, sua primeira nova dimensão em mais de 14 anos | — |
@@ -999,6 +1002,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
 | FORTE | notícia | 3497 | 12 | 100 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | — |
+| FORTE | notícia | 2979 | 11 | 100 | BLG vence a Gen.G de virada e é campeã mundial de LoL; knight quebra 13 anos de mids sul-coreanos campeões | — |
 | FORTE | notícia | 2940 | 11 | 100 | World of Warcraft: Forever tem estreia sem filas e surpreende até a Blizzard: "até agora, tudo mais ou menos bem" | — |
 | FORTE | notícia | 2803 | 14 | 100 | World of Warcraft: Forever tem o maior lançamento da história de WoW, diz Blizzard | — |
 | FORTE | notícia | 2868 | 11 | 100 | Reserva de nomes de WoW: Forever abre com filas e erros; jogo sai em 4 de novembro | — |
