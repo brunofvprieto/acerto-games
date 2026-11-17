@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1117
-- Forte: 1103
+- Total analisado: 1125
+- Forte: 1111
 - Revisar: 12
 - Prioridade: 2
 
@@ -387,6 +387,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
 | FORTE | notícia | 2728 | 10 | 100 | Final Fantasy XIV: Evercold é adiado para 23 de fevereiro e revela a Zephyr, job de besta e pássaro | — |
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
+| FORTE | notícia | 2737 | 11 | 100 | Firaxis, de Civilization e XCOM, demite um terço da equipe, e a chefe do estúdio deixa o cargo | — |
 | FORTE | notícia | 2314 | 10 | 100 | Black Clover chega ao Fortnite com Asta, Noelle e Yuno em novo pacote | — |
 | FORTE | notícia | 2874 | 12 | 100 | Luffy, Zoro e Ace chegam ao Fortnite neste domingo com poderes de One Piece; veja quem está no passe | — |
 | FORTE | notícia | 3458 | 6 | 100 | Fortnite fez uma collab com filme de terror sobre abuso sexual — e o resultado foi constrangedor | — |
@@ -659,6 +660,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3203 | 6 | 100 | Miyamoto defende a onda de remakes da Nintendo e entrega um gostoso suspense: 'levam a desenvolvimentos futuros' | — |
 | FORTE | notícia | 3652 | 10 | 100 | Miyamoto recebe a Ordem da Cultura, e os games entram pela primeira vez na maior honraria cultural do Japão | — |
 | FORTE | notícia | 2535 | 6 | 100 | Em 1996, Miyamoto já queria fazer sandbox de física casual — e o preço dos jogos travou o sonho | — |
+| FORTE | notícia | 2769 | 12 | 100 | MLB The Show 27 é anunciado, e o teste aberto antes do lançamento volta depois de quatro anos | — |
 | FORTE | notícia | 2294 | 10 | 100 | Moadra chega hoje: metroidvania alienígena evolui a protagonista com protoplasma | — |
 | FORTE | notícia | 2751 | 6 | 100 | Modder cria multiverso da Rockstar: portais em San Andreas levam direto pra GTA 3 e Vice City | — |
 | FORTE | notícia | 2850 | 10 | 100 | Activision vai tirar as imagens de Itaewon de Modern Warfare 4 em 12 de novembro e pede desculpas às famílias | — |
@@ -689,6 +691,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3515 | 12 | 100 | Monster Hunter Wilds fica R$ 110 mais barato e ganha demo grátis que salva seu progresso | — |
 | FORTE | noticia | 1836 | 7 | 100 | Monster Hunter Wilds no Switch 2 começou a ser desenvolvido em junho de 2025 | — |
 | FORTE | noticia | 1974 | 9 | 100 | Monster Hunter Wilds no Switch 2: Capcom revela resolução, 30 FPS e modos gráficos | — |
+| FORTE | notícia | 2794 | 12 | 100 | Morre Akira Kurabayashi, diretor da Arika que ajudou a criar Street Fighter EX e Tetris 99 | — |
 | FORTE | notícia | 2566 | 10 | 100 | Mortal Shell II ganha Rotten Autumn, atualização gratuita com 15 masmorras, modo foto e trilha alternativa | — |
 | FORTE | notícia | 3691 | 14 | 100 | Mortal Shell II já está jogável para quem pagou mais — e o lançamento pra todo mundo é quinta, dia 20 | — |
 | FORTE | notícia | 2782 | 11 | 100 | Mouthwashing vai virar filme da Sony, com direção de Karyn Kusama, de Yellowjackets | — |
@@ -785,6 +788,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2780 | 13 | 100 | PlayStation vai levar jogos do Hero Project, da Índia e do Oriente Médio, para a gamescom latam 2027 | — |
 | FORTE | notícia | 2277 | 6 | 100 | PS Plus de agosto: Dying Light 2, Big Walk e Signalis liberados pros assinantes | — |
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
+| FORTE | notícia | 2839 | 11 | 100 | PlayStation fica sem indicado a Jogo do Ano no The Game Awards pela primeira vez em 12 anos | — |
 | FORTE | notícia | 2936 | 13 | 100 | Estúdio de Palworld dá cinco dias de folga aos funcionários para jogarem GTA VI: "viagem de negócios a Vice City" | — |
 | FORTE | notícia | 2779 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
@@ -887,6 +891,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2749 | 12 | 100 | Skyrim faz 15 anos sem presente: Bethesda avisa que não terá novidades de The Elder Scrolls VI "por um bom tempo" | — |
 | FORTE | notícia | 2814 | 10 | 100 | Slay the Spire 2 ganha The Fool, primeiro personagem novo, e dois modos na maior atualização até agora | — |
 | FORTE | notícia | 2848 | 13 | 100 | Smalland 2: Lost Realms mostra primeiro gameplay e fica para 2027 | — |
+| FORTE | notícia | 2721 | 11 | 100 | Final do SNK World Championship terá US$ 4,2 milhões em prêmios e dupla brasileira na disputa de Fatal Fury | — |
 | FORTE | notícia | 2689 | 11 | 100 | Solo Leveling: Arise Overdrive chega ao PS5 e Xbox em 3 de novembro, às 21h de Brasília | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
 | FORTE | notícia | 2751 | 12 | 100 | Sonic ganha curta animado de 35 anos, Memories and Beyond, com Eggman criando o Metal Sonic definitivo | — |
@@ -907,6 +912,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1890 | 8 | 100 | Splatoon Raiders ganha novas builds oficiais para transformar Salmonids em caos no Switch 2 | — |
 | FORTE | notícia | 2348 | 6 | 100 | Splatoon Raiders faz história: maior nota de usuários da Nintendo no Metacritic (e top 10 de todos os tempos) | — |
 | FORTE | notícia | 3001 | 10 | 100 | Splatoon Raiders vende quase meio milhão em uma semana no Japão e carrega o Switch 2 nas costas | — |
+| FORTE | notícia | 2754 | 12 | 100 | Spyro: A Realm Beyond ganha novas imagens da região de Painted Plains, e Activision provoca o The Game Awards | — |
 | FORTE | notícia | 3050 | 10 | 100 | Square Enix vende 21,9% mais no semestre com Rebirth no Switch 2 e no Xbox, e eleva a previsão de lucro em 20% | — |
 | FORTE | notícia | 3114 | 12 | 100 | Atualização 2.1 de STALKER 2 já está disponível e amplia o alcance do A-Life | — |
 | FORTE | notícia | 2908 | 11 | 100 | Naves em formação e tochas acesas: jogadores de Star Trek Online se despedem de Patrick Stewart | — |
@@ -1058,6 +1064,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3153 | 11 | 100 | Xbox prepara mais três rodadas de demissões, e estudo interno avaliou venda ou spinoff, diz Fortune | — |
 | FORTE | notícia | 3226 | 10 | 100 | Xbox libera Disc-to-Digital para todos e transforma discos físicos em licenças digitais | — |
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
+| FORTE | notícia | 2775 | 12 | 100 | Game Pass recebe The Outlast Trials, Hela e Arkheron até 1º de dezembro; veja os nove jogos | — |
 | FORTE | noticia | 1859 | 10 | 100 | Xbox Game Pass anuncia Gears of War: E-Day, Minecraft Dungeons II, Dune: Awakening e mais jogos | — |
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
 | FORTE | notícia | 2820 | 10 | 100 | Game Pass de novembro começa com Gravhounds e reúne sete jogos confirmados, nenhum para Xbox One | — |
@@ -1106,6 +1113,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2928 | 14 | 100 | Remake de Ocarina of Time chega amanhã com a primeira dublagem brasileira de Zelda: conheça as vozes | — |
 | FORTE | noticia | 3788 | 15 | 100 | Ocarina of Time Remake ganha primeira gameplay, Switch 2 especial e dublagem em português do Brasil | — |
 | FORTE | artigo | 3646 | 18 | 100 | Guia de Zelda: Ocarina of Time: como conseguir a Espada de Biggoron no remake, com os novos cronômetros | — |
+| FORTE | notícia | 2795 | 10 | 100 | Remake de Ocarina of Time vira o jogo físico mais vendido de 2026 nos EUA em uma semana | — |
 | FORTE | notícia | 2738 | 13 | 100 | Arquivos do remake de Ocarina of Time indicam que a Master Quest vem como DLC | — |
 | FORTE | notícia | 2941 | 14 | 100 | Monolith Soft, de Xenoblade, confirma que ajudou no remake de Ocarina of Time, mas o comando foi da Nintendo | — |
 | FORTE | notícia | 3031 | 15 | 100 | Créditos de Ocarina of Time revelam a Navi de 1998 de volta no Japão e o elenco completo da dublagem brasileira | — |
