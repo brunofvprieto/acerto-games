@@ -1,0 +1,39 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "17 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-17T13:42:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "hounded-jogo-cachorro-border-collie-duke-confirmado-ps5-2027-imprnt",
+  "title": "Hounded, aventura em que você é um border collie, é confirmado para PS5",
+  "excerpt": "No jogo da IMPRNT, Duke procura o dono desaparecido num mundo de fantasia com mosquetes e magia. Sai em 2027 no PS5 e no PC, com legendas em português.",
+  "image": "/img/hounded-duke-border-collie-arte-oficial-capa-ps5.jpg",
+  "imageAlt": "Duke, um border collie, em uma paisagem enevoada na arte oficial de Hounded",
+  "imageCredit": "Hounded. Divulgação/Silver Lining Interactive",
+  "fonte": "IMPRNT Studios e Silver Lining Interactive",
+  "fonteUrl": "https://www.youtube.com/watch?v=DrmTMGp7O6U",
+  "imageOrigem": "Capa e corpo: arte e capturas oficiais da página do jogo na Steam.",
+  "observacao": "Comunicado recebido em 17/11 (assessoria não citada). Segunda fonte: diário de desenvolvimento no canal da PlayStation e página da Steam (idiomas, história).",
+  "body": [
+    "Um dos protagonistas mais simpáticos de 2027 vai chegar ao PS5. Nesta terça, 17, a desenvolvedora britânica IMPRNT Studios e a publicadora Silver Lining Interactive confirmaram Hounded no PS5. A aventura, em que o jogador controla um cachorro, sai em 2027 no console da Sony e no PC.",
+    "Para marcar o anúncio, o estúdio ocupou o blog oficial da PlayStation com o primeiro diário de desenvolvimento em vídeo do jogo. Chamado \"Conheça Duke\", ele mostra o trabalho de animar um personagem de quatro patas do zero.",
+    "video: https://www.youtube.com/watch?v=DrmTMGp7O6U",
+    "## Um cachorro procurando o dono",
+    "Em Hounded, o jogador é Duke, um border collie jovem e teimoso. Ele atravessa o interior de Anglodia atrás do dono desaparecido, Fletcher, líder fugitivo de uma rebelião contra o rei usurpador Jaymes. No caminho, precisa escapar do Caçador, um antagonista enviado para matar Fletcher, que segue cada passo do cachorro.",
+    "img: /img/hounded-duke-campo-moinho-anglodia-captura-oficial.jpg | Duke corre pelo interior de Anglodia. Divulgação/Silver Lining Interactive",
+    "O mundo segue a linha da fantasia de pólvora, com mosquetes, vilarejos rústicos e magia. A força mágica se chama Maré, e dá a Duke a capacidade de ver Marcas, ecos do passado presos no tempo. O jogo também aposta no faro: seguir o cheiro do dono é parte central da exploração.",
+    "img: /img/hounded-duke-floresta-rastro-dono-captura-oficial.jpg | Seguir o rastro do dono é parte central da aventura. Imagem de versão em desenvolvimento. Divulgação/Silver Lining Interactive",
+    "O Caçador transforma a viagem num jogo de gato e rato. Segundo a descrição oficial, há encontros tensos em que Duke precisa despistar o perseguidor e sair do caminho dele. Ao mesmo tempo, a história é contada pelos olhos do cachorro, leal, teimoso e esperto, em cenas cinematográficas.",
+    "## Animar um cachorro dá trabalho",
+    "Segundo o estúdio, os primeiros testes mostraram que criar um protagonista canino exige muito mais do que a lógica básica e a animação de personagens de duas pernas. Para resolver isso, a equipe criou do zero um sistema próprio de Motion Matching na Unreal Engine.",
+    "A técnica escolhe, a cada momento, o trecho de animação capturada que melhor combina com o movimento do personagem. É o que faz Duke correr, frear e virar de um jeito que lembra um cachorro de verdade, e não um boneco deslizando pelo chão.",
+    "A IMPRNT foi fundada por ex-funcionários da Sony, da TT Games, da Cloud Imperium e da SEGA, e diz contar com uma matilha de cachorros de apoio no escritório. O projeto já tinha passado por uma campanha de financiamento coletivo no Kickstarter.",
+    "Hounded entra numa leva de jogos em que o jogador é um animal, como Stray, em que se controla um gato. A diferença parece estar no tom: em vez de uma cidade futurista, um mundo rústico de fantasia com magia e pólvora, e uma missão movida pela lealdade ao dono.",
+    "Para o público brasileiro, há uma boa notícia. A página do jogo na Steam lista o português do Brasil entre os idiomas, com interface e legendas. A dublagem completa fica só em inglês. Ainda não há data exata, e o jogo já pode ser colocado na lista de desejos na Steam. O diário de desenvolvimento completo está no blog oficial da PlayStation."
+  ],
+  "imageFilename": "hounded-duke-border-collie-arte-oficial-capa-ps5.jpg"
+}
