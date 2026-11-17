@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1111
-- Forte: 1097
+- Total analisado: 1112
+- Forte: 1098
 - Revisar: 12
 - Prioridade: 2
 
@@ -832,6 +832,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2990 | 13 | 100 | Ratchet & Clank: Ranger Rumble é cancelado antes do lançamento mundial, e servidores fecham em maio de 2027 | — |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
 | FORTE | notícia | 3568 | 12 | 100 | Control Resonant triplica a receita da Remedy, e o Brasil fica entre os três maiores mercados nos consoles | — |
+| FORTE | review | 12810 | 60 | 100 | Remothered: Red Nun's Legacy prende pela história e pela fuga, não pelo combate | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
 | FORTE | notícia | 2221 | 7 | 100 | Depois de 15 anos, Resident Evil 5 é destronado: RE2 Remake é o mais vendido da série | — |
 | FORTE | notícia | 3549 | 15 | 100 | Resident Evil: história atual deve terminar nos próximos 10 anos, diz produtor da Capcom | — |
