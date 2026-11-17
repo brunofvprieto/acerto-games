@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1103
-- Forte: 1089
+- Total analisado: 1111
+- Forte: 1097
 - Revisar: 12
 - Prioridade: 2
 
@@ -309,6 +309,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2319 | 5 | 100 | Dez anos de sofrimento e a Red Hook presenteia o Darkest Dungeon original com novo DLC | — |
 | FORTE | Notícias | 4548 | 16 | 100 | DashBreaker reinventa o velho “jogo de navinha”: aqui, sobreviver aos mísseis é o espetáculo | — |
 | FORTE | notícia | 4415 | 16 | 100 | Dave Bautista negocia para ser o novo Kratos da série de God of War | — |
+| FORTE | notícia | 2811 | 11 | 100 | Dave the Diver e Core Keeper trocam de mundo em crossover gratuito no dia 30 de novembro | — |
 | FORTE | notícia | 2443 | 6 | 100 | DC anuncia jogo de luta para mobile — mas não é o Injustice 3 que todo mundo queria | — |
 | FORTE | notícia | 2774 | 8 | 100 | Behaviour retira os DLCs que deu ao streamer TheBurntPeanut e pede desculpas à comunidade de Dead by Daylight | — |
 | FORTE | notícia | 2866 | 13 | 100 | Romance oficial de Death Stranding 2 chega em inglês em dois volumes, e o segundo sai em janeiro | — |
@@ -335,6 +336,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2922 | 14 | 100 | Diários de uma Apotecária ganha jogo em 18 de março de 2027, com Jinshi e o gato Maomao como investigadores | — |
 | FORTE | notícia | 2623 | 9 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
+| FORTE | notícia | 2784 | 11 | 100 | Discord ganha tema de Vice City para a estreia de GTA VI, grátis e sem precisar de Nitro | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027, mas tem um motivo pra sorrir | — |
 | FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
 | FORTE | notícia | 2769 | 11 | 100 | Domino's lança pizza quadrada de Minecraft Dungeons II, com item exclusivo no jogo | — |
@@ -437,6 +439,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2790 | 12 | 100 | Um jogo de Switch 2 será revelado hoje ao meio-dia — e a única pista são oito emojis | — |
 | FORTE | notícia | 2902 | 9 | 100 | Pesquisar Zelda no Google agora leva a página de volta a 1998, com a Espada Mestra | — |
 | FORTE | artigo | 8247 | 28 | 100 | Gráficos ou IA? A indústria vem escolhendo errado — e Rockstar, Nintendo e Kojima já provaram isso | — |
+| FORTE | notícia | 2704 | 10 | 100 | Grammy 2027: Ghost of Yōtei, Wolverine e 007 First Light disputam o prêmio de melhor trilha de videogame | — |
 | FORTE | notícia | 2416 | 10 | 100 | Gran Turismo 7 ganhou nova atualização e a mudança mais importante não é nos carros novos | — |
 | FORTE | notícia | 2635 | 6 | 100 | Gran Turismo 7 recebe a atualização Spec IV com seis carros e o circuito Sportsland Sugo | — |
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
@@ -510,6 +513,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
+| FORTE | notícia | 2892 | 11 | 100 | Em GTA VI, a polícia lembra sua roupa e dá para pedir para fazer carinho em cachorro, revela Rockstar | — |
 | FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
 | FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
@@ -691,6 +695,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2925 | 10 | 100 | NBA 2K27 leva Vice City de GTA VI à Temporada 3, mas a edição especial não sai no Brasil | — |
 | FORTE | notícia | 2100 | 5 | 100 | Criterion confirma: Need for Speed e Burnout ficaram para trás — agora é só Battlefield | — |
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
+| FORTE | notícia | 2748 | 9 | 100 | Netflix demite mais funcionários da área de jogos e muda de novo a estratégia | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
 | FORTE | notícia | 2767 | 12 | 100 | Atualização de NieR: Automata faz o jogo pedir 366 GB no PC, e Square Enix pede desculpas | — |
@@ -862,6 +867,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3961 | 12 | 100 | Ataque hacker à rede da SEGA deixa fliperamas do Japão uma semana parados; jogos da Bandai Namco voltam em teste | — |
 | FORTE | noticia | 4239 | 18 | 100 | SEGA aumenta investimento em Sonic, confirma novos jogos em produção e explica por que evita remakes | — |
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
+| FORTE | notícia | 2794 | 11 | 100 | Sonic vai ganhar uma pista de kart de verdade em Londres, com projeções e mundos digitais | — |
 | FORTE | notícia | 2737 | 11 | 100 | SEGA confirma vazamento de 2,19 milhões de e-mails após ataque a empresa que enviava suas newsletters | — |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
@@ -901,6 +907,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2908 | 11 | 100 | Naves em formação e tochas acesas: jogadores de Star Trek Online se despedem de Patrick Stewart | — |
 | FORTE | notícia | 2776 | 12 | 100 | Star Wars Battlefront 3 estaria em produção na DICE e na Respawn, diz Variety | — |
 | FORTE | notícia | 3575 | 12 | 100 | Star Wars: Galactic Racer chega hoje com corridas clandestinas e Sebulba | — |
+| FORTE | notícia | 2767 | 11 | 100 | Star Wars: Galactic Racer terá corridas em tela dividida para até quatro jogadores em 2027 | — |
 | FORTE | notícia | 1944 | 7 | 100 | Star Wars: Zero Company revela elenco de vozes com veteranos de The Clone Wars e The Bad Batch | — |
 | FORTE | notícia | 2407 | 5 | 100 | StarCraft na BlizzCon: a Blizzard está nos dando pistas de um novo jogo ou a gente tá vendo coisa? | — |
 | FORTE | noticia | 5961 | 23 | 100 | StarCraft está de volta: novo jogo chega em 2030 e primeiro trailer marca uma nova era para a franquia | — |
@@ -943,6 +950,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3544 | 7 | 100 | Tales of Eternia Remastered revela lista enorme de mudanças — e tem coisa boa demais aí dentro | — |
 | FORTE | notícia | 2982 | 5 | 100 | Menos de 10 pessoas sabiam: a Nintendo guardou o anúncio de Tears of the Kingdom com sigilo de operação militar | — |
 | FORTE | notícia | 2307 | 10 | 100 | The Blood of Dawnwalker recebe a atualização 1.1, com poção para refazer habilidades e novo modo de dificuldade | — |
+| FORTE | notícia | 2723 | 10 | 100 | The Blood of Dawnwalker recebe New Game+ na atualização 1.2, com nível máximo 100 | — |
 | FORTE | notícia | 2417 | 10 | 100 | Em The Blood of Dawnwalker, o herói é frágil de dia de propósito: "não queríamos um protagonista superpoderoso" | — |
 | FORTE | notícia | 1896 | 5 | 100 | The Blood of Dawnwalker mostra missão completa com pixie obcecada por dentes — e a magia de Coen em ação | — |
 | FORTE | noticia | 4827 | 20 | 100 | The Crew Motorfest: Showcase 2026 revela Ano 4, nova ilha, Tomb Raider e chegada ao Switch 2 | — |
