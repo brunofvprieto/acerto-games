@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1112
-- Forte: 1098
+- Total analisado: 1115
+- Forte: 1101
 - Revisar: 12
 - Prioridade: 2
 
@@ -367,6 +367,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2778 | 12 | 100 | Evo Brazil 2027 terá oito jogos e R$ 1 milhão em prêmios; ingressos custam a partir de R$ 240 | — |
 | FORTE | notícia | 2776 | 6 | 100 | Ex-dev da Rockstar explica o motivo real de GTA 6 sair primeiro nos consoles — e faz todo sentido | — |
 | FORTE | notícia | 2898 | 9 | 100 | Exodus refaz o rosto de Jun Aslan depois das críticas, e a versão feminina vem em breve | — |
+| FORTE | notícia | 2909 | 11 | 100 | Exodus mostra a versão feminina de Jun em trailer e revela as vozes das duas versões do protagonista | — |
 | FORTE | notícia | 3149 | 14 | 100 | Fable mostra 18 minutos de gameplay e revela uma Bowerstone onde quase tudo pode fazer parte da sua vida | — |
 | FORTE | notícia | 3550 | 13 | 100 | Fable mostra o mapa de Bowerstone: três distritos, castelo que dá para reconhecer e bairro do crime | — |
 | FORTE | notícia | 2812 | 14 | 100 | Fable mostra quatro minutos de jogabilidade inédita, com combate e magia numa floresta corrompida | — |
@@ -541,6 +542,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
 | FORTE | notícia | 2724 | 14 | 100 | Halo: Campaign Evolved ganha modo Firefight de graça, inclusive no PS5; detalhes saem no Halo Fest | — |
 | FORTE | noticia | 5480 | 21 | 100 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | — |
+| FORTE | notícia | 2722 | 10 | 100 | Hanno: A Magical Tale, aventura de um menino e um filhote de elefante mágico, vai à G-STAR | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
 | FORTE | notícia | 3499 | 14 | 100 | Harada diz na frente de executivo do Xbox que preferia que o Series S não existisse: "Trabalho extra para um filho mais fraco" | — |
 | FORTE | noticia | 2065 | 9 | 100 | Harbor abre alpha fechado e quer jogadores ajudando a moldar seu survival pós-apocalíptico | — |
@@ -559,6 +561,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2829 | 11 | 100 | Manual da edição física de Silksong indica mais expansões gratuitas, e chama Sea of Sorrow de "a primeira expansão gigante" | — |
 | FORTE | notícia | 2043 | 11 | 100 | Honor of Kings faz aniversário com o herói Dunshan, visual inspirado em pagoda milenar e recompensas grátis | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
+| FORTE | notícia | 2742 | 10 | 100 | Hounded, aventura em que você é um border collie, é confirmado para PS5 | — |
 | FORTE | notícia | 2927 | 12 | 100 | Novo site da Humble Bundle remove a verificação em duas etapas e deixa contas vulneráveis; veja o que fazer | — |
 | FORTE | noticia | 5584 | 16 | 100 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | — |
 | FORTE | notícia | 3151 | 6 | 100 | Hugo Martin rebate boatos: 'id Software não foi destruída pelas demissões da Xbox' | — |
