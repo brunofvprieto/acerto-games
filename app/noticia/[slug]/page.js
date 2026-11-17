@@ -295,6 +295,20 @@ export default function Noticia({ params }) {
                   </div>
                 );
               }
+              if (paragraph.startsWith("lista:") || paragraph.startsWith("destaque:")) {
+                const grande = paragraph.startsWith("destaque:");
+                const [titulo, itens = ""] = paragraph.slice(paragraph.indexOf(":") + 1).split("|").map((s) => s.trim());
+                return (
+                  <div key={i} className={grande ? "rounded-lg border-2 border-arcade bg-surface p-5 border-arcade" : "rounded-lg border border-edge bg-surface p-4"}>
+                    <h3 className={grande ? "font-display text-2xl font-bold text-arcade" : "font-display text-lg font-bold text-arcade"}>{titulo}</h3>
+                    <ul className={grande ? "mt-3 space-y-2 text-lg" : "mt-2 space-y-1 text-base"}>
+                      {itens.split(";").map((x) => x.trim()).filter(Boolean).map((item, j) => (
+                        <li key={j} className="flex gap-2"><span className="font-mono font-bold text-arcade" aria-hidden="true">›</span><span>{item}</span></li>
+                      ))}
+                    </ul>
+                  </div>
+                );
+              }
               if (paragraph.startsWith("## ")) return <h2 key={i} className="font-display text-xl text-arcade pt-3">{paragraph.slice(3)}</h2>;
               if (paragraph.startsWith("img:")) {
                 const [url, credito] = paragraph.slice(4).split("|").map((s) => s.trim());
