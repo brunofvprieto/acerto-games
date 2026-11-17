@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { newsletterAtiva } from "../lib/newsletter";
+import GrupoWhatsApp from "./GrupoWhatsApp";
 
 export default function Footer() {
   return (
@@ -12,6 +13,7 @@ export default function Footer() {
           <Link href="/gta6" className="text-[#FF2E97] hover:text-[#FF9AD1]">GTA 6</Link>
           <Link href="/opinioes" className="hover:text-[#FF9A6B]">Opinião</Link>
           {newsletterAtiva() && <Link href="/newsletter" className="text-arcade hover:text-paper">Newsletter</Link>}
+          <GrupoWhatsApp variante="link" />
           <Link href="/sobre" className="hover:text-paper">Sobre</Link>
           <Link href="/imprensa" className="text-arcade hover:text-paper">Imprensa & PR</Link>
           <Link href="/editorial" className="hover:text-paper">Política editorial</Link>

@@ -5,6 +5,7 @@ import CountdownGTA from "../components/CountdownGTA";
 import CountdownZelda from "../components/CountdownZelda";
 import HeroCarousel from "../components/HeroCarousel";
 import NewsletterBox from "../components/NewsletterBox";
+import GrupoWhatsApp from "../components/GrupoWhatsApp";
 import OfertasAmazon from "../components/OfertasAmazon";
 import ofertasData from "../content/ofertas.json";
 import { imgOtimizada } from "../lib/img";
@@ -158,6 +159,7 @@ export default function Home() {
       <div className="mx-auto w-full max-w-[1240px] px-4 sm:px-5 lg:px-0">
       <FaixaNews posts={posts.slice(5, 20)} />
       <NewsletterBox origem="home" variante="home" />
+      <GrupoWhatsApp />
       <SecaoGTA6 />
       <ReviewDestaque posts={posts} />
       <SecaoZelda />

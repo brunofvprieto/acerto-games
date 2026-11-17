@@ -6,6 +6,7 @@ import TweetEmbed from "../../../components/TweetEmbed";
 import RedditEmbed from "../../../components/RedditEmbed";
 import ShareButtons from "../../../components/ShareButtons";
 import NewsletterBox from "../../../components/NewsletterBox";
+import GrupoWhatsApp from "../../../components/GrupoWhatsApp";
 import QRCode from "../../../components/QRCode";
 import Comentarios from "../../../components/Comentarios";
 import { comentariosAtivos } from "../../../lib/comentarios";
@@ -401,6 +402,8 @@ export default function Noticia({ params }) {
           {comentariosAtivos(post.slug) && <Comentarios slug={post.slug} />}
 
           <NewsletterBox origem="materia" />
+
+          <GrupoWhatsApp />
 
           <ShareButtons slug={post.slug} titulo={post.title} />
           <QRCode url={urlCompleta} />
