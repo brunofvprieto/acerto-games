@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1116
-- Forte: 1102
+- Total analisado: 1117
+- Forte: 1103
 - Revisar: 12
 - Prioridade: 2
 
@@ -613,6 +613,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2852 | 12 | 100 | Fabricante de chips dos cartuchos do Switch vai deixar o negócio, e a mídia física pode sentir | — |
 | FORTE | noticia | 2616 | 7 | 100 | Mafia III ganha versões para PS5 e Xbox Series com 60 FPS e atualização gratuita | — |
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
+| FORTE | notícia | 2737 | 10 | 100 | Manni L. Perez é a Lucia de GTA VI: indicação ao The Game Awards confirma a atriz antes do lançamento | — |
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
 | FORTE | notícia | 2890 | 12 | 100 | Marvel 1943 não foi cancelado, diz Skydance, mas jogo de Amy Hennig teria sido cortado e ficado mais curto | — |
