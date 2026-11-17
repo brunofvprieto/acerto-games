@@ -15,6 +15,11 @@ const nextConfig = {
         destination: "/noticia/opiniao-midia-fisica-games-2026-quem-ainda-precisa-de-cartucho",
         permanent: true,
       },
+      {
+        source: "/noticia/the-game-awards-2026-indicados-gta-vi-oito-indicacoes-jogo-do-ano-zelda-ocarina-of-time",
+        destination: "/noticia/the-game-awards-2026-indicados-lista-completa-manni-perez-lucia-gta-vi-melhor-atuacao",
+        permanent: true,
+      },
     ];
   },
   images: {
