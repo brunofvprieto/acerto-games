@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1101
-- Forte: 1087
+- Total analisado: 1103
+- Forte: 1089
 - Revisar: 12
 - Prioridade: 2
 
@@ -822,6 +822,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 2823 | 14 | 100 | Queda global da Microsoft atinge a Xbox Live às vésperas dos 25 anos do Xbox | — |
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
+| FORTE | notícia | 3331 | 11 | 100 | Rainbow Six Siege divide o ranqueado em Solo/Duo e Flex na Operation Vital Signal, que chega em 1º de dezembro com o novo Doc | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2990 | 13 | 100 | Ratchet & Clank: Ranger Rumble é cancelado antes do lançamento mundial, e servidores fecham em maio de 2027 | — |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
@@ -1035,6 +1036,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3049 | 11 | 100 | App do Xbox no PC é refeito e abre até 60% mais rápido; versão web do Cloud Gaming também muda | — |
 | FORTE | notícia | 2830 | 10 | 100 | Mythic Achievements chegam a todos os consoles Xbox na atualização de outubro, que também traz Remote Play em 1440p | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
+| FORTE | notícia | 2852 | 10 | 100 | Black Friday do Xbox começa na noite de lançamento de GTA VI, com até 80% de desconto e os jogos da própria Microsoft na vitrine | — |
 | FORTE | notícia | 2950 | 10 | 100 | Xbox Cloud Gaming entra em novembro com limite de horas: 15 no Ultimate, 10 no Premium e 5 no Essential | — |
 | FORTE | noticia | 8797 | 25 | 100 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | — |
 | FORTE | noticia | 7300 | 22 | 100 | Xbox cria divisão XP para cinema, séries e parques temáticos; Minecraft ganha nova liderança | — |
