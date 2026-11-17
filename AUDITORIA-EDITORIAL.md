@@ -973,7 +973,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2818 | 11 | 100 | The First Zombie inverte o apocalipse: você é o primeiro zumbi e precisa transformar Tóquio | — |
 | FORTE | notícia | 2755 | 14 | 100 | The Game Awards 2026 terá transmissão no Disney+, e a Disney promete "grandes anúncios" de jogos | — |
 | FORTE | notícia | 2866 | 13 | 100 | Indicados do The Game Awards 2026 saem na terça, 17, e a premiação vai passar pela primeira vez no Roblox | — |
-| FORTE | notícia | 3446 | 11 | 100 | GTA VI lidera o The Game Awards 2026 com oito indicações dois dias antes de chegar às lojas, e o remake de Ocarina of Time disputa o Jogo do Ano | — |
+| FORTE | notícia | 3446 | 11 | 100 | GTA VI lidera o The Game Awards 2026 com oito indicações antes mesmo do lançamento, e o remake de Ocarina of Time disputa o Jogo do Ano | — |
 | FORTE | notícia | 6252 | 36 | 100 | The Game Awards 2026: GTA VI e Zelda: Ocarina of Time disputam o Jogo do Ano, e Manni L. Perez, a Lucia, concorre a Melhor Atuação | — |
 | FORTE | notícia | 2734 | 13 | 100 | The Road of Dust and Sorrow, terror em pixel art inspirado em Resident Evil, é adiado para 19 de fevereiro | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
