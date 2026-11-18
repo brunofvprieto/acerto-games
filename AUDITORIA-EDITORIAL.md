@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1136
-- Forte: 1122
+- Total analisado: 1144
+- Forte: 1130
 - Revisar: 12
 - Prioridade: 2
 
@@ -270,6 +270,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3093 | 12 | 100 | Wolverine lidera setembro nos EUA, PS5 sobe 22% e Xbox tem o pior setembro da sua história | — |
 | FORTE | Notícias | 2497 | 10 | 100 | Civilization VII vai à Era Atômica com Arc of Tomorrow e anuncia expansão Earthrise | — |
 | FORTE | noticia | 2998 | 10 | 100 | Clair Obscur: Expedition 33 deixa o Game Pass em 15 de outubro | — |
+| FORTE | notícia | 2969 | 12 | 100 | Clair Obscur: Expedition 33 perde sua líder de narrativa, que deixou a Sandfall em julho | — |
 | FORTE | notícia | 2134 | 5 | 100 | Criador de Gears of War quer voltar a fazer jogos — mas esquece o PvP: "Boa sorte pra quem entrar nessa" | — |
 | FORTE | notícia | 1941 | 10 | 100 | C.L.T., o "GTA clássico" brasileiro, chega ao acesso antecipado no PC | — |
 | FORTE | artigo | 6209 | 23 | 100 | C.L.T. resgata a liberdade dos primeiros GTA e já diverte no acesso antecipado | — |
@@ -577,6 +578,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2743 | 13 | 100 | Nintendo faz Indie World nesta quarta (28), às 11h de Brasília | — |
 | FORTE | notícia | 4881 | 24 | 100 | Indie World: Witchbrook ganha data, Slime Rancher 2 e R.E.P.O. chegam ao Switch 2; veja tudo | — |
 | FORTE | artigo | 5691 | 22 | 100 | A palestra mais importante da Gamescom não foi sobre jogo nenhum | — |
+| FORTE | notícia | 2783 | 10 | 100 | Infinity Nikki chama Maye Musk, mãe de Elon, para trailer, e parte dos fãs fala em boicote | — |
 | FORTE | notícia | 2893 | 13 | 100 | Intergalactic está nos "últimos estágios de produção" e mistura Jak, Uncharted e The Last of Us, diz Neil Druckmann | — |
 | FORTE | Notícias | 1813 | 7 | 100 | Intergalactic: Naughty Dog encerra filmagens das cinemáticas e avança produção do novo jogo | — |
 | FORTE | notícia | 2841 | 10 | 100 | Prédio da inXile, estúdio do Xbox, é atingido por tiros na Califórnia; suspeito foi preso | — |
@@ -656,6 +658,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1789 | 6 | 100 | Demanda por memória para IA aumenta pressão sobre cadeia que também abastece hardware gamer | texto curto |
 | FORTE | notícia | 2950 | 12 | 100 | Microsoft oferece saída voluntária a 60 mil funcionários, e o Xbox está na lista | — |
 | FORTE | notícia | 2725 | 11 | 100 | MIMESIS faz um ano com atualização de paranoia, mapa novo e 60% de desconto | — |
+| FORTE | notícia | 2838 | 11 | 100 | Estúdio de MindsEye, do ex-produtor de GTA, aposta em processos para pagar dívidas | — |
 | FORTE | notícia | 3691 | 12 | 100 | Minecraft Dungeons II domina ranking da eShop e coloca duas edições no topo | — |
 | FORTE | noticia | 2717 | 9 | 100 | Minecraft Dungeons II é lançado com mundo interconectado, The Sift e estreia no Game Pass | — |
 | FORTE | notícia | 2786 | 10 | 100 | Minecraft Dungeons II terá primeira DLC paga em 1º de dezembro, com atualização grátis no mesmo dia | — |
@@ -740,6 +743,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
 | FORTE | notícia | 3264 | 11 | 100 | Suda51 garante a volta de Travis Touchdown nos 20 anos de No More Heroes e quer resgatar Moonlight Syndrome | — |
+| FORTE | notícia | 2801 | 12 | 100 | Nobunaga's Ambition: Hishou tem a versão de Switch cancelada e sai só no PS5, Switch 2 e PC | — |
 | FORTE | notícia | 1840 | 7 | 100 | Novo jogo dos criadores de Genshin será gratuito, mas abandona gacha de personagens | — |
 | FORTE | notícia | 3072 | 9 | 100 | Chefe da Avalanche assume a Nordisk Games, dona da Supermassive, e Estocolmo vira o centro do grupo | — |
 | FORTE | opinião | 4950 | 24 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
@@ -780,6 +784,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3041 | 14 | 100 | Phantom Blade Zero tem 88 no Metacritic: o que dizem as análises | — |
 | FORTE | notícia | 2489 | 12 | 100 | Phantom Blade Zero ganha trailer de lançamento, e edição física no PS5 fica para 2027 | — |
 | FORTE | Notícias | 2611 | 8 | 100 | Phantom Blade Zero: tudo o que sabemos sobre o action RPG que mistura wuxia, kung fu e terror folclórico | — |
+| FORTE | notícia | 2911 | 11 | 100 | Phasmophobia recebe a atualização Resonance em 24 de novembro, com varinhas para achar o osso e motor Unity 6 | — |
 | FORTE | notícia | 2714 | 12 | 100 | Bill Skarsgård diz que jogou todos os Metal Gear e que Kojima está "inventando um novo meio" com PHYSINT | — |
 | FORTE | noticia | 2689 | 12 | 100 | Kojima revela protagonista de PHYSINT no Tokyo Game Show 2026: Bill Skarsgård assume papel principal | — |
 | FORTE | notícia | 6398 | 23 | 100 | E a Decima Engine? A ida de PHYSINT para o Xbox abre uma das maiores perguntas sobre o futuro do projeto | — |
@@ -881,6 +886,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
 | FORTE | notícia | 2503 | 5 | 100 | Mewtwo exclusivo do aniversário de Pokémon Go está sendo vendido no eBay por até R$ 56 mil | — |
+| FORTE | notícia | 2756 | 11 | 100 | Sea of Stars ganha edição física completa para Switch 2, com tudo no cartucho, em abril de 2027 | — |
 | FORTE | notícia | 3022 | 11 | 100 | Sea of Thieves encolhe até 50% e exige reinstalação completa nesta quinta, mesmo dia de GTA VI | — |
 | FORTE | notícia | 3961 | 12 | 100 | Ataque hacker à rede da SEGA deixa fliperamas do Japão uma semana parados; jogos da Bandai Namco voltam em teste | — |
 | FORTE | noticia | 4239 | 18 | 100 | SEGA aumenta investimento em Sonic, confirma novos jogos em produção e explica por que evita remakes | — |
@@ -898,6 +904,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2899 | 6 | 100 | Sindicato se reúne com Rockstar pela primeira vez e chama conversa sobre crunch de 'passo na direção certa' | — |
 | FORTE | notícia | 5066 | 20 | 100 | Skydance une Paramount Games e Warner Bros. Games e passa a reunir algumas das maiores franquias da indústria | — |
 | FORTE | notícia | 2749 | 12 | 100 | Skyrim faz 15 anos sem presente: Bethesda avisa que não terá novidades de The Elder Scrolls VI "por um bom tempo" | — |
+| FORTE | notícia | 2770 | 12 | 100 | Slay the Spire 2 vende 8 milhões de cópias só no PC e é o sexto jogo mais vendido de 2026 | — |
 | FORTE | notícia | 2814 | 10 | 100 | Slay the Spire 2 ganha The Fool, primeiro personagem novo, e dois modos na maior atualização até agora | — |
 | FORTE | notícia | 2848 | 13 | 100 | Smalland 2: Lost Realms mostra primeiro gameplay e fica para 2027 | — |
 | FORTE | notícia | 2721 | 11 | 100 | Final do SNK World Championship terá US$ 4,2 milhões em prêmios e dupla brasileira na disputa de Fatal Fury | — |
@@ -1096,6 +1103,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
 | FORTE | notícia | 2830 | 9 | 100 | Xbox abre vaga para cuidar de jogos físicos, mas a descrição não fala em discos | — |
 | FORTE | notícia | 3530 | 10 | 100 | Game-Key Card veio para ficar no Switch 2, diz presidente da XSEED: "a pressão pela opção mais barata cresce" | — |
+| FORTE | notícia | 2918 | 12 | 100 | Compositor de Chrono Trigger diz que talvez seja hora de encerrar Dragon Quest, depois de polêmica com o traço de Toriyama | — |
 | FORTE | notícia | 2737 | 10 | 100 | Criador de NieR compra o remake de Ocarina of Time: "Fiz NieR sob grande influência dele" | — |
 | FORTE | notícia | 3164 | 15 | 100 | YouTube fará live de 24 horas no lançamento de GTA VI, e Skorpion, Samira Close e GamerCosta representam o Brasil | — |
 | FORTE | notícia | 2725 | 12 | 100 | Yu-Gi-Oh! TAG FORCE GX ganha trailer de jogabilidade e mostra a vida na Academia de Duelos | — |
