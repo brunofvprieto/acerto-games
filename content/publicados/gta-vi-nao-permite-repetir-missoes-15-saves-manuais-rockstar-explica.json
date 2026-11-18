@@ -1,0 +1,41 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "18 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-18T13:00:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "gta-vi-nao-permite-repetir-missoes-15-saves-manuais-rockstar-explica",
+  "title": "GTA VI não deixa repetir missões da história, e a saída é usar os 15 saves manuais",
+  "excerpt": "A Rockstar tirou o menu de repetição que existia em GTA V. Segundo o estúdio, as missões ficaram abertas demais e dependem de escolhas anteriores.",
+  "image": "/img/gta-6-galeria-lancamento-jason-fuzil-tiroteio-cao.jpg",
+  "imageAlt": "Jason dispara um fuzil durante um tiroteio com um cachorro por perto em GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Rockstar Games (via Eurogamer e IGN)",
+  "fonteUrl": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+  "imageOrigem": "Capa e corpo: imagens oficiais da Rockstar no acervo.",
+  "observacao": "Pauta da busca de 18/11. Fontes: entrevista de David Hynd (Rockstar) via Eurogamer; IGN via Insider Gaming (15 saves).",
+  "body": [
+    "Quem gosta de rever as missões favoritas vai ter que se planejar em GTA VI. O jogo não tem opção para repetir missões da campanha depois de concluídas. Em GTA V, bastava abrir o menu de pausa, ir em Jogo e escolher Repetir Missão. Em GTA VI, esse recurso não existe.",
+    "A explicação está no jeito como as missões foram feitas. Segundo a Rockstar, elas ficaram muito mais abertas, e o que acontece em cada uma depende das escolhas do jogador e de eventos do mundo aberto. Repetir uma missão fora de contexto ficaria difícil.",
+    "## Missões mais difíceis de falhar",
+    "\"A equipe abraçou uma filosofia de design mais aberta neste projeto\", afirmou David Hynd, vice-presidente de tecnologia da Rockstar. Segundo ele, a ideia foi reduzir o número de falhas para quem experimenta ou tenta algo diferente. O estúdio quer que o jogador faça o que parece certo para o seu estilo.",
+    "img: /img/gta-6-galeria-lancamento-vice-city-batida-policial-mansao-iate.jpg | As missões de GTA VI permitem caminhos diferentes para o mesmo objetivo. Divulgação/Rockstar Games",
+    "Isso exigiu repensar a inteligência artificial dos inimigos e o desenho das fases. \"É muito mais difícil manter as missões o mais abertas possível, especialmente num jogo deste tamanho, mas a liberdade e a flexibilidade que isso dá ao jogador valeram a pena\", disse Hynd.",
+    "Na prática, parece que GTA VI quer menos tela de missão fracassada por sair do roteiro. Em jogos anteriores, bastava se afastar demais de um personagem ou destruir o carro errado para tudo recomeçar.",
+    "## A saída é o save manual",
+    "Ainda dá para rever momentos importantes, à moda antiga. O jogo oferece 15 espaços de save manual, além do salvamento automático. Quem quiser voltar a uma missão marcante precisa guardar um arquivo antes dela.",
+    "O problema é a conta. O jogo terá bem mais missões do que espaços de save, então é preciso escolher bem os momentos. Uma boa estratégia é criar um save antes de cada grande golpe ou virada da história, e ir substituindo os antigos pelos mais importantes.",
+    "img: /img/gta-6-galeria-lancamento-vice-city-dois-homens-carro-revolver.jpg | Guardar um save antes das missões principais é a forma de revê-las depois. Divulgação/Rockstar Games",
+    "A decisão também é uma volta ao passado. Em GTA IV, de 2008, não havia como escolher missões antigas para rejogar, e os fãs recorriam justamente aos saves. O menu de repetição só apareceu em GTA V, em 2013, e voltou em Red Dead Redemption 2, que permitia refazer missões em busca de medalhas de ouro.",
+    "Em GTA VI, a Rockstar parece ter escolhido outro caminho. Sem medalhas e com missões que mudam conforme as escolhas, a repetição perde parte do sentido para o estúdio.",
+    "O salvamento automático continua ajudando quando Jason e Lucia são presos ou morrem. Ele não substitui, porém, os arquivos manuais para quem quer montar uma coleção dos melhores momentos.",
+    "Também vale ter cuidado ao sobrescrever arquivos. Um save feito no meio de uma perseguição ou logo antes de uma escolha importante pode deixar o jogador preso num momento difícil, sem volta para um ponto mais tranquilo.",
+    "A escolha divide opiniões. Para quem joga uma vez e segue em frente, pouco muda. Para quem gosta de caçar medalhas ou rever cenas, a ausência do menu parece um passo atrás em relação a GTA V.",
+    "link: GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | https://acertogames.com.br/noticia/gta-vi-nota-metacritic-99-empata-ocarina-of-time-maior-nota-historia-analises"
+  ],
+  "imageFilename": "gta-6-galeria-lancamento-jason-fuzil-tiroteio-cao.jpg"
+}
