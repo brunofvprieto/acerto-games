@@ -1,0 +1,43 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "18 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-18T19:08:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "xbox-fundo-tela-automatico-gta-vi-evento-halo-campaign-evolved-dinamico-como-desligar",
+  "title": "Xbox coloca fundo de tela de GTA VI automaticamente nos consoles e lança fundo dinâmico de Halo",
+  "excerpt": "Muitos jogadores ligaram o console e encontraram a arte de GTA VI sem ter escolhido. Dá para desligar nas configurações.",
+  "image": "/img/gta-6-edge-motoqueiros-cidade-interior.jpg",
+  "imageAlt": "Grupo de motoqueiros numa cidade do interior de Leonida em GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Xbox (via Pure Xbox)",
+  "fonteUrl": "https://www.purexbox.com/news/2026/11/xbox-unveils-new-halo-background-and-default-event-background-for-gta-6",
+  "imageOrigem": "Capa e corpo: imagens oficiais da Rockstar no acervo. Post com a tela do Xbox incorporado.",
+  "observacao": "Pauta da busca de 18/11 (19h). Fontes: Pure Xbox e post de Ray Cox (Stallion83) no X mostrando o fundo automático.",
+  "body": [
+    "Quem ligou o Xbox nesta quarta, 18, pode ter tido uma surpresa. A tela inicial do console apareceu com uma arte de GTA VI como fundo, sem que o jogador tivesse escolhido. Não é um erro: a Microsoft está promovendo o jogo com um fundo de \"evento\", aplicado automaticamente para parte dos usuários.",
+    "tweet: https://x.com/Stallion83/status/2123093229365039402",
+    "## Como desligar",
+    "O fundo de GTA VI é estático, sem animação. Para quem não gostou, dá para voltar ao anterior. Basta ir em Configurações, depois em Personalização e Meu plano de fundo, e desmarcar a opção de mostrar planos de fundo temáticos de eventos.",
+    "Não é a primeira vez que a Microsoft faz isso. Recentemente, Call of Duty: Modern Warfare 4 também ocupou a tela inicial de muitos consoles da mesma forma, o que gerou reclamações. A opção de desligar foi criada justamente para esses casos.",
+    "img: /img/gta-6-galeria-lancamento-grassrivers-aerobarco-noite-jacare.jpg | GTA VI é a estrela da tela inicial do Xbox nesta semana. Divulgação/Rockstar Games",
+    "A reação nas redes foi dividida. Parte dos jogadores gostou de ver a arte do jogo mais esperado do ano na tela, enquanto outra parte reclamou de não ter sido consultada. O próprio Ray Cox, conhecido por ter a maior pontuação de conquistas do Xbox, brincou perguntando quem tinha ficado bravo.",
+    "Os fundos de evento são uma ferramenta de divulgação. A Microsoft já usou o recurso para grandes lançamentos e datas especiais, sempre por tempo limitado. Em geral, a arte some sozinha depois de alguns dias, e o console volta ao fundo escolhido pelo usuário.",
+    "## Halo ganha fundo dinâmico",
+    "Na mesma atualização, a Microsoft lançou um fundo dinâmico de Halo: Campaign Evolved, com animação. É o tipo de fundo mais procurado pelos jogadores, porque se movimenta na tela inicial.",
+    "O console também tem um fundo dinâmico em comemoração aos 25 anos do Xbox, lançado neste mês. Todos podem ser escolhidos em Configurações, na área de planos de fundo dinâmicos.",
+    "Halo: Campaign Evolved é o remake da campanha do primeiro Halo, de 2001, e marca a chegada da série também ao PlayStation. O fundo animado mostra o Master Chief em cenas do jogo e pode ser escolhido por qualquer dono de Xbox Series nas configurações.",
+    "## GTA VI também no Xbox",
+    "A ação mostra o peso de GTA VI para a Microsoft, mesmo sem exclusividade. O jogo sai para Xbox Series ao mesmo tempo que para PS5, e a Microsoft aposta no recurso de jogo na nuvem para levar o título a mais aparelhos.",
+    "A divulgação também faz sentido do ponto de vista comercial. Como GTA VI não tem disco, todas as cópias vendidas para Xbox passam pela loja digital da Microsoft, que fica com uma parte de cada venda feita ali.",
+    "Os testes técnicos mostram que a experiência varia bastante entre os dois consoles da Microsoft. No Series X, o desempenho é parecido com o do PS5 comum. No Series S, as quedas de quadros são mais fortes, e a resolução parte de 720p.",
+    "Para os donos de Xbox, a tela inicial agora lembra que o lançamento é à meia-noite desta quinta, 19. Quem usou o truque da Nova Zelândia, liberado às 8h desta quarta no horário de Brasília, já está jogando há horas.",
+    "link: GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | https://acertogames.com.br/noticia/gta-vi-desempenho-ps5-pro-series-s-30-fps-quedas-rockstar-explica-sem-modo-60-fps",
+    "link: Turismo da Nova Zelândia entra na brincadeira do truque para jogar GTA VI antes, liberado às 8h de Brasília no Xbox | https://acertogames.com.br/noticia/gta-vi-truque-nova-zelandia-turismo-convida-jogadores-xbox-8h-brasilia"
+  ],
+  "imageFilename": "gta-6-edge-motoqueiros-cidade-interior.jpg"
+}
