@@ -529,7 +529,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
 | FORTE | notícia | 2719 | 11 | 100 | GTA VI ganha segunda atualização antes da estreia, com 602 MB no PS5 e versão maior no Xbox | — |
-| FORTE | notícia | 3267 | 14 | 100 | GTA VI: seis imagens inéditas vazam na véspera do lançamento, com academia, assalto e Jason e Lucia de boia no mar | — |
+| FORTE | notícia | 3336 | 14 | 100 | GTA VI: seis imagens inéditas vazam na véspera do lançamento, com academia, assalto e Jason e Lucia de boia no mar | — |
 | FORTE | notícia | 2882 | 10 | 100 | GTA VI chega perto de 15 milhões de cópias em pré-venda e US$ 1,45 bilhão, estima Sensor Tower | — |
 | FORTE | notícia | 2727 | 12 | 100 | Terceiro clipe de GTA VI leva o comboio da Rockstar para uma ponte de Vice City, agora com escolta da polícia | — |
 | FORTE | notícia | 3539 | 12 | 100 | Lista completa do álbum de GTA VI vaza a quatro dias do lançamento, com Dua Lipa, Lana Del Rey e Playboi Carti | — |
