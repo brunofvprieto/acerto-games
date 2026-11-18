@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1132
-- Forte: 1118
+- Total analisado: 1136
+- Forte: 1122
 - Revisar: 12
 - Prioridade: 2
 
@@ -515,6 +515,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
+| FORTE | notícia | 3257 | 13 | 100 | GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | — |
 | FORTE | notícia | 2892 | 11 | 100 | Em GTA VI, a polícia lembra sua roupa e dá para pedir para fazer carinho em cachorro, revela Rockstar | — |
 | FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
@@ -522,6 +523,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
 | FORTE | notícia | 2884 | 15 | 100 | Mapa de GTA VI vaza numa vitrine da Selfridges e revela nomes de lugares de Leonida | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
+| FORTE | notícia | 2830 | 12 | 100 | GTA VI não deixa repetir missões da história, e a saída é usar os 15 saves manuais | — |
 | FORTE | notícia | 3006 | 13 | 100 | GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | — |
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
 | FORTE | notícia | 2819 | 13 | 100 | GTA VI já passou de US$ 1 bilhão em pré-vendas, estima Sensor Tower, e 75% das cópias são do PS5 | — |
@@ -537,6 +539,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2739 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
 | FORTE | notícia | 2894 | 12 | 100 | GTA VI ganha trailer "Pré-carregue agora", e Rockstar confirma 30 fps e sombras com ray tracing só no PS5 Pro | — |
 | FORTE | notícia | 2751 | 11 | 100 | GTA VI é a pré-venda mais feita da história da PlayStation Store, diz Sony em trailer com os recursos do PS5 | — |
+| FORTE | notícia | 2738 | 13 | 100 | Lista de troféus de GTA VI sai com 55 itens, e a platina exige 100% do jogo, mas sem nada do online | — |
+| FORTE | notícia | 2760 | 12 | 100 | Turismo da Nova Zelândia entra na brincadeira do truque para jogar GTA VI antes, liberado às 8h de Brasília no Xbox | — |
 | FORTE | notícia | 3172 | 13 | 100 | Vídeo de GTA VI tão realista que parecia gravado em Miami é mesmo do jogo, e a Rockstar confirmou | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2732 | 11 | 100 | Gundam Battle Operation 3 é anunciado para PS5 e PC, gratuito e com jogo cruzado, mas sem português | — |
