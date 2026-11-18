@@ -1,0 +1,39 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "18 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-18T13:07:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "phasmophobia-atualizacao-resonance-24-novembro-varinhas-radiestesia-unity-6",
+  "title": "Phasmophobia recebe a atualização Resonance em 24 de novembro, com varinhas para achar o osso e motor Unity 6",
+  "excerpt": "O jogo de caça a fantasmas ganha equipamento novo, mais comandos de voz e melhorias visuais. A série já vendeu 28 milhões de cópias.",
+  "image": "/img/phasmophobia-casa-sala-captura-oficial-capa-resonance.jpg",
+  "imageAlt": "Sala escura de uma casa assombrada em Phasmophobia",
+  "imageCredit": "Phasmophobia. Divulgação/Kinetic Games",
+  "fonte": "Kinetic Games",
+  "fonteUrl": "https://www.gematsu.com/2026/11/phasmophobia-resonance-update-launches-november-24",
+  "imageOrigem": "Capa e corpo: capturas oficiais da página do jogo na Steam.",
+  "observacao": "Pauta da busca de 18/11. Fontes: comunicado da Kinetic Games (via Gematsu) e notas do blog oficial.",
+  "body": [
+    "Phasmophobia, um dos jogos de terror cooperativo mais populares dos últimos anos, recebe uma atualização grande em 24 de novembro. Chamada Resonance, ela traz um equipamento novo, mais comandos de voz, melhorias técnicas e a mudança do jogo para o motor Unity 6.",
+    "\"Queremos garantir que cada item do kit dos caçadores de fantasmas acrescente o máximo possível às investigações\", afirmou Daniel Knight, diretor-executivo da Kinetic Games e diretor do jogo. Segundo ele, a atualização deu ao estúdio a chance de renovar equipamentos antigos e criar um totalmente novo.",
+    "## As novidades",
+    "O destaque são as Dowsing Rods, as varinhas de radiestesia, usadas há séculos por quem diz encontrar água ou metais debaixo da terra. No jogo, elas ajudam a localizar o Osso, um dos objetos que rendem recompensas em cada partida. Quanto maior o nível da varinha, mais precisa é a leitura, e a versão de nível 3 aponta até o andar certo.",
+    "lista: O que muda com Resonance | Varinhas de radiestesia para localizar o Osso; Sensor de som com mapa novo, que mostra se o barulho é contínuo ou único; Novos comandos de voz para pedir que o fantasma abra portas, mexa em interruptores e arremesse objetos; Seleção personalizada de mapas aleatórios; Mudança para o motor Unity 6, com iluminação mais realista",
+    "O sensor de som também foi refeito. Agora, o mapa mostra de onde vem cada barulho e permite identificar o tipo de fantasma pela velocidade com que ele se move. A lista de frases que funcionam com o reconhecimento de voz ficará no diário do jogador.",
+    "img: /img/phasmophobia-corredor-captura-oficial.jpg | As investigações acontecem em casas, escolas e prédios abandonados. Divulgação/Kinetic Games",
+    "## Mais técnica e menos banimento surpresa",
+    "A troca para o Unity 6 traz iluminação mais realista e mais estabilidade. A atualização também inclui novas opções gráficas, ajuste de adaptação dos olhos para quem joga em realidade virtual e um conjunto de configurações para daltonismo.",
+    "Outra mudança atende a um pedido antigo da comunidade. O jogo passa a ter um sistema de avisos de conduta. Jogadores serão alertados antes de levar banimento, exceto em casos de violações graves. A atualização também corrige vários erros apontados pelos fãs nas últimas semanas.",
+    "## Um sucesso que não para",
+    "Phasmophobia foi lançado em 2020 no PC e virou febre entre streamers, inclusive no Brasil, com partidas em grupo cheias de sustos e gritos. Hoje o jogo está em acesso antecipado no PC, PS5, com suporte ao PS VR2, e Xbox Series, e vai chegar ao Switch 2.",
+    "Segundo a Kinetic Games, o jogo já passou de 28 milhões de cópias vendidas no total, sendo 5 milhões nos consoles. Os números colocam o pequeno estúdio britânico entre os maiores sucessos independentes da década.",
+    "Para quem nunca jogou, a proposta é simples: até quatro pessoas entram numa casa assombrada com câmeras, termômetros e outros aparelhos. O objetivo é descobrir que tipo de fantasma está ali, sem morrer no processo.",
+    "A versão 1.0 ainda não tem data. A cada atualização grande, porém, o estúdio parece mais perto de considerar o jogo completo, sem abandonar o clima de investigação em equipe que fez a fama da série."
+  ],
+  "imageFilename": "phasmophobia-casa-sala-captura-oficial-capa-resonance.jpg"
+}

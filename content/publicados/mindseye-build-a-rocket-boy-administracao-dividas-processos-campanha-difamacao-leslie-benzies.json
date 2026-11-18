@@ -1,0 +1,40 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "18 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-18T13:05:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "mindseye-build-a-rocket-boy-administracao-dividas-processos-campanha-difamacao-leslie-benzies",
+  "title": "Estúdio de MindsEye, do ex-produtor de GTA, aposta em processos para pagar dívidas",
+  "excerpt": "Documento dos administradores da Build a Rocket Boy lista credores até de uma cobrança de 20 libras da OpenAI. O maior ativo, segundo eles, seriam ações contra quem teria sabotado o jogo.",
+  "image": "/img/mindseye-protagonista-captura-oficial-capa-dividas.jpg",
+  "imageAlt": "Rosto do protagonista de MindsEye iluminado por uma luz laranja",
+  "imageCredit": "MindsEye. Divulgação/Build A Rocket Boy",
+  "fonte": "Proposta dos administradores da Build a Rocket Boy",
+  "fonteUrl": "https://www.eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation",
+  "imageOrigem": "Capa e corpo: capturas oficiais da página do jogo na Steam.",
+  "observacao": "Pauta da busca de 18/11. Fontes: proposta de administração (via Eurogamer/Resetera); números financeiros e administração em setembro via Everything Edinburgh e Hardware.com.br; Insider Gaming (reunião interna).",
+  "body": [
+    "A Build a Rocket Boy, estúdio de MindsEye fundado por Leslie Benzies, ex-produtor da série GTA na Rockstar, tem uma montanha de dívidas e uma aposta para pagá-las: a Justiça. É o que mostra a proposta dos administradores da empresa, que está sob administração judicial no Reino Unido desde setembro.",
+    "O documento lista tudo o que a companhia deve, em detalhes que chegam a uma cobrança de 20 libras da OpenAI. E aponta qual seria o maior ativo para quitar os débitos: processos contra terceiros.",
+    "## A tese da sabotagem",
+    "Segundo os administradores, os diretores investigavam o desempenho comercial de MindsEye antes da crise. Eles concluíram que as vendas \"podem ter sido prejudicadas por uma campanha coordenada de avaliações e comentários negativos\" na internet.",
+    "O texto diz que os diretores receberam informações sobre o envolvimento de terceiros na organização e no financiamento dessa campanha, e abriram processos contra alguns deles. As ações \"podem ter valor substancial\", mas o resultado é incerto e depende de investigações e decisões judiciais.",
+    "img: /img/mindseye-carros-deserto-captura-oficial.jpg | MindsEye foi lançado em junho de 2025 e recebeu notas muito baixas. Divulgação/Build A Rocket Boy",
+    "A versão bate com o discurso de Mark Gerhard, que dividia o comando da empresa. Ao longo das demissões, ele culpou \"espionagem organizada e sabotagem corporativa\" pelos problemas. Numa reunião interna, segundo relato publicado pelo Insider Gaming, Gerhard disse que a campanha teria sido paga por uma \"grande empresa americana\".",
+    "## Os números do fracasso",
+    "A tese ignora o estado em que o jogo chegou às lojas. MindsEye estreou em junho de 2025 com problemas técnicos, combate criticado e história confusa, e terminou o ano entre os jogos com as piores notas do Metacritic.",
+    "Os balanços mostram o tamanho do buraco. No ano encerrado em setembro de 2025, o prejuízo operacional foi de 47,5 milhões de libras, cerca de R$ 330 milhões. A dívida com credores chegava a 61,8 milhões de libras. Em setembro deste ano, entrou em administração, com a consultoria Opus Advisory Group no comando e 36 vagas cortadas.",
+    "## De GTA a MindsEye",
+    "Leslie Benzies supervisionou GTA por mais de uma década na Rockstar North, incluindo GTA IV e GTA V. Ele deixou a empresa em 2016, depois de uma disputa judicial, e fundou a Build a Rocket Boy no mesmo ano.",
+    "O primeiro projeto anunciado foi Everywhere, uma plataforma de conteúdo criado pelos jogadores, revelada em 2022. Ela nunca saiu do papel, e MindsEye nasceu de uma parte dela. Dez anos e centenas de milhões depois, o estúdio só tem um jogo lançado.",
+    "Os administradores agora tentam vender o estúdio ou o que restou dele, como a marca MindsEye e a tecnologia desenvolvida. Se não houver comprador, o caminho mais provável é o fechamento, com os credores divididos entre o pouco que sobrar e o eventual resultado dos processos.",
+    "A ironia do momento é difícil de ignorar. A Build a Rocket Boy discute dívidas na mesma semana em que GTA VI, sucessor dos jogos que Benzies ajudou a criar, chega às lojas com nota 99 no Metacritic.",
+    "link: GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | https://acertogames.com.br/noticia/gta-vi-nota-metacritic-99-empata-ocarina-of-time-maior-nota-historia-analises"
+  ],
+  "imageFilename": "mindseye-protagonista-captura-oficial-capa-dividas.jpg"
+}
