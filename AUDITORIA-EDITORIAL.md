@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1127
-- Forte: 1113
+- Total analisado: 1132
+- Forte: 1118
 - Revisar: 12
 - Prioridade: 2
 
@@ -792,6 +792,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2885 | 11 | 100 | PlayStation Pulse chega em 19 de novembro, no dia de GTA VI, por US$ 99,99 | — |
 | FORTE | notícia | 2839 | 11 | 100 | PlayStation fica sem indicado a Jogo do Ano no The Game Awards pela primeira vez em 12 anos | — |
 | FORTE | notícia | 2936 | 13 | 100 | Estúdio de Palworld dá cinco dias de folga aos funcionários para jogarem GTA VI: "viagem de negócios a Vice City" | — |
+| FORTE | notícia | 2936 | 10 | 100 | Pokémon Champions muda o balanceamento em 2 de dezembro: Rock Slide perde força e as Eeveelutions ganham Play Rough | — |
 | FORTE | notícia | 2779 | 8 | 100 | Pokémon faz contagem regressiva misteriosa que termina em 30 de novembro, às 11h de Brasília | — |
 | FORTE | noticia | 2031 | 7 | 100 | Pokémon FireRed e LeafGreen recebem suporte ao Pokémon HOME e permitem resgatar Celebi | — |
 | FORTE | notícia | 3082 | 12 | 100 | Pokémon GO terá encontro da Área Selvagem Global no Ibirapuera, com Dialga e Palkia Dinamax no jogo | — |
@@ -824,6 +825,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 2790 | 11 | 100 | PS3 faz 20 anos: o console caro que quase derrubou a Sony e virou a base do PlayStation moderno | — |
 | FORTE | notícia | 2751 | 12 | 100 | PS5 passa de 100 milhões de unidades e vira o quarto PlayStation a chegar à marca | — |
 | FORTE | notícia | 2793 | 9 | 100 | PS5 recebe a segunda atualização de segurança em 12 dias, e GTA 6 deve exigir a nova versão | — |
+| FORTE | notícia | 2724 | 9 | 100 | PS5 recebe a terceira atualização do sistema em um mês, e a versão 14.23 é obrigatória para jogar GTA VI | — |
 | FORTE | noticia | 2362 | 10 | 100 | PS5 ganha edição limitada de Marvel’s Wolverine com DualSense especial | — |
 | FORTE | notícia | 2723 | 11 | 100 | Sony traz de volta os controles transparentes com a Prism Collection para PS5; pré-venda começa em 10 de novembro | — |
 | FORTE | noticia | 5124 | 16 | 100 | Sony leva upscaling por IA ao PS5 comum com QSSR; Wolverine e Ghost of Yōtei estreiam tecnologia | — |
@@ -875,6 +877,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
 | FORTE | notícia | 3825 | 6 | 100 | Saudade bate pesado: por que o mundo dos games precisa ressuscitar os relançamentos de budget | — |
 | FORTE | notícia | 2503 | 5 | 100 | Mewtwo exclusivo do aniversário de Pokémon Go está sendo vendido no eBay por até R$ 56 mil | — |
+| FORTE | notícia | 3022 | 11 | 100 | Sea of Thieves encolhe até 50% e exige reinstalação completa nesta quinta, mesmo dia de GTA VI | — |
 | FORTE | notícia | 3961 | 12 | 100 | Ataque hacker à rede da SEGA deixa fliperamas do Japão uma semana parados; jogos da Bandai Namco voltam em teste | — |
 | FORTE | noticia | 4239 | 18 | 100 | SEGA aumenta investimento em Sonic, confirma novos jogos em produção e explica por que evita remakes | — |
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
@@ -906,6 +909,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2905 | 10 | 100 | Sony abre nova fase do China Hero Project com US$ 1 milhão por jogo, na semana do sucesso de Phantom Blade Zero | — |
 | FORTE | notícia | 2734 | 13 | 100 | Sony vai desligar o app do PS Plus para PC em 10 de dezembro: menos de 0,4% dos assinantes usavam | — |
 | FORTE | notícia | 3096 | 11 | 100 | Sem leitor de disco e mais caro, PlayStation ainda é mais barato que PC gamer, diz a Sony | — |
+| FORTE | notícia | 3673 | 10 | 100 | Sony vence no Reino Unido a ação de quase £2 bilhões sobre os preços da PlayStation Store | — |
 | FORTE | notícia | 2984 | 11 | 100 | Soulframe, dos criadores de Warframe, abre alfa gratuito para todos em 6 de novembro | — |
 | FORTE | notícia | 2875 | 9 | 100 | Diretor de South of Midnight diz que não teria financiado o próprio jogo e chama a "torneira de dinheiro" do Xbox de insustentável | — |
 | FORTE | notícia | 2166 | 7 | 100 | Marvel's Spider-Man 2 ganha update grátis com trajes de Brand New Day e Tōkon — e um bug engraçado | — |
@@ -1087,6 +1091,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
 | FORTE | notícia | 2830 | 9 | 100 | Xbox abre vaga para cuidar de jogos físicos, mas a descrição não fala em discos | — |
+| FORTE | notícia | 3530 | 10 | 100 | Game-Key Card veio para ficar no Switch 2, diz presidente da XSEED: "a pressão pela opção mais barata cresce" | — |
 | FORTE | notícia | 2737 | 10 | 100 | Criador de NieR compra o remake de Ocarina of Time: "Fiz NieR sob grande influência dele" | — |
 | FORTE | notícia | 3164 | 15 | 100 | YouTube fará live de 24 horas no lançamento de GTA VI, e Skorpion, Samira Close e GamerCosta representam o Brasil | — |
 | FORTE | notícia | 2725 | 12 | 100 | Yu-Gi-Oh! TAG FORCE GX ganha trailer de jogabilidade e mostra a vida na Academia de Duelos | — |
