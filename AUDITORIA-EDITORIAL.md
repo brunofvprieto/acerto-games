@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1149
-- Forte: 1135
+- Total analisado: 1154
+- Forte: 1140
 - Revisar: 12
 - Prioridade: 2
 
@@ -515,6 +515,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2752 | 10 | 100 | Na China, streamers de GTA VI não poderão roubar carros nem atacar policiais, segundo regras vazadas | — |
 | FORTE | notícia | 2892 | 10 | 100 | GTA VI ganha seis imagens inéditas numa "previsão do tempo" de Leonida feita pelo The Weather Channel | — |
 | FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
+| FORTE | notícia | 2940 | 13 | 100 | Códigos de trapaça de GTA VI só aparecem depois da história, e usá-los bloqueia o save e os troféus | — |
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
 | FORTE | notícia | 3257 | 13 | 100 | GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | — |
@@ -532,9 +533,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
+| FORTE | notícia | 2924 | 12 | 100 | GTA VI bate recorde histórico de audiência em transmissões ao vivo e derruba o Reddit antes de chegar ao Brasil | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
 | FORTE | notícia | 2719 | 11 | 100 | GTA VI ganha segunda atualização antes da estreia, com 602 MB no PS5 e versão maior no Xbox | — |
 | FORTE | notícia | 3336 | 14 | 100 | GTA VI: seis imagens inéditas vazam na véspera do lançamento, com academia, assalto e Jason e Lucia de boia no mar | — |
+| FORTE | notícia | 2747 | 11 | 100 | GTA VI tira a prostituição e os encontros casuais da série para focar no romance de Jason e Lucia | — |
 | FORTE | notícia | 2882 | 10 | 100 | GTA VI chega perto de 15 milhões de cópias em pré-venda e US$ 1,45 bilhão, estima Sensor Tower | — |
 | FORTE | notícia | 2727 | 12 | 100 | Terceiro clipe de GTA VI leva o comboio da Rockstar para uma ponte de Vice City, agora com escolta da polícia | — |
 | FORTE | notícia | 3539 | 12 | 100 | Lista completa do álbum de GTA VI vaza a quatro dias do lançamento, com Dua Lipa, Lana Del Rey e Playboi Carti | — |
@@ -543,6 +546,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2751 | 11 | 100 | GTA VI é a pré-venda mais feita da história da PlayStation Store, diz Sony em trailer com os recursos do PS5 | — |
 | FORTE | notícia | 2738 | 13 | 100 | Lista de troféus de GTA VI sai com 55 itens, e a platina exige 100% do jogo, mas sem nada do online | — |
 | FORTE | notícia | 2760 | 12 | 100 | Turismo da Nova Zelândia entra na brincadeira do truque para jogar GTA VI antes, liberado às 8h de Brasília no Xbox | — |
+| FORTE | notícia | 2849 | 12 | 100 | Itens da Ultimate Edition de GTA VI saem aos poucos na história, e alguns só valem no primeiro capítulo | — |
 | FORTE | notícia | 3172 | 13 | 100 | Vídeo de GTA VI tão realista que parecia gravado em Miami é mesmo do jogo, e a Rockstar confirmou | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2732 | 11 | 100 | Gundam Battle Operation 3 é anunciado para PS5 e PC, gratuito e com jogo cruzado, mas sem português | — |
@@ -867,6 +871,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1796 | 9 | 100 | Riders Republic chega ao Nintendo Switch 2 em 9 de dezembro, no aniversário de cinco anos | texto curto |
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
 | FORTE | notícia | 3265 | 11 | 100 | Robert Pattinson é o novo James Bond: Amazon confirma o ator como 007 no filme de Denis Villeneuve | — |
+| FORTE | notícia | 2861 | 12 | 100 | Demitidos pela Rockstar em 2025 aparecem nos créditos de GTA VI, e julgamento contra a empresa termina sem sentença | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
 | FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
