@@ -1,0 +1,41 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "18 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-18T19:06:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "rockstar-34-demitidos-creditos-gta-vi-julgamento-sindicato-termina-sem-sentenca",
+  "title": "Demitidos pela Rockstar em 2025 aparecem nos créditos de GTA VI, e julgamento contra a empresa termina sem sentença",
+  "excerpt": "Ao menos 28 dos 34 funcionários dispensados estão listados no jogo. O sindicato acusa a Rockstar de perseguição sindical, e a decisão pode levar meses.",
+  "image": "/img/gta-6-edge-policial-vcpd-mendez.jpg",
+  "imageAlt": "Policial de Vice City em imagem oficial de GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "IWGB e tribunal trabalhista de Glasgow",
+  "fonteUrl": "https://www.videogameschronicle.com/news/rockstars-union-busting-tribunal-comes-to-an-end-pending-verdict/",
+  "imageOrigem": "Capa e corpo: imagens oficiais da Rockstar no acervo.",
+  "observacao": "Pauta da busca de 18/11 (19h). Fontes: Eurogamer (cruzamento de nomes com a lista do IWGB) e VGC (fim do julgamento, relato de Chris Bratt, do People Make Games).",
+  "body": [
+    "GTA VI chega às lojas com uma história desconfortável nos bastidores. A maior parte dos 34 funcionários demitidos pela Rockstar em 2025 aparece nos créditos do jogo. E o julgamento trabalhista que eles movem contra a empresa terminou nesta quarta, 18, sem sentença.",
+    "O cruzamento foi feito a partir de uma lista enviada pelo IWGB, o sindicato britânico que representa os trabalhadores. Dos 34 nomes, 28 aparecem exatamente nos créditos, e outros têm grafias parecidas que ainda estão sendo checadas. A lista não foi divulgada, por privacidade.",
+    "## O que está em jogo",
+    "Os funcionários foram demitidos de repente em 2025, quando trabalhavam em GTA VI. O sindicato diz que foi perseguição sindical, prática ilegal pela lei trabalhista do Reino Unido.",
+    "A Rockstar nega. Segundo a empresa, os trabalhadores foram dispensados por vazar informações confidenciais para pessoas de fora. O IWGB responde que as conversas eram protegidas pela lei e acusa a Rockstar de espionar os funcionários num servidor de Discord ligado ao sindicato.",
+    "img: /img/gta-6-galeria-lancamento-vice-city-homem-mao-rosto-aneis.jpg | GTA VI teve mais de 4.700 pessoas envolvidas no desenvolvimento. Divulgação/Rockstar Games",
+    "Na semana passada, os demitidos protestaram em frente ao escritório da Rockstar em Edimburgo, na Escócia, onde fica a Rockstar North, estúdio que lidera o desenvolvimento da série. O ato foi organizado para chamar atenção para o caso às vésperas do lançamento.",
+    "## A espera pela decisão",
+    "O julgamento aconteceu em Glasgow, na Escócia. Segundo o jornalista Chris Bratt, do canal People Make Games, que acompanhou a audiência final, a sentença pode levar \"de algumas semanas a alguns meses\". Até lá, os demitidos não podem voltar aos seus postos.",
+    "\"Sinceramente, tudo virou uma coisa só\", contou um dos trabalhadores a Bratt. \"Faz tanto tempo que, depois dos primeiros seis meses, virou a nova realidade deprimente. Espero que a decisão nos liberte disso.\"",
+    "Alguns já seguiram a vida em outras empresas. Outros querem voltar à Rockstar se a Justiça der razão a eles. Por isso, o próprio grupo pediu aos apoiadores que não boicotem GTA VI, um jogo que eles ajudaram a fazer.",
+    "## Um contraste difícil de ignorar",
+    "A Rockstar revelou recentemente que mais de 4.711 pessoas, em 12 escritórios pelo mundo, trabalharam em GTA VI. É mais que o dobro da equipe de Red Dead Redemption 2. Analistas esperam que o jogo fature cerca de US$ 2 bilhões só no primeiro fim de semana.",
+    "A coincidência de datas parece dar ainda mais peso ao caso. Na semana em que o jogo recebe nota 99 no Metacritic e quebra recordes de audiência, quem ajudou a construí-lo espera uma decisão judicial para saber se pode voltar ao trabalho.",
+    "O caso é acompanhado de perto pela indústria. Uma decisão favorável aos trabalhadores seria uma vitória rara para um sindicato de games no Reino Unido, setor em que a organização de trabalhadores ainda é pequena.",
+    "No Reino Unido, os desenvolvedores da Rockstar também votam nesta semana a criação de um sindicato. O resultado do julgamento deve influenciar a relação entre a empresa e seus funcionários pelos próximos anos.",
+    "link: Desenvolvedores da Rockstar no Reino Unido votam sindicato na semana de lançamento de GTA 6 | https://acertogames.com.br/noticia/rockstar-sindicato-votacao-reino-unido-12-a-26-novembro-lancamento-gta-6"
+  ],
+  "imageFilename": "gta-6-edge-policial-vcpd-mendez.jpg"
+}
