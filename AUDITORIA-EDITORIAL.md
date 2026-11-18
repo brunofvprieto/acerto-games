@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1126
-- Forte: 1112
+- Total analisado: 1127
+- Forte: 1113
 - Revisar: 12
 - Prioridade: 2
 
@@ -522,6 +522,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
 | FORTE | notícia | 2884 | 15 | 100 | Mapa de GTA VI vaza numa vitrine da Selfridges e revela nomes de lugares de Leonida | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
+| FORTE | notícia | 3006 | 13 | 100 | GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | — |
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
 | FORTE | notícia | 2819 | 13 | 100 | GTA VI já passou de US$ 1 bilhão em pré-vendas, estima Sensor Tower, e 75% das cópias são do PS5 | — |
 | FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
