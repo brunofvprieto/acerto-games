@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1154
-- Forte: 1140
+- Total analisado: 1162
+- Forte: 1148
 - Revisar: 12
 - Prioridade: 2
 
@@ -179,6 +179,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2133 | 6 | 100 | 007 First Light no Switch 2: Amazon do Japão aponta setembro — mas segura a euforia | — |
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
+| FORTE | notícia | 2763 | 11 | 100 | 8BitDo lança controle no estilo GameCube para Switch 2 por US$ 49,99, mais barato que o da Nintendo | — |
 | FORTE | noticia | 2457 | 11 | 100 | Ace Combat 8 traz de volta Annihilation Battle e novo trailer mostra superarmas e a guerra de Wings of Theve | — |
 | FORTE | notícia | 2702 | 11 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
 | FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
@@ -282,6 +283,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2733 | 9 | 100 | Control Resonant terá Assist Mode que deixa o jogo mais fácil — ou ainda mais difícil | — |
 | FORTE | notícia | 2827 | 9 | 100 | Control Resonant terá 30 horas de campanha — quase o triplo do original | — |
 | FORTE | noticia | 2535 | 9 | 100 | Control Resonant abre Manhattan e coloca Dylan Faden no centro do caos paranatural | — |
+| FORTE | notícia | 2778 | 11 | 100 | Coral Island chega ao Switch 2 em 7 de dezembro, junto com a atualização em que os filhos crescem | — |
 | FORTE | notícia | 2807 | 11 | 100 | Coral Island chega ao Switch 2 com a atualização 1.4, em que os filhos crescem | — |
 | FORTE | notícia | 2969 | 10 | 100 | Crazy Taxi: World Tour revela a Índia como último mapa, com Taj Mahal e três zonas | — |
 | FORTE | notícia | 1929 | 7 | 100 | Crazy Taxi: World Tour ganha novo trailer e confirma chegada ao Switch 2 | — |
@@ -327,8 +329,10 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2943 | 9 | 100 | Demissões na indústria de games em 2026 já passam do total de 2025, com dois meses ainda pela frente | — |
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
 | FORTE | notícia | 2758 | 11 | 100 | Demon Slayer: The Hinokami Chronicles 2 chega ao Switch 2 com upgrade grátis, e série passa de 6 milhões | — |
+| FORTE | notícia | 2923 | 12 | 100 | Deputado americano diz que é "mau pai" quem deixa o filho jogar GTA VI e retoma debate sobre violência nos games | — |
 | FORTE | noticia | 1988 | 8 | 100 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | — |
 | FORTE | notícia | 2974 | 13 | 100 | Bungie avisa que Destiny não terá anúncio no The Game Awards: "A gente chega lá quando chegar" | — |
+| FORTE | notícia | 2941 | 13 | 100 | Devolver Digital sorteia jogo grátis para quem apagar GTA VI do console, numa provocação à Rockstar | — |
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
 | FORTE | noticia | 2059 | 10 | 100 | Diablo IV no Switch 2 chega a 1440p e oferece modo de 40 FPS; Blizzard detalha a versão | — |
@@ -512,6 +516,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2814 | 10 | 100 | GTA VI precisa faturar US$ 1,9 bilhão em três dias para agradar investidores, diz Bank of America | — |
 | FORTE | notícia | 2993 | 13 | 100 | Caixa brasileira de GTA VI aparece na Kabum e confirma: legendas em português, sem dublagem e sem disco | — |
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
+| FORTE | notícia | 3032 | 12 | 100 | Fãs encontram em GTA VI a casa que apareceu em San Andreas Definitive Edition, e a primeira imagem do jogo pode ser de 2021 | — |
 | FORTE | notícia | 2752 | 10 | 100 | Na China, streamers de GTA VI não poderão roubar carros nem atacar policiais, segundo regras vazadas | — |
 | FORTE | notícia | 2892 | 10 | 100 | GTA VI ganha seis imagens inéditas numa "previsão do tempo" de Leonida feita pelo The Weather Channel | — |
 | FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
@@ -572,6 +577,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 5936 | 22 | 100 | Kojima revela à IGN bastidores da saída da Sony de PHYSINT e temor pelo futuro do estúdio | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
 | FORTE | notícia | 2829 | 11 | 100 | Manual da edição física de Silksong indica mais expansões gratuitas, e chama Sea of Sorrow de "a primeira expansão gigante" | — |
+| FORTE | notícia | 2836 | 12 | 100 | Homura Hime, ação estilo anime com chuva de tiros, chega ao PS5 em 2027, e a versão de Switch 2 é adiada | — |
 | FORTE | notícia | 2043 | 11 | 100 | Honor of Kings faz aniversário com o herói Dunshan, visual inspirado em pagoda milenar e recompensas grátis | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
 | FORTE | notícia | 2742 | 10 | 100 | Hounded, aventura em que você é um border collie, é confirmado para PS5 | — |
@@ -659,6 +665,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4794 | 15 | 100 | Metro Redux ganha upgrade gratuito para PS5 e Xbox Series após franquia superar 50 milhões | — |
 | FORTE | noticia | 2138 | 9 | 100 | Metroid Ravenous é oficial: Samus abraça seus instintos Metroid em nova aventura 2D no Switch 2 | — |
 | FORTE | notícia | 3637 | 13 | 100 | Dezoito anos depois: veja como MGS4 evoluiu do PS3 para o PS5 e o Switch 2 a três dias do lançamento | — |
+| FORTE | notícia | 2929 | 13 | 100 | Jogadores do Miami Heat ganham PS5 Pro exclusivo de GTA VI numa mala de luxo, e fãs reclamam | — |
 | FORTE | notícia | 2846 | 10 | 100 | Miami Heat mostra o uniforme Vice City de GTA 6, feito com a Cactus Jack de Travis Scott e a Nike | — |
 | FORTE | notícia | 1789 | 6 | 100 | Demanda por memória para IA aumenta pressão sobre cadeia que também abastece hardware gamer | texto curto |
 | FORTE | notícia | 2950 | 12 | 100 | Microsoft oferece saída voluntária a 60 mil funcionários, e o Xbox está na lista | — |
@@ -1091,6 +1098,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3153 | 11 | 100 | Xbox prepara mais três rodadas de demissões, e estudo interno avaliou venda ou spinoff, diz Fortune | — |
 | FORTE | notícia | 3226 | 10 | 100 | Xbox libera Disc-to-Digital para todos e transforma discos físicos em licenças digitais | — |
 | FORTE | notícia | 2065 | 5 | 100 | Usuário recuperou as fotos do filho bebê após suspensão no Xbox — mas só porque o caso viralizou | — |
+| FORTE | notícia | 2819 | 12 | 100 | Xbox coloca fundo de tela de GTA VI automaticamente nos consoles e lança fundo dinâmico de Halo | — |
 | FORTE | notícia | 2775 | 12 | 100 | Game Pass recebe The Outlast Trials, Hela e Arkheron até 1º de dezembro; veja os nove jogos | — |
 | FORTE | noticia | 1859 | 10 | 100 | Xbox Game Pass anuncia Gears of War: E-Day, Minecraft Dungeons II, Dune: Awakening e mais jogos | — |
 | FORTE | notícia | 2495 | 5 | 100 | Halo: Campaign Evolved lidera a segunda leva do Game Pass em julho — e tem mais coisa boa vindo | — |
