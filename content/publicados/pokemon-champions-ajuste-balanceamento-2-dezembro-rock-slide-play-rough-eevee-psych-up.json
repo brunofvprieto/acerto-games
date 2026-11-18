@@ -1,0 +1,38 @@
+{
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-18T10:20:00-03:00",
+  "cover": [
+    "#d4252b",
+    "#101a3a"
+  ],
+  "slug": "pokemon-champions-ajuste-balanceamento-2-dezembro-rock-slide-play-rough-eevee-psych-up",
+  "title": "Pokémon Champions muda o balanceamento em 2 de dezembro: Rock Slide perde força e as Eeveelutions ganham Play Rough",
+  "excerpt": "A The Pokémon Company anunciou ajustes que valem para todas as regras de batalha: golpes novos para mais de 25 Pokémon, precisão maior para Screech e Steel Wing, menos chance de recuo no Rock Slide e mudanças nas habilidades Flash Fire e Stalwart.",
+  "image": "/img/pokemon-champions-arte-oficial-ajuste-balanceamento-dezembro.jpg",
+  "imageAlt": "Arte oficial de Pokémon Champions com treinadores, Charizard e outros Pokémon num estádio",
+  "imageCredit": "Pokémon Champions. Divulgação/The Pokémon Company",
+  "fonte": "The Pokémon Company (notícias do Pokémon HOME / Pokémon Champions)",
+  "fonteUrl": "https://news.pokemon-home.com/en/page/877.html",
+  "imageOrigem": "Capa: key art oficial do kit de imprensa da The Pokémon Company Ásia (asia-press.portal-pokemon.com), 1920 px. Corpo: captura oficial do mesmo kit (Emboar).",
+  "observacao": "Pauta da rodada 18/11. Lista oficial em inglês e japonês (news.pokemon-home.com/en e /ja, página 877), conferida com Nintendo Life (18/11) e Nintendo Everything (17/11), que batem item a item. Aviso oficial não fala em 'primeiro' ajuste nem traz número de versão: texto não usa nenhum dos dois. Fim da Regulation M-C e da temporada M-8 em 2/12: Victory Road e Serebii. Lançamento 8/4/2026 (Switch e Switch 2) e 17/6/2026 (iOS e Android): RPG Site, Nintendo Life, Gematsu. VGC no Champions: pokemon.com e Nintendo Life. Leituras de metagame marcadas como hipótese. LAIC em São Paulo (fonte única, datas não conferidas): fora. Contagem de Pokémon com golpes novos: 24 nomes únicos mais as formas de Rotom.",
+  "body": [
+    "Pokémon Champions vai passar por ajustes de balanceamento em 2 de dezembro. A The Pokémon Company publicou a lista de mudanças, que entram durante a manutenção programada daquela quarta e valem para batalhas em todas as regras. O pacote mexe em golpes, em habilidades e no repertório de mais de 25 Pokémon.",
+    "A data não é aleatória. O dia 2 marca o fim da Regulation M-C e da temporada ranqueada que começou em 4 de novembro. Ou seja, quem joga competitivo vai abrir o próximo ciclo já com as regras novas.",
+    "## Rock Slide mais preciso, mas menos assustador",
+    "A mudança de maior impacto parece ser no Rock Slide. O golpe sobe de 90% para 95% de precisão, mas a chance de fazer o alvo recuar cai de 30% para 20%. Em batalhas em dupla, formato oficial do competitivo, o Rock Slide atinge os dois adversários de uma vez, e o recuo era justamente o que tornava o golpe tão incômodo.",
+    "Outros golpes ganham precisão total. Screech e Metal Sound sobem de 85% para 100%. Steel Wing e Frost Breath, de 90% para 100%. Para Frost Breath, que sempre acerta crítico, a mudança tira o fator sorte de um golpe que já tinha dano garantido.",
+    "Também há precisão total para golpes de suporte, o que mexe com estratégias inteiras. Screech e Metal Sound derrubam a defesa do alvo em dois estágios, e com 100% de acerto deixam de ser aposta para virar ferramenta confiável de quem quer abrir caminho para um atacante.",
+    "## Play Rough para as Eeveelutions",
+    "Na lista de golpes novos, o destaque é Play Rough, ataque físico do tipo Fada, para sete evoluções de Eevee: Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon e Glaceon. Umbreon ainda ganha Wonder Room, que troca as defesas física e especial de todos em campo.",
+    "img: /img/pokemon-champions-emboar-batalha-captura-oficial.jpg | Emboar, um dos contemplados com golpe novo, em batalha no Pokémon Champions. Divulgação/The Pokémon Company",
+    "Psych Up, que copia as mudanças de atributo do alvo, chega a uma lista longa, com Alakazam, Starmie, Absol, Weavile, Hydreigon de fora, todas as formas de Rotom, Annihilape e outros. Emboar recebe Slack Off, que recupera metade da vida. Beedrill e Hydreigon ganham Roost, e Emolga passa a ter Tailwind, que dobra a velocidade da equipe por alguns turnos.",
+    "## Flash Fire e Stalwart",
+    "Duas habilidades mudam de comportamento. Com Flash Fire, o Pokémon atingido por um golpe de Fogo agora recebe o status Fire Boost, que continua valendo mesmo se ele fizer a Mega Evolução no meio da luta. Antes, a troca de forma podia apagar o bônus.",
+    "Stalwart mantém o efeito original, que ignora habilidades e golpes que puxam ataques para si, como Follow Me. E ganha outro: os golpes do Pokémon passam a ignorar o Substitute dos alvos. Duraludon e Archaludon, os principais usuários da habilidade, podem sair fortalecidos.",
+    "Pokémon Champions chegou ao Switch e ao Switch 2 em 8 de abril e aos celulares em 17 de junho, e virou a plataforma oficial do circuito competitivo de VGC neste ano. Ajustes desse tipo, comuns em jogos de luta e de serviço, eram estranhos ao Pokémon competitivo, em que os números ficavam travados até a próxima geração. Agora o metagame pode mudar no meio do ano, e a lista de dezembro sugere uma preocupação clara: reduzir o peso da sorte nas batalhas."
+  ],
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "18 nov 2026",
+  "imageFilename": "pokemon-champions-arte-oficial-ajuste-balanceamento-dezembro.jpg"
+}
