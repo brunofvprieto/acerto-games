@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1144
-- Forte: 1130
+- Total analisado: 1149
+- Forte: 1135
 - Revisar: 12
 - Prioridade: 2
 
@@ -185,6 +185,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2741 | 14 | 100 | Acornia: Mirror Worlds mostra fazenda, funcionários e eventos de cada estação, e ganha janela: primavera de 2027 | — |
 | FORTE | notícia | 4089 | 13 | 100 | Acts of Blood tem data no PC: 4 de dezembro, com consoles só em 2027 | — |
 | FORTE | notícia | 2788 | 11 | 100 | AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado | — |
+| FORTE | notícia | 2857 | 13 | 100 | AION 2 ganha os prêmios de Excelência e de Jogo Popular no Korea Game Awards 2026 | — |
 | FORTE | notícia | 3087 | 13 | 100 | Alien: Isolation 2 terá edição física, modo foto e um Xenomorfo que caça usando o mau tempo | — |
 | FORTE | notícia | 2859 | 10 | 100 | Prime libera sete jogos de PC em novembro, com Jurassic World Evolution 2 e Squirrel with a Gun | — |
 | FORTE | notícia | 2738 | 13 | 100 | Adolescente desaparecida há mais de 500 dias é resgatada nos EUA após pedir ajuda a jogador de Among Us | — |
@@ -715,6 +716,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
 | FORTE | notícia | 2767 | 12 | 100 | Atualização de NieR: Automata faz o jogo pedir 366 GB no PC, e Square Enix pede desculpas | — |
+| FORTE | notícia | 2811 | 13 | 100 | Night of the Living Toys, jogo cooperativo de arrumar uma loja de brinquedos assombrada, sai em 10 de dezembro | — |
 | FORTE | notícia | 3180 | 15 | 100 | Switch 2 passa de 26 milhões, vendas caem 37% no ano e Nintendo descarta novo aumento de preço | — |
 | FORTE | notícia | 3939 | 12 | 100 | Nintendo coloca Brasil entre os 10 maiores mercados de games do mundo e reforça planos para o país | — |
 | FORTE | notícia | 2871 | 12 | 100 | Nintendo procura arquivista para preservar sua história e registrar o conhecimento dos veteranos | — |
@@ -749,6 +751,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | opinião | 4950 | 24 | 100 | As novelas turcas estão na moda, mas muito gamer conheceu Istambul pelos olhos de Ezio | — |
 | FORTE | notícia | 4030 | 13 | 100 | Rumor: novo Uncharted estaria em desenvolvimento na Naughty Dog, apontam fontes | — |
 | FORTE | notícia | 3073 | 13 | 100 | Nuuvem vai distribuir R$ 800 mil em cupons na Black Friday, com Skyrim a 83% de desconto e ofertas de até 95% | — |
+| FORTE | notícia | 2774 | 13 | 100 | Nuuvem dá GTA VI de presente aos 86 funcionários na véspera do lançamento | — |
 | FORTE | notícia | 2136 | 6 | 100 | Nvidia sobe preços das placas de vídeo de novo — GeForce RTX até 30% mais caras | — |
 | FORTE | notícia | 3069 | 13 | 100 | Nvidia avalia afastar Jensen Huang após segundo caso extraconjugal, e Tim Sweeney sai em defesa do CEO | — |
 | FORTE | notícia | 2705 | 11 | 100 | Obscurium, roguelike de cartas com o folclore brasileiro, ganha demo gratuita no Steam | — |
@@ -913,6 +916,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2751 | 12 | 100 | Sonic ganha curta animado de 35 anos, Memories and Beyond, com Eggman criando o Metal Sonic definitivo | — |
 | FORTE | notícia | 2748 | 8 | 100 | Sonic Racing: CrossWorlds começa o Ano Dois com Bayonetta de graça, modo Duelo e Godzilla na pista | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
+| FORTE | notícia | 2732 | 12 | 100 | Sonic Racing: CrossWorlds ganha carro e roupa da McLaren de graça, com festival a partir das 21h desta quinta | — |
 | FORTE | notícia | 2832 | 13 | 100 | Sonic Racing: CrossWorlds abre Festival Godzilla nesta quinta, e o pacote do monstro sai por R$ 26,90 | — |
 | FORTE | notícia | 2777 | 9 | 100 | Dark Horse abre pré-venda de figuras de vinil de Sonic e Tails clássicos, com bases inspiradas em Sonic 2 | — |
 | FORTE | notícia | 2686 | 12 | 100 | Sonic X Shadow Generations passa de 3 milhões de cópias no aniversário de dois anos | — |
@@ -1051,6 +1055,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2772 | 13 | 100 | Warhammer 40,000: Dark Heresy, dos criadores de Rogue Trader, sai em 28 de janeiro de 2027 | — |
 | FORTE | notícia | 2899 | 12 | 100 | Warhorse, de Kingdom Come: Deliverance 2, sofre ataque hacker e fala em incidente sério | — |
 | FORTE | notícia | 2844 | 11 | 100 | Warzone ganha clima dinâmico e dois mapas na Temporada 1, Conflito de Hajin, que sai às 2h de 6 de novembro | — |
+| FORTE | notícia | 2821 | 12 | 100 | Westlanders, sobrevivência no velho oeste da Team17, prorroga teste fechado até 23 de novembro após 20 mil pedidos | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
 | FORTE | notícia | 3379 | 12 | 100 | Wo Long 2 muda Insight Skills, Espírito e magias depois da Alpha Demo, mas mexe pouco na Moral | — |
