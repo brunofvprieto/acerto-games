@@ -1,0 +1,39 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "19 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-19T09:20:00-03:00",
+  "cover": [
+    "#0b3d91",
+    "#04060a"
+  ],
+  "slug": "psn-instavel-vespera-gta-vi-18-novembro-volta-falhar-madrugada-lancamento",
+  "title": "PSN fica instável na véspera de GTA VI e volta a falhar na madrugada do lançamento",
+  "excerpt": "Na tarde de quarta, jogadores não conseguiam entrar na conta, e os relatos passaram de 4 mil nos EUA. Às 2h desta quinta houve nova falha. A Sony não explicou a causa.",
+  "image": "/img/ps5-pro-console-dualsense-oficial-sony.jpg",
+  "imageAlt": "PS5 Pro e controle DualSense em imagem oficial da Sony",
+  "imageCredit": "PlayStation 5 Pro. Divulgação/Sony Interactive Entertainment",
+  "fonte": "Página de status da PlayStation Network (via HollywoodLife e Men's Journal)",
+  "fonteUrl": "https://status.playstation.com/",
+  "imageOrigem": "Capa: imagem oficial da Sony já no acervo, inédita como capa.",
+  "observacao": "Pauta aprovada por Bruno em 19/11. Quarta, 18: início por volta das 13h ET (15h de Brasília), segundo Men's Journal (876 relatos) e Antihype. O Olhar Digital fala em 13h de Brasília, por isso o texto diz 'no meio da tarde'. Pico de mais de 4 mil relatos no Downdetector dos EUA às 11h32 PT, ou 16h32 de Brasília (GV Wire, Men's Journal, FINCHANNEL). O alerta da página de status foi reproduzido por HollywoodLife e Techjuice: 'You might have difficulty launching games, apps, or network features' e 'We're working to resolve the issue as soon as possible'. A página marcou o problema como resolvido por volta das 14h30 ET, 16h30 de Brasília (HollywoodLife, FINCHANNEL citando Axios). Às 14h43 ET mostrava 'All services are up and running' (Men's Journal). Relatos continuaram depois: Men's Journal às 15h15 ET e Olhar Digital às 18h15 de Brasília. 'Serviços ocupados' aparece em Antihype, Dica App do Dia e Polygon (via timesaver.gg). A duração de 20 minutos do alerta é só do Antihype e ficou fora. Quinta, 19: Digit (8.900 relatos) e IBTimes UK (mais de 8.400 nos EUA). Alerta de streaming às 0h33 ET (2h33 de Brasília) e serviços normalizados às 0h57 ET (2h57), segundo Techjuice, com o horário de 2h33 confirmado pelo Digit. O Techjuice imprime 'PM', mas pela linha do tempo é madrugada. Brasil: Brasil 247 e Dica App do Dia (citando UOL e TudoCelular) relatam falhas de login. Não achei números do Downdetector Brasil. Nenhum post da @AskPlayStation encontrado. Causa: a Sony não informou. A ligação com a atualização 14.23 é especulação e ficou marcada assim.",
+  "body": [
+    "A PlayStation Network teve dois tropeços nas horas que cercaram a estreia de GTA VI. O primeiro foi na tarde de quarta, 18, véspera do lançamento. Jogadores não conseguiam entrar na conta nem usar os recursos de rede do console. O segundo foi na madrugada desta quinta, 19, na hora em que o jogo era liberado nos Estados Unidos.",
+    "Os relatos de quarta começaram a crescer no meio da tarde, no horário de Brasília. Às 16h32, o Downdetector dos EUA passava de 4 mil queixas. Muitas eram de quem via a mensagem de que os serviços da Sony estavam ocupados ao tentar fazer login.",
+    "## O alerta oficial",
+    "A página de status da PlayStation reconheceu o problema. \"Você pode ter dificuldade para abrir jogos, aplicativos ou recursos de rede\", dizia o alerta, que completava: \"Estamos trabalhando para resolver o problema o mais rápido possível\".",
+    "Por volta das 16h30, a página já marcava a falha como resolvida, e pouco depois mostrava todos os serviços funcionando. Os relatos não sumiram de imediato. Ao longo da tarde e do começo da noite, ainda havia queixas de falha no login, inclusive no Brasil.",
+    "Do lado da Microsoft, a Xbox Network também teve aumento de relatos na quarta, mas a página de status da empresa continuou indicando serviços normais. No fim da noite, as páginas da PlayStation, do Xbox e da própria Rockstar marcavam tudo em funcionamento.",
+    "## Nova falha às 2h",
+    "A segunda instabilidade veio na virada para quinta. Com o desbloqueio de GTA VI à meia-noite no leste dos EUA, 2h em Brasília, os relatos no Downdetector americano passaram de 8 mil. Às 2h33, a Sony avisou na página de status que alguns serviços, como o streaming de jogos, tinham problemas. Às 2h57, tudo estava normalizado.",
+    "O problema não ficou restrito aos Estados Unidos. No Reino Unido, onde o jogo já estava liberado havia horas, os relatos também dispararam. No Brasil, onde GTA VI abriu à meia-noite, o horário coincidiu com a primeira madrugada de quem já estava jogando.",
+    "img: /img/ps5-atualizacao-sistema-14-23-console-dualsense-oficial.jpg | O PS5 recebeu a atualização 14.23, obrigatória para GTA VI, na terça, 17. Divulgação/Sony Interactive Entertainment",
+    "## Sem causa oficial",
+    "A Sony não explicou nenhuma das duas falhas. A coincidência com GTA VI é óbvia, mas não há confirmação de que uma coisa causou a outra. O jogo só existe em formato digital no lançamento, com download de mais de 200 GB, e a Sony exigiu uma atualização do sistema publicada na terça, 17, para que ele abrisse. Ligar a instabilidade a qualquer um desses fatores, por ora, é especulação.",
+    "A atualização em questão é a 26.07-14.23.00, de pouco mais de 1 GB. A conta oficial de suporte da PlayStation nos EUA avisou que ela era necessária antes de jogar GTA VI e pediu que fosse baixada antes da meia-noite de 19 de novembro. As notas oficiais falam apenas em correções de segurança no sistema.",
+    "O episódio mostra o preço de um lançamento só digital dessa escala. Sem disco, toda a experiência do primeiro dia depende da rede: baixar o jogo, validar a licença, atualizar o sistema e resgatar o upgrade da edição Ultimate. Bastou a PSN engasgar por algumas dezenas de minutos para tudo isso parar junto.",
+    "link: PS5 recebe a terceira atualização do sistema em um mês, e a versão 14.23 é obrigatória para jogar GTA VI | https://acertogames.com.br/noticia/ps5-atualizacao-14-23-obrigatoria-gta-vi-terceira-em-um-mes-seguranca"
+  ],
+  "imageFilename": "ps5-pro-console-dualsense-oficial-sony.jpg"
+}
