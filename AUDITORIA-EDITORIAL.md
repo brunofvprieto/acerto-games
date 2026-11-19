@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1168
-- Forte: 1154
+- Total analisado: 1181
+- Forte: 1167
 - Revisar: 12
 - Prioridade: 2
 
@@ -270,6 +270,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
 | FORTE | review | 4244 | 19 | 100 | Chivalware faz de combinar blocos um teste de reflexo que vicia | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
+| FORTE | notícia | 2920 | 15 | 100 | Circana: Modern Warfare 4 lidera outubro nos EUA, Gears of War: E-Day fica em segundo e Xbox sobe 42% | — |
 | FORTE | notícia | 3093 | 12 | 100 | Wolverine lidera setembro nos EUA, PS5 sobe 22% e Xbox tem o pior setembro da sua história | — |
 | FORTE | Notícias | 2497 | 10 | 100 | Civilization VII vai à Era Atômica com Arc of Tomorrow e anuncia expansão Earthrise | — |
 | FORTE | noticia | 2998 | 10 | 100 | Clair Obscur: Expedition 33 deixa o Game Pass em 15 de outubro | — |
@@ -331,6 +332,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
 | FORTE | notícia | 2758 | 11 | 100 | Demon Slayer: The Hinokami Chronicles 2 chega ao Switch 2 com upgrade grátis, e série passa de 6 milhões | — |
 | FORTE | notícia | 2923 | 12 | 100 | Deputado americano diz que é "mau pai" quem deixa o filho jogar GTA VI e retoma debate sobre violência nos games | — |
+| FORTE | notícia | 2922 | 13 | 100 | Desenvolvedores da Rockstar temem demissões depois de GTA VI: "Mesmo fazendo o maior jogo de todos os tempos" | — |
 | FORTE | noticia | 1988 | 8 | 100 | Bungie muda de rumo e vai trazer de volta campanhas, destinos e raids removidos de Destiny 2 | — |
 | FORTE | notícia | 2974 | 13 | 100 | Bungie avisa que Destiny não terá anúncio no The Game Awards: "A gente chega lá quando chegar" | — |
 | FORTE | notícia | 2941 | 13 | 100 | Devolver Digital sorteia jogo grátis para quem apagar GTA VI do console, numa provocação à Rockstar | — |
@@ -382,6 +384,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2614 | 10 | 100 | Factorio recebe a última grande atualização, 14 anos depois do início do desenvolvimento | — |
 | FORTE | notícia | 3383 | 6 | 100 | Faker virou policial honorário na Coreia do Sul — e a missão dele é salvar jovens das apostas online | — |
 | FORTE | notícia | 2793 | 6 | 100 | O próximo Fallout que a gente mais quer jogar não é da Bethesda — é um mod de Doom feito por fãs | — |
+| FORTE | notícia | 2789 | 13 | 100 | Japão: Ocarina of Time vende mais 86 mil e passa de 620 mil, enquanto Pikmin 4 estreia com 2.854 cópias no Switch 2 | — |
 | FORTE | notícia | 2544 | 10 | 100 | Fatal Fury: City of the Wolves ganha comercial live-action no Switch 2 com Justin Wong, Tokido e a VTuber La+ Darknesss | — |
 | FORTE | notícia | 2742 | 12 | 100 | Fatal Fury: City of the Wolves recebe Laocorn, vilão do filme de 1994, em 19 de novembro; jogo está com 75% de desconto | — |
 | FORTE | notícia | 2290 | 9 | 100 | Fatal Fury: City of the Wolves chega ao Switch 2 e recebe Mikey e Draken, de Tokyo Revengers | — |
@@ -418,6 +421,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2848 | 12 | 100 | gamescom asia 2026 bate recorde internacional, com 219 mil visitantes de 113 países | — |
 | FORTE | notícia | 12047 | 45 | 100 | Gamescom Opening Night Live 2026: veja os principais anúncios e trailers | — |
 | FORTE | notícia | 2680 | 5 | 100 | CEO da GameStop sobre jogos físicos: 'Não importa. Não importa nada' | — |
+| FORTE | notícia | 2791 | 13 | 100 | CEO da GameStop ataca o "código na caixa" de GTA VI: "A decisão de ir para o digital prejudicou os consumidores" | — |
 | FORTE | notícia | 2727 | 13 | 100 | Um em cada três profissionais de games foi demitido nos últimos dois anos, aponta pesquisa da GDC | — |
 | FORTE | notícia | 3648 | 15 | 100 | Gears of War faz 20 anos e dá RAAM de graça em E-Day; Temporada 2: Legacy chega em 1º de dezembro | — |
 | FORTE | notícia | 2223 | 7 | 100 | Gears of War: E-Day abre beta multiplayer em 6 de agosto — veja como garantir acesso antecipado | — |
@@ -527,13 +531,17 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
 | FORTE | notícia | 3257 | 13 | 100 | GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | — |
+| FORTE | notícia | 2850 | 13 | 100 | Dylan Rourke é o Jason de GTA VI: elenco oficial sai, e os protagonistas falam pela primeira vez | — |
+| FORTE | notícia | 2840 | 13 | 100 | Cuidado com o bônus do GTA+ na pré-venda de GTA VI: a assinatura renova sozinha depois do mês grátis | — |
 | FORTE | notícia | 2892 | 11 | 100 | Em GTA VI, a polícia lembra sua roupa e dá para pedir para fazer carinho em cachorro, revela Rockstar | — |
 | FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
 | FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
+| FORTE | notícia | 2930 | 14 | 100 | Mapa oficial de GTA VI já pode ser baixado de graça, com versão para imprimir | — |
 | FORTE | notícia | 2884 | 15 | 100 | Mapa de GTA VI vaza numa vitrine da Selfridges e revela nomes de lugares de Leonida | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
+| FORTE | notícia | 2958 | 13 | 100 | GTA VI tem um "modo fácil" escondido nas opções de acessibilidade, e não desativa troféus | — |
 | FORTE | notícia | 2830 | 12 | 100 | GTA VI não deixa repetir missões da história, e a saída é usar os 15 saves manuais | — |
 | FORTE | notícia | 3006 | 13 | 100 | GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | — |
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
@@ -546,10 +554,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2904 | 11 | 100 | Pé-Grande, disco voador e um console com jogos de verdade: os primeiros segredos de GTA VI | — |
 | FORTE | notícia | 2719 | 11 | 100 | GTA VI ganha segunda atualização antes da estreia, com 602 MB no PS5 e versão maior no Xbox | — |
 | FORTE | notícia | 3336 | 14 | 100 | GTA VI: seis imagens inéditas vazam na véspera do lançamento, com academia, assalto e Jason e Lucia de boia no mar | — |
+| FORTE | notícia | 2875 | 11 | 100 | Rockstar explica por que GTA VI não tem parque como a Disney, nem dardos, nem sites: "Não temos tempo ilimitado" | — |
 | FORTE | notícia | 2747 | 11 | 100 | GTA VI tira a prostituição e os encontros casuais da série para focar no romance de Jason e Lucia | — |
 | FORTE | notícia | 2882 | 10 | 100 | GTA VI chega perto de 15 milhões de cópias em pré-venda e US$ 1,45 bilhão, estima Sensor Tower | — |
 | FORTE | notícia | 2727 | 12 | 100 | Terceiro clipe de GTA VI leva o comboio da Rockstar para uma ponte de Vice City, agora com escolta da polícia | — |
 | FORTE | notícia | 3539 | 12 | 100 | Lista completa do álbum de GTA VI vaza a quatro dias do lançamento, com Dua Lipa, Lana Del Rey e Playboi Carti | — |
+| FORTE | notícia | 2840 | 13 | 100 | GTA VI toma conta da tela inicial do PS5 e traz cinco fundos de tela de Jason e Lucia | — |
 | FORTE | notícia | 2739 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
 | FORTE | notícia | 2894 | 12 | 100 | GTA VI ganha trailer "Pré-carregue agora", e Rockstar confirma 30 fps e sombras com ray tracing só no PS5 Pro | — |
 | FORTE | notícia | 2751 | 11 | 100 | GTA VI é a pré-venda mais feita da história da PlayStation Store, diz Sony em trailer com os recursos do PS5 | — |
@@ -656,6 +666,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2633 | 5 | 100 | Matt Damon finalmente chegou ao Fortnite — mas sua estreia nos games quase aconteceu anos atrás, graças a Jason Bourne | — |
 | FORTE | notícia | 2743 | 5 | 100 | Matt Damon chegou ao Fortnite — mas quase tinha entrado nos games bem antes, como Jason Bourne | — |
 | FORTE | notícia | 2366 | 6 | 100 | Clones de Meccha Chameleon no Roblox têm mais jogadores que o jogo original no Steam — e isso diz muito sobre a plataforma | — |
+| FORTE | notícia | 2831 | 14 | 100 | Mega Man: Dual Override revela Boat Man, um barco de pesca tímido que quer vingança | — |
 | FORTE | notícia | 2932 | 10 | 100 | Mega Man: Dual Override revela Cleanser Man, o chefe criado por um fã | — |
 | FORTE | notícia | 4623 | 17 | 100 | Mega Man: Dual Override nasceu das lições de Mega Man 11 — e Proto Man voltou porque os fãs pediram | — |
 | FORTE | notícia | 6474 | 20 | 100 | Mega Man: Dual Override não quer apenas trazer o Blue Bomber de volta — quer fazê-lo evoluir | — |
@@ -1072,6 +1083,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3880 | 13 | 100 | WARDOGS chega à Temporada 3 em 12 de novembro com mapa urbano, 185 mil contas banidas e progressão mais lenta | — |
 | FORTE | notícia | 2772 | 13 | 100 | Warhammer 40,000: Dark Heresy, dos criadores de Rogue Trader, sai em 28 de janeiro de 2027 | — |
 | FORTE | notícia | 2899 | 12 | 100 | Warhorse, de Kingdom Come: Deliverance 2, sofre ataque hacker e fala em incidente sério | — |
+| FORTE | notícia | 2811 | 13 | 100 | Warren Spector critica o bilhão de dólares de GTA VI: "Espero que seja o último do tipo" | — |
 | FORTE | notícia | 2844 | 11 | 100 | Warzone ganha clima dinâmico e dois mapas na Temporada 1, Conflito de Hajin, que sai às 2h de 6 de novembro | — |
 | FORTE | notícia | 2821 | 12 | 100 | Westlanders, sobrevivência no velho oeste da Team17, prorroga teste fechado até 23 de novembro após 20 mil pedidos | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
@@ -1116,6 +1128,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2792 | 12 | 100 | Xbox e Kojima vão além dos games: parceria prevê projetos para cinema e televisão | — |
 | FORTE | notícia | 2084 | 5 | 100 | Executivo da Xbox pede calma: nem todo single-player vai virar exclusivo de console | — |
 | FORTE | notícia | 3693 | 12 | 100 | Xbox oficializa Mythic Achievements, sua resposta à Platina do PlayStation | — |
+| FORTE | notícia | 2792 | 13 | 100 | Xbox parece proibido de dizer "GTA VI", e Remote Play vira o queridinho dos jogadores | — |
 | FORTE | notícia | 2777 | 12 | 100 | Xbox Playback: retrospectiva mostra seu primeiro jogo e o tempo total jogado em 25 anos, e o Brasil está na lista | — |
 | FORTE | notícia | 2815 | 11 | 100 | "Não é um PC que roda jogos de console": Xbox detalha o Project Helix e aposta em renderização com IA | — |
 | FORTE | notícia | 2720 | 10 | 100 | Xbox vai exigir quatro dias de escritório a partir de fevereiro, no meio das demissões | — |
