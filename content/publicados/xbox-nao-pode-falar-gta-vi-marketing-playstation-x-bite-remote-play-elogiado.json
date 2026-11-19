@@ -1,0 +1,42 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "19 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-19T12:25:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "xbox-nao-pode-falar-gta-vi-marketing-playstation-x-bite-remote-play-elogiado",
+  "title": "Xbox parece proibido de dizer \"GTA VI\", e Remote Play vira o queridinho dos jogadores",
+  "excerpt": "Publicações da Microsoft celebram o dia 19 sem citar o nome do jogo, num reflexo do acordo de marketing com a PlayStation. Enquanto isso, jogadores elogiam o streaming do console.",
+  "image": "/img/gta-6-galeria-lancamento-grassrivers-homem-cobra-faca-jacare-acampamento.jpg",
+  "imageAlt": "Homem com uma cobra e uma faca num acampamento em Grassrivers, em GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Xbox Wire (via Eurogamer e Pure Xbox)",
+  "fonteUrl": "https://www.eurogamer.net/xbox-cant-say-grand-theft-auto-6-marketing",
+  "imageOrigem": "Capa e corpo: imagens oficiais da Rockstar no acervo.",
+  "observacao": "Pauta da busca de 19/11. Fontes: Eurogamer (posts do Xbox Wire, X-Bite, atestado de DJ Khaled) e Pure Xbox (Remote Play e passo a passo).",
+  "body": [
+    "GTA VI saiu nesta quinta, 19, no PS5 e no Xbox Series. Mas quem lê o blog oficial do Xbox pode até ficar em dúvida sobre qual jogo está chegando. A Microsoft vem celebrando a data sem citar o nome do jogo, num esforço que já virou piada nas redes sociais.",
+    "O exemplo mais claro é o post \"Como se preparar para 19 de novembro\", publicado no Xbox Wire. O texto é todo sobre o grande dia e sobre como aproveitar o console, mas não menciona GTA VI uma única vez.",
+    "\"Aniversários e feriados vieram e foram, mas este dia é seu e do seu Xbox\", diz o texto, sem explicar por que a data é importante. \"Mal podemos acreditar que está quase aqui também.\"",
+    "## Do jacaré ao atestado médico",
+    "O padrão se repete há semanas. Um dia antes, o Xbox fez uma parceria com o DJ Khaled para criar atestados médicos personalizados, para os jogadores entregarem no trabalho e tirarem o dia de folga. O motivo do afastamento seria uma \"grave deficiência de vitamina G\".",
+    "Antes disso, a marca revelou o X-Bite, um console personalizado em forma de jacaré que engole um Xbox Series X. A explicação dada foi que \"neste novembro, o Xbox está indo para a Flórida\". O estado real inspirou Leonida, mas o texto não cita nem o jogo nem o estado fictício.",
+    "img: /img/gta-6-um-mes-leonida-keys-iguana-oficial.jpg | A Flórida, inspiração de Leonida, virou o tema das ações do Xbox. Divulgação/Rockstar Games",
+    "## Por que isso acontece",
+    "O Xbox cita GTA VI pelo nome só em textos informativos, como listas de lançamentos da semana e avisos sobre o jogo na nuvem. Nas ações de marketing, o nome some.",
+    "A explicação mais provável é o acordo de marketing entre a PlayStation e a Rockstar. Ele parece impedir que outras plataformas usem o nome do jogo em campanhas. A Sony, por outro lado, lançou consoles e controles temáticos e encheu o blog oficial de conteúdo do jogo.",
+    "A situação lembra a das marcas que não podem dizer \"Super Bowl\" nos anúncios e falam do \"grande jogo\". Como elas, o Xbox simplesmente não tem os direitos de usar o nome.",
+    "## O trunfo do Remote Play",
+    "Enquanto o marketing tropeça no nome, um recurso do console ganhou elogios. Muitos jogadores relatam nas redes sociais que o Remote Play do Xbox tem funcionado muito bem com GTA VI, com boa resposta e pouco atraso.",
+    "O recurso transmite o jogo do console para outros aparelhos, como celular, PC ou portáteis como o ROG Ally. É uma saída para quem não pode usar a TV da sala ou quer jogar em outro cômodo.",
+    "Para ativar, basta ir ao console em Perfil e sistema, Configurações, Dispositivos e conexões e Recursos remotos, e marcar a opção de habilitar. No celular, o acesso é pelo site xbox.com/play. No PC, pelo aplicativo do Xbox, na área de Acessórios e Remote Play.",
+    "Nem tudo é festa no ecossistema da Microsoft. Os consoles Xbox One, ainda usados por milhões de pessoas, não têm versão nativa de GTA VI. Para eles, o caminho é a nuvem.",
+    "O jogo também está disponível no Xbox Cloud Gaming, para quem tem a assinatura certa. Por enquanto, não há versão para PC, e a Rockstar não tem planos imediatos de lançar uma.",
+    "link: Xbox coloca fundo de tela de GTA VI automaticamente nos consoles e lança fundo dinâmico de Halo | https://acertogames.com.br/noticia/xbox-fundo-tela-automatico-gta-vi-evento-halo-campaign-evolved-dinamico-como-desligar"
+  ],
+  "imageFilename": "gta-6-galeria-lancamento-grassrivers-homem-cobra-faca-jacare-acampamento.jpg"
+}

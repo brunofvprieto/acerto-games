@@ -1,0 +1,43 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "19 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-19T12:25:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "desenvolvedores-rockstar-medo-demissoes-gta-vi-votacao-sindicato-iwgb",
+  "title": "Desenvolvedores da Rockstar temem demissões depois de GTA VI: \"Mesmo fazendo o maior jogo de todos os tempos\"",
+  "excerpt": "Programador da Rockstar North escreveu no The Guardian que não há sinal de cortes, mas que o medo existe. Os estúdios britânicos votam a criação de um sindicato.",
+  "image": "/img/gta-6-edge-estudio-tatuagem-rua.jpg",
+  "imageAlt": "Estúdio de tatuagem numa rua de Leonida em GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "The Guardian (artigo de Nestor Uriarte)",
+  "fonteUrl": "https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries",
+  "imageOrigem": "Capa e corpo: imagens oficiais da Rockstar no acervo.",
+  "observacao": "Pauta da busca de 19/11. Fontes: artigo de Nestor Uriarte no The Guardian (via Eurogamer e Dexerto), números de funcionários e rastreador ASGC.",
+  "body": [
+    "GTA VI chegou às lojas nesta quinta, 19, com recordes de pré-venda e uma recepção histórica da crítica. Mesmo assim, parte de quem fez o jogo está preocupada com o próprio emprego.",
+    "Quem falou abertamente sobre isso foi Nestor Uriarte, programador de animação da Rockstar North, em Edimburgo. Num artigo de opinião publicado no jornal britânico The Guardian, ele descreveu o clima entre os colegas na semana de lançamento.",
+    "\"Depois do grande dia, não tivemos nenhum sinal de que demissões estão vindo, mas é difícil não se preocupar com o que o futuro reserva\", escreveu.",
+    "## O ciclo dos grandes lançamentos",
+    "Uriarte descreveu um padrão que a indústria conhece bem. \"Os altos de um lançamento como este podem ser incríveis, mas os trabalhadores de games passaram a esperar outros efeitos, menos bem-vindos\", afirmou. Segundo ele, são horas extras intensas antes e demissões em massa depois.",
+    "\"Diz muito sobre a indústria que até eu e meus colegas, trabalhando no maior jogo de todos os tempos, estejamos preocupados em ser demitidos\", completou. \"A verdade é que os trabalhadores do setor não têm como resistir às ondas de cortes, até se organizarem.\"",
+    "Os números ajudam a explicar o medo. Segundo o rastreador de demissões ASGC, mais de 12 mil desenvolvedores perderam o emprego em 2026 até agora, contra mais de 9 mil no ano passado. A própria Rockstar já fez cortes depois de grandes lançamentos no passado.",
+    "img: /img/rockstar-sindicato-gta-6-loja-vice-city-oficial.jpg | A Rockstar cresceu muito durante a produção de GTA VI. Divulgação/Rockstar Games",
+    "## Uma empresa que dobrou de tamanho",
+    "Durante a produção de GTA VI, a Rockstar chegou a 4.711 funcionários, espalhados por 12 escritórios no mundo. É o dobro do tamanho que a empresa tinha no lançamento de Red Dead Redemption 2, em 2018.",
+    "Uriarte lembra que GTA V vendeu mais de 230 milhões de cópias, e a expectativa é que GTA VI supere essa marca. Ainda assim, um jogo de sucesso não garante a estabilidade de quem o fez.",
+    "## A votação do sindicato",
+    "O artigo chega num momento decisivo. Os estúdios da Rockstar no Reino Unido estão votando o reconhecimento de um sindicato oficial, organizado pelo IWGB. A votação começou em 12 de novembro, e o resultado pode sair ainda nesta semana.",
+    "Uriarte apoia a criação e pediu aos colegas que votem a favor. Segundo ele, o sindicato daria aos funcionários voz sobre salários, bônus e condições de trabalho. Ele contou que a Rockstar já passou a pagar algumas horas extras e que quer avançar nesse ponto.",
+    "\"Como um dos maiores e mais influentes estúdios do mundo, o que acontece aqui pode abrir a porta para outros trabalhadores do Reino Unido imaginarem um futuro alternativo para a indústria\", escreveu.",
+    "Se aprovado, o sindicato vai ser o maior já reconhecido no setor de games do Reino Unido. Os trabalhadores negociam com a direção desde julho um acordo de reconhecimento, que também trataria de demissões e do uso de inteligência artificial generativa.",
+    "Ao mesmo tempo, terminou o julgamento entre a Rockstar e os funcionários demitidos em 2025, ligados ao IWGB. A empresa diz que eles quebraram acordos de confidencialidade. A sentença pode levar semanas ou meses para sair.",
+    "link: Demitidos pela Rockstar em 2025 aparecem nos créditos de GTA VI, e julgamento contra a empresa termina sem sentença | https://acertogames.com.br/noticia/rockstar-34-demitidos-creditos-gta-vi-julgamento-sindicato-termina-sem-sentenca",
+    "link: Desenvolvedores da Rockstar no Reino Unido votam sindicato na semana de lançamento de GTA 6 | https://acertogames.com.br/noticia/rockstar-sindicato-votacao-reino-unido-12-a-26-novembro-lancamento-gta-6"
+  ],
+  "imageFilename": "gta-6-edge-estudio-tatuagem-rua.jpg"
+}

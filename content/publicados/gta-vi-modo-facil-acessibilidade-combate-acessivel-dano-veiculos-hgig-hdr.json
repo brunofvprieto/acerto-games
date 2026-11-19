@@ -1,0 +1,43 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "19 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-19T12:23:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "gta-vi-modo-facil-acessibilidade-combate-acessivel-dano-veiculos-hgig-hdr",
+  "title": "GTA VI tem um \"modo fácil\" escondido nas opções de acessibilidade, e não desativa troféus",
+  "excerpt": "Duas opções deixam os inimigos mais fracos e os carros mais resistentes. Ao todo, são mais de 140 ajustes de acessibilidade, o maior pacote já feito pela Rockstar.",
+  "image": "/img/gta-6-galeria-lancamento-jason-cabelo-comprido-pistola-motoqueiros.jpg",
+  "imageAlt": "Jason aponta uma pistola para motoqueiros em GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Rockstar Games (via Eurogamer e Push Square)",
+  "fonteUrl": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
+  "imageOrigem": "Capa e corpo: imagens oficiais da Rockstar no acervo.",
+  "observacao": "Pauta da busca de 19/11. Fontes: Push Square e Eurogamer (testes e declaração de Sam Grosset, da Rockstar); VGC (HGiG).",
+  "body": [
+    "A Rockstar nunca colocou níveis de dificuldade nos seus jogos. Em GTA VI, a regra continua, ao menos no papel. Escondidas no menu de acessibilidade, porém, há duas opções que, na prática, funcionam como um modo fácil.",
+    "Elas ficam em Configurações, na aba Jogabilidade, e se chamam Combate Acessível e Dano Reduzido em Veículos. Ao ativar, o jogo exibe um aviso de que o equilíbrio e a experiência mudam \"significativamente\".",
+    "## O que cada uma faz",
+    "O Combate Acessível reduz a vida dos inimigos e o dano que eles causam ao personagem. É o tipo de ajuste que costuma vir num seletor tradicional de dificuldade.",
+    "O Dano Reduzido em Veículos faz o carro aguentar muito mais tiros, batidas e outros perigos. Na prática, fica bem mais difícil destruir o veículo no meio de uma fuga.",
+    "Os testes mostram que as opções não deixam o personagem invencível. Ainda é preciso se proteger nos tiroteios e jogar com atenção, mas o desafio cai de forma clara. Jason e Lucia aguentam bem mais socos e tiros.",
+    "img: /img/gta-6-galeria-lancamento-jason-fuzil-tiroteio-cao.jpg | Os tiroteios ficam mais fáceis com o Combate Acessível. Divulgação/Rockstar Games",
+    "## Sem perder troféus",
+    "Há uma diferença importante em relação às trapaças. Ativar as duas opções não bloqueia troféus nem conquistas. Já os códigos de trapaça, que só aparecem depois da história, desativam os troféus na sessão.",
+    "A ideia, segundo a Rockstar, é permitir que jogadores com menos experiência, cansados ou com alguma deficiência avancem sem tanto atrito. \"Queríamos que todo jogador de GTA VI tivesse opções para jogar do jeito que quiser\", afirmou Sam Grosset, diretor associado de interface do estúdio.",
+    "## Mais de 140 ajustes",
+    "O pacote de acessibilidade é o maior já feito pela Rockstar. São 25 opções de jogabilidade, 12 de imagem, 70 de interface, 24 de câmera e 14 de áudio. Há desde fontes maiores até uma interface mais limpa, com menos elementos na tela.",
+    "A Rockstar sempre evitou seletores de dificuldade. Red Dead Redemption 2, de 2018, também não tinha um, e a forma de facilitar os tiroteios era mexer na mira assistida. Em GTA VI, o estúdio manteve a regra no menu principal, mas abriu um caminho alternativo para quem precisa.",
+    "É um salto em relação a GTA V e Red Dead Redemption 2, que tinham bem menos opções. A Rockstar também deixou as missões mais difíceis de falhar, com objetivos mais abertos e mais formas de resolver cada situação.",
+    "## Uma dica para a TV",
+    "Outra configuração que vale conferir fica fora do jogo. Quem joga numa TV com HDR deve ativar o HGiG, padrão criado por fabricantes para exibir games em HDR corretamente. Ele costuma ficar no modo jogo da TV, em opções de brilho, e evita que a imagem fique lavada ou escura demais.",
+    "A sigla vem de HDR Gaming Interest Group, grupo que orienta fabricantes como LG, Samsung e Panasonic. Sem ele, a TV tenta ajustar o HDR por conta própria, repetindo um trabalho que o console já faz. Nas TVs LG, a opção aparece como mapeamento de tons HDR, dentro de Brilho.",
+    "Depois de ativar, o ideal é ajustar o HDR primeiro nas configurações do console e depois no menu do jogo. A tela de calibragem de GTA VI, aquela que pede para deixar o logo quase invisível, passa a funcionar como deveria.",
+    "link: Códigos de trapaça de GTA VI só aparecem depois da história, e usá-los bloqueia o save e os troféus | https://acertogames.com.br/noticia/gta-vi-codigos-trapaca-so-depois-da-historia-bloqueiam-save-trofeus"
+  ],
+  "imageFilename": "gta-6-galeria-lancamento-jason-cabelo-comprido-pistola-motoqueiros.jpg"
+}

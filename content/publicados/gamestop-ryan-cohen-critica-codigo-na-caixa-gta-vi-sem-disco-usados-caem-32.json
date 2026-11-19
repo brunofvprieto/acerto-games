@@ -1,0 +1,43 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "19 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-19T12:27:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "gamestop-ryan-cohen-critica-codigo-na-caixa-gta-vi-sem-disco-usados-caem-32",
+  "title": "CEO da GameStop ataca o \"código na caixa\" de GTA VI: \"A decisão de ir para o digital prejudicou os consumidores\"",
+  "excerpt": "Ryan Cohen defende o direito de revender e emprestar jogos. Vendas de usados e recondicionados da rede caíram 32% em um ano.",
+  "image": "/img/gta-vi-arte-capa-oficial-recorte-codigo-na-caixa.jpg",
+  "imageAlt": "Jason e Lucia na arte de capa oficial de GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Bloomberg (entrevista de Ryan Cohen)",
+  "fonteUrl": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
+  "imageOrigem": "Capa: recorte da arte de capa oficial liberada pela Rockstar. Corpo: foto da caixa já usada no acervo. Post de Ryan Cohen incorporado do original.",
+  "observacao": "Pauta da busca de 19/11. Fontes: entrevista de Ryan Cohen à Bloomberg (via Eurogamer) e post de Cohen no X.",
+  "body": [
+    "GTA VI chegou às lojas sem disco. Mesmo a versão vendida em caixa traz só um código para baixar o jogo. Para Ryan Cohen, CEO da GameStop, a maior rede de lojas de games dos Estados Unidos, essa é uma má notícia para todo mundo.",
+    "\"Quando você compra um jogo, deveria poder vendê-lo, trocá-lo ou emprestá-lo a um amigo\", disse Cohen em entrevista à Bloomberg. \"Sem dúvida, a decisão de ir para o digital prejudicou os consumidores, e também prejudicou a GameStop.\"",
+    "Ele não cita GTA VI pelo nome na entrevista, mas o alvo é claro. Dois dias antes do lançamento, Cohen tinha publicado uma provocação direta no X.",
+    "tweet: https://x.com/ryancohen/status/2122530089334088080",
+    "## Usados em queda",
+    "Na conversa, Cohen conta que já falou com as editoras \"óbvias\" sobre o assunto, sem muito efeito. \"Claro que elas não gostam da troca de usados, porque uma cópia usada é uma alternativa à compra de uma nova\", afirmou. \"Elas estão eliminando a concorrência.\"",
+    "O impacto no negócio da GameStop é concreto. Segundo a Bloomberg, produtos usados e recondicionados respondem por 22% das vendas da rede. Esse segmento caiu 32% em relação ao mesmo período do ano passado.",
+    "A posição é curiosa vinda de Cohen. Em julho, perguntado sobre o fim dos discos da Sony, ele tinha respondido que aquilo \"não importa nada\" para a empresa. Na época, colecionáveis como cartas de Pokémon já eram a maior fonte de receita da GameStop.",
+    "img: /img/gta-vi-caixa-ps5-aberta-instrucoes-transferencia-leitor.jpg | A caixa de GTA VI no PS5 traz apenas um código de download. Reprodução",
+    "## O que vem na caixa",
+    "GTA VI não é o primeiro jogo vendido como código na caixa, mas é o mais famoso até agora. Quem compra a edição física leva para casa um papel com um código, que dá direito à versão digital no console escolhido.",
+    "Na prática, a caixa não pode ser revendida como um disco comum, porque o código só vale uma vez. Ele também tem trava de região, como os discos, o que impede usar uma cópia de outro país na conta local.",
+    "## Uma tendência maior",
+    "O formato não deve parar em GTA VI. A Sony planeja deixar de fabricar discos para os novos jogos de PlayStation a partir de janeiro de 2028. A empresa vai migrar para um modelo só digital, apesar das críticas de jogadores e de algumas editoras.",
+    "No Brasil, onde a troca e a revenda de jogos físicos ainda são comuns, a mudança pesa no bolso. Sem disco, o jogo deixa de ter valor de revenda depois de terminado, e o empréstimo para amigos passa a depender do compartilhamento de contas.",
+    "Com ou sem disco, GTA VI deve faturar mais de US$ 2 bilhões já no primeiro fim de semana, segundo as estimativas. A falta de mídia física não parece ter freado o interesse do público.",
+    "O contraste com outros lançamentos da semana é grande. O remake de Ocarina of Time saiu num cartucho completo para o Switch 2 e, no Japão, cerca de dois terços das vendas da estreia foram em mídia física.",
+    "Do outro lado, as editoras têm motivos para apostar no digital. A Capcom informou em outubro que 92% dos jogos que vende já são digitais, o que mostra para onde a indústria está indo.",
+    "link: CEO da GameStop sobre jogos físicos: 'Não importa. Não importa nada' | https://acertogames.com.br/noticia/gamestop-ceo-jogos-fisicos-irrelevantes-negocio"
+  ],
+  "imageFilename": "gta-vi-arte-capa-oficial-recorte-codigo-na-caixa.jpg"
+}
