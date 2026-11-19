@@ -6,7 +6,7 @@ export const metadata = {
   title: "Bruno Vazquez — Acerto Games",
   robots: { index: false, follow: true },
   description:
-    "Perfil de Bruno Vazquez, jornalista formado em 2008 e editor do Acerto Games, com matérias, análises e opiniões sobre games e a indústria.",
+    "Perfil de Bruno Vazquez, jornalista profissional (MTb 0030698/RJ) formado em 2008 e editor do Acerto Games, com matérias, análises e opiniões sobre games e a indústria.",
 };
 
 export default function AutorBrunoVazquez() {
@@ -23,8 +23,14 @@ export default function AutorBrunoVazquez() {
       name: "Acerto Games",
       url: "https://acertogames.com.br",
     },
+    hasCredential: {
+      "@type": "EducationalOccupationalCredential",
+      name: "Registro profissional de jornalista (MTb 0030698/RJ)",
+      credentialCategory: "Registro profissional",
+      recognizedBy: { "@type": "GovernmentOrganization", name: "Ministério do Trabalho e Emprego" },
+    },
     description:
-      "Jornalista formado em 2008 e editor do Acerto Games, com 18 anos de experiência profissional e cobertura dedicada ao universo dos games.",
+      "Jornalista profissional (MTb 0030698/RJ), formado em 2008 e editor do Acerto Games, com 18 anos de experiência profissional e cobertura dedicada ao universo dos games.",
   };
 
   return (
@@ -38,7 +44,7 @@ export default function AutorBrunoVazquez() {
         <p className="font-mono text-xs uppercase tracking-[0.25em] text-arcade">Autor</p>
         <h1 className="mt-3 font-display text-4xl uppercase md:text-5xl">Bruno Vazquez</h1>
         <p className="mt-4 font-mono text-xs uppercase tracking-widest text-dim">
-          Jornalista · formado em 2008 · 18 anos de experiência
+          Jornalista profissional · MTb 0030698/RJ · formado em 2008 · 18 anos de experiência
         </p>
         <p className="mt-5 text-lg leading-relaxed text-dim">
           Jornalista formado em 2008 e editor do Acerto Games. A cobertura combina experiência de redação,
@@ -47,7 +53,7 @@ export default function AutorBrunoVazquez() {
         </p>
         <p className="mt-4 text-base leading-relaxed text-dim">
           O foco é entender anúncios, decisões de mercado, mudanças tecnológicas e lançamentos a partir do
-          ponto de vista do jogador — com atenção especial ao público brasileiro.
+          ponto de vista do jogador, com atenção especial ao público brasileiro.
         </p>
 
         <div className="mt-7 grid gap-3 sm:grid-cols-3">
