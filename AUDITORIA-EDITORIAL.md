@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1162
-- Forte: 1148
+- Total analisado: 1168
+- Forte: 1154
 - Revisar: 12
 - Prioridade: 2
 
@@ -177,6 +177,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2709 | 14 | 100 | 007 First Light libera a missão da Islândia de graça no PC e no Xbox, e o PS5 recebe o pacote no dia 10 | — |
 | FORTE | noticia | 1786 | 9 | 100 | 007 First Light é adiado novamente no Switch 2 e fica para março de 2027 | texto curto |
 | FORTE | notícia | 2133 | 6 | 100 | 007 First Light no Switch 2: Amazon do Japão aponta setembro — mas segura a euforia | — |
+| FORTE | notícia | 2961 | 10 | 100 | 007 First Light vence o prêmio de melhor trilha de videogame no primeiro Ivors Composer Awards | — |
 | FORTE | especial | 7704 | 21 | 100 | Os 10 maiores pais dos videogames | — |
 | FORTE | notícia | 3695 | 13 | 100 | Mistério resolvido: os oito emojis eram 1000xRESIST, que chega ao Switch 2 já na quinta-feira | — |
 | FORTE | notícia | 2763 | 11 | 100 | 8BitDo lança controle no estilo GameCube para Switch 2 por US$ 49,99, mais barato que o da Nintendo | — |
@@ -368,6 +369,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | especial | 7386 | 26 | 100 | Hideo Kojima faz 63 anos: o homem que recusou fazer jogos normais e mudou a indústria três vezes | — |
 | FORTE | retrô | 5300 | 11 | 100 | Especial Metal Gear #1 — Metal Gear Solid (1998): o dia em que o videogame virou cinema | — |
 | FORTE | especial | 11219 | 32 | 100 | Especial Metal Gear #2 — Sons of Liberty (2001): o jogo que enganou o mundo inteiro e previu o futuro | — |
+| FORTE | notícia | 2785 | 10 | 100 | Esports Awards 2026: Counter-Strike 2 é o jogo do ano, e FalleN entra para o time das lendas | — |
 | FORTE | noticia | 2220 | 9 | 100 | Eternal Anima resgata a era de ouro dos JRPGs com viagem no tempo e batalhas que preveem o futuro | — |
 | FORTE | notícia | 2783 | 9 | 100 | Evercade Nexus chega às lojas com Banjo-Kazooie e Banjo-Tooie na caixa e aposta só no cartucho | — |
 | FORTE | notícia | 2778 | 12 | 100 | Evo Brazil 2027 terá oito jogos e R$ 1 milhão em prêmios; ingressos custam a partir de R$ 240 | — |
@@ -517,6 +519,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2993 | 13 | 100 | Caixa brasileira de GTA VI aparece na Kabum e confirma: legendas em português, sem dublagem e sem disco | — |
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
 | FORTE | notícia | 3032 | 12 | 100 | Fãs encontram em GTA VI a casa que apareceu em San Andreas Definitive Edition, e a primeira imagem do jogo pode ser de 2021 | — |
+| FORTE | notícia | 2729 | 11 | 100 | GTA VI tem cassinos fechados e áreas guardadas para o futuro, admite a Rockstar | — |
 | FORTE | notícia | 2752 | 10 | 100 | Na China, streamers de GTA VI não poderão roubar carros nem atacar policiais, segundo regras vazadas | — |
 | FORTE | notícia | 2892 | 10 | 100 | GTA VI ganha seis imagens inéditas numa "previsão do tempo" de Leonida feita pelo The Weather Channel | — |
 | FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
@@ -540,6 +543,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2924 | 12 | 100 | GTA VI bate recorde histórico de audiência em transmissões ao vivo e derruba o Reddit antes de chegar ao Brasil | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
+| FORTE | notícia | 2904 | 11 | 100 | Pé-Grande, disco voador e um console com jogos de verdade: os primeiros segredos de GTA VI | — |
 | FORTE | notícia | 2719 | 11 | 100 | GTA VI ganha segunda atualização antes da estreia, com 602 MB no PS5 e versão maior no Xbox | — |
 | FORTE | notícia | 3336 | 14 | 100 | GTA VI: seis imagens inéditas vazam na véspera do lançamento, com academia, assalto e Jason e Lucia de boia no mar | — |
 | FORTE | notícia | 2747 | 11 | 100 | GTA VI tira a prostituição e os encontros casuais da série para focar no romance de Jason e Lucia | — |
@@ -855,6 +859,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2452 | 10 | 100 | Nova revisão do PS5 Slim facilita troca da bateria e muda refrigeração | — |
 | FORTE | notícia | 2753 | 10 | 100 | PS5 segue 1% à frente do PS4 nos EUA após 71 meses, e Xbox Series fica 28% atrás do Xbox One | — |
 | FORTE | noticia | 1925 | 8 | 100 | Psikyo Memories resgata clássicos de navinha dos arcades no PS5 e Switch 2 | — |
+| FORTE | notícia | 2900 | 10 | 100 | PSN fica instável na véspera de GTA VI e volta a falhar na madrugada do lançamento | — |
 | FORTE | notícia | 3256 | 11 | 100 | PUBG: Atualização 43.2 traz Bentley, o modo PvE SLB: Dawnbreakers of Rondo e mudanças em veículos e lobby | — |
 | FORTE | notícia | 2713 | 12 | 100 | PUBG: Battlegrounds recebe o IVE com áreas de LOVE DIVE em Rondo a partir de 4 de novembro | — |
 | FORTE | notícia | 2722 | 10 | 100 | PUBG vai ganhar série live-action na Netflix, escrita, dirigida e estrelada por Donald Glover | — |
@@ -896,6 +901,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2835 | 12 | 100 | Rumor: remake de Silent Hill sairia em 2027 e já tem as primeiras atrizes | — |
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
+| FORTE | notícia | 2761 | 10 | 100 | Sam Houser quebra o silêncio no lançamento de GTA VI e fala em "muitos anos" de experiências pela frente | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
 | FORTE | notícia | 3391 | 11 | 100 | Saros recebe a Zenith, com New Game+, Maratona de Supremos e opção de desacelerar o jogo | — |
 | FORTE | notícia | 2131 | 6 | 100 | Iwata sabia: demissões dão resultado rápido, mas destroem o que a Nintendo tem de melhor | — |
