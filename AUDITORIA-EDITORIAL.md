@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1188
-- Forte: 1174
+- Total analisado: 1194
+- Forte: 1180
 - Revisar: 12
 - Prioridade: 2
 
@@ -268,6 +268,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | notícia | 2988 | 11 | 100 | Capcom cresce 49% no semestre; Pragmata passa de 2,7 milhões e Onimusha de 1,7 milhão | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
+| FORTE | notícia | 2735 | 12 | 100 | Chefe da CD Projekt chama GTA VI de obra-prima, e GTA V ganha jogadores no PC à espera da nova versão | — |
 | FORTE | review | 4244 | 19 | 100 | Chivalware faz de combinar blocos um teste de reflexo que vicia | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
 | FORTE | notícia | 2920 | 15 | 100 | Circana: Modern Warfare 4 lidera outubro nos EUA, Gears of War: E-Day fica em segundo e Xbox sobe 42% | — |
@@ -349,6 +350,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2784 | 11 | 100 | Discord ganha tema de Vice City para a estreia de GTA VI, grátis e sem precisar de Nitro | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027, mas tem um motivo pra sorrir | — |
 | FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
+| FORTE | notícia | 2804 | 13 | 100 | Doja Cat reclama de ficar fora da trilha de GTA VI: "Vocês partiram meu coração". Anitta, por outro lado, ganhou programa no jogo | — |
 | FORTE | notícia | 2769 | 11 | 100 | Domino's lança pizza quadrada de Minecraft Dungeons II, com item exclusivo no jogo | — |
 | FORTE | notícia | 2290 | 7 | 100 | Dragon Ball: Sparking! Zero mostra DLC "Super Limit-Breaking NEO" e update grátis com 33 lutadores novos | — |
 | FORTE | notícia | 2781 | 11 | 100 | Dragon Ball Xenoverse 2 faz 10 anos com o Festival Final dos Universos, que dá itens para Xenoverse 3 | — |
@@ -532,8 +534,10 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2940 | 13 | 100 | Códigos de trapaça de GTA VI só aparecem depois da história, e usá-los bloqueia o save e os troféus | — |
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
+| FORTE | notícia | 2723 | 13 | 100 | GTA VI coloca o "Coringa da Flórida" nos créditos, e a atriz de Mandy se revela | — |
 | FORTE | notícia | 3257 | 13 | 100 | GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | — |
 | FORTE | notícia | 2850 | 13 | 100 | Dylan Rourke é o Jason de GTA VI: elenco oficial sai, e os protagonistas falam pela primeira vez | — |
+| FORTE | notícia | 2676 | 13 | 100 | GTA VI esconde provas de que se passa no mesmo universo de Red Dead Redemption | — |
 | FORTE | notícia | 3032 | 12 | 100 | GTA VI fatura US$ 3,79 bilhões, cerca de R$ 22,5 bilhões, no primeiro dia e vira o maior lançamento da história do entretenimento | — |
 | FORTE | notícia | 2785 | 14 | 100 | GTA VI já tem um glitch de dinheiro infinito, e muitos jogadores se recusam a usar: "Não esperei 13 anos para isso" | — |
 | FORTE | notícia | 2840 | 13 | 100 | Cuidado com o bônus do GTA+ na pré-venda de GTA VI: a assinatura renova sozinha depois do mês grátis | — |
@@ -555,6 +559,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2924 | 12 | 100 | GTA VI bate recorde histórico de audiência em transmissões ao vivo e derruba o Reddit antes de chegar ao Brasil | — |
+| FORTE | notícia | 2875 | 13 | 100 | Primeiro-ministro, polícia, escola e até o KFC: o lançamento de GTA VI saiu dos games | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
 | FORTE | notícia | 2904 | 11 | 100 | Pé-Grande, disco voador e um console com jogos de verdade: os primeiros segredos de GTA VI | — |
 | FORTE | notícia | 2719 | 11 | 100 | GTA VI ganha segunda atualização antes da estreia, com 602 MB no PS5 e versão maior no Xbox | — |
@@ -1115,6 +1120,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3049 | 11 | 100 | App do Xbox no PC é refeito e abre até 60% mais rápido; versão web do Cloud Gaming também muda | — |
 | FORTE | notícia | 2830 | 10 | 100 | Mythic Achievements chegam a todos os consoles Xbox na atualização de outubro, que também traz Remote Play em 1440p | — |
 | FORTE | notícia | 3101 | 6 | 100 | Xbox anuncia compatibilidade com versões anteriores no PC — e Blinx e Conker lideram a primeira leva | — |
+| FORTE | notícia | 2697 | 14 | 100 | Xbox está banindo jogadores de GTA VI por clipes na praia; veja como desligar o envio automático | — |
 | FORTE | notícia | 2852 | 10 | 100 | Black Friday do Xbox começa na noite de lançamento de GTA VI, com até 80% de desconto e os jogos da própria Microsoft na vitrine | — |
 | FORTE | notícia | 2950 | 10 | 100 | Xbox Cloud Gaming entra em novembro com limite de horas: 15 no Ultimate, 10 no Premium e 5 no Essential | — |
 | FORTE | noticia | 8797 | 25 | 100 | Xbox corta 268 cargos e redesenha seus estúdios: Halo vai para Activision, equipes são fundidas e Ninja Theory pode fechar | — |
