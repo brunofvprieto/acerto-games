@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1181
-- Forte: 1167
+- Total analisado: 1188
+- Forte: 1174
 - Revisar: 12
 - Prioridade: 2
 
@@ -303,6 +303,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2744 | 12 | 100 | Cronos: The New Dawn ganha modo foto em atualização grátis e fica 50% mais barato | — |
 | FORTE | notícia | 2805 | 11 | 100 | Cult of the Lamb chega ao Switch 2 em 22 de outubro, com upgrade grátis para quem tem no Switch | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
+| FORTE | notícia | 2971 | 12 | 100 | Cuidado com golpes: Cyberleek diz ter vazado GTA VI de Xbox, e "versão de PC" falsa é usada para roubar contas | — |
 | FORTE | notícia | 2605 | 9 | 100 | Cyberpunk 2077 recebe atualização 2.5 de Edgerunners 2 na quinta, com duas armas e implantes personalizáveis | — |
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
 | FORTE | notícia | 2777 | 13 | 100 | Cyberpunk 2077 tem maior pico na Steam desde 2023 e lidera vendas no Brasil | — |
@@ -524,6 +525,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
 | FORTE | notícia | 3032 | 12 | 100 | Fãs encontram em GTA VI a casa que apareceu em San Andreas Definitive Edition, e a primeira imagem do jogo pode ser de 2021 | — |
 | FORTE | notícia | 2729 | 11 | 100 | GTA VI tem cassinos fechados e áreas guardadas para o futuro, admite a Rockstar | — |
+| FORTE | notícia | 2729 | 14 | 100 | Censura de GTA VI no Japão é confirmada: personagens tomam banho de roupa íntima, e sangue diminui | — |
 | FORTE | notícia | 2752 | 10 | 100 | Na China, streamers de GTA VI não poderão roubar carros nem atacar policiais, segundo regras vazadas | — |
 | FORTE | notícia | 2892 | 10 | 100 | GTA VI ganha seis imagens inéditas numa "previsão do tempo" de Leonida feita pelo The Weather Channel | — |
 | FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
@@ -532,6 +534,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
 | FORTE | notícia | 3257 | 13 | 100 | GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | — |
 | FORTE | notícia | 2850 | 13 | 100 | Dylan Rourke é o Jason de GTA VI: elenco oficial sai, e os protagonistas falam pela primeira vez | — |
+| FORTE | notícia | 3032 | 12 | 100 | GTA VI fatura US$ 3,79 bilhões, cerca de R$ 22,5 bilhões, no primeiro dia e vira o maior lançamento da história do entretenimento | — |
+| FORTE | notícia | 2785 | 14 | 100 | GTA VI já tem um glitch de dinheiro infinito, e muitos jogadores se recusam a usar: "Não esperei 13 anos para isso" | — |
 | FORTE | notícia | 2840 | 13 | 100 | Cuidado com o bônus do GTA+ na pré-venda de GTA VI: a assinatura renova sozinha depois do mês grátis | — |
 | FORTE | notícia | 2892 | 11 | 100 | Em GTA VI, a polícia lembra sua roupa e dá para pedir para fazer carinho em cachorro, revela Rockstar | — |
 | FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
@@ -547,6 +551,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
 | FORTE | notícia | 2819 | 13 | 100 | GTA VI já passou de US$ 1 bilhão em pré-vendas, estima Sensor Tower, e 75% das cópias são do PS5 | — |
 | FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
+| FORTE | notícia | 2948 | 14 | 100 | GTA VI não tem câmera em primeira pessoa, mas jogadores acharam um truque para ativar no PS5 e no Xbox | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2924 | 12 | 100 | GTA VI bate recorde histórico de audiência em transmissões ao vivo e derruba o Reddit antes de chegar ao Brasil | — |
@@ -563,6 +568,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2739 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
 | FORTE | notícia | 2894 | 12 | 100 | GTA VI ganha trailer "Pré-carregue agora", e Rockstar confirma 30 fps e sombras com ray tracing só no PS5 Pro | — |
 | FORTE | notícia | 2751 | 11 | 100 | GTA VI é a pré-venda mais feita da história da PlayStation Store, diz Sony em trailer com os recursos do PS5 | — |
+| FORTE | notícia | 2947 | 13 | 100 | GTA VI está travando no PS5 com o erro CE-108255-1, e jogadores de Xbox também relatam problemas | — |
 | FORTE | notícia | 2738 | 13 | 100 | Lista de troféus de GTA VI sai com 55 itens, e a platina exige 100% do jogo, mas sem nada do online | — |
 | FORTE | notícia | 2760 | 12 | 100 | Turismo da Nova Zelândia entra na brincadeira do truque para jogar GTA VI antes, liberado às 8h de Brasília no Xbox | — |
 | FORTE | notícia | 2849 | 12 | 100 | Itens da Ultimate Edition de GTA VI saem aos poucos na história, e alguns só valem no primeiro capítulo | — |
@@ -987,6 +993,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3013 | 9 | 100 | Stellar Blade chega ao Switch 2 nesta quinta, e as primeiras análises mostram o preço dos 60 fps | — |
 | FORTE | notícia | 2069 | 9 | 100 | Stranger Than Heaven ganha 12 minutos de gameplay e mostra combate bem diferente de Yakuza | — |
 | FORTE | notícia | 2887 | 14 | 100 | Stranger Than Heaven mostra Daito entrando para a yakuza em Kure, no trailer mais violento até agora | — |
+| FORTE | notícia | 2849 | 13 | 100 | Chefe da Take-Two já é perguntado sobre GTA 7 no dia do lançamento de GTA VI: "Deixa eu ver o relógio" | — |
 | FORTE | notícia | 3307 | 14 | 100 | Street Fighter estreia em primeiro nos EUA, mas abre abaixo de Mortal Kombat II | — |
 | FORTE | notícia | 2712 | 8 | 100 | Capcom aprova novo filme de Street Fighter, e diretor revela reação de criador dos jogos | — |
 | FORTE | noticia | 2165 | 9 | 100 | Filme de Street Fighter vai eternizar o EVO Moment 37 e terá Justin Wong em cena | — |
