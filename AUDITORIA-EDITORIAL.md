@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1194
-- Forte: 1180
+- Total analisado: 1206
+- Forte: 1192
 - Revisar: 12
 - Prioridade: 2
 
@@ -330,6 +330,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
 | FORTE | review | 8260 | 28 | 100 | Deep Dish Dungeon faz da curiosidade sua maior recompensa | — |
 | FORTE | notícia | 2730 | 8 | 100 | Delta Force abre a Temporada Aurora com Martelo, operadora sul-americana, e brasileiros da GodLike no mundial da Suécia | — |
+| FORTE | notícia | 2734 | 14 | 100 | Deltarune: capítulo 6 já pode ser jogado do início ao fim, e nem a equipe sabe como o jogo termina | — |
 | FORTE | notícia | 2943 | 9 | 100 | Demissões na indústria de games em 2026 já passam do total de 2025, com dois meses ainda pela frente | — |
 | FORTE | notícia | 2897 | 13 | 100 | Demon Slayer: The Hinokami Chronicles 2 ganha edição Ultimate e redução permanente de preço | — |
 | FORTE | notícia | 2758 | 11 | 100 | Demon Slayer: The Hinokami Chronicles 2 chega ao Switch 2 com upgrade grátis, e série passa de 6 milhões | — |
@@ -605,6 +606,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2836 | 12 | 100 | Homura Hime, ação estilo anime com chuva de tiros, chega ao PS5 em 2027, e a versão de Switch 2 é adiada | — |
 | FORTE | notícia | 2043 | 11 | 100 | Honor of Kings faz aniversário com o herói Dunshan, visual inspirado em pagoda milenar e recompensas grátis | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
+| FORTE | notícia | 2701 | 12 | 100 | Horror Game Awards: Psycho Dead ganha data, Baptiste é adiado e Ugly Within é anunciado | — |
 | FORTE | notícia | 2742 | 10 | 100 | Hounded, aventura em que você é um border collie, é confirmado para PS5 | — |
 | FORTE | notícia | 2927 | 12 | 100 | Novo site da Humble Bundle remove a verificação em duas etapas e deixa contas vulneráveis; veja o que fazer | — |
 | FORTE | noticia | 5584 | 16 | 100 | Funcionário da id Software descreve caos no Xbox e diz não enxergar uma visão clara para o futuro | — |
@@ -669,6 +671,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1784 | 5 | 100 | Marvel Rivals na 9ª temporada e a galera já tá de saco cheio do caos visual | texto curto |
 | FORTE | notícia | 4906 | 14 | 100 | Marvel na San Diego Comic-Con 2026: o resumo de tudo que a Casa das Ideias anunciou | — |
 | FORTE | noticia | 3277 | 12 | 100 | Marvel's Wolverine chega hoje ao PS5 e Insomniac explica como transformou Logan em algo muito diferente de Spider-Man | — |
+| FORTE | notícia | 2712 | 13 | 100 | Marvel's Wolverine despenca nas vendas de outubro nos EUA: do 1º para o 14º lugar | — |
 | FORTE | notícia | 2276 | 5 | 100 | Marvel's Wolverine terá cenas com Logan sem roupa, revela classificação da ESRB | — |
 | FORTE | notícia | 1928 | 5 | 100 | Marvel's Wolverine solta trailer brutal, revela Lady Letal e crava lançamento pra setembro | — |
 | FORTE | notícia | 2871 | 11 | 100 | EA tira Mass Effect de Battlefield 6, e petição para salvar a série passa de 200 mil | — |
@@ -811,6 +814,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2981 | 14 | 100 | Criadora de Crimson Desert vai usar IA em todo o desenvolvimento, e DokeV fica para 2028 | — |
 | FORTE | notícia | 2934 | 10 | 100 | Rumor: vídeo vazado mostra suposto remake de Persona 1 com motor de Persona 3 Reload | — |
 | FORTE | notícia | 2222 | 8 | 100 | Persona 4 Revival troca todo o elenco em inglês — e Atlus explica por quê | — |
+| FORTE | notícia | 2914 | 13 | 100 | "Persona 6 não é o fim": Atlus promete que o próximo jogo não vai demorar tanto | — |
 | FORTE | notícia | 2713 | 11 | 100 | Phantom Blade Zero passa de 1 milhão de cópias antes de lançar, estima analista; jogo libera hoje às 23h | — |
 | FORTE | notícia | 2915 | 10 | 100 | Phantom Blade Zero vende 4 milhões de cópias em 72 horas e faz o maior lançamento do ano na Steam | — |
 | FORTE | notícia | 2664 | 10 | 100 | Phantom Blade Zero vende 500 mil cópias na Steam antes de lançar e entra no top 12 do Brasil | — |
@@ -888,6 +892,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2812 | 14 | 100 | Sony adia as caixas de som Pulse Elevate a seis dias do lançamento e não dá nova data | — |
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 2823 | 14 | 100 | Queda global da Microsoft atinge a Xbox Live às vésperas dos 25 anos do Xbox | — |
+| FORTE | notícia | 2709 | 13 | 100 | Queen's Domain vende 250 mil cópias em menos de três semanas, um feito para um RPG feito quase só por duas pessoas | — |
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 3331 | 11 | 100 | Rainbow Six Siege divide o ranqueado em Solo/Duo e Flex na Operation Vital Signal, que chega em 1º de dezembro com o novo Doc | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
@@ -921,6 +926,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | rumor | 2527 | 11 | 100 | Rumor aponta Pokémon Ruby e Sapphire no Switch já em 8 de outubro | — |
 | FORTE | notícia | 2746 | 10 | 100 | Rumor: Ubisoft trabalha num novo Rainbow Six Vegas, 18 anos depois de Vegas 2 | — |
 | FORTE | notícia | 2835 | 12 | 100 | Rumor: remake de Silent Hill sairia em 2027 e já tem as primeiras atrizes | — |
+| FORTE | notícia | 2898 | 13 | 100 | Rumor: remake de Star Wars: KOTOR deve reaparecer no The Game Awards | — |
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
 | FORTE | notícia | 2761 | 10 | 100 | Sam Houser quebra o silêncio no lançamento de GTA VI e fala em "muitos anos" de experiências pela frente | — |
@@ -989,6 +995,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 5475 | 29 | 100 | State of Play de setembro de 2026: veja todos os anúncios e trailers | — |
 | FORTE | notícia | 4640 | 23 | 100 | Steam Controller leva Melhor Hardware no Golden Joystick 2026 com 51% dos votos, mais que o triplo do segundo colocado | — |
 | FORTE | notícia | 2729 | 10 | 100 | Steam fica instável e trava jogadores na tela "Carregando dados do usuário" | — |
+| FORTE | notícia | 2717 | 12 | 100 | Steam Machine de 512 GB já pode ser comprada sem fila, mas a Valve avisa que o preço pode subir de novo | — |
 | FORTE | notícia | 2111 | 5 | 100 | Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | — |
 | FORTE | notícia | 3827 | 12 | 100 | Steam supera 43,5 milhões de usuários simultâneos; veja o que os dados revelam sobre o Brasil | — |
 | FORTE | notícia | 1871 | 5 | 100 | Já pode ir separando a graninha: Steam revela todas as datas de promoções e eventos temáticos do primeiro semestre de 2027 | — |
@@ -1069,12 +1076,14 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | review | 4975 | 24 | 100 | Tombwater transforma o faroeste num soulslike de horror cósmico ao som de tango | — |
 | FORTE | notícia | 2764 | 9 | 100 | Torchlight: Infinite terá colaboração com Assassin's Creed em janeiro de 2027 | — |
 | FORTE | notícia | 1813 | 7 | 100 | Total War: Warhammer 40,000 impressiona na Gamescom com batalhas gigantes e campanha ambiciosa | — |
+| FORTE | notícia | 2800 | 13 | 100 | Total War: Warhammer 40,000 divide a galáxia em minicampanhas, cada uma com história própria | — |
 | FORTE | noticia | 2105 | 9 | 100 | Trash Day, jogo cooperativo de ex-desenvolvedores de Rocket League, chega em 13 de outubro | — |
 | FORTE | notícia | 2865 | 10 | 100 | Treyarch demite Craig Houston, roteirista dos Zumbis de Call of Duty há quase 20 anos, e Battlefield ganha chefe vindo do CoD | — |
 | FORTE | notícia | 2872 | 10 | 100 | Twitch muda anúncios para streamers ganharem mais com GTA VI, e CEO fala em "um dos maiores momentos" da plataforma | — |
 | FORTE | notícia | 1992 | 6 | 100 | Ubisoft demite equipe de Barcelona logo após Assassin's Creed Black Flag Resynced vender 2 milhões em 24 horas | — |
 | FORTE | notícia | 2764 | 10 | 100 | Ubisoft reúne The Division, Ghost Recon e Splinter Cell sob a Massive Entertainment | — |
 | FORTE | notícia | 3027 | 12 | 100 | Ubisoft faz oferta pela Arkane Lyon, e futuro de Marvel's Blade se decide até 13 de dezembro | — |
+| FORTE | notícia | 2826 | 12 | 100 | Ubisoft: receita do semestre cai 17%, Black Flag Resynced supera expectativas, e empresa demite mais 166 | — |
 | FORTE | notícia | 2685 | 11 | 100 | Modern Warfare 4 estreia em 1º no Reino Unido, com 78% das cópias físicas vendidas no PS5 | — |
 | FORTE | notícia | 2966 | 11 | 100 | Ex-Naughty Dog diz que Uncharted não precisa de remake: "teria que reescrever a história inteira" | — |
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
@@ -1108,6 +1117,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2723 | 11 | 100 | WORLD OF HORROR fica 20% maior com atualização gratuita no PC; PS4 e Switch recebem em 2027 | — |
 | FORTE | noticia | 2371 | 11 | 100 | World of Warcraft revela Eclipse e prepara The Last Titan para encerrar a Worldsoul Saga | — |
 | FORTE | noticia | 1965 | 8 | 100 | World of Warcraft: Forever é anunciado e transforma o sonho do Classic+ em realidade | — |
+| FORTE | notícia | 2868 | 13 | 100 | World of Warcraft: Forever tem mais jogadores por semana do que WoW teve em 15 anos, diz Blizzard | — |
 | FORTE | notícia | 3497 | 12 | 100 | World of Warcraft: Midnight recebe atualização 12.1.5 com novo raide, labirinto e invasões | — |
 | FORTE | notícia | 2979 | 11 | 100 | BLG vence a Gen.G de virada e é campeã mundial de LoL; knight quebra 13 anos de mids sul-coreanos campeões | — |
 | FORTE | notícia | 2940 | 11 | 100 | World of Warcraft: Forever tem estreia sem filas e surpreende até a Blizzard: "até agora, tudo mais ou menos bem" | — |
@@ -1152,6 +1162,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 6839 | 23 | 100 | Xbox na Tokyo Game Show 2026: veja todos os anúncios, trailers e surpresas da apresentação | — |
 | FORTE | notícia | 2346 | 7 | 100 | O ultimato de Satya Nadella: Xbox tem que voltar a crescer até 2027 | — |
 | FORTE | notícia | 2830 | 9 | 100 | Xbox abre vaga para cuidar de jogos físicos, mas a descrição não fala em discos | — |
+| FORTE | notícia | 2718 | 14 | 100 | Xenoblade Chronicles 3 recebe atualização 3.0.0 antes da versão de Switch 2, que chega em 3 de dezembro | — |
 | FORTE | notícia | 3530 | 10 | 100 | Game-Key Card veio para ficar no Switch 2, diz presidente da XSEED: "a pressão pela opção mais barata cresce" | — |
 | FORTE | notícia | 2918 | 12 | 100 | Compositor de Chrono Trigger diz que talvez seja hora de encerrar Dragon Quest, depois de polêmica com o traço de Toriyama | — |
 | FORTE | notícia | 2737 | 10 | 100 | Criador de NieR compra o remake de Ocarina of Time: "Fiz NieR sob grande influência dele" | — |
@@ -1204,6 +1215,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2744 | 15 | 100 | Zelda estava "vendendo nada" antes de Breath of the Wild, dizem ex-funcionários da Nintendo | — |
 | FORTE | notícia | 2496 | 6 | 100 | Link, Zelda e Ganondorf ganham action figures da Hasbro — e o preço não vai te quebrar | — |
 | FORTE | especial | 5828 | 24 | 100 | Zelda contra GTA: novembro junta as duas séries que ensinaram os games a construir mundos | — |
+| FORTE | notícia | 2729 | 12 | 100 | Zenless Zone Zero 3.4 chega em 2 de dezembro com crossover de Honkai: Star Rail e Robin de graça | — |
 | FORTE | notícia | 2701 | 8 | 100 | Zero Parades: Director's Cut chega nesta terça ao PS5, Xbox e Switch 2, ainda sem português | — |
 
 ## Critério
