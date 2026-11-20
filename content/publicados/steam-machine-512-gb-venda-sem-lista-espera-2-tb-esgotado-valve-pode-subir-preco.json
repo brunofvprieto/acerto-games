@@ -1,0 +1,42 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "20 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-20T19:14:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "steam-machine-512-gb-venda-sem-lista-espera-2-tb-esgotado-valve-pode-subir-preco",
+  "title": "Steam Machine de 512 GB já pode ser comprada sem fila, mas a Valve avisa que o preço pode subir de novo",
+  "excerpt": "O modelo de 2 TB está esgotado, e a lista de espera foi fechada. A culpa, segundo a Valve, é o custo de memória e armazenamento.",
+  "image": "/img/steam-machine-valve-frente-oficial.jpg",
+  "imageAlt": "Steam Machine, o console da Valve, vista de frente",
+  "imageCredit": "Steam Machine. Divulgação/Valve",
+  "fonte": "Valve",
+  "fonteUrl": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+  "imageOrigem": "Capa: imagem oficial da página da Steam Machine na loja da Valve, inédita no acervo.",
+  "observacao": "Pauta da busca de 20/11. Fontes: comunicado da Valve na Steam (via The Verge, PC Gamer e Adrenaline).",
+  "body": [
+    "A Valve tem uma notícia boa e uma ruim para quem quer uma Steam Machine. A boa: o modelo de 512 GB já pode ser comprado normalmente, sem sorteio nem fila de espera. A ruim: o de 2 TB esgotou, e o preço pode subir de novo nos próximos meses.",
+    "## Fila zerada",
+    "Por causa da procura, a Valve vendia a Steam Machine por um sistema de sorteio. Os interessados se inscreviam, parte deles era sorteada para uma fila de reservas, e o restante ia para uma lista de espera.",
+    "Em julho, a empresa prometeu zerar a fila de reservas até o fim de 2026. Com o modelo de 512 GB, a promessa foi cumprida. Todas as reservas foram atendidas, e ainda sobrou estoque. Agora, basta colocar o aparelho no carrinho e comprar, enquanto durarem as unidades. O envio, segundo a Valve, é imediato.",
+    "## O modelo de 2 TB",
+    "O cenário é diferente para a versão com mais armazenamento. Segundo a Valve, todos os que tinham reserva já receberam o convite para comprar, mas a lista de espera foi fechada.",
+    "A empresa diz que não sabe quantas unidades de 2 TB vai conseguir produzir, nem a que preço. A situação, segundo a Valve, deve ficar \"especialmente restrita\".",
+    "## A crise da memória",
+    "O problema é o mesmo que afeta toda a indústria de tecnologia. \"Os custos de memória e armazenamento continuam subindo em níveis sem precedentes\", afirmou a Valve. A empresa avisa que não vai conseguir fabricar a Steam Machine nas quantidades planejadas e que o preço pode aumentar.",
+    "A disparada no preço da memória é puxada pela demanda dos centros de dados de inteligência artificial. Ela já tinha levado a Valve a vender a Steam Machine acima de US$ 1.000 nos Estados Unidos, cerca de R$ 5.940. Na época, a empresa já dizia que a situação só piorava.",
+    "A Steam Machine roda o SteamOS, o mesmo sistema do Steam Deck, e dá acesso à biblioteca da Steam na TV. A proposta é oferecer a experiência de um PC de jogos sem a complicação de montar e configurar um computador.",
+    "## E no Brasil?",
+    "A Steam Machine não é vendida oficialmente no Brasil. Quem quiser o aparelho precisa importar, o que soma impostos e frete ao preço já alto. Com a possibilidade de aumento, o produto fica ainda mais distante do bolso do jogador brasileiro.",
+    "A alternativa mais acessível da Valve continua sendo o Steam Deck, que também não tem venda oficial no país, mas aparece com frequência em lojas de importação.",
+    "## Um mercado instável",
+    "A situação mostra como o mercado de hardware ficou instável em 2026. Consoles e placas de vídeo também subiram de preço ao longo do ano por causa da memória. A Steam Machine, que nasceu como uma opção para levar o PC à sala, virou um produto caro e difícil de encontrar na versão mais completa.",
+    "Para quem já está na fila do modelo de 512 GB, a recomendação é não esperar muito. Com a Valve avisando que o preço pode subir, comprar agora parece a opção mais segura.",
+    "link: Steam Machine acima de US$ 1.000 e sem previsão de queda: a crise de memória, segundo a Valve, só piora | https://acertogames.com.br/noticia/steam-machine-preco-alto-crise-de-memoria-valve"
+  ],
+  "imageFilename": "steam-machine-valve-frente-oficial.jpg"
+}
