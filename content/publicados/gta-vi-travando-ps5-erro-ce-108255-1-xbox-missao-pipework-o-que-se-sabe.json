@@ -1,0 +1,43 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "20 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-20T19:06:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "gta-vi-travando-ps5-erro-ce-108255-1-xbox-missao-pipework-o-que-se-sabe",
+  "title": "GTA VI está travando no PS5 com o erro CE-108255-1, e jogadores de Xbox também relatam problemas",
+  "excerpt": "Há quem não consiga passar do prólogo, e há quem trave sempre na mesma missão. A Rockstar ainda não lançou correção.",
+  "image": "/img/gta-vi-arte-oficial-assalto-lucia-homem-mascara-caveira.jpg",
+  "imageAlt": "Lucia e um homem com máscara de caveira em arte oficial de GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Relatos de jogadores e suporte da PlayStation",
+  "fonteUrl": "https://www.dexerto.com/gta/gta-6-players-report-game-breaking-crashes-on-ps5-and-xbox-3430090/",
+  "imageOrigem": "Capa e corpo: artes oficiais do site rockstargames.com/VI, inéditas no acervo.",
+  "observacao": "Pauta da busca de 20/11. Fontes: relatos no Reddit (r/PS5HelpSupport), página do erro no suporte da PlayStation, suporte da Rockstar (via Dexerto) e GameSpot.",
+  "body": [
+    "Para a maioria dos jogadores, os primeiros dias em Leonida têm sido tranquilos. Mas uma parte do público está presa em travamentos que impedem de avançar na história, ou até de começar o jogo.",
+    "No PS5, o problema mais comum vem acompanhado do código de erro CE-108255-1. Ele aparece quando um jogo fecha sozinho, e os relatos se multiplicaram desde o lançamento, na quinta, 19.",
+    "## Onde o jogo trava",
+    "Há dois pontos que se repetem. Um dono de PS5 Pro conta que o jogo fecha sempre no mesmo trecho do prólogo, segundos depois do início. \"Não consigo jogar desde o lançamento\", escreveu no Reddit.",
+    "Outro grupo trava na missão Pipework, uma das primeiras da história, aquela em que Jason conhece Mandy. Segundo os relatos, o jogo fecha toda vez que Jason usa o desentupidor na pia. \"Eu achava que voar de avião seria o mais pesado, mas trava toda vez que uso o desentupidor\", contou um jogador, que diz não conseguir mais avançar.",
+    "img: /img/gta-vi-arte-oficial-jason-lucia-mascaras-posto.jpg | Alguns jogadores nem conseguem passar do prólogo. Divulgação/Rockstar Games",
+    "## O que já foi tentado",
+    "A página de suporte da PlayStation para o erro CE-108255-1 recomenda apenas atualizar o jogo. Quem enfrenta o problema diz que já tentou de tudo, sem sucesso.",
+    "A lista inclui limpar o cache do console, reconstruir o banco de dados pelo modo de segurança e até restaurar o PS5 de fábrica. Um jogador afirma ter baixado o jogo três vezes, e o travamento continua no mesmo ponto.",
+    "O código não é exclusivo de GTA VI. Ele aparece há anos em vários jogos do PS5, sempre que o software fecha de forma inesperada. Por isso, ele indica que algo deu errado, mas não diz exatamente o quê.",
+    "## No Xbox também",
+    "Os relatos não se limitam ao PlayStation. Donos de Xbox Series X também falam em travamentos depois de alguns minutos de jogo. \"Às vezes o jogo trava depois de só 15 minutos. O primeiro travamento veio umas duas horas depois que comecei, e desde então não para\", contou um jogador.",
+    "A página de solução de problemas da Rockstar, por enquanto, encaminha quem tem erros no console para o suporte da PlayStation ou do Xbox. A empresa não comentou os casos publicamente nem anunciou uma correção.",
+    "A missão Pipework é uma das mais comentadas do começo do jogo. Nela, Jason vai cobrar o aluguel atrasado de Mandy, sua ex-namorada, e acaba consertando a pia entupida dela. O trecho viralizou nas redes, o que aumenta a frustração de quem não consegue passar dali.",
+    "Um dos jogadores afetados resumiu o desabafo de muita gente. Ele contou que tinha acabado de pagar o conserto do console e o próprio jogo, e não conseguia jogar. \"Isso é ridículo\", escreveu.",
+    "## O que fazer",
+    "Enquanto a correção não chega, vale manter o console e o jogo sempre atualizados, já que a Rockstar costuma liberar atualizações nas primeiras semanas. Quem trava num ponto específico da história também pode registrar o problema no suporte da Rockstar, informando o código e o trecho do jogo.",
+    "Vale lembrar que GTA VI já vinha com algumas quedas de desempenho, principalmente no Xbox Series S. Num jogo deste tamanho, problemas no lançamento não chegam a surpreender, mas pesam para quem pagou caro e não consegue jogar.",
+    "link: GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | https://acertogames.com.br/noticia/gta-vi-desempenho-ps5-pro-series-s-30-fps-quedas-rockstar-explica-sem-modo-60-fps"
+  ],
+  "imageFilename": "gta-vi-arte-oficial-assalto-lucia-homem-mascara-caveira.jpg"
+}
