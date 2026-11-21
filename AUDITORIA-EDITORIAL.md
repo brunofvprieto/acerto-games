@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1206
-- Forte: 1192
+- Total analisado: 1208
+- Forte: 1194
 - Revisar: 12
 - Prioridade: 2
 
@@ -635,6 +635,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2818 | 10 | 100 | Kingdom Hearts celebra 25 anos com trailer especial e prepara nova coletânea para esta semana | — |
 | FORTE | notícia | 3547 | 14 | 100 | Kingdom Hearts 4 abre o mundo de Coco, confirma Switch 2 e finalmente marca data: fim de 2027 | — |
 | FORTE | notícia | 2786 | 11 | 100 | Nintendo cancela o Halloween de Kirby Air Riders depois de tela congelar no meio das corridas | — |
+| FORTE | notícia | 3023 | 13 | 100 | Kirby and the World Beyond: Kirby vira carro, bola e flutua de guarda-chuva, revela Nintendo Dream | — |
 | FORTE | noticia | 2031 | 10 | 100 | Kirby and the World Beyond leva a série a um gigantesco mundo 3D no Switch 2 | — |
 | FORTE | notícia | 2884 | 12 | 100 | Kojima acredita que jogos em mídia física podem desaparecer em até três anos | — |
 | FORTE | notícia | 2917 | 11 | 100 | Kojima quer que PHYSINT remeta a Metal Gear, mas promete uma experiência de espionagem diferente | — |
@@ -692,6 +693,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2637 | 8 | 100 | Konami solta novo trailer de MGS Master Collection Vol. 2 na reta final pro lançamento | — |
 | FORTE | notícia | 2783 | 9 | 100 | Metaphor: ReFantazio no Switch 2 troca as cores de personagens depois de horas de jogo, e Atlus prepara correção | — |
 | FORTE | noticia | 4794 | 15 | 100 | Metro Redux ganha upgrade gratuito para PS5 e Xbox Series após franquia superar 50 milhões | — |
+| FORTE | notícia | 2751 | 11 | 100 | Metroid Ravenous: Samus ganha traje Metroid e vai devorar inimigos para sobreviver, revela Nintendo Dream | — |
 | FORTE | noticia | 2138 | 9 | 100 | Metroid Ravenous é oficial: Samus abraça seus instintos Metroid em nova aventura 2D no Switch 2 | — |
 | FORTE | notícia | 3637 | 13 | 100 | Dezoito anos depois: veja como MGS4 evoluiu do PS3 para o PS5 e o Switch 2 a três dias do lançamento | — |
 | FORTE | notícia | 2929 | 13 | 100 | Jogadores do Miami Heat ganham PS5 Pro exclusivo de GTA VI numa mala de luxo, e fãs reclamam | — |
