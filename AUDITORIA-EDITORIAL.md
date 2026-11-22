@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1208
-- Forte: 1194
+- Total analisado: 1211
+- Forte: 1197
 - Revisar: 12
 - Prioridade: 2
 
@@ -554,6 +554,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2830 | 12 | 100 | GTA VI não deixa repetir missões da história, e a saída é usar os 15 saves manuais | — |
 | FORTE | notícia | 3006 | 13 | 100 | GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | — |
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
+| FORTE | notícia | 3232 | 11 | 100 | GTA VI e Ocarina of Time viram alvo de guerra de notas zero no Metacritic | — |
 | FORTE | notícia | 2819 | 13 | 100 | GTA VI já passou de US$ 1 bilhão em pré-vendas, estima Sensor Tower, e 75% das cópias são do PS5 | — |
 | FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
 | FORTE | notícia | 2948 | 14 | 100 | GTA VI não tem câmera em primeira pessoa, mas jogadores acharam um truque para ativar no PS5 e no Xbox | — |
@@ -644,6 +645,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2214 | 9 | 100 | Konami anuncia Press Start para 3 de setembro com Castlevania, Silent Hill: Townfall e imagens inéditas | — |
 | FORTE | notícia | 2689 | 7 | 100 | Konami ressuscita Suikoden 14 anos depois — mas tem uma pegadinha no caminho | — |
 | FORTE | notícia | 2482 | 7 | 100 | Jon Hamm quase foi o detetive de LA Noire — e o roteirista explica por que foi melhor assim | — |
+| FORTE | notícia | 4074 | 15 | 100 | Lançamentos da semana: Gothic 3 Classic, Arkheron, GRIME II no Switch e mais | — |
 | FORTE | notícia | 2959 | 16 | 100 | Lançamentos da semana: Phantom Blade Zero, The Wolf Among Us Remastered, Croc 2 e mais | — |
 | FORTE | notícia | 3583 | 18 | 100 | Lançamentos da semana: Football Manager 27, Warhammer Survivors, Shrek 2 Remastered e mais | — |
 | FORTE | notícia | 3420 | 10 | 100 | Todos os lançamentos de agosto de 2026: o mês que vai testar seu SSD (e sua carteira) | — |
@@ -756,6 +758,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | notícia | 2748 | 9 | 100 | Netflix demite mais funcionários da área de jogos e muda de novo a estratégia | — |
 | FORTE | noticia | 2479 | 12 | 100 | Netflix e SEGA fecham acordo para filme de Crazy Taxi, nova série de Sonic e adaptação de Stranger Than Heaven | — |
+| FORTE | notícia | 3000 | 10 | 100 | Neuralink mostra paciente jogando GTA VI só com o pensamento | — |
 | FORTE | notícia | 2941 | 5 | 100 | De Nirvana a Metallica: como o ator de Leon Kennedy usou música pra construir cada fase do personagem | — |
 | FORTE | notícia | 2767 | 12 | 100 | Atualização de NieR: Automata faz o jogo pedir 366 GB no PC, e Square Enix pede desculpas | — |
 | FORTE | notícia | 2811 | 13 | 100 | Night of the Living Toys, jogo cooperativo de arrumar uma loja de brinquedos assombrada, sai em 10 de dezembro | — |
