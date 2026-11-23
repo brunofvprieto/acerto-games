@@ -1,0 +1,43 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "23 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-23T10:50:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "gta-vi-youtubers-bloqueios-direitos-autorais-frank-el-santo-content-id-pede-desculpas",
+  "title": "YouTubers levam bloqueios por vídeos de GTA VI por causa de um cantor de reggaeton, que pede desculpas",
+  "excerpt": "Frank El Santo colocou a própria gameplay no Content ID do YouTube, e o sistema passou a reivindicar vídeos de outros criadores.",
+  "image": "/img/gta-vi-vintage-vice-city-casal-danca-boate.jpg",
+  "imageAlt": "Casal dançando numa boate em imagem oficial de GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Frank El Santo e criadores do YouTube",
+  "fonteUrl": "https://www.dexerto.com/youtube/musician-responds-as-countless-youtubers-hit-with-copyright-strikes-on-gta-6-videos-3430565/",
+  "imageOrigem": "Capa: imagem oficial do pacote Vintage Vice City no site rockstargames.com/VI, inédita no acervo. Post de DarkViperAU incorporado do original.",
+  "observacao": "Pauta da busca de 23/11. Fontes: Dexerto, Polygon (resposta do cantor, citada pela Dexerto) e post de DarkViperAU no X.",
+  "body": [
+    "Criadores de conteúdo de GTA VI no YouTube tiveram uma surpresa desagradável no fim de semana. Vários canais grandes receberam reivindicações de direitos autorais em vídeos e transmissões do jogo. O motivo não foi a Rockstar, nem a trilha sonora.",
+    "O responsável era Frank El Santo, nome artístico do cantor colombiano de reggaeton Andrés Arango Flórez. Ele também publica vídeos jogando GTA VI e, ao que tudo indica, cadastrou a própria gameplay no Content ID, o sistema automático do YouTube que identifica conteúdo protegido.",
+    "## Gameplay contra gameplay",
+    "O problema é que todo mundo joga o mesmo jogo. Com a gameplay de El Santo cadastrada, o sistema passou a enxergar trechos parecidos nos vídeos de outros criadores e a reivindicá-los como se fossem dele.",
+    "Entre os afetados estão canais conhecidos como theRadBrad, HollowPoiint e DarkViperAU. \"Você colocou sua gameplay de GTA VI no sistema Content ID, e por isso está reivindicando transmissões de GTA VI. Por favor, corrija isso. Obrigado\", escreveu DarkViperAU ao cantor.",
+    "tweet: https://x.com/DarkViperAU/status/2124495454566223994",
+    "Alguns criadores acusaram o músico de agir de propósito, dizendo que ele estaria rindo da situação nos comentários.",
+    "## O pedido de desculpas",
+    "El Santo respondeu nos comentários de um dos seus vídeos e jogou a culpa no sistema automático do YouTube. \"Para todo mundo que recebeu uma reivindicação no seu vídeo ou transmissão de GTA VI: sinto muito. Não estou fazendo essas reivindicações manualmente, e não tenho nenhum direito sobre GTA VI\", escreveu.",
+    "Ele pediu que os criadores contestem as reivindicações, o que costuma devolver a monetização dos vídeos. Até a publicação desta matéria, não estava claro se ele já tinha retirado a gameplay do Content ID.",
+    "img: /img/gta-vi-arte-oficial-musica-jason-lucia-vice-city.jpg | A música costuma ser a maior causa de bloqueios em vídeos de GTA. Divulgação/Rockstar Games",
+    "O caso lembra outros problemas parecidos. Em grandes lançamentos, é comum que gravadoras e distribuidoras de música cadastrem trilhas ou trechos de jogos no Content ID, gerando reivindicações em massa. Com GTA VI, que já é o jogo mais transmitido da história, o efeito ficou ainda maior.",
+    "## O modo streamer não ajuda",
+    "GTA VI tem um modo para criadores de conteúdo, que tira das rádios as músicas protegidas por direitos autorais. Ele evita bloqueios por causa da trilha, mas não resolve este caso, já que a reivindicação é sobre a imagem do jogo, e não sobre o som.",
+    "## Um problema antigo",
+    "O episódio expõe de novo as falhas do sistema do YouTube. O Content ID é automático, e as contestações também são analisadas, em boa parte, por sistemas automatizados. Criadores reclamam há anos de reivindicações indevidas que derrubam a renda de vídeos.",
+    "Para quem faz vídeos de GTA VI no Brasil, a dica é ficar de olho nas notificações do YouTube e contestar qualquer reivindicação de terceiros sobre a gameplay. A contestação é feita pelo YouTube Studio, na área de direitos autorais do vídeo.",
+    "Também vale ligar o modo streamer de GTA VI antes de gravar, para evitar bloqueios por causa das músicas das rádios.",
+    "link: Álbum de GTA VI leva o Justice ao primeiro lugar do Spotify; recorde de 29,85 milhões ainda não tem confirmação | https://acertogames.com.br/noticia/gta-vi-the-album-spotify-justice-flower-in-a-hurricane-primeiro-lugar-parada-global-recorde-nao-confirmado"
+  ],
+  "imageFilename": "gta-vi-vintage-vice-city-casal-danca-boate.jpg"
+}
