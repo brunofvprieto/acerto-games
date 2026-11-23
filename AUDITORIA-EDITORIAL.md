@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1220
-- Forte: 1206
+- Total analisado: 1225
+- Forte: 1211
 - Revisar: 12
 - Prioridade: 2
 
@@ -547,10 +547,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2892 | 11 | 100 | Em GTA VI, a polícia lembra sua roupa e dá para pedir para fazer carinho em cachorro, revela Rockstar | — |
 | FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
+| FORTE | notícia | 2821 | 12 | 100 | Jason de GTA VI foi inspirado em Steve McQueen e em veteranos do Exército, explica Rockstar | — |
 | FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
 | FORTE | notícia | 2930 | 14 | 100 | Mapa oficial de GTA VI já pode ser baixado de graça, com versão para imprimir | — |
 | FORTE | notícia | 2884 | 15 | 100 | Mapa de GTA VI vaza numa vitrine da Selfridges e revela nomes de lugares de Leonida | — |
+| FORTE | notícia | 2739 | 11 | 100 | Desenvolvedores de GTA VI homenageiam familiares que morreram num memorial dentro do jogo | — |
 | FORTE | notícia | 2691 | 10 | 100 | Metacritic abre bolão para a nota de GTA VI, e prazo fecha na manhã em que as análises devem sair | — |
 | FORTE | notícia | 2958 | 13 | 100 | GTA VI tem um "modo fácil" escondido nas opções de acessibilidade, e não desativa troféus | — |
 | FORTE | notícia | 2830 | 12 | 100 | GTA VI não deixa repetir missões da história, e a saída é usar os 15 saves manuais | — |
@@ -562,12 +564,14 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2739 | 13 | 100 | GTA VI recebe a primeira atualização, mas a Rockstar ainda não diz o que mudou | — |
 | FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
 | FORTE | notícia | 2948 | 14 | 100 | GTA VI não tem câmera em primeira pessoa, mas jogadores acharam um truque para ativar no PS5 e no Xbox | — |
+| FORTE | notícia | 2700 | 12 | 100 | GTA VI tem o primeiro personagem não binário da série, e o jogador não pode feri-lo | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
 | FORTE | notícia | 2742 | 11 | 100 | Jogador de GTA VI relata 30 dias sem mensagens na PSN por foto da colônia de nudismo | — |
 | FORTE | notícia | 2924 | 12 | 100 | GTA VI bate recorde histórico de audiência em transmissões ao vivo e derruba o Reddit antes de chegar ao Brasil | — |
 | FORTE | notícia | 2875 | 13 | 100 | Primeiro-ministro, polícia, escola e até o KFC: o lançamento de GTA VI saiu dos games | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
+| FORTE | notícia | 2721 | 12 | 100 | GTA VI satiriza Call of Duty com piada sobre sindicato, justo na semana em que a Rockstar vota a criação de um | — |
 | FORTE | notícia | 2904 | 11 | 100 | Pé-Grande, disco voador e um console com jogos de verdade: os primeiros segredos de GTA VI | — |
 | FORTE | notícia | 2719 | 11 | 100 | GTA VI ganha segunda atualização antes da estreia, com 602 MB no PS5 e versão maior no Xbox | — |
 | FORTE | notícia | 3336 | 14 | 100 | GTA VI: seis imagens inéditas vazam na véspera do lançamento, com academia, assalto e Jason e Lucia de boia no mar | — |
@@ -924,6 +928,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3594 | 6 | 100 | Riftbound revela o calendário completo de sets para 2026 — e a pergunta é: vai ter produto na prateleira? | — |
 | FORTE | notícia | 3265 | 11 | 100 | Robert Pattinson é o novo James Bond: Amazon confirma o ator como 007 no filme de Denis Villeneuve | — |
 | FORTE | notícia | 2861 | 12 | 100 | Demitidos pela Rockstar em 2025 aparecem nos créditos de GTA VI, e julgamento contra a empresa termina sem sentença | — |
+| FORTE | notícia | 2719 | 12 | 100 | Rockstar é acusada de copiar desenho de artista furry na submetralhadora personalizada de GTA VI | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
 | FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
