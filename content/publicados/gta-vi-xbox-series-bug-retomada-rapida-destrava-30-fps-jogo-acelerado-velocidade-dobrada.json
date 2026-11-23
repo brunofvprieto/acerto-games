@@ -1,0 +1,40 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "23 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-23T11:10:00-03:00",
+  "cover": [
+    "#0a1a2a",
+    "#04060a"
+  ],
+  "slug": "gta-vi-xbox-series-bug-retomada-rapida-destrava-30-fps-jogo-acelerado-velocidade-dobrada",
+  "title": "Bug da Retomada Rápida destrava os 30 FPS de GTA VI no Xbox, mas o jogo inteiro fica acelerado",
+  "excerpt": "Com a saída de vídeo trocada para 120 Hz e uma volta pela Retomada Rápida, GTA VI perde a trava de 30 quadros no Xbox Series. Como a simulação está presa à taxa de quadros, personagens e física passam a rodar em avanço rápido.",
+  "image": "/img/gta-vi-clima-key-lento-catalan-key-rodovia-chuva-weather-channel-oficial.jpg",
+  "imageAlt": "Rodovia sob chuva entre Key Lento e Catalan Key em GTA VI, trecho em que o bug de taxa de quadros no Xbox fica entre 35 e 40 FPS",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Post do usuário Meowwie64 no Reddit (via Pure Xbox e Game Rant)",
+  "fonteUrl": "https://www.purexbox.com/news/2026/11/gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawbacks",
+  "imageOrigem": "Capa: imagem oficial da Rockstar no acervo (divulgada com The Weather Channel), não usada antes como capa.",
+  "observacao": "Pauta da busca de 23/11. Passo a passo, autor (Meowwie64), versão 01.002.001, necessidade de 120 Hz e efeito de velocidade conferidos em Pure Xbox (22/11), Game Rant (21/11) e Make Tech Easier (23/11). 35 a 40 FPS na rodovia: Pure Xbox e Make Tech Easier. Acima de 60 FPS em cenas leves: Pure Xbox e Make Tech Easier (Game Rant fala em até 60). Cutscenes em velocidade normal: Game Rant e Make Tech Easier. Series S: vídeo do canal Fuzion Xbox Testing citado por Pure Xbox e Make Tech Easier; Game Rant diz que não estava claro. Citação do Reddit traduzida a partir de Make Tech Easier ('The game speed seems to be tied to your framerate'). Sem comentário da Rockstar e sem patch até 23/11 (Make Tech Easier). Fala de Marc Chambers: matéria do site de 18/11 (entrevista ao Push Square). Ficou fora: trava em 15 FPS revertendo o truque (só Game Rant); risco de superaquecimento (só Pure Xbox). Vídeo do Fuzion não incorporado por falta da URL conferida.",
+  "body": [
+    "Um bug na Retomada Rápida do Xbox Series derruba a trava de 30 quadros por segundo de GTA VI. O preço aparece na hora: com mais quadros, o jogo inteiro passa a rodar acelerado, com personagens e física em ritmo de avanço rápido.",
+    "A descoberta é de um jogador que assina como Meowwie64 no Reddit. O truque funciona na versão 01.002.001, a atual do jogo, e exige uma TV ou um monitor de 120 Hz ligado ao console.",
+    "## Como o bug acontece",
+    "A sequência começa com a saída de vídeo do Xbox em 60 Hz. O jogador abre GTA VI e, quando as seis estrelas aparecem na abertura, muda a saída para 120 Hz. Depois, sem fechar o jogo, abre outro título pelo guia.",
+    "Ao voltar para GTA VI pela Retomada Rápida, o jogo não reaplica o limite de 30 quadros. Basta fechar e abrir de novo para a trava voltar.",
+    "A Retomada Rápida guarda o jogo suspenso na memória do console. Ao que tudo indica, quando a saída de vídeo muda no meio do caminho, GTA VI volta sem reler a configuração que fixa os 30 quadros, e passa a desenhar tantos quadros quanto o hardware aguenta.",
+    "## Mais quadros, jogo mais rápido",
+    "O resultado não é o modo de desempenho que muita gente pedia. Em cenas com pouca carga gráfica, a taxa passa de 60 quadros. Numa rodovia, fica entre 35 e 40, no máximo.",
+    "O problema é que a velocidade da simulação acompanha a taxa de quadros. \"A velocidade do jogo parece estar ligada à taxa de quadros\", escreveu o autor da descoberta. Jason e Lucia se movem mais rápido, a física se comporta de forma estranha e, com o dobro de quadros, a ação corre no dobro da velocidade. As cenas de história e os diálogos seguem no ritmo normal.",
+    "Vídeos de teste mostram o efeito também no Series S. Como o jogo foi feito para rodar a 30 quadros nesses consoles, travamentos e erros entram na conta de quem insistir.",
+    "No Series S, a descoberta é ainda mais curiosa. Antes do lançamento, a análise da Digital Foundry mostrou o console entre 25 e 29 quadros por longos trechos com a trava ligada, a partir de uma resolução interna de 720p. É o aparelho que menos tem a ganhar com o truque.",
+    "## O que o bug revela",
+    "A Rockstar já tinha explicado por que GTA VI não oferece 60 quadros nem no PS5 Pro. Segundo Marc Chambers, responsável pela produção de tecnologia do jogo, juntar todos os sistemas de Leonida em cada quadro só cabe num orçamento de cerca de 33 milissegundos, o tempo de um quadro a 30 FPS.",
+    "Para compensar a trava, o estúdio diz ter cortado um quadro inteiro de atraso nos comandos em relação aos jogos anteriores. A aposta da Rockstar foi na resposta do controle, não na fluidez da imagem.",
+    "O bug acrescenta uma camada a essa explicação. Se a lógica do jogo avança a cada quadro desenhado, um modo de 60 FPS exigiria mudar a forma como a simulação mede o tempo, e não apenas sobrar processador. Atrelar a simulação aos quadros é uma solução conhecida em jogos de console. Ela só cobra a conta quando alguém consegue furar a trava.",
+    "A Rockstar não comentou o caso e ainda não lançou atualização para fechar a brecha. Por enquanto, a curiosidade rende mais vídeo do que campanha: ninguém quer pilotar uma fuga de Vice City em velocidade dobrada.",
+    "link: GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | https://acertogames.com.br/noticia/gta-vi-desempenho-ps5-pro-series-s-30-fps-quedas-rockstar-explica-sem-modo-60-fps"
+  ]
+}
