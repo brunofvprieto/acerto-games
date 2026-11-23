@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1215
-- Forte: 1201
+- Total analisado: 1220
+- Forte: 1206
 - Revisar: 12
 - Prioridade: 2
 
@@ -523,6 +523,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | retrô | 3756 | 14 | 100 | GTA III faz 25 anos: o clássico que só funcionou nos últimos seis meses | — |
 | FORTE | notícia | 2792 | 12 | 100 | Brasileiro batzera bate o recorde mundial de speedrun de GTA San Andreas com 2h50min30s | — |
 | FORTE | notícia | 4493 | 26 | 100 | De 1997 a GTA 6: reveja os trailers oficiais de todos os GTAs antes do lançamento | — |
+| FORTE | notícia | 2741 | 13 | 100 | GTA VI já vendeu quase 45 milhões de cópias, estima consultoria; 61% dos donos de PS5 nos EUA jogaram no lançamento | — |
 | FORTE | notícia | 2814 | 10 | 100 | GTA VI precisa faturar US$ 1,9 bilhão em três dias para agradar investidores, diz Bank of America | — |
 | FORTE | notícia | 2993 | 13 | 100 | Caixa brasileira de GTA VI aparece na Kabum e confirma: legendas em português, sem dublagem e sem disco | — |
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
@@ -533,6 +534,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2892 | 10 | 100 | GTA VI ganha seis imagens inéditas numa "previsão do tempo" de Leonida feita pelo The Weather Channel | — |
 | FORTE | notícia | 2825 | 10 | 100 | Lanterna revelaria o código de GTA VI pela caixa lacrada, e compradores relatam códigos já usados | — |
 | FORTE | notícia | 2940 | 13 | 100 | Códigos de trapaça de GTA VI só aparecem depois da história, e usá-los bloqueia o save e os troféus | — |
+| FORTE | notícia | 2756 | 13 | 100 | GTA VI gerou o maior dia de tráfego da história da Comcast e chegou a quase um quarto de toda a rede | — |
 | FORTE | notícia | 2707 | 14 | 100 | PlayStation chama Jay Park e estrelas do K-pop para comercial de GTA VI feito só para a Coreia do Sul | — |
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
 | FORTE | notícia | 2723 | 13 | 100 | GTA VI coloca o "Coringa da Flórida" nos créditos, e a atriz de Mandy se revela | — |
@@ -555,7 +557,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3006 | 13 | 100 | GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | — |
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
 | FORTE | notícia | 3232 | 11 | 100 | GTA VI e Ocarina of Time viram alvo de guerra de notas zero no Metacritic | — |
+| FORTE | notícia | 2890 | 12 | 100 | Perfil criminal de GTA VI divide jogadores: sistema pune até legítima defesa, e o nível "Irredimível" é para sempre | — |
 | FORTE | notícia | 2819 | 13 | 100 | GTA VI já passou de US$ 1 bilhão em pré-vendas, estima Sensor Tower, e 75% das cópias são do PS5 | — |
+| FORTE | notícia | 2739 | 13 | 100 | GTA VI recebe a primeira atualização, mas a Rockstar ainda não diz o que mudou | — |
 | FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
 | FORTE | notícia | 2948 | 14 | 100 | GTA VI não tem câmera em primeira pessoa, mas jogadores acharam um truque para ativar no PS5 e no Xbox | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
@@ -583,6 +587,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2849 | 12 | 100 | Itens da Ultimate Edition de GTA VI saem aos poucos na história, e alguns só valem no primeiro capítulo | — |
 | FORTE | notícia | 3172 | 13 | 100 | Vídeo de GTA VI tão realista que parecia gravado em Miami é mesmo do jogo, e a Rockstar confirmou | — |
 | FORTE | notícia | 3029 | 13 | 100 | Bug da Retomada Rápida destrava os 30 FPS de GTA VI no Xbox, mas o jogo inteiro fica acelerado | — |
+| FORTE | notícia | 2778 | 12 | 100 | YouTubers levam bloqueios por vídeos de GTA VI por causa de um cantor de reggaeton, que pede desculpas | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2732 | 11 | 100 | Gundam Battle Operation 3 é anunciado para PS5 e PC, gratuito e com jogo cruzado, mas sem português | — |
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
