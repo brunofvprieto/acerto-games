@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1230
-- Forte: 1216
+- Total analisado: 1235
+- Forte: 1221
 - Revisar: 12
 - Prioridade: 2
 
@@ -185,6 +185,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2702 | 11 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
 | FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
 | FORTE | notícia | 2741 | 14 | 100 | Acornia: Mirror Worlds mostra fazenda, funcionários e eventos de cada estação, e ganha janela: primavera de 2027 | — |
+| FORTE | notícia | 2734 | 14 | 100 | Patente da Activision ensina personagens a falar como jogadores usando o chat de voz, até do Discord | — |
 | FORTE | notícia | 4089 | 13 | 100 | Acts of Blood tem data no PC: 4 de dezembro, com consoles só em 2027 | — |
 | FORTE | notícia | 2788 | 11 | 100 | AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado | — |
 | FORTE | notícia | 2857 | 13 | 100 | AION 2 ganha os prêmios de Excelência e de Jogo Popular no Korea Game Awards 2026 | — |
@@ -235,6 +236,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | review | 7335 | 37 | 100 | BeamNG.drive no PS5 cobra paciência | — |
 | FORTE | notícia | 2868 | 10 | 100 | Rumor: novo jogo da Bend Studio, de Days Gone, é cooperativo e sai em 2027 | — |
 | FORTE | notícia | 2063 | 8 | 100 | Beyond the Dark: Nightwatch chega ao Switch 2 com campeonato que premia a melhor dupla com viagem à Escócia | — |
+| FORTE | notícia | 2727 | 13 | 100 | Binding of Isaac usa música feita com IA em modo inspirado em GTA VI, leva bombardeio de críticas e recua | — |
 | FORTE | notícia | 2777 | 10 | 100 | Cofundador da BioWare diz que compra da EA pela Arábia Saudita foi "o último prego no caixão" do estúdio | — |
 | FORTE | notícia | 3573 | 18 | 100 | BioWare vai fechar, e o próximo Mass Effect foi cancelado | — |
 | FORTE | notícia | 3635 | 13 | 100 | EA fechou a BioWare para apostar em Star Wars Battlefront 3, diz Bloomberg | — |
@@ -271,6 +273,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
 | FORTE | notícia | 2735 | 12 | 100 | Chefe da CD Projekt chama GTA VI de obra-prima, e GTA V ganha jogadores no PC à espera da nova versão | — |
 | FORTE | review | 4244 | 19 | 100 | Chivalware faz de combinar blocos um teste de reflexo que vicia | — |
+| FORTE | notícia | 2784 | 15 | 100 | Novo chefe da Massive quer transformar o estúdio de The Division no "A24 dos videogames" | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
 | FORTE | notícia | 2920 | 15 | 100 | Circana: Modern Warfare 4 lidera outubro nos EUA, Gears of War: E-Day fica em segundo e Xbox sobe 42% | — |
 | FORTE | notícia | 3093 | 12 | 100 | Wolverine lidera setembro nos EUA, PS5 sobe 22% e Xbox tem o pior setembro da sua história | — |
@@ -354,6 +357,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2347 | 12 | 100 | DLSS 4.5 chega a Modern Warfare 4 e Cyberpunk 2077, e novo driver acaba com a espera de shaders no CoD | — |
 | FORTE | notícia | 2804 | 13 | 100 | Doja Cat reclama de ficar fora da trilha de GTA VI: "Vocês partiram meu coração". Anitta, por outro lado, ganhou programa no jogo | — |
 | FORTE | notícia | 2769 | 11 | 100 | Domino's lança pizza quadrada de Minecraft Dungeons II, com item exclusivo no jogo | — |
+| FORTE | notícia | 2679 | 15 | 100 | DOOM: The Dark Ages nasceu exclusivo do Xbox e só virou multiplataforma "bem tarde", diz ex-id Software | — |
 | FORTE | notícia | 2290 | 7 | 100 | Dragon Ball: Sparking! Zero mostra DLC "Super Limit-Breaking NEO" e update grátis com 33 lutadores novos | — |
 | FORTE | notícia | 2781 | 11 | 100 | Dragon Ball Xenoverse 2 faz 10 anos com o Festival Final dos Universos, que dá itens para Xenoverse 3 | — |
 | FORTE | noticia | 1909 | 8 | 100 | Dragon Quest supera 100 milhões de unidades vendidas no ano de seu 40º aniversário | — |
@@ -802,6 +806,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2086 | 10 | 100 | Nintendo Switch 2 finalmente recebe VRR no modo TV com atualização 23.0.0 | — |
 | FORTE | noticia | 2003 | 7 | 100 | Nintendo Switch Online recebe atualização com indícios de novo sistema de “Event Gifts” | — |
 | FORTE | Retrô | 1984 | 7 | 100 | Nintendo Switch Online recebe Ninja Gaiden III, Ikari Warriors e R.C. Pro-Am II no catálogo de NES | — |
+| FORTE | notícia | 2739 | 15 | 100 | Nioh 3 Complete Edition aparece na classificação etária da Coreia antes de ser anunciada | — |
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
 | FORTE | notícia | 3264 | 11 | 100 | Suda51 garante a volta de Travis Touchdown nos 20 anos de No More Heroes e quer resgatar Moonlight Syndrome | — |
