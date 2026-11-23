@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1240
-- Forte: 1226
+- Total analisado: 1241
+- Forte: 1227
 - Revisar: 12
 - Prioridade: 2
 
@@ -567,11 +567,12 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2958 | 13 | 100 | GTA VI tem um "modo fácil" escondido nas opções de acessibilidade, e não desativa troféus | — |
 | FORTE | notícia | 2830 | 12 | 100 | GTA VI não deixa repetir missões da história, e a saída é usar os 15 saves manuais | — |
 | FORTE | notícia | 3006 | 13 | 100 | GTA VI estreia com nota 99 no Metacritic e empata com Ocarina of Time como o jogo mais bem avaliado da história | — |
+| FORTE | notícia | 3240 | 15 | 100 | Rockstar divulga as notas da primeira atualização de GTA VI: veja tudo o que foi corrigido | — |
 | FORTE | notícia | 2840 | 13 | 100 | Novo clipe de GTA VI recria quadro a quadro um vídeo viral de Miami, com os carros da campanha da Rockstar | — |
 | FORTE | notícia | 3232 | 11 | 100 | GTA VI e Ocarina of Time viram alvo de guerra de notas zero no Metacritic | — |
 | FORTE | notícia | 2890 | 12 | 100 | Perfil criminal de GTA VI divide jogadores: sistema pune até legítima defesa, e o nível "Irredimível" é para sempre | — |
 | FORTE | notícia | 2819 | 13 | 100 | GTA VI já passou de US$ 1 bilhão em pré-vendas, estima Sensor Tower, e 75% das cópias são do PS5 | — |
-| FORTE | notícia | 2739 | 13 | 100 | GTA VI recebe a primeira atualização, mas a Rockstar ainda não diz o que mudou | — |
+| FORTE | notícia | 2861 | 14 | 100 | GTA VI recebe a primeira atualização, mas a Rockstar ainda não diz o que mudou | — |
 | FORTE | notícia | 2792 | 15 | 100 | GTA VI recebe a primeira atualização antes mesmo do lançamento | — |
 | FORTE | notícia | 2948 | 14 | 100 | GTA VI não tem câmera em primeira pessoa, mas jogadores acharam um truque para ativar no PS5 e no Xbox | — |
 | FORTE | notícia | 2700 | 12 | 100 | GTA VI tem o primeiro personagem não binário da série, e o jogador não pode feri-lo | — |
