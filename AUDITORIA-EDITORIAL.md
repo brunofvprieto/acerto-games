@@ -576,7 +576,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2700 | 12 | 100 | GTA VI tem o primeiro personagem não binário da série, e o jogador não pode feri-lo | — |
 | FORTE | notícia | 2811 | 11 | 100 | GTA VI está pronto: Take-Two diz que a Rockstar concluiu o desenvolvimento, e risco de adiamento acaba | — |
 | FORTE | notícia | 2711 | 11 | 100 | GTA VI para PS5 sai por R$ 418,41 no Pix no KaBuM!, e cupom tira mais R$ 60 na pré-venda | — |
-| FORTE | notícia | 2742 | 11 | 100 | Jogador de GTA VI relata 30 dias sem mensagens na PSN por foto da colônia de nudismo | — |
+| FORTE | notícia | 3021 | 11 | 100 | Jogador de GTA VI relata 30 dias sem mensagens na PSN por foto da colônia de nudismo | — |
 | FORTE | notícia | 2924 | 12 | 100 | GTA VI bate recorde histórico de audiência em transmissões ao vivo e derruba o Reddit antes de chegar ao Brasil | — |
 | FORTE | notícia | 2875 | 13 | 100 | Primeiro-ministro, polícia, escola e até o KFC: o lançamento de GTA VI saiu dos games | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
@@ -589,7 +589,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2882 | 10 | 100 | GTA VI chega perto de 15 milhões de cópias em pré-venda e US$ 1,45 bilhão, estima Sensor Tower | — |
 | FORTE | notícia | 2727 | 12 | 100 | Terceiro clipe de GTA VI leva o comboio da Rockstar para uma ponte de Vice City, agora com escolta da polícia | — |
 | FORTE | notícia | 3539 | 12 | 100 | Lista completa do álbum de GTA VI vaza a quatro dias do lançamento, com Dua Lipa, Lana Del Rey e Playboi Carti | — |
-| FORTE | notícia | 2775 | 9 | 100 | Álbum de GTA VI leva o Justice ao primeiro lugar do Spotify; recorde de 29,85 milhões ainda não tem confirmação | — |
+| FORTE | notícia | 2833 | 9 | 100 | Álbum de GTA VI leva o Justice ao primeiro lugar do Spotify; recorde de 29,85 milhões ainda não tem confirmação | — |
 | FORTE | notícia | 2840 | 13 | 100 | GTA VI toma conta da tela inicial do PS5 e traz cinco fundos de tela de Jason e Lucia | — |
 | FORTE | notícia | 2739 | 12 | 100 | Trailer "Pré-carregue agora" de GTA VI esconde 30 segundos de cenas inéditas: boate, Dre'Quan, iate e equipe tática | — |
 | FORTE | notícia | 2894 | 12 | 100 | GTA VI ganha trailer "Pré-carregue agora", e Rockstar confirma 30 fps e sombras com ray tracing só no PS5 Pro | — |
@@ -599,7 +599,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2760 | 12 | 100 | Turismo da Nova Zelândia entra na brincadeira do truque para jogar GTA VI antes, liberado às 8h de Brasília no Xbox | — |
 | FORTE | notícia | 2849 | 12 | 100 | Itens da Ultimate Edition de GTA VI saem aos poucos na história, e alguns só valem no primeiro capítulo | — |
 | FORTE | notícia | 3172 | 13 | 100 | Vídeo de GTA VI tão realista que parecia gravado em Miami é mesmo do jogo, e a Rockstar confirmou | — |
-| FORTE | notícia | 3029 | 13 | 100 | Bug da Retomada Rápida destrava os 30 FPS de GTA VI no Xbox, mas o jogo inteiro fica acelerado | — |
+| FORTE | notícia | 3174 | 13 | 100 | Bug da Retomada Rápida destrava os 30 FPS de GTA VI no Xbox, mas o jogo inteiro fica acelerado | — |
 | FORTE | notícia | 2778 | 12 | 100 | YouTubers levam bloqueios por vídeos de GTA VI por causa de um cantor de reggaeton, que pede desculpas | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2732 | 11 | 100 | Gundam Battle Operation 3 é anunciado para PS5 e PC, gratuito e com jogo cruzado, mas sem português | — |
@@ -1089,7 +1089,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3106 | 11 | 100 | CD Projekt usa IA para devolver a Geralt a voz polonesa de 2015 em Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
-| FORTE | notícia | 2814 | 12 | 100 | The Wolf Among Us Remastered aparece na eShop para 29 de novembro no Switch, ainda sem anúncio da Telltale | — |
+| FORTE | notícia | 2867 | 12 | 100 | The Wolf Among Us Remastered aparece na eShop para 29 de novembro no Switch, ainda sem anúncio da Telltale | — |
 | FORTE | notícia | 2895 | 10 | 100 | Thief: The Dark Project Remastered sai em 3 de dezembro com campanha nova feita pela equipe de The Black Parade | — |
 | FORTE | notícia | 2747 | 9 | 100 | NC assume Throne and Liberty no lugar da Amazon e dá a todos os jogadores um ticket que leva o personagem direto ao equipamento de nível 75 | — |
 | FORTE | notícia | 2293 | 10 | 100 | Tides of Annihilation vai ter português do Brasil no lançamento, confirma o estúdio | — |
