@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1225
-- Forte: 1211
+- Total analisado: 1230
+- Forte: 1216
 - Revisar: 12
 - Prioridade: 2
 
@@ -252,6 +252,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2977 | 11 | 100 | Borderlands passa de 100 milhões de cópias, e Gearbox promete mais Borderlands 4 em 2027 | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
 | FORTE | notícia | 3071 | 14 | 100 | Breathedge 2 chega ao Acesso Antecipado com construção, exploração espacial e uma galinha imortal | — |
+| FORTE | notícia | 2821 | 15 | 100 | Roteirista do primeiro GTA admite que a série não tratou bem as mulheres: "Lucia chega muito, muito atrasada" | — |
 | FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
 | FORTE | notícia | 2322 | 6 | 100 | Esse site deixa você dormir ao som de brigas de lobby do MW2 e Black Ops — e faz mais sentido do que parece | — |
 | FORTE | notícia | 2038 | 6 | 100 | Nuketown ou nada: a briga eterna dos fãs de Black Ops por causa dos mapas | — |
@@ -545,9 +546,11 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2785 | 14 | 100 | GTA VI já tem um glitch de dinheiro infinito, e muitos jogadores se recusam a usar: "Não esperei 13 anos para isso" | — |
 | FORTE | notícia | 2840 | 13 | 100 | Cuidado com o bônus do GTA+ na pré-venda de GTA VI: a assinatura renova sozinha depois do mês grátis | — |
 | FORTE | notícia | 2892 | 11 | 100 | Em GTA VI, a polícia lembra sua roupa e dá para pedir para fazer carinho em cachorro, revela Rockstar | — |
+| FORTE | notícia | 2819 | 14 | 100 | Idosos de até 86 anos se encantam com GTA VI num asilo na França, e PS5 de streamer pega fogo durante a live | — |
 | FORTE | notícia | 2766 | 14 | 100 | GTA VI pode bater recorde de download, e operadoras britânicas já se preparam para a estreia | — |
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
 | FORTE | notícia | 2821 | 12 | 100 | Jason de GTA VI foi inspirado em Steve McQueen e em veteranos do Exército, explica Rockstar | — |
+| FORTE | notícia | 2718 | 14 | 100 | Dublador de Gojo em inglês gravou para GTA VI sem saber que era o jogo: "Imagina o meu susto" | — |
 | FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
 | FORTE | notícia | 2930 | 14 | 100 | Mapa oficial de GTA VI já pode ser baixado de graça, com versão para imprimir | — |
@@ -914,6 +917,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3331 | 11 | 100 | Rainbow Six Siege divide o ranqueado em Solo/Duo e Flex na Operation Vital Signal, que chega em 1º de dezembro com o novo Doc | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2990 | 13 | 100 | Ratchet & Clank: Ranger Rumble é cancelado antes do lançamento mundial, e servidores fecham em maio de 2027 | — |
+| FORTE | notícia | 3006 | 15 | 100 | Direitos de filme e série de Red Dead Redemption podem custar US$ 100 milhões; Rockstar não quer filme de GTA | — |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
 | FORTE | notícia | 3568 | 12 | 100 | Control Resonant triplica a receita da Remedy, e o Brasil fica entre os três maiores mercados nos consoles | — |
 | FORTE | review | 12574 | 28 | 100 | Remothered: Red Nun's Legacy prende pela história e pela fuga, não pelo combate | — |
@@ -963,6 +967,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
 | FORTE | notícia | 1977 | 10 | 100 | Serious Sam: The Third Encounter é anunciado e continua a história de The Second Encounter | — |
+| FORTE | notícia | 3031 | 16 | 100 | Shinji Mikami, criador de Resident Evil, queria que a IA "desaparecesse do mundo", mas admite testá-la | — |
 | FORTE | notícia | 2700 | 13 | 100 | Shrek 2 Remastered estreia com avaliações mistas no Steam: exige conta da Epic para o cooperativo e corta cenas no meio | — |
 | FORTE | noticia | 2137 | 10 | 100 | Signal Veil mistura survival horror, trauma psicológico e anime dos anos 90 | — |
 | FORTE | notícia | 2235 | 7 | 100 | Silent Hill: Townfall pede 32 GB de RAM no PC — os requisitos assustam mais que o jogo | — |
