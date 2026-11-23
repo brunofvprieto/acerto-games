@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1239
-- Forte: 1225
+- Total analisado: 1240
+- Forte: 1226
 - Revisar: 12
 - Prioridade: 2
 
@@ -247,6 +247,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2739 | 9 | 100 | Black Friday da PlayStation entra na segunda fase com PS VR2 e DualSense em oferta, mas sem PS5 | — |
 | FORTE | notícia | 2745 | 9 | 100 | Black Friday da PS Store começa nesta quarta e vai até o fim de novembro, com até 75% de desconto | — |
 | FORTE | notícia | 2686 | 10 | 100 | Black Friday da PS Store no Brasil: Control sai por R$ 16, Silent Hill 2 por menos de R$ 100, e parte das ofertas acaba no dia 20 | — |
+| FORTE | notícia | 3433 | 16 | 100 | Black Friday da SEGA derruba Like a Dragon: Infinite Wealth para R$ 59,98 e dá o maior desconto de Sonic Racing: CrossWorlds | — |
 | FORTE | notícia | 3652 | 15 | 100 | Black Myth: Zhong Kui mostra 15 minutos de jogo e troca o bastão do Wukong pela espada | — |
 | FORTE | notícia | 2872 | 12 | 100 | BLACKWOOD, o jogo do dono de locadora que vira assassino, ganha missões novas e MP5 em 6 de novembro | — |
 | FORTE | notícia | 2897 | 10 | 100 | Filme animado de Bloodborne já tem diretor e roteirista, diz produtor Jacksepticeye | — |
