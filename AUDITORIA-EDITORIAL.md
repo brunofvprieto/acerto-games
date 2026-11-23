@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1241
-- Forte: 1227
+- Total analisado: 1245
+- Forte: 1231
 - Revisar: 12
 - Prioridade: 2
 
@@ -206,6 +206,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
 | FORTE | notícia | 2751 | 11 | 100 | Arkane Lyon tem até 13 de novembro para encontrar comprador, e Marvel's Blade estaria na reta final | — |
 | FORTE | notícia | 2944 | 14 | 100 | Sindicato acusa Microsoft de sabotar Marvel's Blade para justificar o fechamento da Arkane Lyon | — |
+| FORTE | notícia | 2801 | 14 | 100 | Arknights: Endfield, indicado ao The Game Awards, leva os jogadores ao Mundo dos Cogumelos em 25 de novembro, com Mimino de graça | — |
 | FORTE | notícia | 3842 | 13 | 100 | Arknights: Endfield chega ao Steam com Santuário de Tinta, Si e Argent Flow | — |
 | FORTE | noticia | 5042 | 17 | 100 | Armed Fantasia tem desenvolvimento descontinuado pela Digital Bros após anos de produção | — |
 | FORTE | notícia | 2738 | 12 | 100 | Chefe do Xbox defende futuro em que "uma pequena equipe vai construir mundos que hoje exigem centenas de desenvolvedores" | — |
@@ -669,6 +670,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2214 | 9 | 100 | Konami anuncia Press Start para 3 de setembro com Castlevania, Silent Hill: Townfall e imagens inéditas | — |
 | FORTE | notícia | 2689 | 7 | 100 | Konami ressuscita Suikoden 14 anos depois — mas tem uma pegadinha no caminho | — |
 | FORTE | notícia | 2482 | 7 | 100 | Jon Hamm quase foi o detetive de LA Noire — e o roteirista explica por que foi melhor assim | — |
+| FORTE | notícia | 4897 | 15 | 100 | LAGS Awards, o "Game Awards da América Latina", revela indicados; brasileiros The Posthumous Investigation e Subversive Memories disputam Jogo do Ano | — |
 | FORTE | notícia | 4074 | 15 | 100 | Lançamentos da semana: Gothic 3 Classic, Arkheron, GRIME II no Switch e mais | — |
 | FORTE | notícia | 2959 | 16 | 100 | Lançamentos da semana: Phantom Blade Zero, The Wolf Among Us Remastered, Croc 2 e mais | — |
 | FORTE | notícia | 3583 | 18 | 100 | Lançamentos da semana: Football Manager 27, Warhammer Survivors, Shrek 2 Remastered e mais | — |
@@ -973,6 +975,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4239 | 18 | 100 | SEGA aumenta investimento em Sonic, confirma novos jogos em produção e explica por que evita remakes | — |
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
 | FORTE | notícia | 2794 | 11 | 100 | Sonic vai ganhar uma pista de kart de verdade em Londres, com projeções e mundos digitais | — |
+| FORTE | notícia | 2752 | 15 | 100 | SEGA Shop lança coleção de fim de ano de Sonic e abre loja de Angry Birds para o terceiro filme | — |
 | FORTE | notícia | 2737 | 11 | 100 | SEGA confirma vazamento de 2,19 milhões de e-mails após ataque a empresa que enviava suas newsletters | — |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
@@ -993,6 +996,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2689 | 11 | 100 | Solo Leveling: Arise Overdrive chega ao PS5 e Xbox em 3 de novembro, às 21h de Brasília | — |
 | FORTE | notícia | 2247 | 5 | 100 | O som dos passos do Mario em Sunshine é puro ASMR — e tem gente que percebeu isso 20 anos depois | — |
 | FORTE | notícia | 2751 | 12 | 100 | Sonic ganha curta animado de 35 anos, Memories and Beyond, com Eggman criando o Metal Sonic definitivo | — |
+| FORTE | notícia | 2715 | 14 | 100 | Sonic e McLaren ganham minissérie com Lando Norris e Oscar Piastri, e o primeiro episódio já está no ar | — |
 | FORTE | notícia | 2748 | 8 | 100 | Sonic Racing: CrossWorlds começa o Ano Dois com Bayonetta de graça, modo Duelo e Godzilla na pista | — |
 | FORTE | notícia | 2483 | 11 | 100 | Sonic Racing: CrossWorlds recebe Aang e Katara em pacote de Avatar Legends | — |
 | FORTE | notícia | 2732 | 12 | 100 | Sonic Racing: CrossWorlds ganha carro e roupa da McLaren de graça, com festival a partir das 21h desta quinta | — |
