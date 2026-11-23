@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1235
-- Forte: 1221
+- Total analisado: 1239
+- Forte: 1225
 - Revisar: 12
 - Prioridade: 2
 
@@ -185,6 +185,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2702 | 11 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
 | FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
 | FORTE | notícia | 2741 | 14 | 100 | Acornia: Mirror Worlds mostra fazenda, funcionários e eventos de cada estação, e ganha janela: primavera de 2027 | — |
+| FORTE | notícia | 2756 | 16 | 100 | Activision se apresenta como "casa" de Banjo-Kazooie em vaga de emprego, e fãs sonham com volta | — |
 | FORTE | notícia | 2734 | 14 | 100 | Patente da Activision ensina personagens a falar como jogadores usando o chat de voz, até do Discord | — |
 | FORTE | notícia | 4089 | 13 | 100 | Acts of Blood tem data no PC: 4 de dezembro, com consoles só em 2027 | — |
 | FORTE | notícia | 2788 | 11 | 100 | AION 2 passa de 12 mil anos de jogo acumulados, mas a conta inclui o acesso antecipado | — |
@@ -423,6 +424,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2252 | 6 | 100 | War for Westeros escorrega no gelo e vai para 2027 | — |
 | FORTE | notícia | 2197 | 13 | 100 | Game Pass recebe Final Fantasy VII Remake, Plants vs. Zombies: Replanted e Mouthwashing até 3 de novembro | — |
 | FORTE | notícia | 3188 | 6 | 100 | Game Pass foi boa ideia, mas não funcionou: diretor de Forza Horizon 5 desabafa sobre o colapso do Xbox | — |
+| FORTE | notícia | 2868 | 15 | 100 | Game Pass confirma Nubby's Number Factory e Mr. Magpie's Harmless Card Game no início de 2027 | — |
 | FORTE | notícia | 2472 | 5 | 100 | Esse cara tá criando cartuchos físicos pra jogos de Steam — e o resultado é surpreendentemente incrível | — |
 | FORTE | notícia | 3720 | 5 | 100 | Saiu do cinema ainda vibrando com The Odyssey? A Polygon listou 10 jogos pra manter o clima | — |
 | FORTE | artigo | 4052 | 17 | 100 | Gamescom começa amanhã: o que esperar, o que provavelmente não vai aparecer e por que vale ficar acordado até meia-noite | — |
@@ -605,6 +607,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2836 | 12 | 100 | Halloween brasileiro na Steam: Asleep sai de graça, Enigma do Medo tem desconto e Caravana 2000 ganha demo | — |
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
 | FORTE | notícia | 2724 | 14 | 100 | Halo: Campaign Evolved ganha modo Firefight de graça, inclusive no PS5; detalhes saem no Halo Fest | — |
+| FORTE | notícia | 2743 | 14 | 100 | Artes do battle royale cancelado de Halo, o Project Tatanka, aparecem pela primeira vez | — |
 | FORTE | noticia | 5480 | 21 | 100 | Halo Studios teria apenas 30 funcionários e pode desaparecer após última atualização de Campaign Evolved | — |
 | FORTE | notícia | 2722 | 10 | 100 | Hanno: A Magical Tale, aventura de um menino e um filhote de elefante mágico, vai à G-STAR | — |
 | FORTE | notícia | 3359 | 6 | 100 | Harada achou que ia apanhar quando fãs o convidaram pro churrasco depois do Leroy Smith | — |
@@ -1118,6 +1121,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4818 | 12 | 100 | Undead Labs deixa o Xbox, vira estúdio dos funcionários e mantém State of Decay 3 para 2027 | — |
 | FORTE | notícia | 3370 | 14 | 100 | União Europeia propõe proibir loot boxes para menores de 18 anos, regra que o Brasil já adota desde março | — |
 | FORTE | notícia | 3262 | 14 | 100 | Depois da EA, Arábia Saudita e Silver Lake negociam comprar a Unity por cerca de US$ 25 bilhões | — |
+| FORTE | notícia | 2751 | 14 | 100 | Unreal Engine 6 vai sair sem Blueprints, e a Epic aposta na IA para converter os jogos da UE5 | — |
 | FORTE | notícia | 2806 | 9 | 100 | Until Dawn 2 terá gameplay inédito em 11 de dezembro, num evento em salas de cinema com transmissão ao vivo | — |
 | FORTE | notícia | 2764 | 12 | 100 | Until Dawn 2: Sony apresenta, um a um, os caçadores de fantasmas do Dead True | — |
 | FORTE | review | 4535 | 23 | 100 | Valor Mortis leva o parkour de Ghostrunner a uma Europa napoleônica em ruínas | — |
