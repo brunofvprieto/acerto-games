@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1245
-- Forte: 1231
+- Total analisado: 1250
+- Forte: 1236
 - Revisar: 12
 - Prioridade: 2
 
@@ -203,6 +203,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | Artigos | 5915 | 15 | 100 | Antes de Phantom Blade Zero: conheça os jogos que deram origem ao universo da S-GAME | — |
 | FORTE | notícia | 3576 | 11 | 100 | ARC Raiders e The Finals terão adaptações para cinema e TV com a Chernin | — |
 | FORTE | notícia | 2861 | 11 | 100 | ArcheAge Chronicles entra em acesso antecipado na terça (3) com servidor no Brasil, mas sem português | — |
+| FORTE | notícia | 2763 | 15 | 100 | Hacker que vazou GTA VI em 2022 é condenado a sete anos, mas sai livre na mesma semana do lançamento | — |
 | FORTE | notícia | 2094 | 5 | 100 | O cara que vazou GTA 6 saiu do hospital e vai encarar um novo julgamento | — |
 | FORTE | notícia | 2751 | 11 | 100 | Arkane Lyon tem até 13 de novembro para encontrar comprador, e Marvel's Blade estaria na reta final | — |
 | FORTE | notícia | 2944 | 14 | 100 | Sindicato acusa Microsoft de sabotar Marvel's Blade para justificar o fechamento da Arkane Lyon | — |
@@ -267,6 +268,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2525 | 6 | 100 | Infinity Ward bate o pé: Gunny, o assistente de Modern Warfare 4, não é IA — é feito à mão mesmo | — |
 | FORTE | notícia | 2878 | 6 | 100 | Modern Warfare 4 vai parecer melhor no console mais caro — e a Sony não tá nem um pouco envergonhada disso | — |
 | FORTE | notícia | 2797 | 11 | 100 | Call of Duty passa de US$ 40 bilhões em receita, e Shipment chega a Modern Warfare 4 | — |
+| FORTE | notícia | 2772 | 16 | 100 | Call of Duty perde 42% dos jogadores diários no lançamento de GTA VI, estima consultoria | — |
 | FORTE | notícia | 2940 | 13 | 100 | Capcom já vende 92% dos jogos em formato digital, e o PC passou dos consoles | — |
 | FORTE | notícia | 1997 | 8 | 100 | Capcom confirma vazamento de dados de 11,7 milhões de contas do Capcom ID | — |
 | FORTE | notícia | 2527 | 8 | 100 | Capcom dispara: lucro sobe 69% no trimestre, puxado por Pragmata e Resident Evil | — |
@@ -311,6 +313,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2744 | 12 | 100 | Cronos: The New Dawn ganha modo foto em atualização grátis e fica 50% mais barato | — |
 | FORTE | notícia | 2805 | 11 | 100 | Cult of the Lamb chega ao Switch 2 em 22 de outubro, com upgrade grátis para quem tem no Switch | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
+| FORTE | notícia | 2726 | 13 | 100 | Cyberleek libera o executável de GTA VI, e modders já tentam rodar a versão de Xbox no PC com ajuda de IA | — |
 | FORTE | notícia | 2971 | 12 | 100 | Cuidado com golpes: Cyberleek diz ter vazado GTA VI de Xbox, e "versão de PC" falsa é usada para roubar contas | — |
 | FORTE | notícia | 2605 | 9 | 100 | Cyberpunk 2077 recebe atualização 2.5 de Edgerunners 2 na quinta, com duas armas e implantes personalizáveis | — |
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
@@ -354,6 +357,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4916 | 22 | 100 | Diablo V é revelado na BlizzCon 2026 e mostra um Santuário já dominado pelo Senhor do Terror | — |
 | FORTE | notícia | 2922 | 14 | 100 | Diários de uma Apotecária ganha jogo em 18 de março de 2027, com Jinshi e o gato Maomao como investigadores | — |
 | FORTE | notícia | 2623 | 9 | 100 | Directive 8020 ganha o multiplayer online prometido, cinco meses depois do lançamento | — |
+| FORTE | notícia | 2712 | 12 | 100 | Diretor de Cyberpunk 2 chama GTA VI de "maior conquista artística da história" e brinca: "Cyberpunk 2 está cancelado" | — |
 | FORTE | notícia | 2792 | 6 | 100 | Diretor de Marathon deixa a Bungie quatro meses após o lançamento do jogo | — |
 | FORTE | notícia | 2784 | 11 | 100 | Discord ganha tema de Vice City para a estreia de GTA VI, grátis e sem precisar de Nitro | — |
 | FORTE | notícia | 1907 | 6 | 100 | DLC de Resident Evil Requiem só deve chegar no fim de 2027, mas tem um motivo pra sorrir | — |
@@ -560,6 +564,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2821 | 12 | 100 | Jason de GTA VI foi inspirado em Steve McQueen e em veteranos do Exército, explica Rockstar | — |
 | FORTE | notícia | 2718 | 14 | 100 | Dublador de Gojo em inglês gravou para GTA VI sem saber que era o jogo: "Imagina o meu susto" | — |
 | FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
+| FORTE | notícia | 2958 | 15 | 100 | GTA VI é o maior lançamento da história do PlayStation, com mais de 39 milhões de jogadores no PS5 | — |
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
 | FORTE | notícia | 2930 | 14 | 100 | Mapa oficial de GTA VI já pode ser baixado de graça, com versão para imprimir | — |
 | FORTE | notícia | 2884 | 15 | 100 | Mapa de GTA VI vaza numa vitrine da Selfridges e revela nomes de lugares de Leonida | — |
