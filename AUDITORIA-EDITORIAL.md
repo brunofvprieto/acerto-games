@@ -279,7 +279,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | notícia | 2988 | 11 | 100 | Capcom cresce 49% no semestre; Pragmata passa de 2,7 milhões e Onimusha de 1,7 milhão | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
-| FORTE | notícia | 2735 | 12 | 100 | Chefe da CD Projekt chama GTA VI de obra-prima, e GTA V ganha jogadores no PC à espera da nova versão | — |
+| FORTE | notícia | 2778 | 12 | 100 | Chefe da CD Projekt chama GTA VI de obra-prima, e GTA V ganha jogadores no PC à espera da nova versão | — |
 | FORTE | review | 4244 | 19 | 100 | Chivalware faz de combinar blocos um teste de reflexo que vicia | — |
 | FORTE | notícia | 2784 | 15 | 100 | Novo chefe da Massive quer transformar o estúdio de The Division no "A24 dos videogames" | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
@@ -316,8 +316,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2744 | 12 | 100 | Cronos: The New Dawn ganha modo foto em atualização grátis e fica 50% mais barato | — |
 | FORTE | notícia | 2805 | 11 | 100 | Cult of the Lamb chega ao Switch 2 em 22 de outubro, com upgrade grátis para quem tem no Switch | — |
 | FORTE | artigo | 6609 | 26 | 100 | O manifesto do Cyberleek tem uma moeda própria e uma enquete paga. Isso responde tudo | — |
-| FORTE | notícia | 2726 | 13 | 100 | Cyberleek libera o executável de GTA VI, e modders já tentam rodar a versão de Xbox no PC com ajuda de IA | — |
-| FORTE | notícia | 2971 | 12 | 100 | Cuidado com golpes: Cyberleek diz ter vazado GTA VI de Xbox, e "versão de PC" falsa é usada para roubar contas | — |
+| FORTE | notícia | 2825 | 13 | 100 | Cyberleek libera o executável de GTA VI, e modders já tentam rodar a versão de Xbox no PC com ajuda de IA | — |
+| FORTE | notícia | 2766 | 11 | 100 | Cyberleek diz ter vazado GTA VI de Xbox, e "versão de PC" falsa vira isca para roubar contas | — |
 | FORTE | notícia | 2605 | 9 | 100 | Cyberpunk 2077 recebe atualização 2.5 de Edgerunners 2 na quinta, com duas armas e implantes personalizáveis | — |
 | FORTE | noticia | 2581 | 13 | 100 | Cyberpunk 2077 chega à Battle.net e parceria entre CD Projekt Red e Blizzard ganha novos crossovers | — |
 | FORTE | notícia | 2777 | 13 | 100 | Cyberpunk 2077 tem maior pico na Steam desde 2023 e lidera vendas no Brasil | — |
@@ -532,7 +532,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2741 | 9 | 100 | Vanoss Crew aluga mansão em Miami para o lançamento de GTA 6, e a Rockstar já sabe | — |
 | FORTE | noticia | 2457 | 10 | 100 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | — |
 | FORTE | notícia | 2751 | 12 | 100 | GTA 6: novo clipe mostra Vice City à noite vista de avião, dez estações de rádio e um prompt de pesca no canto da tela | — |
-| FORTE | notícia | 7944 | 28 | 100 | GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta | — |
+| FORTE | notícia | 7698 | 27 | 100 | GTA 6: já são sete clipes vazados em quatro dias. O sétimo mostra abastecimento, roubo ao posto e batida em câmera lenta | — |
 | FORTE | artigo | 5801 | 40 | 100 | GTA 6: 8 sistemas que os vazamentos sugerem e que podem mudar a experiência | — |
 | FORTE | notícia | 2436 | 10 | 100 | GTA 6 chega na véspera do feriado de 20 de novembro, e o lançamento vira feriadão no Brasil | — |
 | FORTE | notícia | 1909 | 6 | 100 | Take-Two aposta que novo vídeo de GTA 6 na Netflix vai aumentar ainda mais a paixão dos fãs | — |
@@ -669,7 +669,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2685 | 14 | 100 | Jensen Huang volta ao comando da Nvidia 12 dias depois de renunciar, e ações disparam mais de 30% | — |
 | FORTE | notícia | 2747 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
-| FORTE | notícia | 2936 | 15 | 100 | Jogador de GTA VI é suspenso por 30 dias na PSN por mandar foto da colônia de nudismo do jogo a um amigo | — |
+| FORTE | notícia | 2742 | 14 | 100 | Jogador de GTA VI é suspenso por 30 dias na PSN por mandar foto da colônia de nudismo do jogo a um amigo | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
 | FORTE | notícia | 3535 | 13 | 100 | Shooter de John Romero cancelado pelo Xbox ganha nova publicadora e vai beber de Zelda: Breath of the Wild | — |
 | FORTE | notícia | 3073 | 11 | 100 | Ken Kutaragi diz entender a revolta com o fim dos discos no PlayStation, mas defende a decisão | — |
