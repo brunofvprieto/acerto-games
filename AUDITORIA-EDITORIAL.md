@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1263
-- Forte: 1249
+- Total analisado: 1270
+- Forte: 1256
 - Revisar: 12
 - Prioridade: 2
 
@@ -184,6 +184,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2457 | 11 | 100 | Ace Combat 8 traz de volta Annihilation Battle e novo trailer mostra superarmas e a guerra de Wings of Theve | — |
 | FORTE | notícia | 2702 | 11 | 100 | Ace Combat 8 recebe na sexta atualização que destrava dez missões da campanha e mexe no online | — |
 | FORTE | noticia | 3840 | 12 | 100 | Ace Combat 8 decola hoje e encerra espera de sete anos por um novo capítulo principal | — |
+| FORTE | notícia | 2732 | 14 | 100 | Ace Combat 8 recebe a temporada 2 do online em 1º de dezembro, com o avião do "Rei dos Céus" e missões grátis | — |
 | FORTE | notícia | 2741 | 14 | 100 | Acornia: Mirror Worlds mostra fazenda, funcionários e eventos de cada estação, e ganha janela: primavera de 2027 | — |
 | FORTE | notícia | 2756 | 16 | 100 | Activision se apresenta como "casa" de Banjo-Kazooie em vaga de emprego, e fãs sonham com volta | — |
 | FORTE | notícia | 2734 | 14 | 100 | Patente da Activision ensina personagens a falar como jogadores usando o chat de voz, até do Discord | — |
@@ -265,6 +266,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2038 | 6 | 100 | Nuketown ou nada: a briga eterna dos fãs de Black Ops por causa dos mapas | — |
 | FORTE | notícia | 2879 | 13 | 100 | Verdansk chega a Call of Duty: Mobile no aniversário de sete anos, com Gulag de volta e paraquedas no lugar do wingsuit | — |
 | FORTE | notícia | 2329 | 6 | 100 | Modern Warfare 4 beta tem datas confirmadas: veja como garantir acesso antecipado | — |
+| FORTE | notícia | 2746 | 16 | 100 | Call of Duty: Modern Warfare 4 tem o primeiro desconto na Black Friday e sai por R$ 254,15 na Steam | — |
 | FORTE | notícia | 2325 | 8 | 100 | Call of Duty: Modern Warfare 4 mostra a campanha pela primeira vez — e leva Price de volta a Paris | — |
 | FORTE | notícia | 2525 | 6 | 100 | Infinity Ward bate o pé: Gunny, o assistente de Modern Warfare 4, não é IA — é feito à mão mesmo | — |
 | FORTE | notícia | 2878 | 6 | 100 | Modern Warfare 4 vai parecer melhor no console mais caro — e a Sony não tá nem um pouco envergonhada disso | — |
@@ -543,6 +545,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2814 | 10 | 100 | GTA VI precisa faturar US$ 1,9 bilhão em três dias para agradar investidores, diz Bank of America | — |
 | FORTE | notícia | 2993 | 13 | 100 | Caixa brasileira de GTA VI aparece na Kabum e confirma: legendas em português, sem dublagem e sem disco | — |
 | FORTE | notícia | 3080 | 12 | 100 | Leitor mostra o que vem na caixa de GTA VI: pôster dupla face, código do jogo e nenhum disco | — |
+| FORTE | notícia | 2735 | 14 | 100 | Cartas colecionáveis de GTA VI viram produto oficial com a Panini e saem em dezembro | — |
 | FORTE | notícia | 3032 | 12 | 100 | Fãs encontram em GTA VI a casa que apareceu em San Andreas Definitive Edition, e a primeira imagem do jogo pode ser de 2021 | — |
 | FORTE | notícia | 2729 | 11 | 100 | GTA VI tem cassinos fechados e áreas guardadas para o futuro, admite a Rockstar | — |
 | FORTE | notícia | 2729 | 14 | 100 | Censura de GTA VI no Japão é confirmada: personagens tomam banho de roupa íntima, e sangue diminui | — |
@@ -940,12 +943,14 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 7981 | 25 | 100 | O efeito GTA 6 virou um buraco negro: quatro jogos que podem se machucar em setembro e outubro | — |
 | FORTE | notícia | 2823 | 14 | 100 | Queda global da Microsoft atinge a Xbox Live às vésperas dos 25 anos do Xbox | — |
 | FORTE | notícia | 2709 | 13 | 100 | Queen's Domain vende 250 mil cópias em menos de três semanas, um feito para um RPG feito quase só por duas pessoas | — |
+| FORTE | notícia | 2823 | 14 | 100 | Ragnarök Online LATAM abre o Festival da Neve em Al De Baran, com missões até 21 de dezembro | — |
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 3331 | 11 | 100 | Rainbow Six Siege divide o ranqueado em Solo/Duo e Flex na Operation Vital Signal, que chega em 1º de dezembro com o novo Doc | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
 | FORTE | notícia | 2990 | 13 | 100 | Ratchet & Clank: Ranger Rumble é cancelado antes do lançamento mundial, e servidores fecham em maio de 2027 | — |
 | FORTE | notícia | 3006 | 15 | 100 | Direitos de filme e série de Red Dead Redemption podem custar US$ 100 milhões; Rockstar não quer filme de GTA | — |
 | FORTE | notícia | 2767 | 11 | 100 | Rematch troca o nível de jogador por contratos na Temporada 6 e promete Netcode 2.0 contra os rollbacks | — |
+| FORTE | notícia | 2721 | 16 | 100 | Chefe da Remedy elogia a Rockstar no remake de Max Payne 1 e 2: "Parceira incrível, e não é papo furado" | — |
 | FORTE | notícia | 3568 | 12 | 100 | Control Resonant triplica a receita da Remedy, e o Brasil fica entre os três maiores mercados nos consoles | — |
 | FORTE | review | 12574 | 28 | 100 | Remothered: Red Nun's Legacy prende pela história e pela fuga, não pelo combate | — |
 | FORTE | noticia | 1983 | 8 | 100 | Resident Evil 2, 3 e 4 mostram primeiro gameplay no Nintendo Switch 2 | — |
@@ -961,6 +966,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2861 | 12 | 100 | Demitidos pela Rockstar em 2025 aparecem nos créditos de GTA VI, e julgamento contra a empresa termina sem sentença | — |
 | FORTE | notícia | 2719 | 12 | 100 | Rockstar é acusada de copiar desenho de artista furry na submetralhadora personalizada de GTA VI | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
+| FORTE | notícia | 2874 | 15 | 100 | Rockstar derruba o Discord do maior projeto de GTA VI para PC, e criador de 15 anos desiste | — |
 | FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
 | FORTE | notícia | 2744 | 11 | 100 | Desenvolvedores da Rockstar no Reino Unido votam sindicato na semana de lançamento de GTA 6 | — |
@@ -990,7 +996,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4239 | 18 | 100 | SEGA aumenta investimento em Sonic, confirma novos jogos em produção e explica por que evita remakes | — |
 | FORTE | noticia | 1781 | 9 | 100 | SEGA e Balenciaga fecham parceria com coleção limitada e arcade jogável de Sonic the Fighters | texto curto |
 | FORTE | notícia | 2794 | 11 | 100 | Sonic vai ganhar uma pista de kart de verdade em Londres, com projeções e mundos digitais | — |
-| FORTE | notícia | 2752 | 15 | 100 | SEGA Shop lança coleção de fim de ano de Sonic e abre loja de Angry Birds para o terceiro filme | — |
+| FORTE | notícia | 3883 | 20 | 100 | SEGA Shop lança coleção de fim de ano de Sonic e abre loja de Angry Birds para o terceiro filme | — |
 | FORTE | notícia | 2737 | 11 | 100 | SEGA confirma vazamento de 2,19 milhões de e-mails após ataque a empresa que enviava suas newsletters | — |
 | FORTE | notícia | 2181 | 7 | 100 | O Senhor dos Anéis: War in the North volta em Legacy Edition — anunciado e lançado no mesmo dia | — |
 | FORTE | notícia | 2847 | 14 | 100 | Serious Sam: Shatterverse chega hoje e transforma a série em um FPS roguelite cooperativo para 5 jogadores | — |
@@ -1063,6 +1069,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2712 | 8 | 100 | Capcom aprova novo filme de Street Fighter, e diretor revela reação de criador dos jogos | — |
 | FORTE | noticia | 2165 | 9 | 100 | Filme de Street Fighter vai eternizar o EVO Moment 37 e terá Justin Wong em cena | — |
 | FORTE | notícia | 3626 | 14 | 100 | Subnautica 2 ganha chat de voz por proximidade e sistema de resgate, e a doação que veio junto é de 100 mil dólares | — |
+| FORTE | notícia | 2837 | 15 | 100 | Subnautica 2 mostra a atualização Tar Trek em transmissão no dia 28, às 13h de Brasília; conteúdo chega em 1º de dezembro | — |
 | FORTE | notícia | 2764 | 12 | 100 | Sucker Punch, de Ghost of Yōtei, demite 26 funcionários | — |
 | FORTE | noticia | 4690 | 12 | 100 | Seguindo os passos do amigo Kojima, Suda51 deixa a NetEase e torna a Grasshopper independente | — |
 | FORTE | notícia | 2695 | 10 | 100 | Super Mario Party Jamboree ganha GameShare pelo GameChat no Switch 2: amigos jogam online sem ter o jogo | — |
