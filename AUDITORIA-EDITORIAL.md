@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1256
-- Forte: 1242
+- Total analisado: 1263
+- Forte: 1249
 - Revisar: 12
 - Prioridade: 2
 
@@ -336,6 +336,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2731 | 13 | 100 | Death Stranding passa de 28 milhões de jogadores no aniversário de sete anos da série | — |
 | FORTE | notícia | 3845 | 12 | 100 | "Minha mãe virou uma cratera": Death Stranding Isolations ganha primeiro teaser e estreia em 2027 | — |
 | FORTE | notícia | 2771 | 10 | 100 | Death Stranding Odradek: Kojima e Niantic levam as entidades encalhadas para as ruas de Tóquio em realidade aumentada | — |
+| FORTE | notícia | 2736 | 15 | 100 | Deborah Ann Woll, a Faye dos jogos, vai viver a mesma personagem na série de God of War da Amazon | — |
 | FORTE | notícia | 2437 | 5 | 100 | Deborah Ann Woll sobre os haters de God of War Laufey: "Em nenhum universo o jogo é ruim" | — |
 | FORTE | notícia | 3881 | 20 | 100 | Deep Dish Dungeon: o final verdadeiro exige devolver os tesouros à masmorra | — |
 | FORTE | noticia | 4681 | 15 | 100 | Deep Dish Dungeon: jogo brasileiro dos criadores de Chroma Squad chega ao Game Pass em 13 de outubro | — |
@@ -412,6 +413,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | artigo | 7973 | 21 | 100 | O fim das engines próprias? Halo entregou os pontos — e a conta chegou pra todo mundo | — |
 | FORTE | noticia | 1799 | 8 | 100 | Final Fantasy Resonance ganha trailer da TGS 2026 antes do lançamento em outubro | texto curto |
 | FORTE | notícia | 2756 | 8 | 100 | Final Fantasy VII Remake e Rebirth saem por R$ 88,71 juntos na eShop do Switch 2 até 17 de novembro | — |
+| FORTE | notícia | 2768 | 14 | 100 | Final Fantasy VII Revelation é classificado nos EUA e segue para 8 de abril, inclusive no Switch 2 | — |
 | FORTE | notícia | 4006 | 6 | 100 | Vinte e cinco anos depois, Final Fantasy X ainda tem a melhor abertura da série — e tem ranking pra provar | — |
 | FORTE | notícia | 2728 | 10 | 100 | Final Fantasy XIV: Evercold é adiado para 23 de fevereiro e revela a Zephyr, job de besta e pássaro | — |
 | FORTE | notícia | 2290 | 7 | 100 | Final Fantasy XIV: Evercold ganha teaser estendido, nova job e crossover com Evangelion | — |
@@ -661,6 +663,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2820 | 14 | 100 | Congresso dos EUA endurece com Jensen Huang e ameaça intimar ex-chefe da Nvidia | — |
 | FORTE | notícia | 2697 | 11 | 100 | Jensen Huang, CEO da Nvidia, admite caso extraconjugal; conselho abre investigação após reportagens sobre suposta espiã chinesa | — |
 | FORTE | notícia | 2865 | 13 | 100 | Jensen Huang renuncia ao comando da Nvidia, e diretora financeira Colette Kress assume como CEO interina | — |
+| FORTE | notícia | 2685 | 14 | 100 | Jensen Huang volta ao comando da Nvidia 12 dias depois de renunciar, e ações disparam mais de 30% | — |
 | FORTE | notícia | 2747 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
 | FORTE | notícia | 2936 | 15 | 100 | Jogador de GTA VI é suspenso por 30 dias na PSN por mandar foto da colônia de nudismo do jogo a um amigo | — |
@@ -824,7 +827,8 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2086 | 10 | 100 | Nintendo Switch 2 finalmente recebe VRR no modo TV com atualização 23.0.0 | — |
 | FORTE | noticia | 2003 | 7 | 100 | Nintendo Switch Online recebe atualização com indícios de novo sistema de “Event Gifts” | — |
 | FORTE | Retrô | 1984 | 7 | 100 | Nintendo Switch Online recebe Ninja Gaiden III, Ikari Warriors e R.C. Pro-Am II no catálogo de NES | — |
-| FORTE | notícia | 2739 | 15 | 100 | Nioh 3 Complete Edition aparece na classificação etária da Coreia antes de ser anunciada | — |
+| FORTE | notícia | 2900 | 17 | 100 | Nioh 3 Complete Edition sai em 28 de janeiro e leva a série ao Xbox pela primeira vez; DLC Bloody Insurrection chega em 17 de dezembro | — |
+| FORTE | notícia | 2941 | 16 | 100 | Nioh 3 Complete Edition aparece na classificação etária da Coreia antes de ser anunciada | — |
 | FORTE | notícia | 1882 | 5 | 100 | Nioh 3: primeira DLC "Hell Rising" ganha trailer e data — 19 de agosto no PS5 e PC | — |
 | FORTE | noticia | 2600 | 10 | 100 | No Man’s Sky recebe patch 7.01 após Cosmos e corrige dezenas de problemas no espaço | — |
 | FORTE | notícia | 3264 | 11 | 100 | Suda51 garante a volta de Travis Touchdown nos 20 anos de No More Heroes e quer resgatar Moonlight Syndrome | — |
@@ -1041,6 +1045,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 6101 | 26 | 100 | State of Decay 3 abre caminho para o beta — e seu maior desafio não é fazer um mapa quatro vezes maior | — |
 | FORTE | notícia | 1861 | 8 | 100 | PlayStation anuncia State of Play duplo para 3 de setembro — e Final Fantasy VII Revelation fecha o evento | — |
 | FORTE | Notícias | 5475 | 29 | 100 | State of Play de setembro de 2026: veja todos os anúncios e trailers | — |
+| FORTE | notícia | 2697 | 15 | 100 | Steam Awards completam 10 anos com Hall da Fama entre os vencedores de Jogo do Ano; indicações vão até 30 de novembro | — |
 | FORTE | notícia | 4640 | 23 | 100 | Steam Controller leva Melhor Hardware no Golden Joystick 2026 com 51% dos votos, mais que o triplo do segundo colocado | — |
 | FORTE | notícia | 2729 | 10 | 100 | Steam fica instável e trava jogadores na tela "Carregando dados do usuário" | — |
 | FORTE | notícia | 2717 | 12 | 100 | Steam Machine de 512 GB já pode ser comprada sem fila, mas a Valve avisa que o preço pode subir de novo | — |
@@ -1156,6 +1161,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2899 | 12 | 100 | Warhorse, de Kingdom Come: Deliverance 2, sofre ataque hacker e fala em incidente sério | — |
 | FORTE | notícia | 2811 | 13 | 100 | Warren Spector critica o bilhão de dólares de GTA VI: "Espero que seja o último do tipo" | — |
 | FORTE | notícia | 2844 | 11 | 100 | Warzone ganha clima dinâmico e dois mapas na Temporada 1, Conflito de Hajin, que sai às 2h de 6 de novembro | — |
+| FORTE | notícia | 2774 | 15 | 100 | Wave Race: Blue Storm chega ao GameCube do Switch Online, e app finalmente deixa desligar a moldura da tela | — |
 | FORTE | notícia | 2821 | 12 | 100 | Westlanders, sobrevivência no velho oeste da Team17, prorroga teste fechado até 23 de novembro após 20 mil pedidos | — |
 | FORTE | artigo | 3976 | 10 | 100 | Joguei a Alpha Demo de Wo Long 2 no PS5: combate mais aéreo, zonas abertas e uma Moral ainda em aberto | — |
 | FORTE | noticia | 2009 | 10 | 100 | Wo Long 2: Wings of Ember ganha data para março de 2027 e demo já pode ser jogada | — |
@@ -1204,6 +1210,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2792 | 13 | 100 | Xbox parece proibido de dizer "GTA VI", e Remote Play vira o queridinho dos jogadores | — |
 | FORTE | notícia | 2777 | 12 | 100 | Xbox Playback: retrospectiva mostra seu primeiro jogo e o tempo total jogado em 25 anos, e o Brasil está na lista | — |
 | FORTE | notícia | 2815 | 11 | 100 | "Não é um PC que roda jogos de console": Xbox detalha o Project Helix e aposta em renderização com IA | — |
+| FORTE | notícia | 2833 | 15 | 100 | Próximo Xbox teria sido pensado com multiplayer online gratuito, mas a ideia pode ter sido abandonada | — |
 | FORTE | notícia | 2720 | 10 | 100 | Xbox vai exigir quatro dias de escritório a partir de fevereiro, no meio das demissões | — |
 | FORTE | notícia | 3740 | 12 | 100 | Xbox tem quarto trimestre seguido de queda em serviços, e Microsoft aposta em Modern Warfare 4 e GTA 6 para virar o jogo | — |
 | FORTE | notícia | 2828 | 14 | 100 | Retrocompatibilidade do Xbox no PC ganha 21 clássicos, de KOTOR a Morrowind, e alguns recebem conquistas pela primeira vez | — |
