@@ -10,7 +10,7 @@
   ],
   "slug": "cyberleek-libera-executavel-gta-vi-xbox-modders-tentam-rodar-pc-claude-ia-rockstar",
   "title": "Cyberleek libera o executável de GTA VI, e modders já tentam rodar a versão de Xbox no PC com ajuda de IA",
-  "excerpt": "O jogo ainda não passa da tela inicial no PC. A Rockstar não anunciou a versão oficial, e baixar arquivos vazados é pirataria e um risco de golpe.",
+  "excerpt": "O jogo ainda não passa da tela inicial no PC. A Rockstar não anunciou a versão oficial, e a empresa já começou a agir contra os projetos.",
   "image": "/img/gta-vi-arte-oficial-jason-lucia-posto-gasolina.jpg",
   "imageAlt": "Jason e Lucia num posto de gasolina em arte oficial de GTA VI",
   "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
@@ -29,15 +29,14 @@
     "Ele também disse no Discord do grupo que a versão pode levar cerca de uma semana para ficar jogável. A maior parte dos esforços usa a versão de Xbox Series, cuja arquitetura é mais próxima da de um PC do que a do PS5.",
     "## A Rockstar reage",
     "A reação da Rockstar parece já ter começado. O Eurogamer informou que o Project Leonida, um dos maiores projetos de recompilação, foi aparentemente derrubado depois de uma ação da empresa.",
-    "img: /img/gta-vi-ultimate-vapid-ganado-praia.jpg | A versão oficial de GTA VI para PC ainda não tem data. Divulgação/Rockstar Games",
-    "## Cuidado com o que você baixa",
-    "Vale repetir o alerta. Baixar e jogar uma versão vazada é pirataria, e o arquivo vem de um grupo que invadiu sistemas para obtê-lo.",
-    "Além disso, o vazamento virou isca para golpes. Na semana passada, já mostramos que falsas \"versões de PC\" de GTA VI estavam sendo usadas para roubar contas e instalar vírus. Qualquer link que prometa o jogo para computador deve ser tratado como suspeito.",
     "O Cyberleek também segue pedindo doações para um projeto secreto \"para os gamers\" e promovendo uma criptomoeda própria. Segundo o grupo, nada é obrigatório, mas \"toda doação é um voto por mais disso\".",
+    "img: /img/gta-vi-ultimate-vapid-ganado-praia.jpg | A versão oficial de GTA VI para PC ainda não tem data. Divulgação/Rockstar Games",
+    "Mais tarde, a ação foi confirmada. O Discord do Project Leonida foi derrubado depois de um pedido da Rockstar e da Take-Two, e a página do projeto no GitHub também saiu do ar. O líder do grupo, que diz ter 15 anos, anunciou que estava desistindo.",
+    "Não é a primeira vez que a Take-Two age contra projetos do tipo. Em 2021, a empresa derrubou o re3 e o reVC, que recriavam o código de GTA III e de Vice City por engenharia reversa. Outros grupos, porém, seguem tentando rodar GTA VI no PC.",
     "## E a versão oficial?",
     "A Rockstar ainda não anunciou GTA VI para PC. Historicamente, a empresa lança seus jogos no computador alguns meses depois dos consoles. Em outubro, uma reportagem apontou que a versão sairia no primeiro trimestre de 2027.",
     "Para alguns analistas, o vazamento pode pressionar a Rockstar a acelerar esse lançamento. Uma versão oficial deve ser bem mais estável do que qualquer adaptação feita por fãs, além de não oferecer os riscos de segurança de um arquivo pirata.",
-    "link: Cuidado com golpes: Cyberleek diz ter vazado GTA VI de Xbox, e \"versão de PC\" falsa é usada para roubar contas | https://acertogames.com.br/noticia/cyberleek-vaza-build-xbox-gta-vi-golpes-pc-falso-keygen-cuidado"
+    "link: Cyberleek diz ter vazado GTA VI de Xbox, e \"versão de PC\" falsa vira isca para roubar contas | https://acertogames.com.br/noticia/cyberleek-vaza-build-xbox-gta-vi-golpes-pc-falso-keygen-cuidado"
   ],
   "imageFilename": "gta-vi-arte-oficial-jason-lucia-posto-gasolina.jpg"
 }
