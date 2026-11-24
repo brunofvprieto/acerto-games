@@ -1,0 +1,43 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "24 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-24T14:11:00-03:00",
+  "cover": [
+    "#1a0a2a",
+    "#04060a"
+  ],
+  "slug": "arion-kurtaj-hacker-vazamento-gta-vi-2022-condenado-sete-anos-liberado-condicional",
+  "title": "Hacker que vazou GTA VI em 2022 é condenado a sete anos, mas sai livre na mesma semana do lançamento",
+  "excerpt": "Arion Kurtaj se declarou culpado e foi liberado em condicional. Ele não poderá usar Telegram nem Discord por cinco anos.",
+  "image": "/img/gta-vi-arte-oficial-trailer-lancamento-por-do-sol.jpg",
+  "imageAlt": "Jason e Lucia ao pôr do sol em arte oficial do trailer de lançamento de GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "BBC e Sky News",
+  "fonteUrl": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+  "imageOrigem": "Capa: arte oficial do trailer de lançamento no site rockstargames.com/VI, inédita no acervo.",
+  "observacao": "Pauta da busca de 24/11. Fontes: BBC e Sky News (via The Verge) e PC Gamer.",
+  "body": [
+    "O jovem responsável pelo maior vazamento da história de GTA conheceu a sua sentença. Arion Kurtaj, que invadiu os sistemas da Rockstar em 2022 e divulgou 90 vídeos de GTA VI, foi condenado a sete anos de prisão.",
+    "Mas ele saiu livre. Segundo a BBC, Kurtaj foi liberado \"em licença\", uma espécie de condicional do sistema britânico, com restrições à sua atividade na internet.",
+    "## A sentença",
+    "Kurtaj se declarou culpado na semana passada. Além da Rockstar, ele também invadiu os sistemas de outras empresas, como a Uber e o banco digital Revolut.",
+    "Em 2023, a Justiça britânica considerou que Kurtaj não tinha condições de ser julgado e determinou a sua internação por tempo indeterminado num hospital de segurança. Segundo a avaliação da época, ele seguia dizendo que voltaria aos crimes digitais.",
+    "Neste ano, ele foi considerado apto a ir a julgamento e se declarou culpado de todas as acusações. O tempo no hospital e na prisão foi descontado da pena, e ele saiu no mesmo dia. Hoje, Kurtaj tem 21 anos.",
+    "Segundo a Sky News, o juiz fez um alerta direto ao rapaz. \"Você é obviamente um jovem muito talentoso. Não desperdice esses talentos passando o resto da sua vida entrando e saindo da prisão.\"",
+    "A polícia da cidade de Londres também comentou o caso. \"Esperamos que este caso sirva de lição de que esse tipo de ato não será tolerado\", disse o inspetor Mike O'Sullivan.",
+    "\"Embora o crime cibernético não tenha fronteiras, vamos buscar a cooperação de agências parceiras e da polícia internacional para levar os criminosos à Justiça, não importa de onde ajam\", completou.",
+    "Como parte de uma ordem de prevenção de crimes graves, Kurtaj não poderá usar o Telegram nem o Discord pelos próximos cinco anos, segundo a BBC.",
+    "## O vazamento de 2022",
+    "Em setembro de 2022, Kurtaj publicou num fórum dezenas de vídeos de uma versão inicial de GTA VI. Foi a primeira vez que o público viu Lucia e Vice City, muito antes do primeiro trailer oficial.",
+    "Na época, a Rockstar disse estar \"extremamente decepcionada\" com a divulgação. Mesmo assim, o estúdio manteve o desenvolvimento e só revelou o jogo oficialmente em dezembro de 2023.",
+    "Kurtaj tinha 16 e 17 anos quando cometeu boa parte dos ataques. Segundo o PC Gamer, a lista inclui empresas como Microsoft, Samsung e Nvidia, além do roubo de milhões em criptomoedas.",
+    "## Uma semana simbólica",
+    "A sentença chega na mesma semana em que GTA VI finalmente saiu, quatro anos depois do vazamento. O jogo faturou US$ 3,79 bilhões no primeiro dia, segundo a Rockstar, cerca de R$ 22,5 bilhões.",
+    "Também coincide com um novo vazamento. O grupo Cyberleek divulgou a versão de Xbox do jogo e, agora, o executável, o que deu início a tentativas de rodar GTA VI no PC.",
+    "O caso de Kurtaj mostra que a Rockstar e as autoridades levam esses vazamentos a sério. Para o grupo atual, que segue anônimo, o recado parece claro.",
+    "link: Cyberleek libera o executável de GTA VI, e modders já tentam rodar a versão de Xbox no PC com ajuda de IA | https://acertogames.com.br/noticia/cyberleek-libera-executavel-gta-vi-xbox-modders-tentam-rodar-pc-claude-ia-rockstar"
+  ],
+  "imageFilename": "gta-vi-arte-oficial-trailer-lancamento-por-do-sol.jpg"
+}
