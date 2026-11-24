@@ -966,7 +966,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2861 | 12 | 100 | Demitidos pela Rockstar em 2025 aparecem nos créditos de GTA VI, e julgamento contra a empresa termina sem sentença | — |
 | FORTE | notícia | 2719 | 12 | 100 | Rockstar é acusada de copiar desenho de artista furry na submetralhadora personalizada de GTA VI | — |
 | FORTE | notícia | 3295 | 6 | 100 | Depois do Hot Coffee, a Rockstar passou a apagar tudo que corta de um jogo — e faz isso até hoje | — |
-| FORTE | notícia | 2874 | 15 | 100 | Rockstar derruba o Discord do maior projeto de GTA VI para PC, e criador de 15 anos desiste | — |
+| FORTE | notícia | 2761 | 14 | 100 | Rockstar derruba o Discord do maior projeto de GTA VI para PC, e criador de 15 anos desiste | — |
 | FORTE | notícia | 3613 | 12 | 100 | Depois de GTA 6, Rockstar quer acelerar o desenvolvimento de seus próximos jogos | — |
 | FORTE | notícia | 5240 | 20 | 100 | Rockstar quebra o silêncio sobre os vazamentos de GTA 6 — mas a frase mais importante é que o jogo está ‘quase pronto’ | — |
 | FORTE | notícia | 2744 | 11 | 100 | Desenvolvedores da Rockstar no Reino Unido votam sindicato na semana de lançamento de GTA 6 | — |
