@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1250
-- Forte: 1236
+- Total analisado: 1256
+- Forte: 1242
 - Revisar: 12
 - Prioridade: 2
 
@@ -229,6 +229,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2759 | 10 | 100 | Ayasa: Shadows of Silence, terror contado sem palavras, chega ao PS5 e ao Xbox | — |
 | FORTE | review | 6444 | 28 | 100 | Ayasa: Shadows of Silence encanta na arte e tropeça nos próprios bugs | — |
 | FORTE | notícia | 2778 | 10 | 100 | Bandai Namco fecha a Reflector, estúdio de Unknown 9: Awakening, e prevê perda de 21 milhões de euros | — |
+| FORTE | notícia | 2675 | 13 | 100 | Novo GTA Online pode faturar mais que Fortnite, diz analista do Bank of America | — |
 | FORTE | notícia | 2868 | 10 | 100 | Battlefield 6 abre o cassino: atualização 2.1.2.0 traz mapa novo, carabina NSW4 e jogo grátis de 13 a 16 de novembro | — |
 | FORTE | notícia | 2733 | 9 | 100 | Battlefield 6 abre o evento de Dead Space: Marker Incursion põe 16 jogadores contra soldados infectados na Área 51 | — |
 | FORTE | noticia | 3730 | 12 | 100 | Battlefield 6 chega ao Game Pass em outubro, enquanto jogo brasileiro Deep Dish Dungeon estreia no serviço | — |
@@ -563,6 +564,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2786 | 13 | 100 | GTA VI deve sair com cortes no Japão: classificação não cita sexo nem drogas, e versão é 1,2 GB menor | — |
 | FORTE | notícia | 2821 | 12 | 100 | Jason de GTA VI foi inspirado em Steve McQueen e em veteranos do Exército, explica Rockstar | — |
 | FORTE | notícia | 2718 | 14 | 100 | Dublador de Gojo em inglês gravou para GTA VI sem saber que era o jogo: "Imagina o meu susto" | — |
+| FORTE | notícia | 2809 | 16 | 100 | Mesmo sem disco na caixa, GTA VI estreia em primeiro nas vendas físicas do Reino Unido | — |
 | FORTE | notícia | 2740 | 13 | 100 | GTA VI terá desenho animado de Macca the Gator na TV do jogo, e o primeiro teaser já saiu | — |
 | FORTE | notícia | 2958 | 15 | 100 | GTA VI é o maior lançamento da história do PlayStation, com mais de 39 milhões de jogadores no PS5 | — |
 | FORTE | notícia | 3444 | 17 | 100 | Mapa completo de GTA VI vaza da caixa de colecionador e mostra Leonida de norte a sul | — |
@@ -587,6 +589,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3021 | 11 | 100 | Jogador de GTA VI relata 30 dias sem mensagens na PSN por foto da colônia de nudismo | — |
 | FORTE | notícia | 2924 | 12 | 100 | GTA VI bate recorde histórico de audiência em transmissões ao vivo e derruba o Reddit antes de chegar ao Brasil | — |
 | FORTE | notícia | 2875 | 13 | 100 | Primeiro-ministro, polícia, escola e até o KFC: o lançamento de GTA VI saiu dos games | — |
+| FORTE | notícia | 2852 | 14 | 100 | GTA VI nas redes: a condicional realista de Lucia, fotos reais confundidas com o jogo, o trem que finalmente para e o easter egg de Vice City | — |
 | FORTE | notícia | 2816 | 13 | 100 | Rockstar transforma bar real de Key Largo no Rusty Anchor de GTA VI, com imagens inéditas nas paredes | — |
 | FORTE | notícia | 2721 | 12 | 100 | GTA VI satiriza Call of Duty com piada sobre sindicato, justo na semana em que a Rockstar vota a criação de um | — |
 | FORTE | notícia | 2904 | 11 | 100 | Pé-Grande, disco voador e um console com jogos de verdade: os primeiros segredos de GTA VI | — |
@@ -595,7 +598,9 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2875 | 11 | 100 | Rockstar explica por que GTA VI não tem parque como a Disney, nem dardos, nem sites: "Não temos tempo ilimitado" | — |
 | FORTE | notícia | 2747 | 11 | 100 | GTA VI tira a prostituição e os encontros casuais da série para focar no romance de Jason e Lucia | — |
 | FORTE | notícia | 2882 | 10 | 100 | GTA VI chega perto de 15 milhões de cópias em pré-venda e US$ 1,45 bilhão, estima Sensor Tower | — |
+| FORTE | notícia | 2810 | 16 | 100 | GTA VI agora pode ser jogado por streaming no PS Plus Premium, no PS5 e no PS Portal | — |
 | FORTE | notícia | 2727 | 12 | 100 | Terceiro clipe de GTA VI leva o comboio da Rockstar para uma ponte de Vice City, agora com escolta da polícia | — |
+| FORTE | notícia | 2932 | 13 | 100 | Álbum de GTA VI ganha edição deluxe surpresa com 23 faixas novas, e Anitta está entre elas | — |
 | FORTE | notícia | 3539 | 12 | 100 | Lista completa do álbum de GTA VI vaza a quatro dias do lançamento, com Dua Lipa, Lana Del Rey e Playboi Carti | — |
 | FORTE | notícia | 2833 | 9 | 100 | Álbum de GTA VI leva o Justice ao primeiro lugar do Spotify; recorde de 29,85 milhões ainda não tem confirmação | — |
 | FORTE | notícia | 2840 | 13 | 100 | GTA VI toma conta da tela inicial do PS5 e traz cinco fundos de tela de Jason e Lucia | — |
@@ -658,6 +663,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2865 | 13 | 100 | Jensen Huang renuncia ao comando da Nvidia, e diretora financeira Colette Kress assume como CEO interina | — |
 | FORTE | notícia | 2747 | 12 | 100 | Joe & Mac Retro Collection chega com os três jogos do Super Nintendo e textos em português | — |
 | FORTE | notícia | 2173 | 5 | 100 | Marathon perde mais um game director: Joe Ziegler deixa a Bungie | — |
+| FORTE | notícia | 2936 | 15 | 100 | Jogador de GTA VI é suspenso por 30 dias na PSN por mandar foto da colônia de nudismo do jogo a um amigo | — |
 | FORTE | notícia | 3524 | 6 | 100 | Pokémon Pokopia e Tomodachi Life dominam o eShop japonês no primeiro semestre de 2026 | — |
 | FORTE | notícia | 3535 | 13 | 100 | Shooter de John Romero cancelado pelo Xbox ganha nova publicadora e vai beber de Zelda: Breath of the Wild | — |
 | FORTE | notícia | 3073 | 11 | 100 | Ken Kutaragi diz entender a revolta com o fim dos discos no PlayStation, mas defende a decisão | — |
