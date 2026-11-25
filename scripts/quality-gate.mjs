@@ -7,7 +7,7 @@ if (!arquivos.length) {
 }
 
 const proibidos = [/^inacreditável/i, /^você não vai acreditar/i, /^bomba/i, /^urgente/i];
-const categorias = new Set(["notícia", "opinião", "artigo", "especial", "review", "retrô"]);
+const categorias = new Set(["guia", "notícia", "opinião", "artigo", "especial", "review", "retrô"]);
 let falhas = 0;
 
 for (const arquivo of arquivos) {
