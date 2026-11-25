@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1276
-- Forte: 1262
+- Total analisado: 1278
+- Forte: 1264
 - Revisar: 12
 - Prioridade: 2
 
@@ -713,6 +713,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3337 | 11 | 100 | Mafia: The Omertà Collection sai nesta sexta com os quatro jogos da série — e o upgrade de PS5 é de graça | — |
 | FORTE | notícia | 2737 | 10 | 100 | Manni L. Perez é a Lucia de GTA VI: indicação ao The Game Awards confirma a atriz antes do lançamento | — |
 | FORTE | Notícias | 2133 | 7 | 100 | Mario Kart 8 Deluxe recebe atualização 4.0.0 com 8 jogadores em tela dividida no Switch 2 e CameraPlay | — |
+| FORTE | notícia | 3256 | 11 | 100 | Mario Kart World 1.9.0 traz oito pistas remixadas, duas rotas no Knockout Tour e replays salvos automaticamente | — |
 | FORTE | artigo | 4481 | 15 | 100 | O criador de um jogo indie disse o que todo mundo pensa e ninguém quer escrever: marketing vale dez vezes mais que qualidade | — |
 | FORTE | notícia | 2890 | 12 | 100 | Marvel 1943 não foi cancelado, diz Skydance, mas jogo de Amy Hennig teria sido cortado e ficado mais curto | — |
 | FORTE | notícia | 5044 | 22 | 100 | Marvel Cosmic Invasion mostra 15 minutos do Castelo do Destino, e desenvolvedores falam em até 900 encontros diferentes | — |
@@ -1236,6 +1237,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3530 | 10 | 100 | Game-Key Card veio para ficar no Switch 2, diz presidente da XSEED: "a pressão pela opção mais barata cresce" | — |
 | FORTE | notícia | 2918 | 12 | 100 | Compositor de Chrono Trigger diz que talvez seja hora de encerrar Dragon Quest, depois de polêmica com o traço de Toriyama | — |
 | FORTE | notícia | 2737 | 10 | 100 | Criador de NieR compra o remake de Ocarina of Time: "Fiz NieR sob grande influência dele" | — |
+| FORTE | notícia | 2735 | 11 | 100 | Yooka-Laylee and the Impossible Lair ganha Definitive Edition no Switch 2 em 15 de dezembro, com 120 fps e upgrade grátis | — |
 | FORTE | notícia | 3164 | 15 | 100 | YouTube fará live de 24 horas no lançamento de GTA VI, e Skorpion, Samira Close e GamerCosta representam o Brasil | — |
 | FORTE | notícia | 2725 | 12 | 100 | Yu-Gi-Oh! TAG FORCE GX ganha trailer de jogabilidade e mostra a vida na Academia de Duelos | — |
 | FORTE | notícia | 3832 | 6 | 100 | ZA/UM demite até 32 pessoas depois que Zero Parades não vendeu o suficiente — e a internet não perdoou | — |
