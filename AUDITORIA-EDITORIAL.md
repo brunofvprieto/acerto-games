@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1266
-- Forte: 1252
+- Total analisado: 1267
+- Forte: 1253
 - Revisar: 12
 - Prioridade: 2
 
@@ -618,6 +618,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2778 | 12 | 100 | YouTubers levam bloqueios por vídeos de GTA VI por causa de um cantor de reggaeton, que pede desculpas | — |
 | FORTE | notícia | 3649 | 6 | 100 | GTA Wiki acusa Fandom de plagiar seus artigos — e as provas são constrangedoras | — |
 | FORTE | notícia | 2732 | 11 | 100 | Gundam Battle Operation 3 é anunciado para PS5 e PC, gratuito e com jogo cruzado, mas sem português | — |
+| FORTE | notícia | 4017 | 20 | 100 | Guns of Eschaton mostra o coop em trailer e abre concurso com viagem para jogar com os devs no The Game Awards | — |
 | FORTE | notícia | 2564 | 6 | 100 | O cara que vazou o GTA 6 saiu do hospital de segurança e vai a julgamento em novembro — o mesmo mês do lançamento | — |
 | FORTE | notícia | 2836 | 12 | 100 | Halloween brasileiro na Steam: Asleep sai de graça, Enigma do Medo tem desconto e Caravana 2000 ganha demo | — |
 | FORTE | notícia | 2151 | 6 | 100 | Halo estreia no PS5 e atrai só 1% dos jogadores no dia de lançamento nos EUA | — |
