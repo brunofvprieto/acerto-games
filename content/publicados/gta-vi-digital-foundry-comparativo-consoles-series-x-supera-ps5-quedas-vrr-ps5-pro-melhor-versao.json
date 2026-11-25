@@ -1,0 +1,41 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "25 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-25T08:30:00-03:00",
+  "cover": [
+    "#3a1f5c",
+    "#0b0716"
+  ],
+  "slug": "gta-vi-digital-foundry-comparativo-consoles-series-x-supera-ps5-quedas-vrr-ps5-pro-melhor-versao",
+  "title": "Comparativo da Digital Foundry põe o Xbox Series X à frente do PS5 comum em GTA VI; PS5 Pro segue como a melhor versão",
+  "excerpt": "Na comparação completa entre os quatro consoles, o PS5 comum perde quadros com mais frequência que o Series X, que ainda conta com VRR a 120 Hz. O PS5 Pro continua no topo e o Series S fica com 720p.",
+  "image": "/img/gta-vi-arte-oficial-jason-lucia-posto-gasolina.jpg",
+  "imageAlt": "Jason e Lucia com bandanas no rosto diante de um posto de gasolina em arte oficial de GTA VI",
+  "imageCredit": "Grand Theft Auto VI. Divulgação/Rockstar Games",
+  "fonte": "Digital Foundry (vídeo The Big Console Comparison)",
+  "fonteUrl": "https://www.youtube.com/watch?v=lhx-NZmGAdQ",
+  "imageOrigem": "Capa: arte oficial da Rockstar já no acervo, nunca usada como capa. Corpo: imagem oficial da Rockstar já no acervo. Vídeo da Digital Foundry incorporado (oEmbed conferido em 25/11: título e canal Digital Foundry, incorporação liberada).",
+  "observacao": "Pauta da busca de 25/11. Vídeo da Digital Foundry 'Grand Theft Auto 6 - The Big Console Comparison - PS5/PS5 Pro/Xbox Series X|S' (youtu.be/lhx-NZmGAdQ), publicado em 24/11. Fatos conferidos em pelo menos duas fontes: Series X com menos quedas que o PS5 comum (Notebookcheck 24/11, Windows Central 25/11, GameGPU, Wisevoter); 1440p com TAA para saída 4K e iluminação global e reflexos com ray tracing no PS5 e no Series X (Notebookcheck, GameGPU); VRR a 120 Hz no Series X (Notebookcheck, GameGPU, Windows Central); PS5 Pro como melhor versão, com sombras em ray tracing (Notebookcheck, GameGPU, Wisevoter); Series S em 720p reconstruído para 1080p e perto de 20 FPS nos momentos mais pesados (Notebookcheck, GameGPU, Wisevoter). Ficaram fora por fonte única: LFC abaixo de 48 FPS só no Series X (Notebookcheck), números do aeroporto e das explosões (Notebookcheck), versão do upscaler do Pro (PSSR 2 segundo Notebookcheck) e do Series S (FSR 4.1 x FSR 4), uso do slogan 'plays best on PS5' (só Windows Central). A frase 'PS5 suffers substantially more frequent frame-rate drops than Series X' aparece num post de terceiro de 24/11 citando a DF: não aspeada, só parafraseada. A versão do patch testada não aparece em nenhuma fonte: confirmar assistindo ao vídeo. Nenhuma resposta de Sony ou Rockstar encontrada. Esta matéria atualiza a de 18/11, que dizia que Series X e PS5 comum ficavam no mesmo patamar, com base nas análises separadas de cada console.",
+  "body": [
+    "A Digital Foundry publicou nesta terça (24) a comparação completa de GTA VI nos quatro consoles, e o resultado contraria, no modelo comum, o que o marketing do jogo vende. O PS5 comum perde quadros com mais frequência que o Xbox Series X. O PS5 Pro continua como a melhor versão disponível, e o Series S, como a mais sacrificada.",
+    "O vídeo fecha a rodada de análises técnicas que o canal começou na semana do lançamento, com testes separados de cada console. Naquela primeira leitura, o PS5 comum e o Series X pareciam empatados, os dois com quedas pequenas abaixo dos 30 quadros por segundo. Colocados lado a lado, nas mesmas cenas, os dois deixam de empatar.",
+    "video: https://www.youtube.com/watch?v=lhx-NZmGAdQ",
+    "## Mesma imagem, ritmo diferente",
+    "Na parte visual, PS5 e Series X entregam praticamente o mesmo jogo. Os dois renderizam em 1440p e usam TAA para chegar à saída em 4K, com iluminação global e reflexos em ray tracing. A diferença aparece quando o jogo aperta: direção rápida por Vice City, áreas cheias de gente em Leonida e cenas de ação mais carregadas.",
+    "Nesses trechos, o PS5 comum cai abaixo dos 30 quadros com mais frequência. O Series X também cai, mas menos vezes. Em nenhum dos dois o jogo fica injogável, e as quedas mais comuns ficam na faixa alta dos 20 quadros.",
+    "## O peso do VRR",
+    "A outra vantagem do console da Microsoft está fora do jogo. Ligado a uma TV ou monitor compatível, o Series X roda GTA VI com VRR num contêiner de 120 Hz. A taxa variável disfarça boa parte das quedas, porque a tela acompanha o ritmo do console em vez de repetir quadros. É o fator que mais separa as duas versões na sensação de fluidez.",
+    "O detalhe dialoga com o bug da Retomada Rápida, revelado no início da semana, que destrava os 30 FPS no Xbox às custas de acelerar o jogo inteiro. Os dois casos mostram que o hardware da Microsoft tem folga, mas a Rockstar optou por um limite único de 30 quadros em todos os consoles, com a simulação de Leonida amarrada a esse ritmo.",
+    "img: /img/gta-vi-vintage-vice-city-vapid-stanier-neon.jpg | Vice City à noite, com neon e trânsito, está entre os trechos que mais pesam para os consoles. Divulgação/Rockstar Games",
+    "## PS5 Pro no topo, Series S no limite",
+    "Nada disso tira o PS5 Pro do primeiro lugar. O console reconstrói a imagem para 4K com o PSSR, ganha sombras em ray tracing e quase não sai dos 30 quadros. É a versão com imagem mais nítida e a mais estável.",
+    "Na outra ponta, o Series S parte de 720p e chega a 1080p com o FSR, da AMD. O console perde qualidade em sombras, texturas e distância de visão, e chega perto dos 20 quadros em perseguições, tiroteios e destruição de veículos. O quadro confirma o que a primeira análise do canal já apontava sobre o aparelho mais barato da Microsoft.",
+    "## O slogan e a realidade",
+    "A comparação incomoda pelo contexto. A Sony tem a parceria de marketing de GTA VI e vem dizendo que o jogo roda melhor no PS5. No topo da linha, com o Pro, a frase se sustenta. No modelo comum, que é o console da maior parte dos jogadores, o Xbox Series X entrega uma experiência mais estável.",
+    "Nem Sony nem Rockstar comentaram o vídeo. A primeira atualização depois do lançamento, de 23 de novembro, mirou travamentos e salvamento automático. Desempenho ainda não apareceu nas notas, e é aí que o PS5 comum pode tirar a diferença.",
+    "link: GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | https://acertogames.com.br/noticia/gta-vi-desempenho-ps5-pro-series-s-30-fps-quedas-rockstar-explica-sem-modo-60-fps"
+  ],
+  "imageFilename": "gta-vi-arte-oficial-jason-lucia-posto-gasolina.jpg"
+}

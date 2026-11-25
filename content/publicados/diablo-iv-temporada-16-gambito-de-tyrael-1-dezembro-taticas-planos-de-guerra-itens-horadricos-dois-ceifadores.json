@@ -1,0 +1,41 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "25 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-25T08:40:00-03:00",
+  "cover": [
+    "#5c1a0e",
+    "#0a0610"
+  ],
+  "slug": "diablo-iv-temporada-16-gambito-de-tyrael-1-dezembro-taticas-planos-de-guerra-itens-horadricos-dois-ceifadores",
+  "title": "Diablo IV abre a Temporada do Gambito de Tyrael em 1º de dezembro, com Planos de Guerra sob controle do jogador e chefe duplo",
+  "excerpt": "A Temporada 16 começa às 14h30 de Brasília e traz Táticas para escolher atividades dos Planos de Guerra, Bênçãos de Tyrael, Itens Horádricos e a dupla de Ceifadores. Muufisto e a Ilha das Vacas ficam de vez.",
+  "image": "/img/diablo-iv-temporada-gambito-de-tyrael-arte-oficial-capa.jpg",
+  "imageAlt": "Arte oficial da Temporada do Gambito de Tyrael em Diablo IV, com um guerreiro cravando a espada no chão entre chamas e espectros",
+  "imageCredit": "Diablo IV. Divulgação/Blizzard Entertainment",
+  "fonte": "Blizzard Entertainment",
+  "fonteUrl": "https://news.blizzard.com/pt-br/article/24316979/faca-a-guerra-contra-a-morte-avancar-na-temporada-do-gambito-de-tyrael",
+  "imageOrigem": "Capa: arte de cabeçalho do blog oficial da Blizzard (1520 px). Corpo: resumo oficial da temporada (original 3840 px, reduzido para 1920 px) e imagem oficial dos Itens Horádricos (1920 px), ambos do mesmo artigo. Vídeo: transmissão oficial do canal Diablo (oEmbed conferido em 25/11, incorporação liberada).",
+  "observacao": "Pauta da busca de 25/11. Fontes: blog oficial da Blizzard em PT-BR (artigo 24316979, nomes oficiais em português, horário de Brasília); comunicado da Blizzard Brasil recebido por e-mail em 24/11; GameRant (24/11); tbreak (25/11); Inven Global (24/11). Conferidos em duas ou mais: data e horário (14h30 de Brasília, 9h30 PT no tbreak), pré-download em 30/11 às 15h (blog e tbreak), patch 3.3.0 e PTR de 27/10 a 3/11 (GameRant e tbreak), Táticas exigem Lord of Hatred e Bênçãos são só de temporada, sem expansão (blog e tbreak), reset das Bênçãos a 5 milhões de ouro por ponto (blog e tbreak), Ceifadores como chefe de covil em Zarbinzet (blog e tbreak), Inimigos Reanimados da Temporada 14 (comunicado, GameRant, tbreak, Inven), mudanças nas Marés Infernais (blog e tbreak), recursos permanentes (blog, comunicado, tbreak, Inven), Passe de Batalha Deluxe a 2.800 de platina (blog e tbreak). Fora por fonte única: temporada gratuita para donos do jogo-base (só tbreak), número de caminhos e nós das Bênçãos, nove níveis de temporada, chances 200/400/600% das Táticas (só blog). O blog grafa 'Muufisto'; os sites em inglês usam 'Moophisto'. Mantido o nome em português.",
+  "body": [
+    "Diablo IV abre em 1º de dezembro, às 14h30 de Brasília, a Temporada do Gambito de Tyrael. A 16ª temporada do jogo mexe no centro do fim de jogo: os Planos de Guerra passam a aceitar escolhas do jogador sobre quais atividades e recompensas aparecem. A Blizzard apresentou o conteúdo na transmissão para desenvolvedores desta terça (24).",
+    "A história segue a guerra contra o culto da morte dos Úllo Sar. Tyrael volta ao centro da trama para investigar o líder do culto, e a nova série de missões promete revelar uma ameaça que alcança Santuário e o próprio arcanjo.",
+    "video: https://www.youtube.com/watch?v=zhsLeug_ooo",
+    "## Planos de Guerra com cardápio",
+    "A mudança mais importante está nas Táticas de Planos de Guerra. Cada atividade concluída num Plano rende pontos, e esses pontos vão para uma árvore que aumenta a chance das atividades preferidas aparecerem. Não há garantia de sorteio, mas o jogador para de depender só da sorte para montar a sessão. Redefinir a árvore custa Marcas da Sabedoria, moeda que vem dos próprios Planos de Guerra.",
+    "As Táticas exigem a expansão Lord of Hatred. Já as Bênçãos de Tyrael, a nova árvore de progressão da temporada, ficam abertas a todos. Elas melhoram recompensas, moedas, materiais e comerciantes, e os pontos vêm de matar Úllo Sar. Trocar a escolha custa 5 milhões de ouro por ponto, preço que pune quem muda de ideia toda hora.",
+    "img: /img/diablo-iv-temporada-gambito-de-tyrael-resumo-oficial-novidades.jpg | Resumo oficial da temporada, com Táticas, Bênçãos, Itens Horádricos e os dois Ceifadores. Divulgação/Blizzard Entertainment",
+    "## Itens Horádricos e os dois Ceifadores",
+    "Para as builds, a novidade são os Itens Horádricos, um novo tipo de lendário. Os afixos horádricos alteram os conjuntos de Talismãs: joias somam peças à contagem de um conjunto, e armaduras e armas acrescentam efeitos para quem já ativou o bônus de duas peças. É uma forma de liberar espaço no equipamento sem abrir mão dos bônus de conjunto.",
+    "img: /img/diablo-iv-temporada-gambito-de-tyrael-itens-horadricos-lendarios.jpg | Exemplos de Itens Horádricos lendários, com os afixos que modificam conjuntos de Talismãs. Divulgação/Blizzard Entertainment",
+    "Os Inimigos Reanimados, introduzidos na Temporada 14, voltam espalhados pelos Planos de Guerra. O confronto principal junta a Ceifadora Corrompida, também daquela temporada, ao inédito Ceifador Fraturado. Depois da linha de missões, a dupla passa a ser chefe de covil em Zarbinzet.",
+    "As Marés Infernais também mudam. Uma delas fica sempre ativa nas regiões originais, e outra roda em Nahantu ou em Skovos com 30 minutos de diferença. As Brasas Aberrantes deixam de zerar quando a Maré termina, e o limite sobe para 5.000.",
+    "## O que fica de vez",
+    "A Blizzard repete a fórmula de transformar em permanente o que funcionou na temporada anterior, a do Legado Infernal. O Conselho do Mal Supremo passa a morar em Tristram Suprema, as Masmorras Supremas seguem a partir do Suplício 10, a invocação de Diablo como chefe do mundo continua, e Muufisto e a Ilha das Vacas ficam disponíveis nos reinos de temporada e eterno.",
+    "A atualização é a 3.3.0, testada em servidor público de 27 de outubro a 3 de novembro. O pré-download abre em 30 de novembro, às 15h de Brasília, no Battle.net, no Xbox e no PlayStation. O Passe de Batalha mantém o relicário gratuito e a versão Deluxe custa 2.800 de platina.",
+    "O desenho da temporada mostra uma Blizzard preocupada com o tempo de quem joga. Táticas, Bênçãos e Marés sem pausa atacam o mesmo problema: menos sessão desperdiçada à espera da atividade certa. Resta ver se a árvore de Táticas, presa à expansão, não cria duas velocidades de progressão dentro da mesma temporada.",
+    "link: Diablo IV chega ao Nintendo Switch 2 com a coleção Age of Hatred | https://acertogames.com.br/noticia/diablo-iv-nintendo-switch-2-age-of-hatred-blizzcon-2026"
+  ],
+  "imageFilename": "diablo-iv-temporada-gambito-de-tyrael-arte-oficial-capa.jpg"
+}
