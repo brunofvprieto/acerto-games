@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1274
-- Forte: 1260
+- Total analisado: 1275
+- Forte: 1261
 - Revisar: 12
 - Prioridade: 2
 
@@ -480,6 +480,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
 | FORTE | notícia | 2835 | 10 | 100 | Rumor: análises de GTA 6 sairiam em 18 de novembro, na véspera do lançamento | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
+| FORTE | guia | 2753 | 14 | 100 | GTA 6: as armas únicas escondidas debaixo d'água e onde encontrar cada uma | — |
 | FORTE | notícia | 3054 | 12 | 100 | Arquivos do pré-download de GTA 6 indicam modo online, melhorias no PS5 Pro e 55 troféus | — |
 | FORTE | notícia | 3282 | 15 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
 | FORTE | notícia | 3520 | 12 | 100 | GTA 6: Bloomberg revela bastidores de oito anos de desenvolvimento e abre as portas da Rockstar | — |
