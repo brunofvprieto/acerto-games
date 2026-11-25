@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1272
-- Forte: 1258
+- Total analisado: 1273
+- Forte: 1259
 - Revisar: 12
 - Prioridade: 2
 
@@ -288,6 +288,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2998 | 10 | 100 | Clair Obscur: Expedition 33 deixa o Game Pass em 15 de outubro | — |
 | FORTE | notícia | 2969 | 12 | 100 | Clair Obscur: Expedition 33 perde sua líder de narrativa, que deixou a Sandfall em julho | — |
 | FORTE | notícia | 2134 | 5 | 100 | Criador de Gears of War quer voltar a fazer jogos — mas esquece o PvP: "Boa sorte pra quem entrar nessa" | — |
+| FORTE | notícia | 3035 | 10 | 100 | C.L.T. chega à Steam com avaliações quase todas positivas e mira a campanha em São Catarino | — |
 | FORTE | notícia | 1941 | 10 | 100 | C.L.T., o "GTA clássico" brasileiro, chega ao acesso antecipado no PC | — |
 | FORTE | artigo | 6209 | 23 | 100 | C.L.T. resgata a liberdade dos primeiros GTA e já diverte no acesso antecipado | — |
 | FORTE | notícia | 2812 | 12 | 100 | CODE EXIT lança a Demo 2.0, com uma IA que aprende seus esconderijos e um robô para quem morre | — |
