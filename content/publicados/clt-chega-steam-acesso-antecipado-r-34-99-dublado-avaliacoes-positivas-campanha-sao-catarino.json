@@ -1,0 +1,41 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "25 nov 2026",
+  "readTime": "4 min",
+  "publicadoEm": "2026-11-25T10:50:00-03:00",
+  "cover": [
+    "#8a3b12",
+    "#140a06"
+  ],
+  "slug": "clt-chega-steam-acesso-antecipado-r-34-99-dublado-avaliacoes-positivas-campanha-sao-catarino",
+  "title": "C.L.T. chega à Steam com avaliações quase todas positivas e mira a campanha em São Catarino",
+  "excerpt": "O GTA de câmera alta da Uniday Studio estreou na loja da Valve nesta terça (24), em acesso antecipado, por R$ 34,99 na promoção de lançamento. A campanha com mapa fixo inspirado em Santa Catarina deve chegar em três a quatro meses.",
+  "image": "/img/clt-steam-tanque-explosao-favela-cinco-estrelas.jpg",
+  "imageAlt": "Tanque do exército avança por uma favela em meio a explosões e viaturas, com cinco estrelas de procurado, em C.L.T.",
+  "imageCredit": "C.L.T. Divulgação/Uniday Studio",
+  "fonte": "Uniday Studio (página oficial na Steam)",
+  "fonteUrl": "https://store.steampowered.com/app/5513420/CLT/?l=brazilian",
+  "imageOrigem": "Capa e corpo: capturas oficiais da página de C.L.T. na Steam (1920 x 1080). Vídeo: trailer de gameplay da Steam no canal de Guilherme Teres (oEmbed conferido em 25/11, incorporação liberada).",
+  "observacao": "Pauta de Bruno Vazquez (25/11). Editor confirmou que joga desde a primeira versão do acesso antecipado; não jogou a versão da Steam (texto não descreve mudanças dela). Lançamento na Steam em 24/11/2026: API da Steam (release_date) e SteamDB (15h25 UTC); acesso antecipado: gênero na Steam e SteamDB. Preço R$ 49,99 com 30% (R$ 34,99): API da Steam com cc=br; o desconto de 30% também aparece no SteamRaw (US$ 9,99 para US$ 6,99). Idiomas (inglês, PT-BR com áudio completo, espanhol e russo): API da Steam e SteamDB. Avaliações: SteamDB (145 análises, 97,9% positivas, 'Muito positivas', na leitura de 25/11) e SteamRaw (97% numa leitura anterior com 15 análises); o texto usa 'cerca de 97%' e 'mais de cem' sem cravar o total. Pico de jogadores: 67 no SteamDB, 63 no SteamRaw; texto diz 'pouco mais de 60'. FAQ do acesso antecipado (3 a 4 meses, campanha com os dois protagonistas em São Catarino, preço-base mantido, mapa procedural de mais de 520 km²): página oficial da Steam, conferida com as matérias de 20/10 e 23/10 do site. Vídeo 'Meu GTA Brasileiro EXPLODIU na Steam' (canal Uniday Studio) e canal em inglês de Guilherme Teres: títulos conferidos por oEmbed. NÃO HÁ número público de wishlists nem de vendas: editor não tem os dados; o texto não usa 'sucesso de wishlist'. Fora por fonte única: classificação 14+ do DEJUS e sede em Betim (MG), só no Indústria de Jogos; bônus de NPC com nome do comprador na pré-venda (só descrição de vídeo).",
+  "body": [
+    "C.L.T. chegou à Steam nesta terça (24), em acesso antecipado. O GTA brasileiro de câmera alta da Uniday Studio sai por R$ 49,99, com 30% de desconto no lançamento, o que leva o preço a R$ 34,99. No primeiro dia, as análises de usuários ficaram em cerca de 97% positivas, com mais de cem avaliações publicadas.",
+    "A estreia fecha a primeira etapa de um projeto que começou fora da loja da Valve. Desde 19 de outubro, C.L.T. era vendido apenas no site da Uniday e no itch.io. Foi nessa versão que o Acerto Games começou a jogar, e é dela que saíram nossas impressões. Cinco semanas depois, o jogo ganha a vitrine que todo independente procura.",
+    "video: https://www.youtube.com/watch?v=S8lZFPaINvs",
+    "## O mesmo jogo, numa vitrine maior",
+    "O conteúdo é o do acesso antecipado. É um sandbox de mundo aberto com visão de cima, à moda de GTA 1, GTA 2 e Chinatown Wars, num mapa gerado por procedimento que passa de 520 km². Jonilson e Daria se revezam no controle, entre bicos de motorista de aplicativo e de ônibus, colheita na lavoura e serviços de agiota e de matador encomendados pela dark web.",
+    "A página da Steam deixa claro o idioma de origem. O jogo tem áudio completo em português do Brasil e legendas em inglês, espanhol e russo. A lista de idiomas mostra que o estúdio quer jogador além do Brasil.",
+    "img: /img/clt-steam-futebol-de-varzea-campo-de-terra-gol.jpg | Pelada no campo de terra, com o placar na tela: o tipo de detalhe que dá identidade à ilha. Divulgação/Uniday Studio",
+    "## Os números da estreia",
+    "A recepção foi boa, mas em escala de estúdio pequeno. O pico de jogadores simultâneos no dia de lançamento ficou em pouco mais de 60, segundo os registros públicos da Steam. Parece pouco perto de qualquer lançamento grande. Para um estúdio independente, que até então vendia o jogo só no próprio site e no itch.io, é um começo sólido, ainda mais com a nota quase unânime.",
+    "No canal da Uniday, o vídeo sobre a estreia se chama Meu GTA Brasileiro EXPLODIU na Steam. O estúdio não divulgou quantas listas de desejos o jogo somou antes do lançamento nem quantas cópias vendeu. Sem esses números, o termômetro possível são as análises, e elas estão a favor.",
+    "O desenvolvedor Guilherme Teres fala com dois públicos. O canal da Uniday conta a história em português, enquanto o canal pessoal dele publica os vídeos em inglês, inclusive o trailer de gameplay feito para a Steam. É a mesma estratégia dos idiomas: o jogo nasce brasileiro no humor e nos cenários, mas quer ser vendido como GTA clássico para qualquer um.",
+    "img: /img/clt-steam-calcadao-ondas-predio-piscina-orla.jpg | O calçadão de ondas e os prédios da orla, vistos de cima. Divulgação/Uniday Studio",
+    "## São Catarino no horizonte",
+    "Segundo a Uniday, o acesso antecipado deve durar de três a quatro meses. O foco do período é a campanha, com história própria para os dois protagonistas e um mapa único, feito à mão e inspirado em Santa Catarina, que dentro do jogo vai se chamar São Catarino. O estúdio também promete novas mecânicas e missões.",
+    "Quem compra agora não paga mais depois. O estúdio diz que não pretende mudar o preço-base quando sair do acesso antecipado, e que haverá promoções durante o período.",
+    "Nas nossas impressões, a conclusão era que o mundo de C.L.T. já diverte e que falta uma história para amarrar as profissões e o caos das ruas. A ida para a Steam não muda esse diagnóstico, mas muda o tamanho da plateia que vai cobrar a campanha. Com ela, o jogo deixa de ser só uma homenagem aos primeiros GTA e passa a disputar atenção com eles.",
+    "link: C.L.T. resgata a liberdade dos primeiros GTA e já diverte no acesso antecipado | https://acertogames.com.br/noticia/clt-impressoes-acesso-antecipado-versao-0-2-0-nostalgia-gta-anos-90"
+  ],
+  "imageFilename": "clt-steam-tanque-explosao-favela-cinco-estrelas.jpg"
+}
