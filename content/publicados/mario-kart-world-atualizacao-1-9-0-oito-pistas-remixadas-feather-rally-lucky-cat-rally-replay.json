@@ -1,0 +1,41 @@
+{
+  "category": "notícia",
+  "author": "Bruno Vazquez",
+  "date": "25 nov 2026",
+  "readTime": "3 min",
+  "publicadoEm": "2026-11-25T11:40:00-03:00",
+  "cover": [
+    "#c8102e",
+    "#1a0508"
+  ],
+  "slug": "mario-kart-world-atualizacao-1-9-0-oito-pistas-remixadas-feather-rally-lucky-cat-rally-replay",
+  "title": "Mario Kart World 1.9.0 traz oito pistas remixadas, duas rotas no Knockout Tour e replays salvos automaticamente",
+  "excerpt": "A atualização gratuita saiu nesta terça (24) no Switch 2. Wario Stadium, DK Pass, Koopa Troopa Beach e mais cinco pistas ganham versões 2, e o Knockout Tour recebe Feather Rally e Lucky Cat Rally.",
+  "image": "/img/mario-kart-world-atualizacao-1-9-0-bowser-arte-oficial.jpg",
+  "imageAlt": "Bowser salta com seu kart em pista de madeira na arte oficial da atualização 1.9.0 de Mario Kart World",
+  "imageCredit": "Mario Kart World. Divulgação/Nintendo",
+  "fonte": "Nintendo (notas oficiais da versão 1.9.0)",
+  "fonteUrl": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68580/~/how-to-update-mario-kart-world",
+  "imageOrigem": "Capa: miniatura oficial (1280 x 720) do vídeo da atualização no canal Nintendo of America. Vídeo incorporado: 'Mario Kart World: Ver. 1.9.0 Update Available Now' (oEmbed conferido em 25/11, incorporação liberada).",
+  "observacao": "Pauta da busca de 25/11. Notas oficiais na página de suporte da Nintendo (a_id 68580), idênticas às reproduzidas por Nintendo Life e My Nintendo News (25/11). Conferidos em três fontes: data (24/11), as oito pistas 2, Feather Rally e Lucky Cat Rally, replay automático, ajustes e correções. 'Atualização gratuita': frase de divulgação da Nintendo citada pela Nintendo Life e vídeo oficial 'Update Available Now'; nenhuma fonte liga a 1.9.0 a conteúdo pago. Histórico (1.5.0 em 21/01, 1.6.0 em 30/03, 1.7.0 em 30/06, 1.8.0 em 09/09/2026, conteúdo de cada uma): página oficial de suporte. Fora: copa em que cada pista remixada entra (não informado) e comentário de leitor sobre traçados invertidos. Não há vídeo das pistas novas descrito por duas fontes: o texto não detalha os traçados.",
+  "body": [
+    "Mario Kart World recebeu nesta terça (24) a versão 1.9.0, atualização gratuita no Switch 2. O pacote traz oito pistas remixadas para corridas avulsas, contra o relógio e online, duas rotas novas no Knockout Tour e um sistema de replays que grava as partidas sozinho.",
+    "video: https://www.youtube.com/watch?v=Pn0MuiE7YDQ",
+    "## As oito versões 2",
+    "As pistas novas são variações de circuitos que já estavam no jogo, identificadas pelo número 2 no nome. O jogador escolhe entre a original e o remix no VS Race, no Time Trials e nas corridas online e locais.",
+    "lista: Pistas remixadas da versão 1.9.0 | Airship Fortress 2; Desert Hills 2; Salty Salty Speedway 2; DK Pass 2; Koopa Troopa Beach 2; Shy Guy Bazaar 2; Mario Bros. Circuit 2; Wario Stadium 2",
+    "A numeração lembra a 1.8.0, de setembro, que trouxe as pistas do Super Nintendo em série, de SNES Mario Circuit 1 a 3 a SNES Ghost Valley 1 a 3. Desta vez, o número indica variantes de circuitos do próprio World. A Nintendo não detalhou nas notas o que muda em cada traçado, e o vídeo da atualização é o melhor lugar para ver as diferenças.",
+    "## Feather Rally e Lucky Cat Rally",
+    "O Knockout Tour, modo de eliminação em sequência que virou a cara de Mario Kart World, ganha duas rotas. Feather Rally e Lucky Cat Rally se juntam às que vieram ao longo do ano, como Drill Rally e Boomerang Rally, em junho, e Propeller Rally e Turnip Rally, em setembro. As duas novas ficam disponíveis para escolha depois que o jogador passa por elas no próprio Knockout Tour.",
+    "## Replays e ajustes",
+    "A novidade fora da pista é o menu Replay, na tela inicial. Corridas e batalhas passam a ser gravadas automaticamente, e as mais antigas são apagadas quando o espaço acaba. Replays não são salvos quando o jogador sai pelo menu de pausa no meio da corrida, e os gravados em versões anteriores não funcionam na 1.9.0.",
+    "A Nintendo também mexeu na sorte. A chance de pegar certos itens nas caixas mudou nas corridas e no Knockout Tour, sem a empresa dizer quais. Algumas caixas sobre a água ficaram mais fáceis de alcançar com o kart submerso, e no Coin Runners o Bloco ? e o Coin Shell são usados assim que coletados.",
+    "Há ajustes de traçado em trajetos de ligação. A rota pelo rio passa a valer em cinco corridas que terminam em Cheep Cheep Falls, entre elas as que saem de DK Pass e de Salty Salty Speedway, e ficou mais fácil subir no trilho antes do dirigível em Airship Fortress. No Free Roam, as missões do P Switch agora funcionam online, em rede local e no modo sem fio.",
+    "O espectador também ganhou ferramentas. O modo mostra o item de cada corredor, permite trocar de piloto acompanhado depois que alguém cruza a linha de chegada e exibe HIT e CRASH nas batalhas. A lista de correções inclui pulos bloqueados por pilastras, Bullet Bill lento em atalhos de SNES Ghost Valley e um Green Shell que fazia curva sozinho perto de DK Pass.",
+    "## Um jogo que cresce de graça",
+    "Desde janeiro, Mario Kart World recebeu atualizações com conteúdo a cada dois ou três meses: equipes no Knockout Tour em janeiro, o modo Bob-omb Blast em março, rotas novas em junho, e as pistas do Super Nintendo em setembro. Tudo sem custo extra.",
+    "É uma mudança clara em relação a Mario Kart 8 Deluxe, que ganhou sobrevida com o Pacote de Pistas Extras pago. Em World, a Nintendo parece apostar que manter o jogo vivo de graça vende mais Switch 2 do que cobrar por pista nova, e a 1.9.0, às vésperas do fim de ano, reforça essa leitura.",
+    "link: Notas oficiais das atualizações de Mario Kart World | https://en-americas-support.nintendo.com/app/answers/detail/a_id/68580/~/how-to-update-mario-kart-world"
+  ],
+  "imageFilename": "mario-kart-world-atualizacao-1-9-0-bowser-arte-oficial.jpg"
+}
