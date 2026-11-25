@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1267
-- Forte: 1253
+- Total analisado: 1270
+- Forte: 1256
 - Revisar: 12
 - Prioridade: 2
 
@@ -353,6 +353,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 2258 | 10 | 100 | A Amazon retorna em Diablo IV em 2027 com quatro arquétipos e lança de volta ao arsenal | — |
 | FORTE | notícia | 3284 | 12 | 100 | Diablo IV chega ao Switch 2 em 15 de setembro por 69,99 dólares — e a versão "física" é uma caixa com código dentro | — |
 | FORTE | noticia | 2059 | 10 | 100 | Diablo IV no Switch 2 chega a 1440p e oferece modo de 40 FPS; Blizzard detalha a versão | — |
+| FORTE | notícia | 3100 | 10 | 100 | Diablo IV abre a Temporada do Gambito de Tyrael em 1º de dezembro, com Planos de Guerra sob controle do jogador e chefe duplo | — |
 | FORTE | noticia | 3002 | 11 | 100 | Diablo IV celebra 30 anos da série com Hell's Legacy, retorno de Deckard Cain e os três Prime Evils | — |
 | FORTE | noticia | 3343 | 14 | 100 | Diablo V revela Plague Knight, retorno de Monk e Demon Hunter e um mundo que muda a cada viagem | — |
 | FORTE | noticia | 4916 | 22 | 100 | Diablo V é revelado na BlizzCon 2026 e mostra um Santuário já dominado pelo Senhor do Terror | — |
@@ -555,6 +556,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2862 | 13 | 100 | GTA VI quase foi proibido na Coreia do Sul: votação empatou por causa de nudez | — |
 | FORTE | notícia | 2723 | 13 | 100 | GTA VI coloca o "Coringa da Flórida" nos créditos, e a atriz de Mandy se revela | — |
 | FORTE | notícia | 3257 | 13 | 100 | GTA VI roda melhor no PS5 Pro e sofre no Xbox Series S; Rockstar explica por que não há modo 60 FPS | — |
+| FORTE | notícia | 2942 | 10 | 100 | Comparativo da Digital Foundry põe o Xbox Series X à frente do PS5 comum em GTA VI; PS5 Pro segue como a melhor versão | — |
 | FORTE | notícia | 2850 | 13 | 100 | Dylan Rourke é o Jason de GTA VI: elenco oficial sai, e os protagonistas falam pela primeira vez | — |
 | FORTE | notícia | 2676 | 13 | 100 | GTA VI esconde provas de que se passa no mesmo universo de Red Dead Redemption | — |
 | FORTE | notícia | 3032 | 12 | 100 | GTA VI fatura US$ 3,79 bilhões, cerca de R$ 22,5 bilhões, no primeiro dia e vira o maior lançamento da história do entretenimento | — |
@@ -981,6 +983,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2898 | 13 | 100 | Rumor: remake de Star Wars: KOTOR deve reaparecer no The Game Awards | — |
 | FORTE | noticia | 4982 | 16 | 100 | Rumor: Ubisoft teria criado um Zelda com Ganondorf como protagonista, mas Nintendo rejeitou o projeto | — |
 | FORTE | noticia | 2374 | 10 | 100 | RuneScape: Dragonwilds chega hoje à versão 1.0, estreia nos consoles e entra no Game Pass e PS Plus | — |
+| FORTE | notícia | 2868 | 9 | 100 | Jogadores de RuneScape jogam no poço 1,56 bilhão de itens de microtransação e encerram a era do Treasure Hunter | — |
 | FORTE | notícia | 2761 | 10 | 100 | Sam Houser quebra o silêncio no lançamento de GTA VI e fala em "muitos anos" de experiências pela frente | — |
 | FORTE | notícia | 3795 | 7 | 100 | Funcionários dizem que o lançamento de Ascended Heroes no Sam's Club foi um desastre — e as histórias são de dar raiva | — |
 | FORTE | notícia | 3391 | 11 | 100 | Saros recebe a Zenith, com New Game+, Maratona de Supremos e opção de desacelerar o jogo | — |
