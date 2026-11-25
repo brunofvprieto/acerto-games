@@ -6,7 +6,10 @@
   "author": "Bruno Vazquez",
   "date": "06 set 2026",
   "readTime": "8 min",
-  "cover": ["#6f1d1b", "#111517"],
+  "cover": [
+    "#6f1d1b",
+    "#111517"
+  ],
   "image": "/img/hell-is-us-review/hell-is-us-combate-drone.webp",
   "imagePos": "center",
   "imageCredit": "Divulgação/Nacon e Rogue Factor",
@@ -56,5 +59,7 @@
     "Essas são as configurações que realmente usei durante a minha jornada por Hadea. Com os nomes oficiais em português, fica muito mais fácil reproduzi-las no jogo."
   ],
   "observacao": "Guia baseado na experiência e nas configurações registradas por Bruno Vazquez durante sua campanha de Hell is Us. Nomes e atributos dos glifos conferidos diretamente nas capturas da versão brasileira do jogo.",
-  "jogoReviewado": "Hell is Us"
+  "jogoReviewado": "Hell is Us",
+  "jogo": "Hell is Us",
+  "tipoGuia": "dicas"
 }

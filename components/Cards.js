@@ -62,6 +62,7 @@ export function CategoryTag({ category, label, rumor }) {
     especial: "bg-[#C9A227] text-ink",
     artigo: "bg-[#4D9FFF] text-ink",
     opinião: "bg-[#FF7A45] text-ink",
+    guia: "bg-[#FFD23F] text-ink",
   };
   const tag = (
     <span

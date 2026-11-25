@@ -9,6 +9,7 @@ export default function sitemap() {
     { url: `${BASE}/nintendo`, changeFrequency: "daily", priority: 0.8 },
     { url: `${BASE}/playstation`, changeFrequency: "daily", priority: 0.8 },
     { url: `${BASE}/xbox`, changeFrequency: "daily", priority: 0.8 },
+    { url: `${BASE}/guias`, changeFrequency: "daily", priority: 0.8 },
     { url: `${BASE}/reviews`, changeFrequency: "daily", priority: 0.7 },
     { url: `${BASE}/opinioes`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${BASE}/artigos`, changeFrequency: "weekly", priority: 0.7 },
