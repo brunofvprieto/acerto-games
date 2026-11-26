@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1279
-- Forte: 1265
+- Total analisado: 1280
+- Forte: 1266
 - Revisar: 12
 - Prioridade: 2
 
@@ -259,6 +259,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2681 | 10 | 100 | Boato: Rockstar teria oferecido ao Daft Punk uma volta com orçamento ilimitado para GTA 6 | — |
 | FORTE | notícia | 2977 | 11 | 100 | Borderlands passa de 100 milhões de cópias, e Gearbox promete mais Borderlands 4 em 2027 | — |
 | FORTE | notícia | 2047 | 5 | 100 | Japão atropela o ocidente no duelo de capas do Digimon World 4 para GameCube | — |
+| FORTE | notícia | 2764 | 14 | 100 | Carioca é o primeiro jogador do mundo a passar de 10 milhões de Gamerscore no Xbox | — |
 | FORTE | notícia | 3071 | 14 | 100 | Breathedge 2 chega ao Acesso Antecipado com construção, exploração espacial e uma galinha imortal | — |
 | FORTE | notícia | 2821 | 15 | 100 | Roteirista do primeiro GTA admite que a série não tratou bem as mulheres: "Lucia chega muito, muito atrasada" | — |
 | FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
