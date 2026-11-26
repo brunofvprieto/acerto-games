@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1292
-- Forte: 1278
+- Total analisado: 1293
+- Forte: 1279
 - Revisar: 12
 - Prioridade: 2
 
@@ -530,6 +530,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 4644 | 14 | 100 | GTA 6 toma prédios em Paris e Miami e chega aos painéis de São Paulo; veja os vídeos | — |
 | FORTE | notícia | 3008 | 11 | 100 | Quem é Macca the Gator, o jacaré de óculos que virou a cara de GTA 6 | — |
 | FORTE | notícia | 4592 | 17 | 100 | GTA VI: Bad Bunny, Lana Del Rey, Slayer e Burna Boy comandam as rádios de Leonida | — |
+| FORTE | guia | 2675 | 13 | 100 | GTA 6: como lidar com os rastreadores e registrar carros roubados como seus | — |
 | FORTE | notícia | 2476 | 11 | 100 | Bloomberg: Rockstar ainda não sabe quem é o Cyberleek nem como o acesso aconteceu | — |
 | FORTE | notícia | 2864 | 10 | 100 | GTA VI quase perdeu a roda de armas: Rockstar testou alternativas por anos e voltou ao sistema clássico | — |
 | FORTE | notícia | 2828 | 10 | 100 | GTA 6 esgota na Selfridges: coleção em Londres tem jaqueta de 2.500 libras e fila de 100 mil pessoas | — |
