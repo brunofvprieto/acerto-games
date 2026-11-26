@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1289
-- Forte: 1275
+- Total analisado: 1290
+- Forte: 1276
 - Revisar: 12
 - Prioridade: 2
 
@@ -541,6 +541,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2791 | 12 | 100 | Rockstar e PlayStation fazem festival de GTA 6 em Miami com Travis Scott, Cardi B e Justice | — |
 | FORTE | notícia | 2835 | 8 | 100 | QR code escondido no trailer de GTA VI leva à pré-venda, e a dúvida é o que ele vai mostrar depois do lançamento | — |
 | FORTE | notícia | 3792 | 22 | 100 | 17 músicas de GTA 6 foram identificadas nos vazamentos. Ouça cada uma e veja qual estação de rádio pode tocar | — |
+| FORTE | guia | 2929 | 14 | 100 | GTA 6: como conseguir o Truffade Thrax de Andrew Node, o supercarro escondido pela conspiração No Flusher | — |
 | FORTE | notícia | 2741 | 9 | 100 | Vanoss Crew aluga mansão em Miami para o lançamento de GTA 6, e a Rockstar já sabe | — |
 | FORTE | noticia | 2457 | 10 | 100 | GTA 6 sofre novo vazamento com quase 25 minutos de gameplay, cenas inéditas e possíveis spoilers | — |
 | FORTE | notícia | 2751 | 12 | 100 | GTA 6: novo clipe mostra Vice City à noite vista de avião, dez estações de rádio e um prompt de pesca no canto da tela | — |
