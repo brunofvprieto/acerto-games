@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1291
-- Forte: 1277
+- Total analisado: 1292
+- Forte: 1278
 - Revisar: 12
 - Prioridade: 2
 
@@ -493,6 +493,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1914 | 6 | 100 | GTA 6: código da mídia física no PS5 vai ter trava de região — e o Xbox saiu por cima | — |
 | FORTE | guia | 2857 | 14 | 100 | GTA 6: onde encontrar o carro do Brian, de Velozes e Furiosos, e levar de graça | — |
 | FORTE | guia | 3740 | 18 | 100 | GTA 6: como encontrar o Pé-Grande e completar a caçada ao Mister Mangrove | — |
+| FORTE | guia | 2807 | 13 | 100 | GTA 6: o truque do guincho com C4 para roubar caixas eletrônicos em segundos | — |
 | FORTE | notícia | 13508 | 43 | 100 | GTA 6 vai reagir às suas escolhas até no corpo de Jason e Lucia — tudo o que a Rockstar revelou à Dazed | — |
 | FORTE | notícia | 3519 | 14 | 100 | O primeiro grande racha de GTA 6 não é sobre gráficos: é sobre ter que abastecer o carro | — |
 | FORTE | notícia | 1782 | 7 | 100 | GTA 6 está sendo desenvolvido há 11 anos: Rockstar revela como o projeto começou | texto curto |
