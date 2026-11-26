@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1283
-- Forte: 1269
+- Total analisado: 1284
+- Forte: 1270
 - Revisar: 12
 - Prioridade: 2
 
@@ -500,6 +500,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | guia | 2763 | 14 | 100 | GTA 6: três easter eggs para caçar em Leonida, do ninho no alto da torre ao papagaio que entrega dinheiro | — |
 | FORTE | notícia | 3269 | 12 | 100 | GTA 6 ganha 12 imagens inéditas na revista Edge; Rockstar mostra polícia que monta retrato falado do jogador | — |
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
+| FORTE | notícia | 2818 | 14 | 100 | GTA 6 em números: 28% dos prédios abertos, 40 horas de Verstappen e o efeito nos consoles | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | notícia | 3428 | 21 | 100 | Falta um mês para GTA 6: a passagem para Leonida está comprada, e o embarque é em 19 de novembro | — |
 | FORTE | notícia | 5586 | 26 | 100 | GTA 6 ganha 39 imagens novas a duas semanas do lançamento; veja todas | — |
