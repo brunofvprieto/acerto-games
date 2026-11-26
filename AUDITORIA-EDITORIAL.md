@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1282
-- Forte: 1268
+- Total analisado: 1283
+- Forte: 1269
 - Revisar: 12
 - Prioridade: 2
 
@@ -1129,6 +1129,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3106 | 11 | 100 | CD Projekt usa IA para devolver a Geralt a voz polonesa de 2015 em Songs of the Past | — |
 | FORTE | notícia | 3432 | 7 | 100 | The Witcher 3: Songs of the Past tem data de revelação confirmada — e vem na Gamescom | — |
 | FORTE | noticia | 3132 | 10 | 100 | The Witcher 3 Remastered já está disponível e transforma o clássico com upgrade gratuito | — |
+| FORTE | notícia | 2829 | 13 | 100 | The Witcher 4 fecha acordo com a Sony, mas CD Projekt garante: "Ninguém fica para trás" | — |
 | FORTE | notícia | 2867 | 12 | 100 | The Wolf Among Us Remastered aparece na eShop para 29 de novembro no Switch, ainda sem anúncio da Telltale | — |
 | FORTE | notícia | 2895 | 10 | 100 | Thief: The Dark Project Remastered sai em 3 de dezembro com campanha nova feita pela equipe de The Black Parade | — |
 | FORTE | notícia | 2747 | 9 | 100 | NC assume Throne and Liberty no lugar da Amazon e dá a todos os jogadores um ticket que leva o personagem direto ao equipamento de nível 75 | — |
