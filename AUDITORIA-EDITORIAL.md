@@ -485,7 +485,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | guia | 2753 | 14 | 100 | GTA 6: as armas únicas escondidas debaixo d'água e onde encontrar cada uma | — |
 | FORTE | notícia | 3054 | 12 | 100 | Arquivos do pré-download de GTA 6 indicam modo online, melhorias no PS5 Pro e 55 troféus | — |
 | FORTE | notícia | 3282 | 15 | 100 | GTA 6: atores de Jason e Lucia são revelados, conheça Dylan Rourke e Manni L. Perez | — |
-| FORTE | guia | 2687 | 14 | 100 | GTA 6: como entrar na base militar de Mile Zero e roubar o caça P-996 Lazer | — |
+| FORTE | guia | 2706 | 14 | 100 | GTA 6: como entrar na base militar de Mile Zero e roubar o caça P-996 Lazer | — |
 | FORTE | notícia | 3520 | 12 | 100 | GTA 6: Bloomberg revela bastidores de oito anos de desenvolvimento e abre as portas da Rockstar | — |
 | FORTE | notícia | 2962 | 12 | 100 | GTA 6 sai da tela: Burger Shot e Cluckin' Bell abrem de verdade em Miami, e cervejas Pißwasser e Patriot ganham registro nos EUA | — |
 | FORTE | notícia | 3448 | 10 | 100 | Caixas de GTA 6 chegam ao varejo e a embalagem pede 230 GB, acima dos 212 GB anunciados pela Rockstar | — |
