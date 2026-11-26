@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1286
-- Forte: 1272
+- Total analisado: 1287
+- Forte: 1273
 - Revisar: 12
 - Prioridade: 2
 
@@ -1126,6 +1126,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2734 | 13 | 100 | The Road of Dust and Sorrow, terror em pixel art inspirado em Resident Evil, é adiado para 19 de fevereiro | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
 | FORTE | notícia | 3608 | 9 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
+| FORTE | notícia | 2731 | 12 | 100 | The Witcher 3 Remastered recebe o patch 5.02 e acaba com as travadas do salvamento automático no PS5 | — |
 | FORTE | notícia | 5270 | 21 | 100 | The Witcher 3 Remastered aparece pela primeira vez rodando no Switch 2, e o salto é enorme | — |
 | FORTE | notícia | 3046 | 10 | 100 | The Witcher 3 Remastered recebe no Switch 2 o patch 5.01, com imagem mais nítida e as correções que as outras versões já tinham | — |
 | FORTE | notícia | 12517 | 60 | 100 | The Witcher 3 Remastered: todas as melhorias confirmadas, data, plataformas e a nova DLC Songs of the Past | — |
