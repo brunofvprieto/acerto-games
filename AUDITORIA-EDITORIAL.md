@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1290
-- Forte: 1276
+- Total analisado: 1291
+- Forte: 1277
 - Revisar: 12
 - Prioridade: 2
 
@@ -481,6 +481,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3563 | 14 | 100 | GTA 6 roda a 30 FPS nos consoles durante o desenvolvimento — e Rockstar ainda não confirma modo 60 FPS | — |
 | FORTE | guia | 3736 | 20 | 100 | GTA 6: como ser abduzido, resolver o sonho alienígena e resgatar o ET do laboratório secreto | — |
 | FORTE | notícia | 2835 | 10 | 100 | Rumor: análises de GTA 6 sairiam em 18 de novembro, na véspera do lançamento | — |
+| FORTE | guia | 2763 | 11 | 100 | GTA 6: onde encontrar todos os animais lendários Snapmatic e os dois secretos | — |
 | FORTE | noticia | 2782 | 9 | 100 | GTA 6 muda sistema de armas: NPCs vão reagir ao que Jason e Lucia carregam | — |
 | FORTE | guia | 2753 | 14 | 100 | GTA 6: as armas únicas escondidas debaixo d'água e onde encontrar cada uma | — |
 | FORTE | notícia | 3054 | 12 | 100 | Arquivos do pré-download de GTA 6 indicam modo online, melhorias no PS5 Pro e 55 troféus | — |
