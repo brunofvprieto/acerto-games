@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1285
-- Forte: 1271
+- Total analisado: 1286
+- Forte: 1272
 - Revisar: 12
 - Prioridade: 2
 
@@ -655,6 +655,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2901 | 10 | 100 | Kojima alerta para uso de IA capaz de alterar a intenção original de uma obra | — |
 | FORTE | especial | 5936 | 22 | 100 | Kojima revela à IGN bastidores da saída da Sony de PHYSINT e temor pelo futuro do estúdio | — |
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
+| FORTE | notícia | 2919 | 13 | 100 | Lenny Kravitz leva o vilão de 007 First Light para HITMAN em missão gratuita até a véspera de Natal | — |
 | FORTE | notícia | 2829 | 11 | 100 | Manual da edição física de Silksong indica mais expansões gratuitas, e chama Sea of Sorrow de "a primeira expansão gigante" | — |
 | FORTE | notícia | 2836 | 12 | 100 | Homura Hime, ação estilo anime com chuva de tiros, chega ao PS5 em 2027, e a versão de Switch 2 é adiada | — |
 | FORTE | notícia | 2043 | 11 | 100 | Honor of Kings faz aniversário com o herói Dunshan, visual inspirado em pagoda milenar e recompensas grátis | — |
