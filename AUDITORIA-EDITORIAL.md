@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1288
-- Forte: 1274
+- Total analisado: 1289
+- Forte: 1275
 - Revisar: 12
 - Prioridade: 2
 
@@ -503,6 +503,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3001 | 5 | 100 | A edição de R$ 600 do GTA 6 está dominando os charts de pré-venda — e isso diz muito sobre o jogador de console | — |
 | FORTE | notícia | 2818 | 14 | 100 | GTA 6 em números: 28% dos prédios abertos, 40 horas de Verstappen e o efeito nos consoles | — |
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
+| FORTE | guia | 2798 | 13 | 100 | GTA 6: como achar a Faca Amaldiçoada e ver o navio fantasma do farol de Little Hardin Island | — |
 | FORTE | notícia | 3428 | 21 | 100 | Falta um mês para GTA 6: a passagem para Leonida está comprada, e o embarque é em 19 de novembro | — |
 | FORTE | notícia | 5586 | 26 | 100 | GTA 6 ganha 39 imagens novas a duas semanas do lançamento; veja todas | — |
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
