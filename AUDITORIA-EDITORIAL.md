@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1302
-- Forte: 1288
+- Total analisado: 1303
+- Forte: 1289
 - Revisar: 12
 - Prioridade: 2
 
@@ -262,6 +262,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2764 | 14 | 100 | Carioca é o primeiro jogador do mundo a passar de 10 milhões de Gamerscore no Xbox | — |
 | FORTE | notícia | 3071 | 14 | 100 | Breathedge 2 chega ao Acesso Antecipado com construção, exploração espacial e uma galinha imortal | — |
 | FORTE | notícia | 2821 | 15 | 100 | Roteirista do primeiro GTA admite que a série não tratou bem as mulheres: "Lucia chega muito, muito atrasada" | — |
+| FORTE | review | 5330 | 16 | 100 | Burning Sword: Death Sun acerta no combate e ainda tropeça no desempenho | — |
 | FORTE | notícia | 2200 | 9 | 100 | ‘Nós vamos encontrar você’: Activision vai até vendedor de cheats de Call of Duty e filma abordagem | — |
 | FORTE | notícia | 2322 | 6 | 100 | Esse site deixa você dormir ao som de brigas de lobby do MW2 e Black Ops — e faz mais sentido do que parece | — |
 | FORTE | notícia | 2038 | 6 | 100 | Nuketown ou nada: a briga eterna dos fãs de Black Ops por causa dos mapas | — |
