@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1299
-- Forte: 1285
+- Total analisado: 1300
+- Forte: 1286
 - Revisar: 12
 - Prioridade: 2
 
@@ -509,6 +509,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3374 | 12 | 100 | GTA 6 mostra seu próximo grande material dia 27: 16h na Netflix, 22h pra todo mundo | — |
 | FORTE | guia | 2798 | 13 | 100 | GTA 6: como achar a Faca Amaldiçoada e ver o navio fantasma do farol de Little Hardin Island | — |
 | FORTE | notícia | 3428 | 21 | 100 | Falta um mês para GTA 6: a passagem para Leonida está comprada, e o embarque é em 19 de novembro | — |
+| FORTE | notícia | 2838 | 13 | 100 | GTA 6: ex-finalista do mundial de Gran Turismo ajudou a ajustar a física dos carros | — |
 | FORTE | notícia | 5586 | 26 | 100 | GTA 6 ganha 39 imagens novas a duas semanas do lançamento; veja todas | — |
 | FORTE | noticia | 4383 | 16 | 100 | GTA 6 terá furacões, mais de 170 espécies e mapa duas vezes maior que GTA V, revela Game Informer | — |
 | FORTE | notícia | 2786 | 10 | 100 | Grotti Cheetah de GTA VI vira carro de verdade e está à venda por 1 milhão de libras em Londres | — |
