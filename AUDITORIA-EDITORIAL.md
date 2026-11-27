@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1301
-- Forte: 1287
+- Total analisado: 1302
+- Forte: 1288
 - Revisar: 12
 - Prioridade: 2
 
@@ -807,6 +807,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 3141 | 15 | 100 | Modern Warfare 4: Temporada 1 já está no ar, e o Passe de Batalha leva quem chega tarde direto ao nível 50 | — |
 | FORTE | notícia | 2488 | 11 | 100 | Modern Warfare 4 mostra o multijogador: 12 mapas novos, Ground War e um mapa que se remonta a cada rodada | — |
 | FORTE | notícia | 2710 | 8 | 100 | Trilha de Modern Warfare 4 sai com 35 faixas, gayageum coreano e a volta de Stephen Barton à série | — |
+| FORTE | notícia | 2745 | 13 | 100 | Monster Hunter Outlanders recebe Freya e Stylia, e Nergigante chega em 4 de dezembro | — |
 | FORTE | notícia | 2767 | 11 | 100 | Monster Hunter Outlanders chega ao celular de graça, em português e com a Garena no Brasil | — |
 | FORTE | notícia | 3933 | 13 | 100 | Monster Hunter Rise atinge 20 milhões de cópias e celebra caçadores de Kamura | — |
 | FORTE | Notícias | 1863 | 8 | 100 | Monster Hunter Wilds: Ascendance mostra novas ações do Martelo em trailer | — |
