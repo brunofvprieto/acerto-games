@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1303
-- Forte: 1289
+- Total analisado: 1304
+- Forte: 1290
 - Revisar: 12
 - Prioridade: 2
 
@@ -972,6 +972,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2823 | 14 | 100 | Queda global da Microsoft atinge a Xbox Live às vésperas dos 25 anos do Xbox | — |
 | FORTE | notícia | 2709 | 13 | 100 | Queen's Domain vende 250 mil cópias em menos de três semanas, um feito para um RPG feito quase só por duas pessoas | — |
 | FORTE | notícia | 2823 | 14 | 100 | Ragnarök Online LATAM abre o Festival da Neve em Al De Baran, com missões até 21 de dezembro | — |
+| FORTE | notícia | 2869 | 13 | 100 | Ragnarök Zero: Americas tem beta aberto em dezembro, lança em 19 de janeiro e custa R$ 49,90 por mês | — |
 | FORTE | notícia | 2931 | 10 | 100 | Rain98 ganha demo gratuita de três horas no Steam, com legendas em português | — |
 | FORTE | notícia | 3331 | 11 | 100 | Rainbow Six Siege divide o ranqueado em Solo/Duo e Flex na Operation Vital Signal, que chega em 1º de dezembro com o novo Doc | — |
 | FORTE | notícia | 1784 | 5 | 100 | Ratchet & Clank está de volta — mas dessa vez no seu celular, com Ranger Rumble | texto curto |
