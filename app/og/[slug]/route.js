@@ -27,11 +27,27 @@ async function baixar(url) {
 }
 
 async function gerar(buffer) {
-  return sharp(buffer, { failOn: "none", limitInputPixels: false })
-    .rotate()
-    .resize(W, H, { fit: "cover", position: "attention" })
-    .flatten({ background: "#111111" })
-    .jpeg({ quality: 78, mozjpeg: true, progressive: true })
+  const base = sharp(buffer, { failOn: "none", limitInputPixels: false }).rotate();
+  const { width = 0, height = 0 } = await base.metadata();
+  const proporcao = width && height ? width / height : 1.9;
+
+  // Capa larga e grande: recorte direto em 1200x630.
+  if (proporcao >= 1.5 && proporcao <= 2.3 && width >= 900) {
+    return base
+      .resize(W, H, { fit: "cover", position: "attention" })
+      .flatten({ background: "#111111" })
+      .jpeg({ quality: 78, mozjpeg: true, progressive: true })
+      .toBuffer();
+  }
+
+  // Capa quadrada, vertical ou pequena (caixa de jogo, pôster): imagem inteira
+  // centralizada sobre um fundo desfocado feito com ela mesma, sem cortar nada.
+  const png = await base.flatten({ background: "#111111" }).png().toBuffer();
+  const fundo = await sharp(png).resize(W, H, { fit: "cover" }).blur(30).modulate({ brightness: 0.55 }).toBuffer();
+  const frente = await sharp(png).resize(W - 80, H - 60, { fit: "inside", withoutEnlargement: false }).toBuffer();
+  return sharp(fundo)
+    .composite([{ input: frente, gravity: "center" }])
+    .jpeg({ quality: 80, mozjpeg: true, progressive: true })
     .toBuffer();
 }
 
