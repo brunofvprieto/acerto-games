@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1296
-- Forte: 1282
+- Total analisado: 1297
+- Forte: 1283
 - Revisar: 12
 - Prioridade: 2
 
@@ -280,6 +280,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | noticia | 4120 | 13 | 100 | Capcom prepara RE Engine para trabalhar com IA e quer automatizar programação e caça a bugs | — |
 | FORTE | notícia | 2988 | 11 | 100 | Capcom cresce 49% no semestre; Pragmata passa de 2,7 milhões e Onimusha de 1,7 milhão | — |
 | FORTE | Notícias | 1994 | 8 | 100 | Capcom anuncia Spotlight de 40 minutos para 16 de setembro antes da Tokyo Game Show 2026 | — |
+| FORTE | notícia | 2760 | 13 | 100 | CCXP26: Nintendo leva Ocarina of Time e a Espada Mestra, e Topps estreia com 30 mil cards | — |
 | FORTE | review | 4244 | 19 | 100 | Chivalware faz de combinar blocos um teste de reflexo que vicia | — |
 | FORTE | notícia | 2784 | 15 | 100 | Novo chefe da Massive quer transformar o estúdio de The Division no "A24 dos videogames" | — |
 | FORTE | notícia | 2899 | 12 | 100 | Cinder City mostra combate cooperativo, helicópteros contra chefes e ajuda sem precisar de grupo | — |
