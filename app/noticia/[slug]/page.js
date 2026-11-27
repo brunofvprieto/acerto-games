@@ -282,7 +282,11 @@ export default function Noticia({ params }) {
                         <div className="min-w-0">
                           <p className="font-mono text-xs uppercase tracking-wider text-arcade">Ficha técnica</p>
                           <p className="mt-2 font-display text-lg font-bold text-paper">{post.fichaTecnica.nome}</p>
-                          <p className="mt-1 font-mono text-2xl font-bold text-arcade">{Number(post.fichaTecnica.nota).toFixed(1)}<span className="text-sm text-dim">/10</span> <span className="text-sm text-paper">{post.fichaTecnica.conceito}</span></p>
+                          {post.fichaTecnica.nota != null && post.fichaTecnica.nota !== "" ? (
+                            <p className="mt-1 font-mono text-2xl font-bold text-arcade">{Number(post.fichaTecnica.nota).toFixed(1)}<span className="text-sm text-dim">/10</span> <span className="text-sm text-paper">{post.fichaTecnica.conceito}</span></p>
+                          ) : post.fichaTecnica.conceito ? (
+                            <p className="mt-1 font-mono text-xs uppercase tracking-wider text-paper">{post.fichaTecnica.conceito}</p>
+                          ) : null}
                           <dl className="mt-3 grid gap-x-3 gap-y-1 text-sm sm:grid-cols-[100px_1fr]">
                             <dt className="text-dim">Lançamento</dt><dd>{post.fichaTecnica.lancamento}</dd>
                             <dt className="text-dim">Plataformas</dt><dd>{post.fichaTecnica.plataformas}</dd>
