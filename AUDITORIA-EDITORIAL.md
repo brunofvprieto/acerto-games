@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1295
-- Forte: 1281
+- Total analisado: 1296
+- Forte: 1282
 - Revisar: 12
 - Prioridade: 2
 
@@ -537,6 +537,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2864 | 10 | 100 | GTA VI quase perdeu a roda de armas: Rockstar testou alternativas por anos e voltou ao sistema clássico | — |
 | FORTE | notícia | 2828 | 10 | 100 | GTA 6 esgota na Selfridges: coleção em Londres tem jaqueta de 2.500 libras e fila de 100 mil pessoas | — |
 | FORTE | notícia | 1795 | 5 | 100 | Take-Two defende GTA 6 sem disco e diz que mídia física “não faz sentido” em alguns casos | texto curto |
+| FORTE | notícia | 2776 | 13 | 100 | Por que GTA 6 não tem motosserra? "Seria demais para estes personagens", diz a Rockstar | — |
 | FORTE | notícia | 2669 | 6 | 100 | GTA 6 sem PC não é ganância — ex-produtor da Rockstar explica o motivo de verdade | — |
 | FORTE | notícia | 5716 | 18 | 100 | A semana decisiva de GTA 6: reunião da Take-Two na sexta, trailer 3 no ar da esperança e um like da Rockstar que virou caso | — |
 | FORTE | notícia | 2833 | 11 | 100 | GTA 6 aparece em South Park com trecho inédito: Jason briga na praia usando cocô de cachorro | — |
