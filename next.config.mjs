@@ -5,6 +5,7 @@ const nextConfig = {
     outputFileTracingIncludes: {
       "/api/comentarios": ["./content/publicados/**/*"],
       "/api/comentarios/admin": ["./content/publicados/**/*"],
+      "/og/[slug]": ["./content/publicados/**/*", "./data/**/*"],
     },
   },
   // Matérias duplicadas: a versão retirada aponta de vez para a que ficou.

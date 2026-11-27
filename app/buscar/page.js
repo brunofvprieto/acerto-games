@@ -4,6 +4,8 @@ import SearchClient from "../../components/SearchClient";
 
 export const metadata = {
   alternates: { canonical: "/buscar" },
+  // Página de busca interna: não deve ser indexada (o Google trata como conteúdo raso).
+  robots: { index: false, follow: true },
   title: "Buscar — Acerto Games",
   description: "Busque matérias no Acerto Games.",
 };

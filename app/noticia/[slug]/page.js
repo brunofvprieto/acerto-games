@@ -37,6 +37,7 @@ export function generateMetadata({ params }) {
   const post = getPost(params.slug);
   if (!post) return {};
   const url = `/noticia/${post.slug}`;
+  const og = `/og/${post.slug}.jpg`;
   return {
     title: `${post.title} — Acerto Games`,
     description: post.excerpt,
@@ -47,15 +48,21 @@ export function generateMetadata({ params }) {
       description: post.excerpt,
       url,
       type: "article",
+      siteName: "Acerto Games",
+      locale: "pt_BR",
       publishedTime: post.publicadoEm,
+      ...((post.atualizadoEm || post.publicadoEm) ? { modifiedTime: post.atualizadoEm || post.publicadoEm } : {}),
       authors: [post.author],
-      images: post.image ? [post.image] : undefined,
+      section: post.category,
+      // Imagem própria de compartilhamento: JPEG 1200x630 leve, gerado a partir da capa
+      // (ver app/og/[slug]/route.js). Garante a prévia no WhatsApp, Facebook e X.
+      images: [{ url: og, secureUrl: `https://acertogames.com.br${og}`, width: 1200, height: 630, type: "image/jpeg", alt: post.imageAlt || post.title }],
     },
     twitter: {
-      card: post.image ? "summary_large_image" : "summary",
+      card: "summary_large_image",
       title: post.title,
       description: post.excerpt,
-      images: post.image ? [post.image] : undefined,
+      images: [{ url: og, alt: post.imageAlt || post.title }],
     },
   };
 }
@@ -109,7 +116,10 @@ export default function Noticia({ params }) {
     inLanguage: "pt-BR",
     ...(dataPublicacao ? { datePublished: dataPublicacao } : {}),
     ...(dataModificacao ? { dateModified: dataModificacao } : {}),
-    ...(post.image ? { image: [post.image.startsWith("http") ? post.image : `https://acertogames.com.br${post.image}`] } : {}),
+    image: [
+      `https://acertogames.com.br/og/${post.slug}.jpg`,
+      ...(post.image ? [post.image.startsWith("http") ? post.image : `https://acertogames.com.br${post.image}`] : []),
+    ],
     ...(isReview
       ? {
           itemReviewed: {
