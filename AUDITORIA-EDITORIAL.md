@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1305
-- Forte: 1291
+- Total analisado: 1306
+- Forte: 1292
 - Revisar: 12
 - Prioridade: 2
 
@@ -825,6 +825,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2665 | 6 | 100 | Criador de Naruto revela que Spider-Man influenciou seu trabalho — e o filme favorito dele vai te surpreender | — |
 | FORTE | noticia | 3374 | 11 | 100 | Naughty Dog confirma dois novos projetos de The Last of Us e revelação completa de Intergalactic em 2027 | — |
 | FORTE | notícia | 2925 | 10 | 100 | NBA 2K27 leva Vice City de GTA VI à Temporada 3, mas a edição especial não sai no Brasil | — |
+| FORTE | notícia | 2712 | 13 | 100 | Ator de Michael, de GTA 5, rebate quem chama GTA 6 de "woke" por causa da Lucia | — |
 | FORTE | notícia | 2100 | 5 | 100 | Criterion confirma: Need for Speed e Burnout ficaram para trás — agora é só Battlefield | — |
 | FORTE | notícia | 2512 | 10 | 100 | NEO BERLIN 2087 marca lançamento para 2028 e mostra um detetive cyberpunk que investiga a própria memória | — |
 | FORTE | notícia | 2748 | 9 | 100 | Netflix demite mais funcionários da área de jogos e muda de novo a estratégia | — |
