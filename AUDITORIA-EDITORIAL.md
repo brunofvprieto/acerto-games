@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1300
-- Forte: 1286
+- Total analisado: 1301
+- Forte: 1287
 - Revisar: 12
 - Prioridade: 2
 
@@ -1137,6 +1137,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2866 | 13 | 100 | Indicados do The Game Awards 2026 saem na terça, 17, e a premiação vai passar pela primeira vez no Roblox | — |
 | FORTE | notícia | 6252 | 36 | 100 | The Game Awards 2026: GTA VI e Zelda: Ocarina of Time disputam o Jogo do Ano, e Manni L. Perez, a Lucia, concorre a Melhor Atuação | — |
 | FORTE | notícia | 2734 | 13 | 100 | The Road of Dust and Sorrow, terror em pixel art inspirado em Resident Evil, é adiado para 19 de fevereiro | — |
+| FORTE | notícia | 2768 | 13 | 100 | The Simpsons: Hit & Run pode ter perdido o retorno: projeto da New Radical Games foi cancelado | — |
 | FORTE | notícia | 1926 | 6 | 100 | The Sinking City 2 mostra 12 minutos de gameplay: mercado de peixe, monstros e survival horror puro | — |
 | FORTE | notícia | 3608 | 9 | 100 | The Witcher 3 Remastered ganha novas imagens no Switch 2 — e o salto visual chama atenção | — |
 | FORTE | notícia | 2731 | 12 | 100 | The Witcher 3 Remastered recebe o patch 5.02 e acaba com as travadas do salvamento automático no PS5 | — |
