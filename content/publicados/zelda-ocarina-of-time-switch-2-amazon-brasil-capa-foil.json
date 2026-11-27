@@ -6,8 +6,11 @@
   "author": "Bruno Vazquez",
   "date": "12 set 2026",
   "readTime": "4 min",
-  "cover": ["#d2a53b", "#173f2a"],
-  "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/store/software/switch2/70010000130792/21d17919819cffebda2817f9b0110116c28568e0b6fa30a9778f1679271be809",
+  "cover": [
+    "#d2a53b",
+    "#173f2a"
+  ],
+  "image": "/img/zelda-ocarina-of-time-switch-2-capa-foil.png",
   "imagePos": "center center",
   "imageCredit": "Divulgação/Nintendo",
   "publicadoEm": "2026-09-12T00:15:00-03:00",

@@ -19,6 +19,8 @@ async function baixar(url) {
   const r = await fetch(url, {
     headers: { "User-Agent": "Mozilla/5.0 (compatible; AcertoGamesOG/1.0; +https://acertogames.com.br)" },
     cache: "no-store",
+    // Sites que travam a conexão não podem segurar a prévia: desiste em 8 s e usa a imagem padrão.
+    signal: AbortSignal.timeout(8000),
   });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return Buffer.from(await r.arrayBuffer());
