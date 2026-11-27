@@ -9,6 +9,13 @@ export const metadata = {
   title: "Acerto Games — Notícias, análises, reviews e opinião",
   description:
     "Portal brasileiro independente de games: notícias, análises, opiniões, reviews e especiais sobre jogos, indústria, hardware e cultura gamer.",
+  // Libera imagem grande nos resultados do Google e no Discover.
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
+  },
+  alternates: { types: { "application/rss+xml": "/feed.xml" } },
   openGraph: {
     type: "website",
     locale: "pt_BR",
