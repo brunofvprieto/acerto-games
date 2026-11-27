@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1298
-- Forte: 1284
+- Total analisado: 1299
+- Forte: 1285
 - Revisar: 12
 - Prioridade: 2
 
@@ -668,6 +668,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 2242 | 7 | 100 | "É o momento mais Kojima possível": o criador de Metal Gear revela onde (e quando) gostaria de partir | — |
 | FORTE | notícia | 2919 | 13 | 100 | Lenny Kravitz leva o vilão de 007 First Light para HITMAN em missão gratuita até a véspera de Natal | — |
 | FORTE | notícia | 2829 | 11 | 100 | Manual da edição física de Silksong indica mais expansões gratuitas, e chama Sea of Sorrow de "a primeira expansão gigante" | — |
+| FORTE | notícia | 2744 | 11 | 100 | Hollow Knight: Silksong: expansão gratuita Sea of Sorrow chega em 11 de dezembro, e tem até pesca | — |
 | FORTE | notícia | 2836 | 12 | 100 | Homura Hime, ação estilo anime com chuva de tiros, chega ao PS5 em 2027, e a versão de Switch 2 é adiada | — |
 | FORTE | notícia | 2043 | 11 | 100 | Honor of Kings faz aniversário com o herói Dunshan, visual inspirado em pagoda milenar e recompensas grátis | — |
 | FORTE | notícia | 3692 | 15 | 100 | Horizon 3 está sendo tocado por uma equipe minúscula, e a culpa é do jogo multijogador que a Sony resolveu encolher | — |
