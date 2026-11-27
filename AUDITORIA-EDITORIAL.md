@@ -1,8 +1,8 @@
 # Auditoria editorial — Acerto Games
 
 ## Resumo
-- Total analisado: 1294
-- Forte: 1280
+- Total analisado: 1295
+- Forte: 1281
 - Revisar: 12
 - Prioridade: 2
 
@@ -515,6 +515,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1844 | 6 | 100 | GTA 6: Rockstar lança o Launch Trailer com a sinopse oficial e a estreia de "Flower in a Hurricane", do Justice | — |
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
 | FORTE | noticia | 3511 | 10 | 100 | GTA 6 ganha novas imagens de Jason e Lucia e Rockstar detalha construção da dupla | — |
+| FORTE | notícia | 2714 | 13 | 100 | Sem disco na caixa, GTA 6 faz o maior lançamento físico do Reino Unido desde 2019 | — |
 | FORTE | notícia | 2927 | 13 | 100 | Manni L. Perez, a Lucia de GTA 6, quebra o silêncio: "Dediquei quase uma década" | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
 | FORTE | guia | 3086 | 14 | 100 | GTA 6: como ativar a missão secreta da polícia corrupta de Capri e pegar a espingarda CPD Moreland 850 | — |
