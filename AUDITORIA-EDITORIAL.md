@@ -519,7 +519,7 @@ As páginas marcadas como PRIORIDADE devem ser reescritas, consolidadas ou arqui
 | FORTE | notícia | 1844 | 6 | 100 | GTA 6: Rockstar lança o Launch Trailer com a sinopse oficial e a estreia de "Flower in a Hurricane", do Justice | — |
 | FORTE | noticia | 1814 | 7 | 100 | GTA 6 transforma Miami em Vice City: letreiro gigante é aceso no Kaseya Center | — |
 | FORTE | noticia | 3511 | 10 | 100 | GTA 6 ganha novas imagens de Jason e Lucia e Rockstar detalha construção da dupla | — |
-| FORTE | guia | 2706 | 13 | 100 | GTA 6: como encontrar o Lucky Dog, o cachorro de jet ski que resgata você e dá US$ 1.200 | — |
+| FORTE | guia | 2719 | 13 | 100 | GTA 6: como encontrar o Lucky Dog, o cachorro de jet ski que resgata você e dá US$ 1.200 | — |
 | FORTE | notícia | 2714 | 13 | 100 | Sem disco na caixa, GTA 6 faz o maior lançamento físico do Reino Unido desde 2019 | — |
 | FORTE | notícia | 2927 | 13 | 100 | Manni L. Perez, a Lucia de GTA 6, quebra o silêncio: "Dediquei quase uma década" | — |
 | FORTE | noticia | 2506 | 10 | 100 | GTA 6 invade a vida real: Miami Beach aprova campanha de US$ 3 milhões ligada a Vice City | — |
